@@ -1,0 +1,185 @@
+[
+ {
+  "id": "tsmc-results-2026-06-30",
+  "entity_id": "tsmc",
+  "title": "TSMC quarterly results (earnings release and presentation), period to 2026-06-30",
+  "form": "6-K",
+  "filed": "2026-07-16",
+  "accession": "0001046179-26-000451",
+  "index_url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/0001046179-26-000451-index.htm",
+  "files": [
+   {
+    "name": "a2q26e_withguidancexfinal.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26e_withguidancexfinal.htm",
+    "sha256": "ca75d953b8d135ae2799fe20bfbbbf077ff01212a0280c330861a79d120338fd"
+   },
+   {
+    "name": "a2q26presentatione.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26presentatione.htm",
+    "sha256": "4b5401116a118f31a31838d074171b57376abb17977f1c821b172feb33c2436c"
+   }
+  ],
+  "pages": [
+   {
+    "page": 1,
+    "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26presentatione001.jpg"
+   },
+   {
+    "page": 2,
+    "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26presentatione002.jpg"
+   },
+   {
+    "page": 3,
+    "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26presentatione003.jpg"
+   },
+   {
+    "page": 4,
+    "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26presentatione004.jpg"
+   },
+   {
+    "page": 5,
+    "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26presentatione005.jpg"
+   },
+   {
+    "page": 6,
+    "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26presentatione006.jpg"
+   },
+   {
+    "page": 7,
+    "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26presentatione007.jpg"
+   },
+   {
+    "page": 8,
+    "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26presentatione008.jpg"
+   },
+   {
+    "page": 9,
+    "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26presentatione009.jpg"
+   },
+   {
+    "page": 10,
+    "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26presentatione010.jpg"
+   },
+   {
+    "page": 11,
+    "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26presentatione011.jpg"
+   },
+   {
+    "page": 12,
+    "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26presentatione012.jpg"
+   }
+  ]
+ },
+ {
+  "id": "tsmc-20f-2025-12-31",
+  "entity_id": "tsmc",
+  "title": "TSMC annual report on Form 20-F, period to 2025-12-31",
+  "form": "20-F",
+  "filed": "2026-04-16",
+  "accession": "0001628280-26-025362",
+  "index_url": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/0001628280-26-025362-index.htm",
+  "files": [
+   {
+    "name": "tsm-20251231.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+    "sha256": "8a7ec012c800f49329b4fe35821a58ceb09d306945f92fc5e25be2d4e259846b"
+   }
+  ],
+  "pages": []
+ },
+ {
+  "id": "asml-results-2026-06-28",
+  "entity_id": "asml",
+  "title": "ASML quarterly results (press release and investor presentation), period to 2026-06-28",
+  "form": "6-K",
+  "filed": "2026-07-15",
+  "accession": "0001628280-26-048235",
+  "index_url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/0001628280-26-048235-index.htm",
+  "files": [
+   {
+    "name": "presentationinvestorrela.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela.htm",
+    "sha256": "6708aa16f8f02c258825e784d7918b6f870bdbe6aede0b9a470b34988f3d5d81"
+   },
+   {
+    "name": "pressreleasefinancialresul.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/pressreleasefinancialresul.htm",
+    "sha256": "ec7d95b29e0ae37fd1fcb857e5ce29abad249896822d77b92e7b7e94aaab6408"
+   }
+  ],
+  "pages": [
+   {
+    "page": 1,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela001.jpg"
+   },
+   {
+    "page": 2,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela002.jpg"
+   },
+   {
+    "page": 3,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela003.jpg"
+   },
+   {
+    "page": 4,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela004.jpg"
+   },
+   {
+    "page": 5,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela005.jpg"
+   },
+   {
+    "page": 6,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela006.jpg"
+   },
+   {
+    "page": 7,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela007.jpg"
+   },
+   {
+    "page": 8,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela008.jpg"
+   },
+   {
+    "page": 9,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela009.jpg"
+   },
+   {
+    "page": 10,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela010.jpg"
+   },
+   {
+    "page": 11,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela011.jpg"
+   },
+   {
+    "page": 12,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela012.jpg"
+   },
+   {
+    "page": 13,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela013.jpg"
+   },
+   {
+    "page": 14,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela014.jpg"
+   },
+   {
+    "page": 15,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela015.jpg"
+   },
+   {
+    "page": 16,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela016.jpg"
+   },
+   {
+    "page": 17,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela017.jpg"
+   },
+   {
+    "page": 18,
+    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/presentationinvestorrela018.jpg"
+   }
+  ]
+ }
+]

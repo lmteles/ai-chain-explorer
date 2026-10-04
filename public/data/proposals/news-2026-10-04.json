@@ -1,0 +1,56 @@
+{
+ "origin": "news",
+ "created_at": "2026-10-04T19:30:00Z",
+ "extracted_by": "claude-code-session (Opus 5.5), no API spend",
+ "facts": [
+  {
+   "id": "news_20261004_broadcom_anthropic_loan",
+   "kind": "new_relation",
+   "cluster_id": "c_5b0867e0fa",
+   "headline": "Exclusive - Broadcom to lend Anthropic up to $42 billion to lease its chips , filing says",
+   "url": "https://www.ksl.com:443/article/51630976/exclusive-broadcom-to-lendanthropic-up-to-42-billion-to-lease-its-chips-filing-says",
+   "publisher": "ksl.com",
+   "date": "2026-10-01T23:15:00Z",
+   "event_type": "announced",
+   "proposed": {
+    "from_id": "broadcom",
+    "to_id": "anthropic",
+    "type": "debt",
+    "amount": 42,
+    "unit": "USD_bn",
+    "amount_basis": "up_to",
+    "share_pct": null,
+    "capacity_gw": null,
+    "period": null
+   },
+   "note": "Vendor financing: Broadcom lends so Anthropic can lease Broadcom chips, a circular flow. Three outlets carry it; the story cites a filing (Anthropic IPO prospectus). Confirm there and upgrade.",
+   "status": "pending"
+  },
+  {
+   "id": "news_20261004_softbank_openai_closed",
+   "kind": "event",
+   "cluster_id": "c_97bccf7aca",
+   "headline": "SoftBank completes final phase of $30 billion investment in OpenAI",
+   "url": "https://www.aol.com/articles/softbank-completes-final-phase-30-190326000.html",
+   "publisher": "aol.com",
+   "date": "2026-10-01T19:45:00Z",
+   "relation_id": "r_sb_openai",
+   "event_type": "closed",
+   "note": "Supports the seed amount of $30bn (invested) over the $40bn some sources cited. Three outlets carry it.",
+   "status": "pending"
+  },
+  {
+   "id": "news_20261004_anthropic_amazon_100bn",
+   "kind": "event",
+   "cluster_id": "c_e91c3b0e4f",
+   "headline": "Anthropic Plans to Spend $518 Billion on Cloud and Data Centers . More Than $100 Billion Is Already Promised to Amazon . ",
+   "url": "https://www.fool.com/investing/2026/09/30/anthropic-plans-to-spend-usd518-billion-on-cloud-and-data-centers-more-than-usd100-billion-is-already-promised-to-amazon/",
+   "publisher": "fool.com",
+   "date": "2026-10-01T02:00:00Z",
+   "relation_id": "r_anth_amzn",
+   "event_type": "announced",
+   "note": "Coverage of the IPO prospectus corroborates the $100bn+ AWS commitment already on the edge.",
+   "status": "pending"
+  }
+ ]
+}

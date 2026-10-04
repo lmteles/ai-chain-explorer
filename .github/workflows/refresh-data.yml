@@ -1,0 +1,82 @@
+name: Refresh data
+on:
+  schedule:
+    - cron: '17 6 * * *'    # daily: SEC filings
+    - cron: '23 * * * 1-5'  # hourly on weekdays: yield, Treasury, quotes
+    - cron: '41 */6 * * *'  # every 6 hours: news discovery (no LLM; triage is done on request)
+    - cron: '5 7 * * 1'     # weekly: TSMC/ASML results packs and the TSMC 20-F (download only; extraction is manual)
+  workflow_dispatch:
+    inputs:
+      adapters:
+        description: 'Which to run: sec, macro, news, ir or all'
+        default: all
+permissions:
+  contents: write
+  actions: write
+  issues: write
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      RUN: ${{ github.event.inputs.adapters || 'scheduled' }}
+      SCHEDULE: ${{ github.event.schedule }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 12
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      # Each ingest may fail without stopping the others: a failure is recorded in runs.json and the last
+      # stored data stays live. The check below turns two failures in a row into a failed job and an issue.
+      - name: SEC filings
+        if: env.SCHEDULE == '17 6 * * *' || env.RUN == 'all' || env.RUN == 'sec'
+        continue-on-error: true
+        run: pnpm ingest:sec
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+      - name: Macro and quotes
+        if: env.SCHEDULE == '23 * * * 1-5' || env.RUN == 'all' || env.RUN == 'macro'
+        continue-on-error: true
+        run: pnpm ingest:macro
+        env:
+          QUOTES_API_KEY: ${{ secrets.QUOTES_API_KEY }}
+      - name: News discovery
+        if: env.SCHEDULE == '41 */6 * * *' || env.RUN == 'all' || env.RUN == 'news'
+        continue-on-error: true
+        run: pnpm ingest:news
+      - name: Investor documents
+        if: env.SCHEDULE == '5 7 * * 1' || env.RUN == 'all' || env.RUN == 'ir'
+        continue-on-error: true
+        run: pnpm ingest:ir
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+      - name: Commit refreshed data and redeploy
+        run: |
+          git config user.name "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add public/data
+          if git diff --cached --quiet; then echo "no data changes"; exit 0; fi
+          git commit -m "data: refresh $(date -u +'%F %H:%M') UTC"
+          git push
+          gh workflow run deploy.yml  # a push made with GITHUB_TOKEN does not trigger other workflows
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Fail if an adapter failed twice in a row
+        run: pnpm check:runs
+      - name: Open an issue (once) for failing adapters
+        if: failure()
+        run: |
+          title="Data adapter failing twice in a row"
+          if [ -n "$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number')" ]; then
+            echo "issue already open"; exit 0
+          fi
+          gh issue create --title "$title" --body-file .adapter-failures.md
+        env:
+          GH_TOKEN: ${{ github.token }}

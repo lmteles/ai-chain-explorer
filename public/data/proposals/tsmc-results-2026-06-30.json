@@ -1,0 +1,58 @@
+{
+ "document_id": "tsmc-results-2026-06-30",
+ "extracted_at": "2026-10-04T18:45:00Z",
+ "extracted_by": "claude-code-session (Opus 5.5), no API spend",
+ "facts": [
+  {
+   "low": null,
+   "high": null,
+   "status": "pending",
+   "page": null,
+   "id": "ir_tsmc_2q26_revenue",
+   "kind": "metric",
+   "entity_id": "tsmc",
+   "key": "revenue_quarter",
+   "value": 40.2,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "evidence": "text",
+   "locator": "Earnings release (EX-99.1)",
+   "snippet": "In US dollars, second quarter revenue was $40.20 billion",
+   "note": "Quarter ended 30 June 2026."
+  },
+  {
+   "low": 44.6,
+   "high": 45.8,
+   "status": "pending",
+   "page": null,
+   "id": "ir_tsmc_3q26_revenue_guidance",
+   "kind": "metric",
+   "entity_id": "tsmc",
+   "key": "revenue_guidance_quarter",
+   "value": 45.2,
+   "unit": "USD_bn",
+   "period": "Q3 2026",
+   "evidence": "text",
+   "locator": "Earnings release (EX-99.1), outlook",
+   "snippet": "Revenue is expected to be between US$44.6 billion and US$45.8 billion",
+   "note": "Midpoint of the stated range."
+  },
+  {
+   "low": null,
+   "high": null,
+   "status": "pending",
+   "page": 6,
+   "id": "ir_tsmc_2q26_hpc",
+   "kind": "metric",
+   "entity_id": "tsmc",
+   "key": "hpc_share_of_revenue",
+   "value": 66,
+   "unit": "pct",
+   "period": "Q2 2026",
+   "evidence": "image",
+   "locator": "Presentation slide 6, '2Q26 Revenue by Platform'",
+   "snippet": "2Q26 Revenue by Platform: HPC 66%, Smartphone 22%, IoT 5%, Automotive 4%, DCE 1%, Others 2%",
+   "note": "Read from a pie chart image; check the slide."
+  }
+ ]
+}

@@ -1,0 +1,461 @@
+[
+  {
+    "adapter": "sec",
+    "started_at": "2026-10-04T18:01:43.480Z",
+    "finished_at": "2026-10-04T18:01:49.159Z",
+    "status": "ok",
+    "rows": 413,
+    "errors": [],
+    "notes": [
+      "oracle: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "microsoft: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "amazon: capex=PaymentsToAcquireProductiveAssets ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "alphabet: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=Revenues",
+      "meta: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "nvidia: capex=PaymentsToAcquireProductiveAssets ocf=NetCashProvidedByUsedInOperatingActivities revenue=Revenues",
+      "broadcom: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "amd: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "apple: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "tesla: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "tsmc: no us-gaap facts (IFRS filer); figures come from investor materials in M5",
+      "asml: capex=none ocf=none revenue=none"
+    ]
+  },
+  {
+    "adapter": "sec",
+    "started_at": "2026-10-04T18:04:00.688Z",
+    "finished_at": "2026-10-04T18:04:01.093Z",
+    "status": "ok",
+    "rows": 413,
+    "errors": [],
+    "notes": [
+      "oracle: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "microsoft: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "amazon: capex=PaymentsToAcquireProductiveAssets ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "alphabet: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=Revenues",
+      "meta: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "nvidia: capex=PaymentsToAcquireProductiveAssets ocf=NetCashProvidedByUsedInOperatingActivities revenue=Revenues",
+      "broadcom: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "amd: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "apple: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "tesla: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "tsmc: no us-gaap facts (IFRS filer); figures come from investor materials in M5",
+      "asml: capex=none ocf=none revenue=none"
+    ]
+  },
+  {
+    "adapter": "sec",
+    "started_at": "2026-10-04T18:06:44.940Z",
+    "finished_at": "2026-10-04T18:06:50.164Z",
+    "status": "ok",
+    "rows": 413,
+    "errors": [],
+    "notes": [
+      "oracle: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "microsoft: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "amazon: capex=PaymentsToAcquireProductiveAssets ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "alphabet: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=Revenues",
+      "meta: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "nvidia: capex=PaymentsToAcquireProductiveAssets ocf=NetCashProvidedByUsedInOperatingActivities revenue=Revenues",
+      "broadcom: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "amd: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "apple: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "tesla: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "tsmc: no us-gaap facts (IFRS filer); figures come from investor materials in M5",
+      "asml: capex=none ocf=none revenue=none"
+    ]
+  },
+  {
+    "adapter": "fred",
+    "started_at": "2026-10-04T18:07:48.896Z",
+    "finished_at": "2026-10-04T18:07:49.453Z",
+    "status": "ok",
+    "rows": 1,
+    "errors": [],
+    "notes": [
+      "macro_dgs10 = 5.24 (2026-10-01)"
+    ]
+  },
+  {
+    "adapter": "treasury",
+    "started_at": "2026-10-04T18:07:49.454Z",
+    "finished_at": "2026-10-04T18:07:50.567Z",
+    "status": "ok",
+    "rows": 3,
+    "errors": [],
+    "notes": [
+      "macro_federal_debt = 40260.64 (2026-10-01)",
+      "macro_interest_public = 981.81 (2026-08-31)",
+      "macro_interest_total = 1267.81 (2026-08-31)"
+    ]
+  },
+  {
+    "adapter": "quotes",
+    "started_at": "2026-10-04T18:07:50.569Z",
+    "finished_at": "2026-10-04T18:07:50.569Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "QUOTES_API_KEY not set"
+    ]
+  },
+  {
+    "adapter": "fred",
+    "started_at": "2026-10-04T18:22:52.622Z",
+    "finished_at": "2026-10-04T18:22:52.627Z",
+    "status": "ok",
+    "rows": 1,
+    "errors": [],
+    "notes": [
+      "macro_dgs10 = 5.24 (2026-10-01)"
+    ]
+  },
+  {
+    "adapter": "treasury",
+    "started_at": "2026-10-04T18:22:52.628Z",
+    "finished_at": "2026-10-04T18:22:52.642Z",
+    "status": "ok",
+    "rows": 3,
+    "errors": [],
+    "notes": [
+      "macro_federal_debt = 40260.64 (2026-10-01)",
+      "macro_interest_public = 981.81 (2026-08-31)",
+      "macro_interest_total = 1267.81 (2026-08-31)"
+    ]
+  },
+  {
+    "adapter": "quotes",
+    "started_at": "2026-10-04T18:22:52.643Z",
+    "finished_at": "2026-10-04T18:22:58.567Z",
+    "status": "partial",
+    "rows": 468,
+    "errors": [
+      "oracle: https://financialmodelingprep.com/stable/quote?symbol=ORCL&apikey=REDACTED: HTTP 402",
+      "broadcom: https://financialmodelingprep.com/stable/quote?symbol=AVGO&apikey=REDACTED: HTTP 402",
+      "asml: https://financialmodelingprep.com/stable/quote?symbol=ASML&apikey=REDACTED: HTTP 402"
+    ],
+    "notes": [
+      "softbank: 9984.T not covered by Financial Modeling Prep",
+      "samsung: 005930.KS not covered by Financial Modeling Prep"
+    ]
+  },
+  {
+    "adapter": "fred",
+    "started_at": "2026-10-04T18:23:20.941Z",
+    "finished_at": "2026-10-04T18:23:20.942Z",
+    "status": "ok",
+    "rows": 1,
+    "errors": [],
+    "notes": [
+      "macro_dgs10 = 5.24 (2026-10-01)"
+    ]
+  },
+  {
+    "adapter": "treasury",
+    "started_at": "2026-10-04T18:23:20.942Z",
+    "finished_at": "2026-10-04T18:23:20.952Z",
+    "status": "ok",
+    "rows": 3,
+    "errors": [],
+    "notes": [
+      "macro_federal_debt = 40260.64 (2026-10-01)",
+      "macro_interest_public = 981.81 (2026-08-31)",
+      "macro_interest_total = 1267.81 (2026-08-31)"
+    ]
+  },
+  {
+    "adapter": "quotes",
+    "started_at": "2026-10-04T18:23:20.953Z",
+    "finished_at": "2026-10-04T18:23:22.056Z",
+    "status": "ok",
+    "rows": 468,
+    "errors": [],
+    "notes": [
+      "softbank: 9984.T not covered by Financial Modeling Prep",
+      "oracle: ORCL not covered on the current Financial Modeling Prep plan",
+      "broadcom: AVGO not covered on the current Financial Modeling Prep plan",
+      "samsung: 005930.KS not covered by Financial Modeling Prep",
+      "asml: ASML not covered on the current Financial Modeling Prep plan"
+    ]
+  },
+  {
+    "adapter": "ir",
+    "started_at": "2026-10-04T18:27:57.070Z",
+    "finished_at": "2026-10-04T18:27:59.951Z",
+    "status": "ok",
+    "rows": 3,
+    "errors": [],
+    "notes": [
+      "tsmc-results-2026-06-30: a2q26e_withguidancexfinal.htm sha256 ca75d953b8d1…, a2q26presentatione.htm sha256 4b5401116a11…",
+      "tsmc-20f-2025-12-31: tsm-20251231.htm sha256 8a7ec012c800…",
+      "asml-results-2026-06-28: presentationinvestorrela.htm sha256 6708aa16f8f0…, pressreleasefinancialresul.htm sha256 ec7d95b29e0a…"
+    ]
+  },
+  {
+    "adapter": "ir",
+    "started_at": "2026-10-04T18:29:06.895Z",
+    "finished_at": "2026-10-04T18:29:06.951Z",
+    "status": "ok",
+    "rows": 3,
+    "errors": [],
+    "notes": [
+      "tsmc-results-2026-06-30: a2q26e_withguidancexfinal.htm sha256 ca75d953b8d1…, a2q26presentatione.htm sha256 4b5401116a11…",
+      "tsmc-20f-2025-12-31: tsm-20251231.htm sha256 8a7ec012c800…",
+      "asml-results-2026-06-28: presentationinvestorrela.htm sha256 6708aa16f8f0…, pressreleasefinancialresul.htm sha256 ec7d95b29e0a…"
+    ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-10-04T19:56:38.943Z",
+    "finished_at": "2026-10-04T20:01:18.717Z",
+    "status": "partial",
+    "rows": 90,
+    "errors": [
+      "openai+oracle: https://api.gdeltproject.org/api/v2/doc/doc?query=%22OpenAI%22%20%22Oracle%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode",
+      "microsoft+openai: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Microsoft%22%20%22OpenAI%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&m",
+      "amazon+openai: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Amazon%22%20%22OpenAI%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode",
+      "nvidia+openai: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nvidia%22%20%22OpenAI%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode",
+      "amazon+anthropic: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Amazon%22%20%22Anthropic%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&m",
+      "alphabet+anthropic: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Alphabet%22%20%22Anthropic%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)",
+      "anthropic+microsoft: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anthropic%22%20%22Microsoft%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement",
+      "anthropic+nvidia: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anthropic%22%20%22Nvidia%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&m",
+      "nvidia+oracle: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nvidia%22%20%22Oracle%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode",
+      "amazon+nvidia: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Amazon%22%20%22Nvidia%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode",
+      "alphabet+nvidia: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Alphabet%22%20%22Nvidia%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mo",
+      "meta+nvidia: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Meta%22%20%22Nvidia%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=A",
+      "amd+meta: https://api.gdeltproject.org/api/v2/doc/doc?query=%22AMD%22%20%22Meta%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtL",
+      "alphabet+meta: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Alphabet%22%20%22Meta%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode",
+      "alphabet+broadcom: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Alphabet%22%20%22Broadcom%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&",
+      "alphabet+apple: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Alphabet%22%20%22Apple%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mod",
+      "apple+tsmc: GDELT: The specified phrase is too short.\n",
+      "nvidia+tsmc: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nvidia%22%20%22TSMC%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=A",
+      "broadcom+tsmc: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Broadcom%22%20%22TSMC%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode",
+      "amd+tsmc: https://api.gdeltproject.org/api/v2/doc/doc?query=%22AMD%22%20%22TSMC%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtL",
+      "tesla+tsmc: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Tesla%22%20%22TSMC%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=Ar",
+      "samsung+tesla: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Samsung%22%20%22Tesla%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode",
+      "nvidia+tesla: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nvidia%22%20%22Tesla%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=",
+      "asml+tsmc: https://api.gdeltproject.org/api/v2/doc/doc?query=%22ASML%22%20%22TSMC%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=Art",
+      "asml+samsung: https://api.gdeltproject.org/api/v2/doc/doc?query=%22ASML%22%20%22Samsung%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode="
+    ],
+    "notes": [
+      "90 headline(s) over 7 day(s), 27 pairs"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-10-04T20:01:18.721Z",
+    "finished_at": "2026-10-04T20:01:21.128Z",
+    "status": "ok",
+    "rows": 60,
+    "errors": [],
+    "notes": [
+      "60 headline(s) over 7 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-10-04T20:01:21.129Z",
+    "finished_at": "2026-10-04T20:01:21.129Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-10-04T20:01:21.129Z",
+    "finished_at": "2026-10-04T20:01:21.129Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-10-04T20:02:09.633Z",
+    "finished_at": "2026-10-04T20:09:11.937Z",
+    "status": "partial",
+    "rows": 90,
+    "errors": [
+      "openai+oracle: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "microsoft+openai: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "amazon+openai: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "nvidia+openai: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "amazon+anthropic: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "alphabet+anthropic: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "anthropic+microsoft: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "anthropic+nvidia: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "nvidia+oracle: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "amazon+nvidia: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "alphabet+nvidia: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
+      "meta+nvidia: …GDELT: The specified phrase is too short.\n",
+      "amd+meta: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "alphabet+meta: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "alphabet+broadcom: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "alphabet+apple: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "apple+tsmc: …GDELT: The specified phrase is too short.\n",
+      "nvidia+tsmc: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "broadcom+tsmc: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "amd+tsmc: …GDELT: The specified phrase is too short.\n",
+      "tesla+tsmc: …GDELT: The specified phrase is too short.\n",
+      "samsung+tesla: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "nvidia+tesla: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "asml+tsmc: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "asml+samsung: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429"
+    ],
+    "notes": [
+      "90 headline(s) over 7 day(s), 27 pairs"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-10-04T20:09:11.941Z",
+    "finished_at": "2026-10-04T20:09:11.965Z",
+    "status": "ok",
+    "rows": 60,
+    "errors": [],
+    "notes": [
+      "60 headline(s) over 7 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-10-04T20:09:11.965Z",
+    "finished_at": "2026-10-04T20:09:11.965Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-10-04T20:09:11.966Z",
+    "finished_at": "2026-10-04T20:09:11.966Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-10-04T20:12:41.402Z",
+    "finished_at": "2026-10-04T20:28:49.470Z",
+    "status": "partial",
+    "rows": 285,
+    "errors": [
+      "openai+oracle: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
+      "amazon+openai: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
+      "nvidia+openai: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "anthropic+microsoft: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
+      "anthropic+nvidia: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "nvidia+oracle: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "amazon+nvidia: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
+      "alphabet+nvidia: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "meta+nvidia: …GDELT: The specified phrase is too short.\n",
+      "amd+meta: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
+      "alphabet+meta: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
+      "alphabet+broadcom: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
+      "alphabet+apple: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
+      "apple+tsmc: …GDELT: The specified phrase is too short.\n",
+      "nvidia+tsmc: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
+      "broadcom+tsmc: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
+      "amd+tsmc: …GDELT: The specified phrase is too short.\n",
+      "tesla+tsmc: …GDELT: The specified phrase is too short.\n",
+      "samsung+tesla: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
+      "nvidia+tesla: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
+      "asml+tsmc: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
+      "asml+samsung: …GDELT: The specified phrase is too short.\n"
+    ],
+    "notes": [
+      "285 headline(s) over 7 day(s), 27 pairs"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-10-04T20:28:49.473Z",
+    "finished_at": "2026-10-04T20:28:49.495Z",
+    "status": "ok",
+    "rows": 60,
+    "errors": [],
+    "notes": [
+      "60 headline(s) over 7 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-10-04T20:28:49.496Z",
+    "finished_at": "2026-10-04T20:28:49.496Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-10-04T20:28:49.496Z",
+    "finished_at": "2026-10-04T20:28:49.496Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-10-04T20:30:49.689Z",
+    "finished_at": "2026-10-04T20:31:40.791Z",
+    "status": "failed",
+    "rows": 0,
+    "errors": [
+      "…L)%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=250&sort=DateDesc&timespan=7d: fetch failed"
+    ],
+    "notes": [
+      "0 headline(s) over 7 day(s)"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-10-04T20:31:40.794Z",
+    "finished_at": "2026-10-04T20:31:40.816Z",
+    "status": "ok",
+    "rows": 60,
+    "errors": [],
+    "notes": [
+      "60 headline(s) over 7 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-10-04T20:31:40.817Z",
+    "finished_at": "2026-10-04T20:31:40.817Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-10-04T20:31:40.817Z",
+    "finished_at": "2026-10-04T20:31:40.817Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  }
+]

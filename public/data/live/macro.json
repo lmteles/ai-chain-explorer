@@ -1,0 +1,497 @@
+{
+ "adapter": "macro",
+ "fetched_at": "2026-10-04T18:23:20.952Z",
+ "items": [
+  {
+   "id": "macro_dgs10",
+   "label": "US 10-year Treasury yield",
+   "value": 5.24,
+   "unit": "pct",
+   "as_of": "2026-10-01",
+   "period": null,
+   "source_ids": [
+    "fred_dgs10"
+   ],
+   "history": [
+    {
+     "date": "2025-10-08",
+     "value": 4.13
+    },
+    {
+     "date": "2025-10-16",
+     "value": 3.99
+    },
+    {
+     "date": "2025-10-23",
+     "value": 4.01
+    },
+    {
+     "date": "2025-10-30",
+     "value": 4.11
+    },
+    {
+     "date": "2025-11-06",
+     "value": 4.11
+    },
+    {
+     "date": "2025-11-14",
+     "value": 4.14
+    },
+    {
+     "date": "2025-11-21",
+     "value": 4.06
+    },
+    {
+     "date": "2025-12-01",
+     "value": 4.09
+    },
+    {
+     "date": "2025-12-08",
+     "value": 4.17
+    },
+    {
+     "date": "2025-12-15",
+     "value": 4.18
+    },
+    {
+     "date": "2025-12-22",
+     "value": 4.17
+    },
+    {
+     "date": "2025-12-30",
+     "value": 4.14
+    },
+    {
+     "date": "2026-01-07",
+     "value": 4.15
+    },
+    {
+     "date": "2026-01-14",
+     "value": 4.15
+    },
+    {
+     "date": "2026-01-22",
+     "value": 4.26
+    },
+    {
+     "date": "2026-01-29",
+     "value": 4.24
+    },
+    {
+     "date": "2026-02-05",
+     "value": 4.21
+    },
+    {
+     "date": "2026-02-12",
+     "value": 4.09
+    },
+    {
+     "date": "2026-02-20",
+     "value": 4.08
+    },
+    {
+     "date": "2026-02-27",
+     "value": 3.97
+    },
+    {
+     "date": "2026-03-06",
+     "value": 4.15
+    },
+    {
+     "date": "2026-03-13",
+     "value": 4.28
+    },
+    {
+     "date": "2026-03-20",
+     "value": 4.39
+    },
+    {
+     "date": "2026-03-27",
+     "value": 4.44
+    },
+    {
+     "date": "2026-04-03",
+     "value": 4.35
+    },
+    {
+     "date": "2026-04-10",
+     "value": 4.31
+    },
+    {
+     "date": "2026-04-17",
+     "value": 4.26
+    },
+    {
+     "date": "2026-04-24",
+     "value": 4.31
+    },
+    {
+     "date": "2026-05-01",
+     "value": 4.39
+    },
+    {
+     "date": "2026-05-08",
+     "value": 4.38
+    },
+    {
+     "date": "2026-05-15",
+     "value": 4.59
+    },
+    {
+     "date": "2026-05-22",
+     "value": 4.56
+    },
+    {
+     "date": "2026-06-01",
+     "value": 4.47
+    },
+    {
+     "date": "2026-06-08",
+     "value": 4.56
+    },
+    {
+     "date": "2026-06-15",
+     "value": 4.47
+    },
+    {
+     "date": "2026-06-23",
+     "value": 4.5
+    },
+    {
+     "date": "2026-06-30",
+     "value": 4.44
+    },
+    {
+     "date": "2026-07-08",
+     "value": 4.56
+    },
+    {
+     "date": "2026-07-15",
+     "value": 4.55
+    },
+    {
+     "date": "2026-07-22",
+     "value": 4.67
+    },
+    {
+     "date": "2026-07-29",
+     "value": 4.67
+    },
+    {
+     "date": "2026-08-05",
+     "value": 4.63
+    },
+    {
+     "date": "2026-08-12",
+     "value": 4.68
+    },
+    {
+     "date": "2026-08-19",
+     "value": 4.65
+    },
+    {
+     "date": "2026-08-26",
+     "value": 4.66
+    },
+    {
+     "date": "2026-09-02",
+     "value": 4.79
+    },
+    {
+     "date": "2026-09-10",
+     "value": 4.95
+    },
+    {
+     "date": "2026-09-17",
+     "value": 4.94
+    },
+    {
+     "date": "2026-09-24",
+     "value": 5.18
+    },
+    {
+     "date": "2026-10-01",
+     "value": 5.24
+    }
+   ],
+   "note": "Daily close. Eisman: near 5% a market correction becomes likely."
+  },
+  {
+   "id": "macro_federal_debt",
+   "label": "US federal debt outstanding",
+   "value": 40260.64,
+   "unit": "USD_bn",
+   "as_of": "2026-10-01",
+   "period": null,
+   "source_ids": [
+    "treasury_debt"
+   ],
+   "history": [
+    {
+     "date": "2025-09-25",
+     "value": 37467.89
+    },
+    {
+     "date": "2025-10-02",
+     "value": 37881.84
+    },
+    {
+     "date": "2025-10-09",
+     "value": 37883.93
+    },
+    {
+     "date": "2025-10-17",
+     "value": 37977.31
+    },
+    {
+     "date": "2025-10-24",
+     "value": 38009.03
+    },
+    {
+     "date": "2025-10-31",
+     "value": 38040.09
+    },
+    {
+     "date": "2025-11-07",
+     "value": 38117.22
+    },
+    {
+     "date": "2025-11-17",
+     "value": 38181.18
+    },
+    {
+     "date": "2025-11-24",
+     "value": 38336.29
+    },
+    {
+     "date": "2025-12-02",
+     "value": 38423.76
+    },
+    {
+     "date": "2025-12-09",
+     "value": 38377.11
+    },
+    {
+     "date": "2025-12-16",
+     "value": 38396.18
+    },
+    {
+     "date": "2025-12-23",
+     "value": 38375.35
+    },
+    {
+     "date": "2025-12-31",
+     "value": 38514.01
+    },
+    {
+     "date": "2026-01-08",
+     "value": 38432.59
+    },
+    {
+     "date": "2026-01-15",
+     "value": 38453.11
+    },
+    {
+     "date": "2026-01-23",
+     "value": 38491.02
+    },
+    {
+     "date": "2026-01-30",
+     "value": 38521.37
+    },
+    {
+     "date": "2026-02-06",
+     "value": 38588.55
+    },
+    {
+     "date": "2026-02-13",
+     "value": 38647.36
+    },
+    {
+     "date": "2026-02-23",
+     "value": 38758.07
+    },
+    {
+     "date": "2026-03-02",
+     "value": 38824.46
+    },
+    {
+     "date": "2026-03-09",
+     "value": 38882.8
+    },
+    {
+     "date": "2026-03-16",
+     "value": 38992.19
+    },
+    {
+     "date": "2026-03-23",
+     "value": 39006.95
+    },
+    {
+     "date": "2026-03-30",
+     "value": 39023.03
+    },
+    {
+     "date": "2026-04-06",
+     "value": 38994.1
+    },
+    {
+     "date": "2026-04-13",
+     "value": 38954.92
+    },
+    {
+     "date": "2026-04-20",
+     "value": 38992.78
+    },
+    {
+     "date": "2026-04-27",
+     "value": 38960.96
+    },
+    {
+     "date": "2026-05-04",
+     "value": 38905.03
+    },
+    {
+     "date": "2026-05-11",
+     "value": 38946.8
+    },
+    {
+     "date": "2026-05-18",
+     "value": 39009
+    },
+    {
+     "date": "2026-05-26",
+     "value": 39171.15
+    },
+    {
+     "date": "2026-06-02",
+     "value": 39221.98
+    },
+    {
+     "date": "2026-06-09",
+     "value": 39241.72
+    },
+    {
+     "date": "2026-06-16",
+     "value": 39289.87
+    },
+    {
+     "date": "2026-06-24",
+     "value": 39320.51
+    },
+    {
+     "date": "2026-07-01",
+     "value": 39389.3
+    },
+    {
+     "date": "2026-07-08",
+     "value": 39394.98
+    },
+    {
+     "date": "2026-07-15",
+     "value": 39488.62
+    },
+    {
+     "date": "2026-07-22",
+     "value": 39635.8
+    },
+    {
+     "date": "2026-07-29",
+     "value": 39799.62
+    },
+    {
+     "date": "2026-08-05",
+     "value": 39829.65
+    },
+    {
+     "date": "2026-08-12",
+     "value": 39913.53
+    },
+    {
+     "date": "2026-08-19",
+     "value": 40012.7
+    },
+    {
+     "date": "2026-08-26",
+     "value": 40069.75
+    },
+    {
+     "date": "2026-09-02",
+     "value": 40117.05
+    },
+    {
+     "date": "2026-09-10",
+     "value": 40047.73
+    },
+    {
+     "date": "2026-09-17",
+     "value": 40093.34
+    },
+    {
+     "date": "2026-09-24",
+     "value": 40068.81
+    },
+    {
+     "date": "2026-10-01",
+     "value": 40260.64
+    }
+   ],
+   "note": "Total public debt outstanding (held by the public plus intragovernmental holdings)."
+  },
+  {
+   "id": "macro_interest_public",
+   "label": "Interest on debt held by the public, fiscal year to date",
+   "value": 981.81,
+   "unit": "USD_bn",
+   "as_of": "2026-08-31",
+   "period": "FY2026 to 2026-08-31",
+   "source_ids": [
+    "treasury_interest"
+   ],
+   "history": [],
+   "note": "Category \"Interest expense on public issues\". US fiscal years start on 1 October."
+  },
+  {
+   "id": "macro_interest_total",
+   "label": "Total interest expense, fiscal year to date",
+   "value": 1267.81,
+   "unit": "USD_bn",
+   "as_of": "2026-08-31",
+   "period": "FY2026 to 2026-08-31",
+   "source_ids": [
+    "treasury_interest"
+   ],
+   "history": [],
+   "note": "Public issues plus interest credited to government accounts (intragovernmental)."
+  }
+ ],
+ "sources": [
+  {
+   "id": "fred_dgs10",
+   "publisher": "FRED, St. Louis Fed",
+   "title": "DGS10: Market yield on 10-year US Treasury securities (daily)",
+   "url": "https://fred.stlouisfed.org/series/DGS10",
+   "published": null,
+   "kind": "data",
+   "reliability": "primary"
+  },
+  {
+   "id": "treasury_debt",
+   "publisher": "US Treasury Fiscal Data",
+   "title": "Debt to the Penny",
+   "url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/",
+   "published": null,
+   "kind": "data",
+   "reliability": "primary"
+  },
+  {
+   "id": "treasury_interest",
+   "publisher": "US Treasury Fiscal Data",
+   "title": "Interest Expense on the Public Debt Outstanding",
+   "url": "https://fiscaldata.treasury.gov/datasets/interest-expense-debt-outstanding/",
+   "published": null,
+   "kind": "data",
+   "reliability": "primary"
+  }
+ ]
+}

@@ -1,0 +1,1355 @@
+{
+  "meta": {
+    "version": "0.2.0",
+    "generated": "2026-10-04",
+    "purpose": "Seed graph for the AI Chain Explorer. Direction rule: relations point from the payer to the payee. Every number carries status and confidence; null amounts mean undisclosed. as_of is inferred from source publication dates where the URL states one; null means undated.",
+    "status_values": [
+      "filed",
+      "filed_inferred_name",
+      "reported",
+      "claimed_by_eisman",
+      "background_unverified"
+    ],
+    "confidence_values": [
+      "high",
+      "medium",
+      "low"
+    ]
+  },
+  "sources": [
+    {
+      "id": "s_eisman",
+      "publisher": "New Money (YouTube)",
+      "title": "Big Short Investor Explains How the AI Bubble Will Burst (Steve Eisman)",
+      "url": "https://www.youtube.com/watch?v=Zw0I7kb6zg4",
+      "published": null,
+      "kind": "transcript",
+      "reliability": "claim_by_named_person"
+    },
+    {
+      "id": "s_macrumors_tsmc",
+      "publisher": "MacRumors / CNBC",
+      "title": "Nvidia Overtakes Apple as TSMC's Biggest Customer",
+      "url": "https://macrumors.com/2026/01/28/nvidia-replaces-apple-as-biggest-tsmc-customer/",
+      "published": "2026-01-28",
+      "kind": "press",
+      "reliability": "secondary"
+    },
+    {
+      "id": "s_asiae_tsmc",
+      "publisher": "Asiae (Taiwan Chip News)",
+      "title": "Nvidia Surpasses Apple to Become TSMC's Largest Customer",
+      "url": "https://view.asiae.co.kr/en/article/2026030610061501773",
+      "published": "2026-03-06",
+      "kind": "press",
+      "reliability": "secondary"
+    },
+    {
+      "id": "s_trendforce_asml",
+      "publisher": "TrendForce",
+      "title": "ASML Raises 2026 Guidance for Second Time; Taiwan Sales Share Climbs to 30%",
+      "url": "https://www.trendforce.com/news/2026/07/15/news-asml-raises-2026-guidance-for-second-time-this-year-taiwan-sales-share-climbs-to-30/",
+      "published": "2026-07-15",
+      "kind": "press",
+      "reliability": "secondary"
+    },
+    {
+      "id": "s_asml_q2",
+      "publisher": "ASML",
+      "title": "Q2 2026 investor call transcript (15 Jul 2026)",
+      "url": "https://ourbrand.asml.com/asset/1fd3908a-0381-47b5-9b69-a3094f656651/2026_07_15-ASML-Transcript-investor-call-Q2-2026.pdf",
+      "published": "2026-07-15",
+      "kind": "transcript",
+      "reliability": "primary"
+    },
+    {
+      "id": "s_platformonomics",
+      "publisher": "Platformonomics",
+      "title": "Follow the CAPEX: Q2 2026 Scoreboard",
+      "url": "https://platformonomics.com/2026/07/follow-the-capex-q2-2026-scoreboard/",
+      "published": "2026-07",
+      "kind": "analyst",
+      "reliability": "secondary"
+    },
+    {
+      "id": "s_engadget_goog",
+      "publisher": "Engadget / Bloomberg",
+      "title": "Google plans to invest even more money into Anthropic",
+      "url": "https://www.engadget.com/ai/google-plans-to-invest-even-more-money-into-anthropic-185000776.html",
+      "published": null,
+      "kind": "press",
+      "reliability": "secondary"
+    },
+    {
+      "id": "s_implicator_amzn",
+      "publisher": "Implicator",
+      "title": "Amazon adds up to $25 billion to Anthropic stake",
+      "url": "https://www.implicator.ai/amazon-adds-up-to-25-billion-to-anthropic-stake-locks-in-100-billion-aws-spend.md",
+      "published": null,
+      "kind": "press",
+      "reliability": "secondary"
+    },
+    {
+      "id": "s_outlook_msft_nvda",
+      "publisher": "Outlook Business",
+      "title": "Anthropic to draw $15bn from Microsoft, Nvidia after committing $30bn to Azure",
+      "url": "https://www.outlookbusiness.com/deeptech/artificial-intelligence/anthropic-to-draw-15-bn-from-microsoft-nvidia-after-committing-30-bn-to-azure-1gw-of-nvidia-compute",
+      "published": null,
+      "kind": "press",
+      "reliability": "secondary"
+    },
+    {
+      "id": "s_lds_goog200",
+      "publisher": "LetsDataScience",
+      "title": "Anthropic $200bn Google Cloud five-year commitment",
+      "url": "https://letsdatascience.com/blog/anthropic-200-billion-google-cloud-five-year-commitment-may-5",
+      "published": null,
+      "kind": "blog",
+      "reliability": "weak"
+    },
+    {
+      "id": "s_dcd_meta",
+      "publisher": "DatacenterDynamics",
+      "title": "Apple in discussions to host Siri on Google Cloud (also Meta TPU, Meta-Nvidia)",
+      "url": "https://www.datacenterdynamics.com/en/news/apple-in-discussions-to-host-siri-on-google-cloud-report/",
+      "published": null,
+      "kind": "press",
+      "reliability": "secondary"
+    },
+    {
+      "id": "s_story18_meta",
+      "publisher": "Storyboard18 / The Information",
+      "title": "Meta signs multi-billion dollar AI chip rental deal with Google",
+      "url": "https://storyboard18.com/digital/meta-signs-multi-billion-dollar-ai-chip-rental-deal-with-google-90907.htm",
+      "published": null,
+      "kind": "press",
+      "reliability": "secondary"
+    },
+    {
+      "id": "s_apple_gemini",
+      "publisher": "Reuters via Aaj",
+      "title": "Apple, Google strike Gemini deal for revamped Siri",
+      "url": "https://english.aaj.tv/news/amp/330450838",
+      "published": null,
+      "kind": "press",
+      "reliability": "secondary"
+    },
+    {
+      "id": "s_tesla_samsung",
+      "publisher": "heise / Igor's Lab",
+      "title": "Tesla lets Samsung build AI6 chips worth $16.5bn",
+      "url": "https://www.igorslab.de/en/?p=287898",
+      "published": null,
+      "kind": "press",
+      "reliability": "secondary"
+    },
+    {
+      "id": "s_openai_round",
+      "publisher": "AlgeriaTech News",
+      "title": "A Funding Round Like No Other (OpenAI $110bn round)",
+      "url": "https://algeriatech.news/?p=3802",
+      "published": null,
+      "kind": "blog",
+      "reliability": "weak"
+    },
+    {
+      "id": "s_background",
+      "publisher": "Model background knowledge",
+      "title": "Not verified in the research session; verify against filings",
+      "url": "",
+      "published": null,
+      "kind": "background",
+      "reliability": "unverified"
+    }
+  ],
+  "entities": [
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "type": "lab",
+      "tier": 1,
+      "ticker": null,
+      "cik": null,
+      "private": true,
+      "country": "US"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "type": "lab",
+      "tier": 1,
+      "ticker": null,
+      "cik": null,
+      "private": true,
+      "country": "US"
+    },
+    {
+      "id": "softbank",
+      "name": "SoftBank Group",
+      "type": "investor",
+      "tier": 1,
+      "ticker": "9984.T",
+      "cik": null,
+      "private": false,
+      "country": "JP"
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "type": "cloud",
+      "tier": 2,
+      "ticker": "ORCL",
+      "cik": "0001341439",
+      "private": false,
+      "country": "US"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "type": "cloud",
+      "tier": 2,
+      "ticker": "MSFT",
+      "cik": "0000789019",
+      "private": false,
+      "country": "US"
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "type": "cloud",
+      "tier": 2,
+      "ticker": "AMZN",
+      "cik": "0001018724",
+      "private": false,
+      "country": "US"
+    },
+    {
+      "id": "alphabet",
+      "name": "Alphabet",
+      "type": "cloud",
+      "tier": 2,
+      "ticker": "GOOGL",
+      "cik": "0001652044",
+      "private": false,
+      "country": "US"
+    },
+    {
+      "id": "meta",
+      "name": "Meta Platforms",
+      "type": "cloud",
+      "tier": 2,
+      "ticker": "META",
+      "cik": "0001326801",
+      "private": false,
+      "country": "US"
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "type": "chip",
+      "tier": 3,
+      "ticker": "NVDA",
+      "cik": "0001045810",
+      "private": false,
+      "country": "US"
+    },
+    {
+      "id": "broadcom",
+      "name": "Broadcom",
+      "type": "chip",
+      "tier": 3,
+      "ticker": "AVGO",
+      "cik": "0001730168",
+      "private": false,
+      "country": "US"
+    },
+    {
+      "id": "amd",
+      "name": "AMD",
+      "type": "chip",
+      "tier": 3,
+      "ticker": "AMD",
+      "cik": "0000002488",
+      "private": false,
+      "country": "US"
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "type": "chip_buyer",
+      "tier": 3,
+      "ticker": "AAPL",
+      "cik": "0000320193",
+      "private": false,
+      "country": "US"
+    },
+    {
+      "id": "tesla",
+      "name": "Tesla",
+      "type": "chip_buyer",
+      "tier": 3,
+      "ticker": "TSLA",
+      "cik": "0001318605",
+      "private": false,
+      "country": "US"
+    },
+    {
+      "id": "tsmc",
+      "name": "TSMC",
+      "type": "fab",
+      "tier": 4,
+      "ticker": "TSM",
+      "cik": "0001046179",
+      "private": false,
+      "country": "TW"
+    },
+    {
+      "id": "samsung",
+      "name": "Samsung Electronics",
+      "type": "fab",
+      "tier": 4,
+      "ticker": "005930.KS",
+      "cik": null,
+      "private": false,
+      "country": "KR"
+    },
+    {
+      "id": "asml",
+      "name": "ASML",
+      "type": "tools",
+      "tier": 5,
+      "ticker": "ASML",
+      "cik": "0000937966",
+      "private": false,
+      "country": "NL"
+    }
+  ],
+  "relations": [
+    {
+      "id": "r_openai_oracle",
+      "from_id": "openai",
+      "to_id": "oracle",
+      "type": "compute_commitment",
+      "amount": 300,
+      "unit": "USD_bn",
+      "amount_basis": "backlog_share",
+      "share_pct": 50,
+      "capacity_gw": null,
+      "period": null,
+      "status": "claimed_by_eisman",
+      "confidence": "medium",
+      "source_ids": [
+        "s_eisman"
+      ],
+      "as_of": null,
+      "note": "Eisman: Oracle RPO >$600bn, ~50% from OpenAI. Derived ~$300bn; confirm in Oracle 10-Q RPO note."
+    },
+    {
+      "id": "r_openai_msft",
+      "from_id": "openai",
+      "to_id": "microsoft",
+      "type": "compute_commitment",
+      "amount": 250,
+      "unit": "USD_bn",
+      "amount_basis": "committed",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "background_unverified",
+      "confidence": "low",
+      "source_ids": [
+        "s_background"
+      ],
+      "as_of": null,
+      "note": "Incremental Azure commitment recalled from the Oct 2025 restructuring; verify."
+    },
+    {
+      "id": "r_msft_openai",
+      "from_id": "microsoft",
+      "to_id": "openai",
+      "type": "equity",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "ownership_pct",
+      "share_pct": 27,
+      "capacity_gw": null,
+      "period": null,
+      "status": "background_unverified",
+      "confidence": "low",
+      "source_ids": [
+        "s_background"
+      ],
+      "as_of": null,
+      "note": "Roughly 27% stake recalled from Oct 2025; verify."
+    },
+    {
+      "id": "r_amzn_openai",
+      "from_id": "amazon",
+      "to_id": "openai",
+      "type": "equity",
+      "amount": 50,
+      "unit": "USD_bn",
+      "amount_basis": "invested",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "low",
+      "source_ids": [
+        "s_openai_round"
+      ],
+      "as_of": null,
+      "note": "Single weak source on a $110bn round; conflicting reports exist."
+    },
+    {
+      "id": "r_nvda_openai",
+      "from_id": "nvidia",
+      "to_id": "openai",
+      "type": "equity",
+      "amount": 30,
+      "unit": "USD_bn",
+      "amount_basis": "invested",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "low",
+      "source_ids": [
+        "s_openai_round"
+      ],
+      "as_of": null,
+      "note": "Same weak source; treat as unconfirmed."
+    },
+    {
+      "id": "r_sb_openai",
+      "from_id": "softbank",
+      "to_id": "openai",
+      "type": "equity",
+      "amount": 30,
+      "unit": "USD_bn",
+      "amount_basis": "invested",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "low",
+      "source_ids": [
+        "s_openai_round"
+      ],
+      "as_of": null,
+      "note": "Other secondary sources cite $40bn; reconcile."
+    },
+    {
+      "id": "r_openai_nvda",
+      "from_id": "openai",
+      "to_id": "nvidia",
+      "type": "chip_purchase",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "capacity",
+      "share_pct": null,
+      "capacity_gw": 10,
+      "period": null,
+      "status": "reported",
+      "confidence": "low",
+      "source_ids": [
+        "s_openai_round"
+      ],
+      "as_of": null,
+      "note": "10 GW Vera Rubin deployment partnership; USD value not stated."
+    },
+    {
+      "id": "r_anth_amzn",
+      "from_id": "anthropic",
+      "to_id": "amazon",
+      "type": "compute_commitment",
+      "amount": 100,
+      "unit": "USD_bn",
+      "amount_basis": "committed",
+      "share_pct": null,
+      "capacity_gw": 5,
+      "period": "10y",
+      "status": "reported",
+      "confidence": "high",
+      "source_ids": [
+        "s_implicator_amzn"
+      ],
+      "as_of": null,
+      "note": "More than $100bn of AWS spend over ten years; up to 5 GW Trainium."
+    },
+    {
+      "id": "r_amzn_anth",
+      "from_id": "amazon",
+      "to_id": "anthropic",
+      "type": "equity",
+      "amount": 25,
+      "unit": "USD_bn",
+      "amount_basis": "up_to",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "high",
+      "source_ids": [
+        "s_implicator_amzn",
+        "s_engadget_goog"
+      ],
+      "as_of": null,
+      "note": "$5bn upfront plus up to $20bn on milestones; about $33bn in total."
+    },
+    {
+      "id": "r_anth_goog",
+      "from_id": "anthropic",
+      "to_id": "alphabet",
+      "type": "compute_commitment",
+      "amount": 200,
+      "unit": "USD_bn",
+      "amount_basis": "committed",
+      "share_pct": null,
+      "capacity_gw": 5,
+      "period": "5y",
+      "status": "reported",
+      "confidence": "low",
+      "source_ids": [
+        "s_lds_goog200"
+      ],
+      "as_of": null,
+      "note": "~$200bn over five years rests on one weak source; 5 GW TPU capacity is better corroborated."
+    },
+    {
+      "id": "r_goog_anth",
+      "from_id": "alphabet",
+      "to_id": "anthropic",
+      "type": "equity",
+      "amount": 40,
+      "unit": "USD_bn",
+      "amount_basis": "up_to",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "high",
+      "source_ids": [
+        "s_engadget_goog"
+      ],
+      "as_of": null,
+      "note": "$10bn cash at $350bn valuation plus up to $30bn contingent on milestones."
+    },
+    {
+      "id": "r_anth_msft",
+      "from_id": "anthropic",
+      "to_id": "microsoft",
+      "type": "compute_commitment",
+      "amount": 30,
+      "unit": "USD_bn",
+      "amount_basis": "committed",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "high",
+      "source_ids": [
+        "s_outlook_msft_nvda"
+      ],
+      "as_of": null,
+      "note": "$30bn Azure commitment."
+    },
+    {
+      "id": "r_msft_anth",
+      "from_id": "microsoft",
+      "to_id": "anthropic",
+      "type": "equity",
+      "amount": 5,
+      "unit": "USD_bn",
+      "amount_basis": "up_to",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "high",
+      "source_ids": [
+        "s_outlook_msft_nvda"
+      ],
+      "as_of": null,
+      "note": ""
+    },
+    {
+      "id": "r_nvda_anth",
+      "from_id": "nvidia",
+      "to_id": "anthropic",
+      "type": "equity",
+      "amount": 10,
+      "unit": "USD_bn",
+      "amount_basis": "up_to",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "high",
+      "source_ids": [
+        "s_outlook_msft_nvda"
+      ],
+      "as_of": null,
+      "note": ""
+    },
+    {
+      "id": "r_anth_nvda",
+      "from_id": "anthropic",
+      "to_id": "nvidia",
+      "type": "chip_purchase",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "capacity",
+      "share_pct": null,
+      "capacity_gw": 1,
+      "period": null,
+      "status": "reported",
+      "confidence": "high",
+      "source_ids": [
+        "s_outlook_msft_nvda"
+      ],
+      "as_of": null,
+      "note": "Up to 1 GW of Nvidia hardware."
+    },
+    {
+      "id": "r_oracle_nvda",
+      "from_id": "oracle",
+      "to_id": "nvidia",
+      "type": "chip_purchase",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "undisclosed",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "medium",
+      "source_ids": [
+        "s_eisman"
+      ],
+      "as_of": null,
+      "note": "Debt-funded build for OpenAI; S&P BBB- per Eisman."
+    },
+    {
+      "id": "r_microsoft_nvda",
+      "from_id": "microsoft",
+      "to_id": "nvidia",
+      "type": "chip_purchase",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "undisclosed",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "high",
+      "source_ids": [
+        "s_platformonomics"
+      ],
+      "as_of": "2026-07",
+      "note": "GPU purchases sit inside capex; amount undisclosed.",
+      "as_of_inferred": true
+    },
+    {
+      "id": "r_amazon_nvda",
+      "from_id": "amazon",
+      "to_id": "nvidia",
+      "type": "chip_purchase",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "undisclosed",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "high",
+      "source_ids": [
+        "s_platformonomics"
+      ],
+      "as_of": "2026-07",
+      "note": "Also builds Trainium; Nvidia amount undisclosed.",
+      "as_of_inferred": true
+    },
+    {
+      "id": "r_alphabet_nvda",
+      "from_id": "alphabet",
+      "to_id": "nvidia",
+      "type": "chip_purchase",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "undisclosed",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "high",
+      "source_ids": [
+        "s_platformonomics"
+      ],
+      "as_of": "2026-07",
+      "note": "Also builds TPU; Nvidia amount undisclosed.",
+      "as_of_inferred": true
+    },
+    {
+      "id": "r_meta_nvda",
+      "from_id": "meta",
+      "to_id": "nvidia",
+      "type": "chip_purchase",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "undisclosed",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "high",
+      "source_ids": [
+        "s_dcd_meta"
+      ],
+      "as_of": null,
+      "note": "Multi-year deal for millions of Blackwell/Rubin GPUs plus Grace CPUs."
+    },
+    {
+      "id": "r_meta_amd",
+      "from_id": "meta",
+      "to_id": "amd",
+      "type": "chip_purchase",
+      "amount": 60,
+      "unit": "USD_bn",
+      "amount_basis": "up_to",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "medium",
+      "source_ids": [
+        "s_story18_meta"
+      ],
+      "as_of": null,
+      "note": "AMD said it expects to sell up to $60bn of AI chips to Meta."
+    },
+    {
+      "id": "r_meta_goog",
+      "from_id": "meta",
+      "to_id": "alphabet",
+      "type": "rental",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "undisclosed",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "medium",
+      "source_ids": [
+        "s_story18_meta",
+        "s_dcd_meta"
+      ],
+      "as_of": null,
+      "note": "Multi-year TPU rental (\"billions\"); outright purchase under discussion."
+    },
+    {
+      "id": "r_goog_avgo",
+      "from_id": "alphabet",
+      "to_id": "broadcom",
+      "type": "chip_purchase",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "undisclosed",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "background_unverified",
+      "confidence": "medium",
+      "source_ids": [
+        "s_dcd_meta"
+      ],
+      "as_of": null,
+      "note": "TPU design partner; amount undisclosed."
+    },
+    {
+      "id": "r_apple_goog",
+      "from_id": "apple",
+      "to_id": "alphabet",
+      "type": "licence",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "undisclosed",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "high",
+      "source_ids": [
+        "s_apple_gemini"
+      ],
+      "as_of": null,
+      "note": "Multi-year Gemini deal for Siri; financial terms undisclosed."
+    },
+    {
+      "id": "r_goog_apple",
+      "from_id": "alphabet",
+      "to_id": "apple",
+      "type": "licence",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "annual",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "low",
+      "source_ids": [
+        "s_apple_gemini"
+      ],
+      "as_of": null,
+      "note": "Search-default payments reported at \"tens of billions\" a year; confirm in court filings."
+    },
+    {
+      "id": "r_apple_tsmc",
+      "from_id": "apple",
+      "to_id": "tsmc",
+      "type": "wafer_purchase",
+      "amount": 20.5,
+      "unit": "USD_bn",
+      "amount_basis": "annual",
+      "share_pct": 17,
+      "capacity_gw": null,
+      "period": "2025",
+      "status": "reported",
+      "confidence": "high",
+      "source_ids": [
+        "s_asiae_tsmc",
+        "s_macrumors_tsmc"
+      ],
+      "as_of": "2026-01-28",
+      "note": "2025: NT$645.1bn, 17% of TSMC revenue. 2026E ~ $27bn (18%).",
+      "as_of_inferred": true
+    },
+    {
+      "id": "r_nvda_tsmc",
+      "from_id": "nvidia",
+      "to_id": "tsmc",
+      "type": "wafer_purchase",
+      "amount": 23.2,
+      "unit": "USD_bn",
+      "amount_basis": "annual",
+      "share_pct": 19,
+      "capacity_gw": null,
+      "period": "2025",
+      "status": "reported",
+      "confidence": "high",
+      "source_ids": [
+        "s_asiae_tsmc",
+        "s_macrumors_tsmc"
+      ],
+      "as_of": "2026-01-28",
+      "note": "2025: NT$726.9bn, 19% of TSMC revenue. 2026E ~ $33bn (22%).",
+      "as_of_inferred": true
+    },
+    {
+      "id": "r_avgo_tsmc",
+      "from_id": "broadcom",
+      "to_id": "tsmc",
+      "type": "wafer_purchase",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "share_pct",
+      "share_pct": 13,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "medium",
+      "source_ids": [
+        "s_macrumors_tsmc"
+      ],
+      "as_of": "2026-01-28",
+      "note": "Analyst estimate 11-15% of TSMC sales (custom ASICs).",
+      "as_of_inferred": true
+    },
+    {
+      "id": "r_amd_tsmc",
+      "from_id": "amd",
+      "to_id": "tsmc",
+      "type": "wafer_purchase",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "undisclosed",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "background_unverified",
+      "confidence": "low",
+      "source_ids": [
+        "s_background"
+      ],
+      "as_of": null,
+      "note": ""
+    },
+    {
+      "id": "r_tesla_tsmc",
+      "from_id": "tesla",
+      "to_id": "tsmc",
+      "type": "wafer_purchase",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "undisclosed",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "medium",
+      "source_ids": [
+        "s_tesla_samsung"
+      ],
+      "as_of": null,
+      "note": "AI5 at TSMC; mass production targeted end-2026."
+    },
+    {
+      "id": "r_tesla_samsung",
+      "from_id": "tesla",
+      "to_id": "samsung",
+      "type": "wafer_purchase",
+      "amount": 16.5,
+      "unit": "USD_bn",
+      "amount_basis": "committed",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": "to 2033",
+      "status": "reported",
+      "confidence": "high",
+      "source_ids": [
+        "s_tesla_samsung"
+      ],
+      "as_of": null,
+      "note": "AI6 at Samsung Taylor, Texas, through 2033."
+    },
+    {
+      "id": "r_tesla_nvda",
+      "from_id": "tesla",
+      "to_id": "nvidia",
+      "type": "chip_purchase",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "undisclosed",
+      "share_pct": null,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "low",
+      "source_ids": [
+        "s_tesla_samsung"
+      ],
+      "as_of": null,
+      "note": "Training clusters; weak sourcing."
+    },
+    {
+      "id": "r_tsmc_asml",
+      "from_id": "tsmc",
+      "to_id": "asml",
+      "type": "tool_purchase",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "proxy_share",
+      "share_pct": 30,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "medium",
+      "source_ids": [
+        "s_trendforce_asml",
+        "s_asml_q2"
+      ],
+      "as_of": "2026-07-15",
+      "note": "Proxy: Taiwan was 30% of ASML Q2-26 sales (TSMC is most, not all, of Taiwan). TSMC capex guided $52-56bn (Jan).",
+      "as_of_inferred": true
+    },
+    {
+      "id": "r_samsung_asml",
+      "from_id": "samsung",
+      "to_id": "asml",
+      "type": "tool_purchase",
+      "amount": null,
+      "unit": "USD_bn",
+      "amount_basis": "proxy_share",
+      "share_pct": 43,
+      "capacity_gw": null,
+      "period": null,
+      "status": "reported",
+      "confidence": "low",
+      "source_ids": [
+        "s_trendforce_asml"
+      ],
+      "as_of": "2026-07-15",
+      "note": "Proxy: South Korea (Samsung and SK Hynix together) was 43% of ASML Q2-26 sales; Samsung alone is lower.",
+      "as_of_inferred": true
+    }
+  ],
+  "metrics": [
+    {
+      "id": "m_amzn_capex",
+      "entity_id": "amazon",
+      "key": "capex_guidance",
+      "value": 220,
+      "low": null,
+      "high": null,
+      "unit": "USD_bn",
+      "period": "2026",
+      "status": "reported",
+      "source_ids": [
+        "s_platformonomics"
+      ],
+      "confidence": "high",
+      "as_of": "2026-07",
+      "as_of_inferred": true,
+      "note": ""
+    },
+    {
+      "id": "m_goog_capex",
+      "entity_id": "alphabet",
+      "key": "capex_guidance",
+      "value": 200,
+      "low": 195,
+      "high": 205,
+      "unit": "USD_bn",
+      "period": "2026",
+      "status": "reported",
+      "source_ids": [
+        "s_platformonomics"
+      ],
+      "confidence": "high",
+      "as_of": "2026-07",
+      "as_of_inferred": true,
+      "note": ""
+    },
+    {
+      "id": "m_msft_capex",
+      "entity_id": "microsoft",
+      "key": "capex_guidance",
+      "value": 182.5,
+      "low": 175,
+      "high": 190,
+      "unit": "USD_bn",
+      "period": "CY2026",
+      "status": "reported",
+      "source_ids": [
+        "s_platformonomics"
+      ],
+      "confidence": "high",
+      "as_of": "2026-07",
+      "as_of_inferred": true,
+      "note": "Varies with data-centre lease treatment."
+    },
+    {
+      "id": "m_meta_capex",
+      "entity_id": "meta",
+      "key": "capex_guidance",
+      "value": 137.5,
+      "low": 130,
+      "high": 145,
+      "unit": "USD_bn",
+      "period": "2026",
+      "status": "reported",
+      "source_ids": [
+        "s_platformonomics"
+      ],
+      "confidence": "high",
+      "as_of": "2026-07",
+      "as_of_inferred": true,
+      "note": ""
+    },
+    {
+      "id": "m_tsmc_capex",
+      "entity_id": "tsmc",
+      "key": "capex_guidance",
+      "value": 54,
+      "low": 52,
+      "high": 56,
+      "unit": "USD_bn",
+      "period": "2026",
+      "status": "reported",
+      "source_ids": [
+        "s_macrumors_tsmc"
+      ],
+      "confidence": "medium",
+      "as_of": "2026-01-28",
+      "as_of_inferred": true,
+      "note": "January guidance; may have been revised."
+    },
+    {
+      "id": "m_asml_sales",
+      "entity_id": "asml",
+      "key": "net_sales_guidance",
+      "value": 44,
+      "low": 43,
+      "high": 45,
+      "unit": "EUR_bn",
+      "period": "2026",
+      "status": "reported",
+      "source_ids": [
+        "s_asml_q2"
+      ],
+      "confidence": "high",
+      "as_of": "2026-07-15",
+      "as_of_inferred": true,
+      "note": ""
+    },
+    {
+      "id": "m_goog_q2capex",
+      "entity_id": "alphabet",
+      "key": "capex_quarter",
+      "value": 44.9,
+      "low": null,
+      "high": null,
+      "unit": "USD_bn",
+      "period": "Q2 2026",
+      "status": "reported",
+      "source_ids": [
+        "s_platformonomics"
+      ],
+      "confidence": "high",
+      "as_of": "2026-07",
+      "as_of_inferred": true,
+      "note": ""
+    },
+    {
+      "id": "m_goog_q2fcf",
+      "entity_id": "alphabet",
+      "key": "free_cash_flow_quarter",
+      "value": -5.9,
+      "low": null,
+      "high": null,
+      "unit": "USD_bn",
+      "period": "Q2 2026",
+      "status": "reported",
+      "source_ids": [
+        "s_platformonomics"
+      ],
+      "confidence": "high",
+      "as_of": "2026-07",
+      "as_of_inferred": true,
+      "note": ""
+    },
+    {
+      "id": "m_tsmc_rev25",
+      "entity_id": "tsmc",
+      "key": "revenue",
+      "value": 122,
+      "low": null,
+      "high": null,
+      "unit": "USD_bn",
+      "period": "2025",
+      "status": "reported",
+      "source_ids": [
+        "s_asiae_tsmc"
+      ],
+      "confidence": "medium",
+      "as_of": "2026-03-06",
+      "as_of_inferred": true,
+      "note": ""
+    },
+    {
+      "id": "m_nvda_ar",
+      "entity_id": "nvidia",
+      "key": "receivables_top5_share",
+      "value": 70,
+      "low": null,
+      "high": null,
+      "unit": "pct",
+      "period": "Jul 2026",
+      "status": "claimed_by_eisman",
+      "source_ids": [
+        "s_eisman"
+      ],
+      "confidence": "medium",
+      "as_of": null,
+      "note": "Note 7 of the 10-Q per Eisman; verify in the filing."
+    },
+    {
+      "id": "m_orcl_rpo",
+      "entity_id": "oracle",
+      "key": "rpo",
+      "value": 600,
+      "low": null,
+      "high": null,
+      "unit": "USD_bn",
+      "period": "latest",
+      "status": "claimed_by_eisman",
+      "source_ids": [
+        "s_eisman"
+      ],
+      "confidence": "medium",
+      "as_of": null,
+      "note": "\"Over 600 billion\" as spoken."
+    },
+    {
+      "id": "m_orcl_rpo_openai",
+      "entity_id": "oracle",
+      "key": "rpo_openai_share",
+      "value": 50,
+      "low": null,
+      "high": null,
+      "unit": "pct",
+      "period": "latest",
+      "status": "claimed_by_eisman",
+      "source_ids": [
+        "s_eisman"
+      ],
+      "confidence": "medium",
+      "as_of": null,
+      "note": ""
+    },
+    {
+      "id": "m_openai_q2rev",
+      "entity_id": "openai",
+      "key": "revenue_quarter",
+      "value": 6.5,
+      "low": null,
+      "high": null,
+      "unit": "USD_bn",
+      "period": "Q2 2026",
+      "status": "claimed_by_eisman",
+      "source_ids": [
+        "s_eisman"
+      ],
+      "confidence": "medium",
+      "as_of": null,
+      "note": "Eisman citing the WSJ."
+    },
+    {
+      "id": "m_openai_q2cost",
+      "entity_id": "openai",
+      "key": "cost_quarter",
+      "value": 12,
+      "low": null,
+      "high": null,
+      "unit": "USD_bn",
+      "period": "Q2 2026",
+      "status": "claimed_by_eisman",
+      "source_ids": [
+        "s_eisman"
+      ],
+      "confidence": "medium",
+      "as_of": null,
+      "note": ""
+    },
+    {
+      "id": "m_anth_q2rev",
+      "entity_id": "anthropic",
+      "key": "revenue_quarter",
+      "value": 11,
+      "low": null,
+      "high": null,
+      "unit": "USD_bn",
+      "period": "Q2 2026",
+      "status": "claimed_by_eisman",
+      "source_ids": [
+        "s_eisman"
+      ],
+      "confidence": "medium",
+      "as_of": null,
+      "note": "\"11 plus\"; growth over 100% in three months."
+    },
+    {
+      "id": "m_tsmc_hpc",
+      "entity_id": "tsmc",
+      "key": "hpc_share_of_revenue",
+      "value": 61,
+      "low": null,
+      "high": null,
+      "unit": "pct",
+      "period": "Q1 2026",
+      "status": "reported",
+      "source_ids": [
+        "s_asiae_tsmc"
+      ],
+      "confidence": "medium",
+      "as_of": "2026-03-06",
+      "as_of_inferred": true,
+      "note": ""
+    },
+    {
+      "id": "m_asml_china",
+      "entity_id": "asml",
+      "key": "china_share_of_sales",
+      "value": 14,
+      "low": null,
+      "high": null,
+      "unit": "pct",
+      "period": "Q2 2026",
+      "status": "reported",
+      "source_ids": [
+        "s_trendforce_asml"
+      ],
+      "confidence": "high",
+      "as_of": "2026-07-15",
+      "as_of_inferred": true,
+      "note": ""
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "speaker": "Eisman",
+      "text": "70% of AI revenue at Microsoft, Amazon and Google comes from OpenAI and Anthropic; this equals 25-30% of their cloud revenue.",
+      "entity_ids": [
+        "microsoft",
+        "amazon",
+        "alphabet",
+        "openai",
+        "anthropic"
+      ],
+      "source_ids": [
+        "s_eisman"
+      ],
+      "verify": "Not disclosed in filings; test against segment commentary."
+    },
+    {
+      "id": "c2",
+      "speaker": "Eisman",
+      "text": "Oracle is rated BBB- by S&P, one notch above junk.",
+      "entity_ids": [
+        "oracle"
+      ],
+      "source_ids": [
+        "s_eisman"
+      ],
+      "verify": "Check S&P / Oracle 10-K debt note."
+    },
+    {
+      "id": "c3",
+      "speaker": "Eisman",
+      "text": "Alphabet raised $85bn of equity capital.",
+      "entity_ids": [
+        "alphabet"
+      ],
+      "source_ids": [
+        "s_eisman"
+      ],
+      "verify": "Uncorroborated in this research; check Alphabet 8-K / 10-Q."
+    },
+    {
+      "id": "c4",
+      "speaker": "Eisman",
+      "text": "Token-maxing has ended; open-weight models are taking share; LLMs have no moat.",
+      "entity_ids": [
+        "openai",
+        "anthropic"
+      ],
+      "source_ids": [
+        "s_eisman"
+      ],
+      "verify": "Opinion; track pricing and share data."
+    },
+    {
+      "id": "c5",
+      "speaker": "Eisman",
+      "text": "10-year Treasury yield near 5% is the level at which a market correction becomes likely.",
+      "entity_ids": [],
+      "source_ids": [
+        "s_eisman"
+      ],
+      "verify": "Live series: FRED DGS10."
+    }
+  ]
+}

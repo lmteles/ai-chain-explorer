@@ -1,0 +1,804 @@
+{
+ "adapter": "news",
+ "updated_at": "2026-10-04T20:31:40.830Z",
+ "clusters": [
+  {
+   "id": "c_e293d55974",
+   "entity_ids": [
+    "openai",
+    "softbank"
+   ],
+   "first_seen": "2026-10-02T09:15:00Z",
+   "last_seen": "2026-10-02T09:15:00Z",
+   "headlines": [
+    {
+     "title": "SoftBank closes $30b investment in OpenAI",
+     "url": "https://www.dealstreetasia.com/stories/softbank-closes-30b-investment-in-openai-496964",
+     "domain": "dealstreetasia.com",
+     "seen": "2026-10-02T09:15:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Same story as c_97bccf7aca (SoftBank closes $30bn).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_97bccf7aca",
+   "entity_ids": [
+    "openai",
+    "softbank"
+   ],
+   "first_seen": "2026-10-01T15:00:00Z",
+   "last_seen": "2026-10-02T08:45:00Z",
+   "headlines": [
+    {
+     "title": "SoftBank completes OpenAI $10 billion third tranche",
+     "url": "https://jp.ibtimes.com/softbank-completes-openai-10-billion-third-tranche-104611",
+     "domain": "jp.ibtimes.com",
+     "seen": "2026-10-01T15:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank completes final phase of $30 billion investment in OpenAI",
+     "url": "https://www.aol.com/articles/softbank-completes-final-phase-30-190326000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-01T19:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank Shares Fall After $10 Billion OpenAI Investment",
+     "url": "http://www.econotimes.com/SoftBank-Shares-Fall-After-10-Billion-OpenAI-Investment-1753761",
+     "domain": "econotimes.com",
+     "seen": "2026-10-02T08:45:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "proposed",
+    "note": "Event: SoftBank closed its $30bn OpenAI investment (news_20261004_softbank_openai_closed).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_239f6aadea",
+   "entity_ids": [
+    "softbank"
+   ],
+   "first_seen": "2026-10-02T08:00:00Z",
+   "last_seen": "2026-10-02T08:00:00Z",
+   "headlines": [
+    {
+     "title": "SoftBank Shares Rebound as Investors Focus on AI Bets Despite Rising Debt Costs",
+     "url": "https://slguardian.org/softbank-shares-rebound-as-investors-focus-on-ai-bets-despite-rising-debt-costs/",
+     "domain": "slguardian.org",
+     "seen": "2026-10-02T08:00:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_5b0867e0fa",
+   "entity_ids": [
+    "anthropic",
+    "broadcom"
+   ],
+   "first_seen": "2026-10-01T23:15:00Z",
+   "last_seen": "2026-10-02T05:45:00Z",
+   "headlines": [
+    {
+     "title": "Exclusive - Broadcom to lend Anthropic up to $42 billion to lease its chips , filing says",
+     "url": "https://www.ksl.com:443/article/51630976/exclusive-broadcom-to-lendanthropic-up-to-42-billion-to-lease-its-chips-filing-says",
+     "domain": "ksl.com",
+     "seen": "2026-10-01T23:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Broadcom to lend Anthropic $42 billion to lease its chips AI circular financing scam . ",
+     "url": "https://www.investmentwatchblog.com/broadcom-to-lend-anthropic-42-billion-to-lease-its-chips-ai-circular-financing-scam/",
+     "domain": "investmentwatchblog.com",
+     "seen": "2026-10-02T00:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Broadcom to lend Anthropic up to $42 billion to lease its chips , filing says",
+     "url": "https://dunyanews.tv/en/Technology/975740-broadcom-to-lend-anthropic-up-to-42-billion-to-lease-its-chips-filin",
+     "domain": "dunyanews.tv",
+     "seen": "2026-10-02T05:45:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "proposed",
+    "note": "New debt edge Broadcom → Anthropic (news_20261004_broadcom_anthropic_loan).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_90d489f4d0",
+   "entity_ids": [
+    "softbank"
+   ],
+   "first_seen": "2026-10-02T03:15:00Z",
+   "last_seen": "2026-10-02T03:15:00Z",
+   "headlines": [
+    {
+     "title": "SoftBank stock investors see past credit risks to AI returns",
+     "url": "https://www.moneycontrol.com/news/business/softbank-stock-investors-see-past-credit-risks-to-ai-returns-14043238.html",
+     "domain": "moneycontrol.com",
+     "seen": "2026-10-02T03:15:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_0f857a011c",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-01T22:00:00Z",
+   "last_seen": "2026-10-01T22:00:00Z",
+   "headlines": [
+    {
+     "title": "Dario Amodei $518 Billion Anthropic Infrastructure Bet",
+     "url": "https://observer.com/2026/10/dario-amodeis-518-billion-anthropic-infrastructure-bet/",
+     "domain": "observer.com",
+     "seen": "2026-10-01T22:00:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Anthropic aggregate ($518bn of commitments) or IPO coverage: not a single edge. The prospectus itself is the source to extract once it is on EDGAR.",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_393e758085",
+   "entity_ids": [
+    "amd"
+   ],
+   "first_seen": "2026-10-01T19:45:00Z",
+   "last_seen": "2026-10-01T20:15:00Z",
+   "headlines": [
+    {
+     "title": "Applied Materials vs . AMD : Which AI Semiconductor Stock Is a Better Buy in 2026 ? ",
+     "url": "https://www.fool.com/coverage/better-buy/2026/10/01/applied-materials-vs-advanced-micro-devices-ai-semiconductor-stock-better-buy-2026/",
+     "domain": "fool.com",
+     "seen": "2026-10-01T19:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Applied Materials vs . AMD : Which AI Semiconductor Stock Is a Better Buy in 2026 ? ",
+     "url": "https://www.fool.com/coverage/better-buy/2026/10/01/applied-materials-vs-advanced-micro-devices-ai-semiconductor-stock-better-buy-2026/?source=iedfolrf0000001",
+     "domain": "fool.com",
+     "seen": "2026-10-01T20:15:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_317eefafc5",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-10-01T16:00:00Z",
+   "last_seen": "2026-10-01T16:00:00Z",
+   "headlines": [
+    {
+     "title": "OpenAI seeks $30bn at a $1 . 4tn valuation as revenue nears $70bn",
+     "url": "https://thenextweb.com/news/openai-valuation-1-4tn-30bn-round-revenue-70bn",
+     "domain": "thenextweb.com",
+     "seen": "2026-10-01T16:00:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "OpenAI fundraising and valuation: no counterparty named.",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_a662fdb1eb",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-01T15:00:00Z",
+   "last_seen": "2026-10-01T15:00:00Z",
+   "headlines": [
+    {
+     "title": "Price Prediction : Amazon Stock Will Hit $400 on This Date",
+     "url": "https://247wallst.com/investing/2026/10/01/price-prediction-amazon-stock-will-hit-400-on-this-date/",
+     "domain": "247wallst.com",
+     "seen": "2026-10-01T15:00:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_2d4cb7a285",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-01T13:00:49.000Z",
+   "last_seen": "2026-10-01T13:00:49.000Z",
+   "headlines": [
+    {
+     "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+     "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+     "domain": "blogs.nvidia.com",
+     "seen": "2026-10-01T13:00:49.000Z",
+     "source": "rss"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_a219e2a94e",
+   "entity_ids": [
+    "anthropic",
+    "broadcom"
+   ],
+   "first_seen": "2026-10-01T13:00:00Z",
+   "last_seen": "2026-10-01T13:00:00Z",
+   "headlines": [
+    {
+     "title": "Broadcom $42 billion deal with Anthropic : Key details to know",
+     "url": "https://www.thenews.com.pk/latest/1418340-broadcoms-42-billion-deal-with-anthropic-key-details-to-know",
+     "domain": "thenews.com.pk",
+     "seen": "2026-10-01T13:00:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Same story as c_5b0867e0fa (Broadcom loan).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_b2a6101c4f",
+   "entity_ids": [
+    "samsung"
+   ],
+   "first_seen": "2026-10-01T03:45:00Z",
+   "last_seen": "2026-10-01T03:45:00Z",
+   "headlines": [
+    {
+     "title": "Samsung Helix Investment 2026 : The $1B Six - Way Sales Pitch",
+     "url": "https://memeburn.com/samsung-helix-ai-investment/",
+     "domain": "memeburn.com",
+     "seen": "2026-10-01T03:45:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_d48f9387cb",
+   "entity_ids": [
+    "openai",
+    "amazon"
+   ],
+   "first_seen": "2026-10-01T02:45:00Z",
+   "last_seen": "2026-10-01T02:45:00Z",
+   "headlines": [
+    {
+     "title": "OpenAI , SpaceX investor funds went to strip clubs , Bloomingdale , and shopping on Amazon , SEC alleges in charges against private fund advisers",
+     "url": "https://fortune.com/2026/09/30/openai-spacex-private-fund-advisers-charged/",
+     "domain": "fortune.com",
+     "seen": "2026-10-01T02:45:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_e91c3b0e4f",
+   "entity_ids": [
+    "anthropic",
+    "amazon"
+   ],
+   "first_seen": "2026-10-01T01:45:00Z",
+   "last_seen": "2026-10-01T02:30:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic Plans to Spend $518 Billion on Cloud and Data Centers . More Than $100 Billion Is Already Promised to Amazon . ",
+     "url": "https://www.aol.com/articles/anthropic-plans-spend-518-billion-005701000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-01T01:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic Plans to Spend $518 Billion on Cloud and Data Centers . More Than $100 Billion Is Already Promised to Amazon . ",
+     "url": "https://www.fool.com/investing/2026/09/30/anthropic-plans-to-spend-usd518-billion-on-cloud-and-data-centers-more-than-usd100-billion-is-already-promised-to-amazon/",
+     "domain": "fool.com",
+     "seen": "2026-10-01T02:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic Plans to Spend $518 Billion on Cloud and Data Centers . More Than $100 Billion Is Already Promised to Amazon . ",
+     "url": "https://www.fool.com/investing/2026/09/30/anthropic-plans-to-spend-usd518-billion-on-cloud-and-data-centers-more-than-usd100-billion-is-already-promised-to-amazon/?source=iedfolrf0000001",
+     "domain": "fool.com",
+     "seen": "2026-10-01T02:30:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "proposed",
+    "note": "Event on Anthropic → Amazon commitment (news_20261004_anthropic_amazon_100bn).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_74fed4fbb2",
+   "entity_ids": [
+    "alphabet"
+   ],
+   "first_seen": "2026-09-30T22:45:00Z",
+   "last_seen": "2026-09-30T22:45:00Z",
+   "headlines": [
+    {
+     "title": "7 Things Happening Inside Alphabet That Could Reshape GOOGL - What Investors Need to Know",
+     "url": "https://www.aol.com/articles/7-things-happening-inside-alphabet-203703000.html",
+     "domain": "aol.com",
+     "seen": "2026-09-30T22:45:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_ec377b08fb",
+   "entity_ids": [
+    "openai",
+    "anthropic",
+    "meta"
+   ],
+   "first_seen": "2026-09-30T19:15:00Z",
+   "last_seen": "2026-09-30T19:15:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic , OpenAI , Meta , SpaceX Sign Trump Accord Amid Financial Flubs",
+     "url": "https://www.nakedcapitalism.com/2026/09/anthropic-s1-meta-tax-breaks-data-centers-openai-oracle-spacex.html",
+     "domain": "nakedcapitalism.com",
+     "seen": "2026-09-30T19:15:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_f9faccd416",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-09-30T17:00:21.000Z",
+   "last_seen": "2026-09-30T17:00:21.000Z",
+   "headlines": [
+    {
+     "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
+     "url": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
+     "domain": "blogs.nvidia.com",
+     "seen": "2026-09-30T17:00:21.000Z",
+     "source": "rss"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_a5f12830dc",
+   "entity_ids": [
+    "openai",
+    "softbank"
+   ],
+   "first_seen": "2026-09-30T14:30:00Z",
+   "last_seen": "2026-09-30T14:30:00Z",
+   "headlines": [
+    {
+     "title": "OpenAI , SoftBank putting $6M toward local childcare ; Trump touts data centers at AI summit",
+     "url": "https://www.vintonjacksoncourier.com/news/openai-softbank-putting-6m-toward-local-childcare-trump-touts-data-centers-at-ai-summit/article_a7348471-0705-554c-9f3d-3b88e233ad33.html",
+     "domain": "vintonjacksoncourier.com",
+     "seen": "2026-09-30T14:30:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_214bbfabe8",
+   "entity_ids": [
+    "nvidia",
+    "broadcom"
+   ],
+   "first_seen": "2026-09-30T14:00:00Z",
+   "last_seen": "2026-09-30T14:00:00Z",
+   "headlines": [
+    {
+     "title": "Broadcom vs . NVIDIA : Which Technology Stock Is a Better Buy in 2026 ? ",
+     "url": "https://www.fool.com/coverage/better-buy/2026/09/30/broadcom-vs-nvidia-which-technology-stock-is-a-better-buy-in-2026/",
+     "domain": "fool.com",
+     "seen": "2026-09-30T14:00:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_b561d8145f",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-09-30T00:45:00Z",
+   "last_seen": "2026-09-30T07:15:00Z",
+   "headlines": [
+    {
+     "title": "Exclusive - Anthropic IPO prospectus lays bare deep dependence on Big Tech partners",
+     "url": "https://www.thestar.com.my/tech/tech-news/2026/09/30/exclusive-anthropic-ipo-prospectus-lays-bare-deep-dependence-on-big-tech-partners",
+     "domain": "thestar.com.my",
+     "seen": "2026-09-30T00:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic IPO prospectus lays bare deep dependence on Big Tech partners",
+     "url": "https://www.business-standard.com/world-news/anthropic-ipo-prospectus-lays-bare-deep-dependence-on-big-tech-partners-126093000297_1.html",
+     "domain": "business-standard.com",
+     "seen": "2026-09-30T07:15:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Anthropic aggregate ($518bn of commitments) or IPO coverage: not a single edge. The prospectus itself is the source to extract once it is on EDGAR.",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_c45e4ffc06",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-09-29T12:30:00Z",
+   "last_seen": "2026-09-29T22:00:00Z",
+   "headlines": [
+    {
+     "title": "Bulk of Anthropic $518 - billion in AI build - out commitments cannot be cancelled , IPO filing shows",
+     "url": "https://www.theglobeandmail.com/investing/article-anthropic-ai-build-out-commitments-cannot-be-cancelled-ipo-filing/",
+     "domain": "theglobeandmail.com",
+     "seen": "2026-09-29T12:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic $518 billion AI buildout hinges largely on deals that cannot be canceled , filing shows",
+     "url": "https://www.ksl.com:443/article/51629885/anthropics-518-billion-ai-buildout-hinges-largely-on-deals-that-cannot-be-canceled-filing-shows",
+     "domain": "ksl.com",
+     "seen": "2026-09-29T17:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic $518b AI buildout hinges largely on deals that cannot be canceled , filing shows",
+     "url": "https://tribune.com.pk/story/2632108/anthropics-518b-ai-buildout-hinges-largely-on-deals-that-cannot-be-canceled-filing-shows",
+     "domain": "tribune.com.pk",
+     "seen": "2026-09-29T22:00:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Anthropic aggregate ($518bn of commitments) or IPO coverage: not a single edge. The prospectus itself is the source to extract once it is on EDGAR.",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_e2c7570aa7",
+   "entity_ids": [
+    "openai",
+    "alphabet"
+   ],
+   "first_seen": "2026-09-29T17:45:00Z",
+   "last_seen": "2026-09-29T17:45:00Z",
+   "headlines": [
+    {
+     "title": "OpenAI Hires Another Google Cloud Global Partner Executive",
+     "url": "https://www.crn.com/news/ai/2026/openai-hires-another-google-cloud-global-partner-executive",
+     "domain": "crn.com",
+     "seen": "2026-09-29T17:45:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_95832edf8a",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-09-29T12:45:00Z",
+   "last_seen": "2026-09-29T16:15:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic eyes USD 518 billion AI buildout ; backed by ~80 % non - cancellable deals",
+     "url": "http://www.indiagazette.com/news/279340150/anthropic-eyes-usd-518-billion-ai-buildout-backed-by-80-non-cancellable-deals",
+     "domain": "indiagazette.com",
+     "seen": "2026-09-29T12:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic eyes USD 518 billion AI buildout ; backed by ~80 % non - cancellable deals",
+     "url": "http://www.caribbeanherald.com/news/279340150/anthropic-eyes-usd-518-billion-ai-buildout-backed-by-80-non-cancellable-deals",
+     "domain": "caribbeanherald.com",
+     "seen": "2026-09-29T13:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic eyes USD 518 billion AI buildout ; backed by ~80 % non - cancellable deals",
+     "url": "http://www.shanghainews.net/news/279340150/anthropic-eyes-usd-518-billion-ai-buildout-backed-by-80-non-cancellable-deals",
+     "domain": "shanghainews.net",
+     "seen": "2026-09-29T13:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic eyes USD 518 billion AI buildout ; backed by ~80 % non - cancellable deals",
+     "url": "http://www.jamaicantimes.com/news/279340150/anthropic-eyes-usd-518-billion-ai-buildout-backed-by-80-non-cancellable-deals",
+     "domain": "jamaicantimes.com",
+     "seen": "2026-09-29T13:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic eyes USD 518 billion AI buildout ; backed by ~80 % non - cancellable deals",
+     "url": "http://www.texasguardian.com/news/279340150/anthropic-eyes-usd-518-billion-ai-buildout-backed-by-80-non-cancellable-deals",
+     "domain": "texasguardian.com",
+     "seen": "2026-09-29T14:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic eyes USD 518 billion AI buildout ; backed by ~80 % non - cancellable deals",
+     "url": "http://www.cincinnatisun.com/news/279340150/anthropic-eyes-usd-518-billion-ai-buildout-backed-by-80-non-cancellable-deals",
+     "domain": "cincinnatisun.com",
+     "seen": "2026-09-29T14:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic eyes USD 518 billion AI buildout ; backed by ~80 % non - cancellable deals",
+     "url": "http://www.birminghamstar.com/news/279340150/anthropic-eyes-usd-518-billion-ai-buildout-backed-by-80-non-cancellable-deals",
+     "domain": "birminghamstar.com",
+     "seen": "2026-09-29T14:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic eyes USD 518 billion AI buildout ; backed by ~80 % non - cancellable deals",
+     "url": "http://www.middleeaststar.com/news/279340150/anthropic-eyes-usd-518-billion-ai-buildout-backed-by-80-non-cancellable-deals",
+     "domain": "middleeaststar.com",
+     "seen": "2026-09-29T16:15:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Anthropic aggregate ($518bn of commitments) or IPO coverage: not a single edge. The prospectus itself is the source to extract once it is on EDGAR.",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_2b69c88930",
+   "entity_ids": [
+    "alphabet"
+   ],
+   "first_seen": "2026-09-29T14:15:00.000Z",
+   "last_seen": "2026-09-29T14:15:00.000Z",
+   "headlines": [
+    {
+     "title": "Google is a technology partner for the launch of America.gov.",
+     "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/america-gov-google-public-sector/",
+     "domain": "blog.google",
+     "seen": "2026-09-29T14:15:00.000Z",
+     "source": "rss"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_4a221169bb",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-09-29T12:30:00Z",
+   "last_seen": "2026-09-29T12:30:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic IPO : Can its $2 trillion valuation survive a $42 billion loss and massive AI spending ? ",
+     "url": "https://www.hindustantimes.com/world-news/us-news/anthropic-ipo-can-its-2-trillion-valuation-survive-a-42-billion-loss-and-massive-ai-spending-101790681707917.html",
+     "domain": "hindustantimes.com",
+     "seen": "2026-09-29T12:30:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Anthropic aggregate ($518bn of commitments) or IPO coverage: not a single edge. The prospectus itself is the source to extract once it is on EDGAR.",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_adbc328cd6",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-09-29T09:18:58.000Z",
+   "last_seen": "2026-09-29T09:18:58.000Z",
+   "headlines": [
+    {
+     "title": "Meta Partners With Government Agencies, Law Enforcement, and Safety Organizations to Launch Regional Anti-Scam Education Campaign",
+     "url": "https://about.fb.com/news/2026/09/meta-one-step-ahead-campaign/",
+     "domain": "about.fb.com",
+     "seen": "2026-09-29T09:18:58.000Z",
+     "source": "rss"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_c8f33aa772",
+   "entity_ids": [
+    "anthropic",
+    "nvidia"
+   ],
+   "first_seen": "2026-09-29T08:00:00Z",
+   "last_seen": "2026-09-29T08:00:00Z",
+   "headlines": [
+    {
+     "title": "Nvidia Anthropic IPO Investment Talks : A $10 Billion Bet on Its Own Best Customer",
+     "url": "https://www.financial-news.co.uk/nvidia-anthropic-ipo-investment-talks-a-10-billion-bet-on-its-own-best-customer/",
+     "domain": "financial-news.co.uk",
+     "seen": "2026-09-29T08:00:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "\"Talks\" only; the up-to-$10bn Nvidia equity edge already exists.",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_468beaac69",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-09-28T15:45:00Z",
+   "last_seen": "2026-09-28T17:30:00Z",
+   "headlines": [
+    {
+     "title": "SpaceX vs . Tesla : Which Elon Musk Stock Is the Better Buy for the Next 5 Years ? ",
+     "url": "https://www.fool.com/investing/2026/09/28/spacex-vs-tesla-which-elon-musk-stock-is-the-bette/",
+     "domain": "fool.com",
+     "seen": "2026-09-28T15:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SpaceX vs . Tesla : Which Elon Musk Stock Is the Better Buy for the Next 5 Years ? ",
+     "url": "https://www.fool.com/investing/2026/09/28/spacex-vs-tesla-which-elon-musk-stock-is-the-bette/?source=iedfolrf0000001",
+     "domain": "fool.com",
+     "seen": "2026-09-28T17:30:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_e09b43228c",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-09-28T11:00:00.000Z",
+   "last_seen": "2026-09-28T11:00:00.000Z",
+   "headlines": [
+    {
+     "title": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase",
+     "domain": "nvidianews.nvidia.com",
+     "seen": "2026-09-28T11:00:00.000Z",
+     "source": "rss"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  },
+  {
+   "id": "c_3a49bc194f",
+   "entity_ids": [
+    "oracle"
+   ],
+   "first_seen": "2026-09-28T05:30:00Z",
+   "last_seen": "2026-09-28T05:30:00Z",
+   "headlines": [
+    {
+     "title": "Oracle has $664 billion of AI contracts . Its data center debt is already trading below par",
+     "url": "https://www.investmentwatchblog.com/oracle-has-664-billion-of-ai-contracts-its-data-center-debt-is-already-trading-below-par/",
+     "domain": "investmentwatchblog.com",
+     "seen": "2026-09-28T05:30:00Z",
+     "source": "gdelt"
+    }
+   ],
+   "triage": {
+    "result": "no_change",
+    "note": "Oracle RPO of $664bn is already a filed figure from the 10-Q.",
+    "at": "2026-10-04T19:30:00Z"
+   }
+  }
+ ]
+}

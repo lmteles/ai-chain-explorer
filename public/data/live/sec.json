@@ -1,0 +1,6105 @@
+{
+ "adapter": "sec",
+ "fetched_at": "2026-10-04T18:06:44.940Z",
+ "metrics": [
+  {
+   "id": "sec_oracle_capex_quarter_q32026",
+   "entity_id": "oracle",
+   "key": "capex_quarter",
+   "value": 28.499,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q3 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001193125-26-389274"
+   ],
+   "confidence": "high",
+   "as_of": "2026-09-11",
+   "note": "Cash capex (PaymentsToAcquirePropertyPlantAndEquipment), 3 months 2026-06-01 to 2026-08-31; as reported. Excludes finance-lease additions."
+  },
+  {
+   "id": "sec_oracle_operating_cash_flow_quarter_q32026",
+   "entity_id": "oracle",
+   "key": "operating_cash_flow_quarter",
+   "value": 23.103,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q3 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001193125-26-389274"
+   ],
+   "confidence": "high",
+   "as_of": "2026-09-11",
+   "note": "3 months 2026-06-01 to 2026-08-31; as reported."
+  },
+  {
+   "id": "sec_oracle_free_cash_flow_quarter_q32026",
+   "entity_id": "oracle",
+   "key": "free_cash_flow_quarter",
+   "value": -5.396,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q3 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001193125-26-389274"
+   ],
+   "confidence": "high",
+   "as_of": "2026-09-11",
+   "note": "Operating cash flow minus cash capex, 3 months 2026-06-01 to 2026-08-31."
+  },
+  {
+   "id": "sec_oracle_revenue_quarter_q32026",
+   "entity_id": "oracle",
+   "key": "revenue_quarter",
+   "value": 19.345,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q3 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001193125-26-389274"
+   ],
+   "confidence": "high",
+   "as_of": "2026-09-11",
+   "note": "RevenueFromContractWithCustomerExcludingAssessedTax, 3 months 2026-06-01 to 2026-08-31; as reported."
+  },
+  {
+   "id": "sec_oracle_revenue_ttm_q32026",
+   "entity_id": "oracle",
+   "key": "revenue_ttm",
+   "value": 71.777,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "TTM to 2026-08-31",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001193125-26-389274",
+    "sec_0001193125-26-277521",
+    "sec_0001193125-26-101045",
+    "sec_0001193125-25-315925"
+   ],
+   "confidence": "high",
+   "as_of": "2026-09-11",
+   "note": "Sum of the last four discrete quarters (same basis, same currency)."
+  },
+  {
+   "id": "sec_oracle_rpo_q32026",
+   "entity_id": "oracle",
+   "key": "rpo",
+   "value": 664,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q3 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001193125-26-389274"
+   ],
+   "confidence": "high",
+   "as_of": "2026-09-11",
+   "note": "Remaining performance obligations at 2026-08-31 (RevenueRemainingPerformanceObligation)."
+  },
+  {
+   "id": "sec_microsoft_capex_quarter_q22026",
+   "entity_id": "microsoft",
+   "key": "capex_quarter",
+   "value": 35.802,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001193125-26-323660",
+    "sec_0001193125-26-191507"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-29",
+   "note": "Cash capex (PaymentsToAcquirePropertyPlantAndEquipment), 3 months 2026-04-01 to 2026-06-30; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative). Excludes finance-lease additions."
+  },
+  {
+   "id": "sec_microsoft_operating_cash_flow_quarter_q22026",
+   "entity_id": "microsoft",
+   "key": "operating_cash_flow_quarter",
+   "value": 55.441,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001193125-26-323660",
+    "sec_0001193125-26-191507"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-29",
+   "note": "3 months 2026-04-01 to 2026-06-30; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
+  },
+  {
+   "id": "sec_microsoft_free_cash_flow_quarter_q22026",
+   "entity_id": "microsoft",
+   "key": "free_cash_flow_quarter",
+   "value": 19.639,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001193125-26-323660",
+    "sec_0001193125-26-191507"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-29",
+   "note": "Operating cash flow minus cash capex, 3 months 2026-04-01 to 2026-06-30."
+  },
+  {
+   "id": "sec_microsoft_revenue_quarter_q22026",
+   "entity_id": "microsoft",
+   "key": "revenue_quarter",
+   "value": 90.007,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001193125-26-323660",
+    "sec_0001193125-26-191507"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-29",
+   "note": "RevenueFromContractWithCustomerExcludingAssessedTax, 3 months 2026-04-01 to 2026-06-30; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
+  },
+  {
+   "id": "sec_microsoft_revenue_ttm_q22026",
+   "entity_id": "microsoft",
+   "key": "revenue_ttm",
+   "value": 331.839,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "TTM to 2026-06-30",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001193125-26-323660",
+    "sec_0001193125-26-191507",
+    "sec_0001193125-26-027207",
+    "sec_0001193125-25-256321"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-29",
+   "note": "Sum of the last four discrete quarters (same basis, same currency)."
+  },
+  {
+   "id": "sec_amazon_capex_quarter_q22026",
+   "entity_id": "amazon",
+   "key": "capex_quarter",
+   "value": 54.208,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001018724-26-000026"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-31",
+   "note": "Cash capex (PaymentsToAcquireProductiveAssets), 3 months 2026-04-01 to 2026-06-30; as reported. Excludes finance-lease additions."
+  },
+  {
+   "id": "sec_amazon_operating_cash_flow_quarter_q22026",
+   "entity_id": "amazon",
+   "key": "operating_cash_flow_quarter",
+   "value": 45.387,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001018724-26-000026"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-31",
+   "note": "3 months 2026-04-01 to 2026-06-30; as reported."
+  },
+  {
+   "id": "sec_amazon_free_cash_flow_quarter_q22026",
+   "entity_id": "amazon",
+   "key": "free_cash_flow_quarter",
+   "value": -8.821,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001018724-26-000026"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-31",
+   "note": "Operating cash flow minus cash capex, 3 months 2026-04-01 to 2026-06-30."
+  },
+  {
+   "id": "sec_amazon_revenue_quarter_q22026",
+   "entity_id": "amazon",
+   "key": "revenue_quarter",
+   "value": 200.606,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001018724-26-000026"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-31",
+   "note": "RevenueFromContractWithCustomerExcludingAssessedTax, 3 months 2026-04-01 to 2026-06-30; as reported."
+  },
+  {
+   "id": "sec_amazon_revenue_ttm_q22026",
+   "entity_id": "amazon",
+   "key": "revenue_ttm",
+   "value": 775.68,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "TTM to 2026-06-30",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001018724-26-000026",
+    "sec_0001018724-26-000014",
+    "sec_0001018724-26-000004",
+    "sec_0001018724-25-000123"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-31",
+   "note": "Sum of the last four discrete quarters (same basis, same currency)."
+  },
+  {
+   "id": "sec_alphabet_capex_quarter_q22026",
+   "entity_id": "alphabet",
+   "key": "capex_quarter",
+   "value": 44.924,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001652044-26-000071",
+    "sec_0001652044-26-000048"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-23",
+   "note": "Cash capex (PaymentsToAcquirePropertyPlantAndEquipment), 3 months 2026-04-01 to 2026-06-30; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative). Excludes finance-lease additions."
+  },
+  {
+   "id": "sec_alphabet_operating_cash_flow_quarter_q22026",
+   "entity_id": "alphabet",
+   "key": "operating_cash_flow_quarter",
+   "value": 39.069,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001652044-26-000071",
+    "sec_0001652044-26-000048"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-23",
+   "note": "3 months 2026-04-01 to 2026-06-30; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
+  },
+  {
+   "id": "sec_alphabet_free_cash_flow_quarter_q22026",
+   "entity_id": "alphabet",
+   "key": "free_cash_flow_quarter",
+   "value": -5.855,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001652044-26-000071",
+    "sec_0001652044-26-000048"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-23",
+   "note": "Operating cash flow minus cash capex, 3 months 2026-04-01 to 2026-06-30."
+  },
+  {
+   "id": "sec_alphabet_revenue_quarter_q22026",
+   "entity_id": "alphabet",
+   "key": "revenue_quarter",
+   "value": 119.796,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001652044-26-000071"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-23",
+   "note": "Revenues, 3 months 2026-04-01 to 2026-06-30; as reported."
+  },
+  {
+   "id": "sec_alphabet_revenue_ttm_q22026",
+   "entity_id": "alphabet",
+   "key": "revenue_ttm",
+   "value": 445.867,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "TTM to 2026-06-30",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001652044-26-000071",
+    "sec_0001652044-26-000048",
+    "sec_0001652044-26-000018",
+    "sec_0001652044-25-000091"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-23",
+   "note": "Sum of the last four discrete quarters (same basis, same currency)."
+  },
+  {
+   "id": "sec_meta_capex_quarter_q22026",
+   "entity_id": "meta",
+   "key": "capex_quarter",
+   "value": 30.116,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001628280-26-050705",
+    "sec_0001628280-26-028526"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-30",
+   "note": "Cash capex (PaymentsToAcquirePropertyPlantAndEquipment), 3 months 2026-04-01 to 2026-06-30; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative). Excludes finance-lease additions."
+  },
+  {
+   "id": "sec_meta_operating_cash_flow_quarter_q22026",
+   "entity_id": "meta",
+   "key": "operating_cash_flow_quarter",
+   "value": 31.862,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001628280-26-050705",
+    "sec_0001628280-26-028526"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-30",
+   "note": "3 months 2026-04-01 to 2026-06-30; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
+  },
+  {
+   "id": "sec_meta_free_cash_flow_quarter_q22026",
+   "entity_id": "meta",
+   "key": "free_cash_flow_quarter",
+   "value": 1.746,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001628280-26-050705",
+    "sec_0001628280-26-028526"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-30",
+   "note": "Operating cash flow minus cash capex, 3 months 2026-04-01 to 2026-06-30."
+  },
+  {
+   "id": "sec_meta_revenue_quarter_q22026",
+   "entity_id": "meta",
+   "key": "revenue_quarter",
+   "value": 60.801,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001628280-26-050705"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-30",
+   "note": "RevenueFromContractWithCustomerExcludingAssessedTax, 3 months 2026-04-01 to 2026-06-30; as reported."
+  },
+  {
+   "id": "sec_meta_revenue_ttm_q22026",
+   "entity_id": "meta",
+   "key": "revenue_ttm",
+   "value": 228.247,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "TTM to 2026-06-30",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001628280-26-050705",
+    "sec_0001628280-26-028526",
+    "sec_0001628280-26-003942",
+    "sec_0001628280-25-047240"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-30",
+   "note": "Sum of the last four discrete quarters (same basis, same currency)."
+  },
+  {
+   "id": "sec_nvidia_capex_quarter_q22026",
+   "entity_id": "nvidia",
+   "key": "capex_quarter",
+   "value": 2.677,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001045810-26-000075",
+    "sec_0001045810-26-000052"
+   ],
+   "confidence": "high",
+   "as_of": "2026-08-26",
+   "note": "Cash capex (PaymentsToAcquireProductiveAssets), 3 months 2026-04-27 to 2026-07-26; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative). Excludes finance-lease additions."
+  },
+  {
+   "id": "sec_nvidia_operating_cash_flow_quarter_q22026",
+   "entity_id": "nvidia",
+   "key": "operating_cash_flow_quarter",
+   "value": 24.077,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001045810-26-000075",
+    "sec_0001045810-26-000052"
+   ],
+   "confidence": "high",
+   "as_of": "2026-08-26",
+   "note": "3 months 2026-04-27 to 2026-07-26; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
+  },
+  {
+   "id": "sec_nvidia_free_cash_flow_quarter_q22026",
+   "entity_id": "nvidia",
+   "key": "free_cash_flow_quarter",
+   "value": 21.4,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001045810-26-000075",
+    "sec_0001045810-26-000052"
+   ],
+   "confidence": "high",
+   "as_of": "2026-08-26",
+   "note": "Operating cash flow minus cash capex, 3 months 2026-04-27 to 2026-07-26."
+  },
+  {
+   "id": "sec_nvidia_revenue_quarter_q22026",
+   "entity_id": "nvidia",
+   "key": "revenue_quarter",
+   "value": 96.221,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001045810-26-000075"
+   ],
+   "confidence": "high",
+   "as_of": "2026-08-26",
+   "note": "Revenues, 3 months 2026-04-27 to 2026-07-26; as reported."
+  },
+  {
+   "id": "sec_nvidia_revenue_ttm_q22026",
+   "entity_id": "nvidia",
+   "key": "revenue_ttm",
+   "value": 302.969,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "TTM to 2026-07-26",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001045810-26-000075",
+    "sec_0001045810-26-000052",
+    "sec_0001045810-26-000021",
+    "sec_0001045810-25-000230"
+   ],
+   "confidence": "high",
+   "as_of": "2026-08-26",
+   "note": "Sum of the last four discrete quarters (same basis, same currency)."
+  },
+  {
+   "id": "sec_broadcom_capex_quarter_q22026",
+   "entity_id": "broadcom",
+   "key": "capex_quarter",
+   "value": 0.532,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001730168-26-000080",
+    "sec_0001730168-26-000054"
+   ],
+   "confidence": "high",
+   "as_of": "2026-09-10",
+   "note": "Cash capex (PaymentsToAcquirePropertyPlantAndEquipment), 3 months 2026-05-04 to 2026-08-02; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative). Excludes finance-lease additions."
+  },
+  {
+   "id": "sec_broadcom_operating_cash_flow_quarter_q22026",
+   "entity_id": "broadcom",
+   "key": "operating_cash_flow_quarter",
+   "value": 14.197,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001730168-26-000080",
+    "sec_0001730168-26-000054"
+   ],
+   "confidence": "high",
+   "as_of": "2026-09-10",
+   "note": "3 months 2026-05-04 to 2026-08-02; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
+  },
+  {
+   "id": "sec_broadcom_free_cash_flow_quarter_q22026",
+   "entity_id": "broadcom",
+   "key": "free_cash_flow_quarter",
+   "value": 13.665,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001730168-26-000080",
+    "sec_0001730168-26-000054"
+   ],
+   "confidence": "high",
+   "as_of": "2026-09-10",
+   "note": "Operating cash flow minus cash capex, 3 months 2026-05-04 to 2026-08-02."
+  },
+  {
+   "id": "sec_broadcom_revenue_quarter_q22026",
+   "entity_id": "broadcom",
+   "key": "revenue_quarter",
+   "value": 29.591,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001730168-26-000080"
+   ],
+   "confidence": "high",
+   "as_of": "2026-09-10",
+   "note": "RevenueFromContractWithCustomerExcludingAssessedTax, 3 months 2026-05-04 to 2026-08-02; as reported."
+  },
+  {
+   "id": "sec_broadcom_revenue_ttm_q22026",
+   "entity_id": "broadcom",
+   "key": "revenue_ttm",
+   "value": 89.104,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "TTM to 2026-08-02",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001730168-26-000080",
+    "sec_0001730168-26-000054",
+    "sec_0001730168-26-000016",
+    "sec_0001730168-25-000121"
+   ],
+   "confidence": "high",
+   "as_of": "2026-09-10",
+   "note": "Sum of the last four discrete quarters (same basis, same currency)."
+  },
+  {
+   "id": "sec_amd_capex_quarter_q22026",
+   "entity_id": "amd",
+   "key": "capex_quarter",
+   "value": 0.808,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0000002488-26-000123",
+    "sec_0000002488-26-000076"
+   ],
+   "confidence": "high",
+   "as_of": "2026-08-05",
+   "note": "Cash capex (PaymentsToAcquirePropertyPlantAndEquipment), 3 months 2026-03-29 to 2026-06-27; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative). Excludes finance-lease additions."
+  },
+  {
+   "id": "sec_amd_operating_cash_flow_quarter_q22026",
+   "entity_id": "amd",
+   "key": "operating_cash_flow_quarter",
+   "value": 2.366,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0000002488-26-000123",
+    "sec_0000002488-26-000076"
+   ],
+   "confidence": "high",
+   "as_of": "2026-08-05",
+   "note": "3 months 2026-03-29 to 2026-06-27; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
+  },
+  {
+   "id": "sec_amd_free_cash_flow_quarter_q22026",
+   "entity_id": "amd",
+   "key": "free_cash_flow_quarter",
+   "value": 1.558,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0000002488-26-000123",
+    "sec_0000002488-26-000076"
+   ],
+   "confidence": "high",
+   "as_of": "2026-08-05",
+   "note": "Operating cash flow minus cash capex, 3 months 2026-03-29 to 2026-06-27."
+  },
+  {
+   "id": "sec_amd_revenue_quarter_q22026",
+   "entity_id": "amd",
+   "key": "revenue_quarter",
+   "value": 11.536,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0000002488-26-000123"
+   ],
+   "confidence": "high",
+   "as_of": "2026-08-05",
+   "note": "RevenueFromContractWithCustomerExcludingAssessedTax, 3 months 2026-03-29 to 2026-06-27; as reported."
+  },
+  {
+   "id": "sec_amd_revenue_ttm_q22026",
+   "entity_id": "amd",
+   "key": "revenue_ttm",
+   "value": 41.305,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "TTM to 2026-06-27",
+   "status": "filed",
+   "source_ids": [
+    "sec_0000002488-26-000123",
+    "sec_0000002488-26-000076",
+    "sec_0000002488-26-000018",
+    "sec_0000002488-25-000166"
+   ],
+   "confidence": "high",
+   "as_of": "2026-08-05",
+   "note": "Sum of the last four discrete quarters (same basis, same currency)."
+  },
+  {
+   "id": "sec_apple_capex_quarter_q22026",
+   "entity_id": "apple",
+   "key": "capex_quarter",
+   "value": 2.455,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0000320193-26-000020",
+    "sec_0000320193-26-000013"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-31",
+   "note": "Cash capex (PaymentsToAcquirePropertyPlantAndEquipment), 3 months 2026-03-29 to 2026-06-27; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative). Excludes finance-lease additions."
+  },
+  {
+   "id": "sec_apple_operating_cash_flow_quarter_q22026",
+   "entity_id": "apple",
+   "key": "operating_cash_flow_quarter",
+   "value": 34.369,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0000320193-26-000020",
+    "sec_0000320193-26-000013"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-31",
+   "note": "3 months 2026-03-29 to 2026-06-27; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
+  },
+  {
+   "id": "sec_apple_free_cash_flow_quarter_q22026",
+   "entity_id": "apple",
+   "key": "free_cash_flow_quarter",
+   "value": 31.914,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0000320193-26-000020",
+    "sec_0000320193-26-000013"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-31",
+   "note": "Operating cash flow minus cash capex, 3 months 2026-03-29 to 2026-06-27."
+  },
+  {
+   "id": "sec_apple_revenue_quarter_q22026",
+   "entity_id": "apple",
+   "key": "revenue_quarter",
+   "value": 109.417,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0000320193-26-000020"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-31",
+   "note": "RevenueFromContractWithCustomerExcludingAssessedTax, 3 months 2026-03-29 to 2026-06-27; as reported."
+  },
+  {
+   "id": "sec_apple_revenue_ttm_q22026",
+   "entity_id": "apple",
+   "key": "revenue_ttm",
+   "value": 466.823,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "TTM to 2026-06-27",
+   "status": "filed",
+   "source_ids": [
+    "sec_0000320193-26-000020",
+    "sec_0000320193-26-000013",
+    "sec_0000320193-26-000006",
+    "sec_0000320193-25-000079"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-31",
+   "note": "Sum of the last four discrete quarters (same basis, same currency)."
+  },
+  {
+   "id": "sec_tesla_capex_quarter_q22026",
+   "entity_id": "tesla",
+   "key": "capex_quarter",
+   "value": 5.789,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001628280-26-049270",
+    "sec_0001628280-26-026673"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-23",
+   "note": "Cash capex (PaymentsToAcquirePropertyPlantAndEquipment), 3 months 2026-04-01 to 2026-06-30; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative). Excludes finance-lease additions."
+  },
+  {
+   "id": "sec_tesla_operating_cash_flow_quarter_q22026",
+   "entity_id": "tesla",
+   "key": "operating_cash_flow_quarter",
+   "value": 4.697,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001628280-26-049270",
+    "sec_0001628280-26-026673"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-23",
+   "note": "3 months 2026-04-01 to 2026-06-30; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
+  },
+  {
+   "id": "sec_tesla_free_cash_flow_quarter_q22026",
+   "entity_id": "tesla",
+   "key": "free_cash_flow_quarter",
+   "value": -1.092,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001628280-26-049270",
+    "sec_0001628280-26-026673"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-23",
+   "note": "Operating cash flow minus cash capex, 3 months 2026-04-01 to 2026-06-30."
+  },
+  {
+   "id": "sec_tesla_revenue_quarter_q22026",
+   "entity_id": "tesla",
+   "key": "revenue_quarter",
+   "value": 28.236,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q2 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001628280-26-049270"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-23",
+   "note": "RevenueFromContractWithCustomerExcludingAssessedTax, 3 months 2026-04-01 to 2026-06-30; as reported."
+  },
+  {
+   "id": "sec_tesla_revenue_ttm_q22026",
+   "entity_id": "tesla",
+   "key": "revenue_ttm",
+   "value": 103.619,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "TTM to 2026-06-30",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001628280-26-049270",
+    "sec_0001628280-26-026673",
+    "sec_0001628280-26-003952",
+    "sec_0001628280-25-045968"
+   ],
+   "confidence": "high",
+   "as_of": "2026-07-23",
+   "note": "Sum of the last four discrete quarters (same basis, same currency)."
+  }
+ ],
+ "sources": [
+  {
+   "id": "sec_0001193125-26-389274",
+   "publisher": "SEC 10-Q 2026-09-11",
+   "title": "Oracle 10-Q, SEC EDGAR accession 0001193125-26-389274",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/0001193125-26-389274-index.htm",
+   "published": "2026-09-11",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001193125-26-277521",
+   "publisher": "SEC 10-K 2026-06-22",
+   "title": "Oracle 10-K, SEC EDGAR accession 0001193125-26-277521",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/0001193125-26-277521-index.htm",
+   "published": "2026-06-22",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001193125-26-101045",
+   "publisher": "SEC 10-Q 2026-03-11",
+   "title": "Oracle 10-Q, SEC EDGAR accession 0001193125-26-101045",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/0001193125-26-101045-index.htm",
+   "published": "2026-03-11",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001193125-25-315925",
+   "publisher": "SEC 10-Q 2025-12-11",
+   "title": "Oracle 10-Q, SEC EDGAR accession 0001193125-25-315925",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/0001193125-25-315925-index.htm",
+   "published": "2025-12-11",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001193125-25-200095",
+   "publisher": "SEC 10-Q 2025-09-10",
+   "title": "Oracle 10-Q, SEC EDGAR accession 0001193125-25-200095",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/0001193125-25-200095-index.htm",
+   "published": "2025-09-10",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0000950170-25-087926",
+   "publisher": "SEC 10-K 2025-06-18",
+   "title": "Oracle 10-K, SEC EDGAR accession 0000950170-25-087926",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/0000950170-25-087926-index.htm",
+   "published": "2025-06-18",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0000950170-25-037143",
+   "publisher": "SEC 10-Q 2025-03-11",
+   "title": "Oracle 10-Q, SEC EDGAR accession 0000950170-25-037143",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/0000950170-25-037143-index.htm",
+   "published": "2025-03-11",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0000950170-24-134973",
+   "publisher": "SEC 10-Q 2024-12-10",
+   "title": "Oracle 10-Q, SEC EDGAR accession 0000950170-24-134973",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/0000950170-24-134973-index.htm",
+   "published": "2024-12-10",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001193125-26-323660",
+   "publisher": "SEC 10-K 2026-07-29",
+   "title": "Microsoft 10-K, SEC EDGAR accession 0001193125-26-323660",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/0001193125-26-323660-index.htm",
+   "published": "2026-07-29",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001193125-26-191507",
+   "publisher": "SEC 10-Q 2026-04-29",
+   "title": "Microsoft 10-Q, SEC EDGAR accession 0001193125-26-191507",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/0001193125-26-191507-index.htm",
+   "published": "2026-04-29",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001193125-26-027207",
+   "publisher": "SEC 10-Q 2026-01-28",
+   "title": "Microsoft 10-Q, SEC EDGAR accession 0001193125-26-027207",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/0001193125-26-027207-index.htm",
+   "published": "2026-01-28",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001193125-25-256321",
+   "publisher": "SEC 10-Q 2025-10-29",
+   "title": "Microsoft 10-Q, SEC EDGAR accession 0001193125-25-256321",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/0001193125-25-256321-index.htm",
+   "published": "2025-10-29",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001018724-26-000026",
+   "publisher": "SEC 10-Q 2026-07-31",
+   "title": "Amazon 10-Q, SEC EDGAR accession 0001018724-26-000026",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/0001018724-26-000026-index.htm",
+   "published": "2026-07-31",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001018724-26-000014",
+   "publisher": "SEC 10-Q 2026-04-30",
+   "title": "Amazon 10-Q, SEC EDGAR accession 0001018724-26-000014",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/0001018724-26-000014-index.htm",
+   "published": "2026-04-30",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001018724-26-000004",
+   "publisher": "SEC 10-K 2026-02-06",
+   "title": "Amazon 10-K, SEC EDGAR accession 0001018724-26-000004",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/0001018724-26-000004-index.htm",
+   "published": "2026-02-06",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001018724-25-000123",
+   "publisher": "SEC 10-Q 2025-10-31",
+   "title": "Amazon 10-Q, SEC EDGAR accession 0001018724-25-000123",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/0001018724-25-000123-index.htm",
+   "published": "2025-10-31",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001652044-26-000071",
+   "publisher": "SEC 10-Q 2026-07-23",
+   "title": "Alphabet 10-Q, SEC EDGAR accession 0001652044-26-000071",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/0001652044-26-000071-index.htm",
+   "published": "2026-07-23",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001652044-26-000048",
+   "publisher": "SEC 10-Q 2026-04-30",
+   "title": "Alphabet 10-Q, SEC EDGAR accession 0001652044-26-000048",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/0001652044-26-000048-index.htm",
+   "published": "2026-04-30",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001652044-26-000018",
+   "publisher": "SEC 10-K 2026-02-05",
+   "title": "Alphabet 10-K, SEC EDGAR accession 0001652044-26-000018",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/0001652044-26-000018-index.htm",
+   "published": "2026-02-05",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001652044-25-000091",
+   "publisher": "SEC 10-Q 2025-10-30",
+   "title": "Alphabet 10-Q, SEC EDGAR accession 0001652044-25-000091",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000091/0001652044-25-000091-index.htm",
+   "published": "2025-10-30",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001652044-25-000062",
+   "publisher": "SEC 10-Q 2025-07-24",
+   "title": "Alphabet 10-Q, SEC EDGAR accession 0001652044-25-000062",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000062/0001652044-25-000062-index.htm",
+   "published": "2025-07-24",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001628280-26-050705",
+   "publisher": "SEC 10-Q 2026-07-30",
+   "title": "Meta Platforms 10-Q, SEC EDGAR accession 0001628280-26-050705",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/0001628280-26-050705-index.htm",
+   "published": "2026-07-30",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001628280-26-028526",
+   "publisher": "SEC 10-Q 2026-04-30",
+   "title": "Meta Platforms 10-Q, SEC EDGAR accession 0001628280-26-028526",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/0001628280-26-028526-index.htm",
+   "published": "2026-04-30",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001628280-26-003942",
+   "publisher": "SEC 10-K 2026-01-29",
+   "title": "Meta Platforms 10-K, SEC EDGAR accession 0001628280-26-003942",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/0001628280-26-003942-index.htm",
+   "published": "2026-01-29",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001628280-25-047240",
+   "publisher": "SEC 10-Q 2025-10-30",
+   "title": "Meta Platforms 10-Q, SEC EDGAR accession 0001628280-25-047240",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/0001628280-25-047240-index.htm",
+   "published": "2025-10-30",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001628280-25-036791",
+   "publisher": "SEC 10-Q 2025-07-31",
+   "title": "Meta Platforms 10-Q, SEC EDGAR accession 0001628280-25-036791",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/0001628280-25-036791-index.htm",
+   "published": "2025-07-31",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001045810-26-000075",
+   "publisher": "SEC 10-Q 2026-08-26",
+   "title": "Nvidia 10-Q, SEC EDGAR accession 0001045810-26-000075",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/0001045810-26-000075-index.htm",
+   "published": "2026-08-26",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001045810-26-000052",
+   "publisher": "SEC 10-Q 2026-05-20",
+   "title": "Nvidia 10-Q, SEC EDGAR accession 0001045810-26-000052",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/0001045810-26-000052-index.htm",
+   "published": "2026-05-20",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001045810-26-000021",
+   "publisher": "SEC 10-K 2026-02-25",
+   "title": "Nvidia 10-K, SEC EDGAR accession 0001045810-26-000021",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021-index.htm",
+   "published": "2026-02-25",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001045810-25-000230",
+   "publisher": "SEC 10-Q 2025-11-19",
+   "title": "Nvidia 10-Q, SEC EDGAR accession 0001045810-25-000230",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/0001045810-25-000230-index.htm",
+   "published": "2025-11-19",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001045810-25-000209",
+   "publisher": "SEC 10-Q 2025-08-27",
+   "title": "Nvidia 10-Q, SEC EDGAR accession 0001045810-25-000209",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/0001045810-25-000209-index.htm",
+   "published": "2025-08-27",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001730168-26-000080",
+   "publisher": "SEC 10-Q 2026-09-10",
+   "title": "Broadcom 10-Q, SEC EDGAR accession 0001730168-26-000080",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000080/0001730168-26-000080-index.htm",
+   "published": "2026-09-10",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001730168-26-000054",
+   "publisher": "SEC 10-Q 2026-06-09",
+   "title": "Broadcom 10-Q, SEC EDGAR accession 0001730168-26-000054",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000054/0001730168-26-000054-index.htm",
+   "published": "2026-06-09",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001730168-26-000016",
+   "publisher": "SEC 10-Q 2026-03-11",
+   "title": "Broadcom 10-Q, SEC EDGAR accession 0001730168-26-000016",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000016/0001730168-26-000016-index.htm",
+   "published": "2026-03-11",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001730168-25-000121",
+   "publisher": "SEC 10-K 2025-12-18",
+   "title": "Broadcom 10-K, SEC EDGAR accession 0001730168-25-000121",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/0001730168-25-000121-index.htm",
+   "published": "2025-12-18",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001730168-25-000098",
+   "publisher": "SEC 10-Q 2025-09-10",
+   "title": "Broadcom 10-Q, SEC EDGAR accession 0001730168-25-000098",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016825000098/0001730168-25-000098-index.htm",
+   "published": "2025-09-10",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0000002488-26-000123",
+   "publisher": "SEC 10-Q 2026-08-05",
+   "title": "AMD 10-Q, SEC EDGAR accession 0000002488-26-000123",
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/0000002488-26-000123-index.htm",
+   "published": "2026-08-05",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0000002488-26-000076",
+   "publisher": "SEC 10-Q 2026-05-06",
+   "title": "AMD 10-Q, SEC EDGAR accession 0000002488-26-000076",
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000076/0000002488-26-000076-index.htm",
+   "published": "2026-05-06",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0000002488-26-000018",
+   "publisher": "SEC 10-K 2026-02-04",
+   "title": "AMD 10-K, SEC EDGAR accession 0000002488-26-000018",
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/0000002488-26-000018-index.htm",
+   "published": "2026-02-04",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0000002488-25-000166",
+   "publisher": "SEC 10-Q 2025-11-05",
+   "title": "AMD 10-Q, SEC EDGAR accession 0000002488-25-000166",
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/0000002488-25-000166-index.htm",
+   "published": "2025-11-05",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0000002488-25-000108",
+   "publisher": "SEC 10-Q 2025-08-06",
+   "title": "AMD 10-Q, SEC EDGAR accession 0000002488-25-000108",
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000108/0000002488-25-000108-index.htm",
+   "published": "2025-08-06",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0000320193-26-000020",
+   "publisher": "SEC 10-Q 2026-07-31",
+   "title": "Apple 10-Q, SEC EDGAR accession 0000320193-26-000020",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/0000320193-26-000020-index.htm",
+   "published": "2026-07-31",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0000320193-26-000013",
+   "publisher": "SEC 10-Q 2026-05-01",
+   "title": "Apple 10-Q, SEC EDGAR accession 0000320193-26-000013",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000013/0000320193-26-000013-index.htm",
+   "published": "2026-05-01",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0000320193-26-000006",
+   "publisher": "SEC 10-Q 2026-01-30",
+   "title": "Apple 10-Q, SEC EDGAR accession 0000320193-26-000006",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000006/0000320193-26-000006-index.htm",
+   "published": "2026-01-30",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0000320193-25-000079",
+   "publisher": "SEC 10-K 2025-10-31",
+   "title": "Apple 10-K, SEC EDGAR accession 0000320193-25-000079",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/0000320193-25-000079-index.htm",
+   "published": "2025-10-31",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0000320193-25-000073",
+   "publisher": "SEC 10-Q 2025-08-01",
+   "title": "Apple 10-Q, SEC EDGAR accession 0000320193-25-000073",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000073/0000320193-25-000073-index.htm",
+   "published": "2025-08-01",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001628280-26-049270",
+   "publisher": "SEC 10-Q 2026-07-23",
+   "title": "Tesla 10-Q, SEC EDGAR accession 0001628280-26-049270",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049270/0001628280-26-049270-index.htm",
+   "published": "2026-07-23",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001628280-26-026673",
+   "publisher": "SEC 10-Q 2026-04-23",
+   "title": "Tesla 10-Q, SEC EDGAR accession 0001628280-26-026673",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026026673/0001628280-26-026673-index.htm",
+   "published": "2026-04-23",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001628280-26-003952",
+   "publisher": "SEC 10-K 2026-01-29",
+   "title": "Tesla 10-K, SEC EDGAR accession 0001628280-26-003952",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/0001628280-26-003952-index.htm",
+   "published": "2026-01-29",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001628280-25-045968",
+   "publisher": "SEC 10-Q 2025-10-23",
+   "title": "Tesla 10-Q, SEC EDGAR accession 0001628280-25-045968",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/0001628280-25-045968-index.htm",
+   "published": "2025-10-23",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001628280-25-035806",
+   "publisher": "SEC 10-Q 2025-07-24",
+   "title": "Tesla 10-Q, SEC EDGAR accession 0001628280-25-035806",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/0001628280-25-035806-index.htm",
+   "published": "2025-07-24",
+   "kind": "filing",
+   "reliability": "primary"
+  }
+ ],
+ "history": [
+  {
+   "id": "sec_oracle_capex_quarter_q32026",
+   "entity_id": "oracle",
+   "key": "capex_quarter",
+   "period": "Q3 2026",
+   "end": "2026-08-31",
+   "value": 28.499,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-389274"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_capex_quarter_q22026",
+   "entity_id": "oracle",
+   "key": "capex_quarter",
+   "period": "Q2 2026",
+   "end": "2026-05-31",
+   "value": 16.493,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-277521",
+    "sec_0001193125-26-101045"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_capex_quarter_q12026",
+   "entity_id": "oracle",
+   "key": "capex_quarter",
+   "period": "Q1 2026",
+   "end": "2026-02-28",
+   "value": 18.635,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-101045",
+    "sec_0001193125-25-315925"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_capex_quarter_q42025",
+   "entity_id": "oracle",
+   "key": "capex_quarter",
+   "period": "Q4 2025",
+   "end": "2025-11-30",
+   "value": 12.033,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-315925",
+    "sec_0001193125-26-389274"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_capex_quarter_q32025",
+   "entity_id": "oracle",
+   "key": "capex_quarter",
+   "period": "Q3 2025",
+   "end": "2025-08-31",
+   "value": 8.502,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-389274"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_capex_quarter_q22025",
+   "entity_id": "oracle",
+   "key": "capex_quarter",
+   "period": "Q2 2025",
+   "end": "2025-05-31",
+   "value": 9.08,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-277521",
+    "sec_0001193125-26-101045"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_capex_quarter_q12025",
+   "entity_id": "oracle",
+   "key": "capex_quarter",
+   "period": "Q1 2025",
+   "end": "2025-02-28",
+   "value": 5.862,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-101045",
+    "sec_0001193125-25-315925"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_capex_quarter_q42024",
+   "entity_id": "oracle",
+   "key": "capex_quarter",
+   "period": "Q4 2024",
+   "end": "2024-11-30",
+   "value": 3.97,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-315925",
+    "sec_0001193125-25-200095"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_operating_cash_flow_quarter_q32026",
+   "entity_id": "oracle",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2026",
+   "end": "2026-08-31",
+   "value": 23.103,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-389274"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_operating_cash_flow_quarter_q22026",
+   "entity_id": "oracle",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-05-31",
+   "value": 14.62,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-277521",
+    "sec_0001193125-26-101045"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_operating_cash_flow_quarter_q12026",
+   "entity_id": "oracle",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-02-28",
+   "value": 7.151,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-101045",
+    "sec_0001193125-25-315925"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_operating_cash_flow_quarter_q42025",
+   "entity_id": "oracle",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2025-11-30",
+   "value": 2.066,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-315925",
+    "sec_0001193125-26-389274"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_operating_cash_flow_quarter_q32025",
+   "entity_id": "oracle",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-08-31",
+   "value": 8.14,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-389274"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_operating_cash_flow_quarter_q22025",
+   "entity_id": "oracle",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-05-31",
+   "value": 6.157,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-277521",
+    "sec_0001193125-26-101045"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_operating_cash_flow_quarter_q12025",
+   "entity_id": "oracle",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-02-28",
+   "value": 5.933,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-101045",
+    "sec_0001193125-25-315925"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_operating_cash_flow_quarter_q42024",
+   "entity_id": "oracle",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2024-11-30",
+   "value": 1.304,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-315925",
+    "sec_0001193125-25-200095"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_free_cash_flow_quarter_q32026",
+   "entity_id": "oracle",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2026",
+   "end": "2026-08-31",
+   "value": -5.396,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-389274"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_free_cash_flow_quarter_q22026",
+   "entity_id": "oracle",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-05-31",
+   "value": -1.873,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-277521",
+    "sec_0001193125-26-101045"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_free_cash_flow_quarter_q12026",
+   "entity_id": "oracle",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-02-28",
+   "value": -11.484,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-101045",
+    "sec_0001193125-25-315925"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_free_cash_flow_quarter_q42025",
+   "entity_id": "oracle",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2025-11-30",
+   "value": -9.967,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-315925",
+    "sec_0001193125-26-389274"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_free_cash_flow_quarter_q32025",
+   "entity_id": "oracle",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-08-31",
+   "value": -0.362,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-389274"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_free_cash_flow_quarter_q22025",
+   "entity_id": "oracle",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-05-31",
+   "value": -2.923,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-277521",
+    "sec_0001193125-26-101045"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_free_cash_flow_quarter_q12025",
+   "entity_id": "oracle",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-02-28",
+   "value": 0.071,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-101045",
+    "sec_0001193125-25-315925"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_free_cash_flow_quarter_q42024",
+   "entity_id": "oracle",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2024-11-30",
+   "value": -2.666,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-315925",
+    "sec_0001193125-25-200095"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_revenue_quarter_q32026",
+   "entity_id": "oracle",
+   "key": "revenue_quarter",
+   "period": "Q3 2026",
+   "end": "2026-08-31",
+   "value": 19.345,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-389274"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_revenue_quarter_q22026",
+   "entity_id": "oracle",
+   "key": "revenue_quarter",
+   "period": "Q2 2026",
+   "end": "2026-05-31",
+   "value": 19.184,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-277521",
+    "sec_0001193125-26-101045"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_revenue_quarter_q12026",
+   "entity_id": "oracle",
+   "key": "revenue_quarter",
+   "period": "Q1 2026",
+   "end": "2026-02-28",
+   "value": 17.19,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-101045"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_revenue_quarter_q42025",
+   "entity_id": "oracle",
+   "key": "revenue_quarter",
+   "period": "Q4 2025",
+   "end": "2025-11-30",
+   "value": 16.058,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-315925"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_revenue_quarter_q32025",
+   "entity_id": "oracle",
+   "key": "revenue_quarter",
+   "period": "Q3 2025",
+   "end": "2025-08-31",
+   "value": 14.926,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-389274"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_revenue_quarter_q22025",
+   "entity_id": "oracle",
+   "key": "revenue_quarter",
+   "period": "Q2 2025",
+   "end": "2025-05-31",
+   "value": 15.903,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-277521",
+    "sec_0001193125-26-101045"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_oracle_revenue_quarter_q12025",
+   "entity_id": "oracle",
+   "key": "revenue_quarter",
+   "period": "Q1 2025",
+   "end": "2025-02-28",
+   "value": 14.13,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-101045"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_revenue_quarter_q42024",
+   "entity_id": "oracle",
+   "key": "revenue_quarter",
+   "period": "Q4 2024",
+   "end": "2024-11-30",
+   "value": 14.059,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-315925"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_rpo_q32026",
+   "entity_id": "oracle",
+   "key": "rpo",
+   "period": "Q3 2026",
+   "end": "2026-08-31",
+   "value": 664,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-389274"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_rpo_q22026",
+   "entity_id": "oracle",
+   "key": "rpo",
+   "period": "Q2 2026",
+   "end": "2026-05-31",
+   "value": 638,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-277521"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_rpo_q12026",
+   "entity_id": "oracle",
+   "key": "rpo",
+   "period": "Q1 2026",
+   "end": "2026-02-28",
+   "value": 552.6,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-101045"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_rpo_q42025",
+   "entity_id": "oracle",
+   "key": "rpo",
+   "period": "Q4 2025",
+   "end": "2025-11-30",
+   "value": 523.3,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-315925"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_rpo_q32025",
+   "entity_id": "oracle",
+   "key": "rpo",
+   "period": "Q3 2025",
+   "end": "2025-08-31",
+   "value": 455.3,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-200095"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_rpo_q22025",
+   "entity_id": "oracle",
+   "key": "rpo",
+   "period": "Q2 2025",
+   "end": "2025-05-31",
+   "value": 137.8,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000950170-25-087926"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_rpo_q12025",
+   "entity_id": "oracle",
+   "key": "rpo",
+   "period": "Q1 2025",
+   "end": "2025-02-28",
+   "value": 130.2,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000950170-25-037143"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_oracle_rpo_q42024",
+   "entity_id": "oracle",
+   "key": "rpo",
+   "period": "Q4 2024",
+   "end": "2024-11-30",
+   "value": 97.3,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000950170-24-134973"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_capex_quarter_q22026",
+   "entity_id": "microsoft",
+   "key": "capex_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 35.802,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-323660",
+    "sec_0001193125-26-191507"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_microsoft_capex_quarter_q12026",
+   "entity_id": "microsoft",
+   "key": "capex_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 30.876,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-191507"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_capex_quarter_q42025",
+   "entity_id": "microsoft",
+   "key": "capex_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 29.876,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-027207"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_capex_quarter_q32025",
+   "entity_id": "microsoft",
+   "key": "capex_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 19.394,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-256321"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_capex_quarter_q22025",
+   "entity_id": "microsoft",
+   "key": "capex_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 17.079,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-323660",
+    "sec_0001193125-26-191507"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_microsoft_capex_quarter_q12025",
+   "entity_id": "microsoft",
+   "key": "capex_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 16.745,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-191507"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_capex_quarter_q42024",
+   "entity_id": "microsoft",
+   "key": "capex_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 15.804,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-027207"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_capex_quarter_q32024",
+   "entity_id": "microsoft",
+   "key": "capex_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 14.923,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-256321"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_operating_cash_flow_quarter_q22026",
+   "entity_id": "microsoft",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 55.441,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-323660",
+    "sec_0001193125-26-191507"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_microsoft_operating_cash_flow_quarter_q12026",
+   "entity_id": "microsoft",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 46.679,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-191507"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_operating_cash_flow_quarter_q42025",
+   "entity_id": "microsoft",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 35.758,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-027207"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_operating_cash_flow_quarter_q32025",
+   "entity_id": "microsoft",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 45.057,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-256321"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_operating_cash_flow_quarter_q22025",
+   "entity_id": "microsoft",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 42.647,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-323660",
+    "sec_0001193125-26-191507"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_microsoft_operating_cash_flow_quarter_q12025",
+   "entity_id": "microsoft",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 37.044,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-191507"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_operating_cash_flow_quarter_q42024",
+   "entity_id": "microsoft",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 22.291,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-027207"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_operating_cash_flow_quarter_q32024",
+   "entity_id": "microsoft",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 34.18,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-256321"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_free_cash_flow_quarter_q22026",
+   "entity_id": "microsoft",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 19.639,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-323660",
+    "sec_0001193125-26-191507"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_microsoft_free_cash_flow_quarter_q12026",
+   "entity_id": "microsoft",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 15.803,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-191507"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_microsoft_free_cash_flow_quarter_q42025",
+   "entity_id": "microsoft",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 5.882,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-027207"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_microsoft_free_cash_flow_quarter_q32025",
+   "entity_id": "microsoft",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 25.663,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-256321"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_microsoft_free_cash_flow_quarter_q22025",
+   "entity_id": "microsoft",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 25.568,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-323660",
+    "sec_0001193125-26-191507"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_microsoft_free_cash_flow_quarter_q12025",
+   "entity_id": "microsoft",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 20.299,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-191507"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_microsoft_free_cash_flow_quarter_q42024",
+   "entity_id": "microsoft",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 6.487,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-027207"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_microsoft_free_cash_flow_quarter_q32024",
+   "entity_id": "microsoft",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 19.257,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-256321"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_microsoft_revenue_quarter_q22026",
+   "entity_id": "microsoft",
+   "key": "revenue_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 90.007,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-323660",
+    "sec_0001193125-26-191507"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_microsoft_revenue_quarter_q12026",
+   "entity_id": "microsoft",
+   "key": "revenue_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 82.886,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-191507"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_revenue_quarter_q42025",
+   "entity_id": "microsoft",
+   "key": "revenue_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 81.273,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-027207"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_revenue_quarter_q32025",
+   "entity_id": "microsoft",
+   "key": "revenue_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 77.673,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-256321"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_revenue_quarter_q22025",
+   "entity_id": "microsoft",
+   "key": "revenue_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 76.441,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-323660",
+    "sec_0001193125-26-191507"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_microsoft_revenue_quarter_q12025",
+   "entity_id": "microsoft",
+   "key": "revenue_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 70.066,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-191507"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_revenue_quarter_q42024",
+   "entity_id": "microsoft",
+   "key": "revenue_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 69.632,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-027207"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_microsoft_revenue_quarter_q32024",
+   "entity_id": "microsoft",
+   "key": "revenue_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 65.585,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-25-256321"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_capex_quarter_q22026",
+   "entity_id": "amazon",
+   "key": "capex_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 54.208,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000026"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_capex_quarter_q12026",
+   "entity_id": "amazon",
+   "key": "capex_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 44.203,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000014"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_capex_quarter_q42025",
+   "entity_id": "amazon",
+   "key": "capex_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 39.522,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000004",
+    "sec_0001018724-25-000123"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amazon_capex_quarter_q32025",
+   "entity_id": "amazon",
+   "key": "capex_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 35.095,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-25-000123"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_capex_quarter_q22025",
+   "entity_id": "amazon",
+   "key": "capex_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 32.183,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000026"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_capex_quarter_q12025",
+   "entity_id": "amazon",
+   "key": "capex_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 25.019,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000014"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_capex_quarter_q42024",
+   "entity_id": "amazon",
+   "key": "capex_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 27.834,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000004",
+    "sec_0001018724-25-000123"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amazon_capex_quarter_q32024",
+   "entity_id": "amazon",
+   "key": "capex_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 22.62,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-25-000123"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_operating_cash_flow_quarter_q22026",
+   "entity_id": "amazon",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 45.387,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000026"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_operating_cash_flow_quarter_q12026",
+   "entity_id": "amazon",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 26.032,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000014"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_operating_cash_flow_quarter_q42025",
+   "entity_id": "amazon",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 54.459,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000004",
+    "sec_0001018724-25-000123"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amazon_operating_cash_flow_quarter_q32025",
+   "entity_id": "amazon",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 35.525,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-25-000123"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_operating_cash_flow_quarter_q22025",
+   "entity_id": "amazon",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 32.515,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000026"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_operating_cash_flow_quarter_q12025",
+   "entity_id": "amazon",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 17.015,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000014"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_operating_cash_flow_quarter_q42024",
+   "entity_id": "amazon",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 45.636,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000004",
+    "sec_0001018724-25-000123"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amazon_operating_cash_flow_quarter_q32024",
+   "entity_id": "amazon",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 25.971,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-25-000123"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_free_cash_flow_quarter_q22026",
+   "entity_id": "amazon",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": -8.821,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000026"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amazon_free_cash_flow_quarter_q12026",
+   "entity_id": "amazon",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": -18.171,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000014"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amazon_free_cash_flow_quarter_q42025",
+   "entity_id": "amazon",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 14.937,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000004",
+    "sec_0001018724-25-000123"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amazon_free_cash_flow_quarter_q32025",
+   "entity_id": "amazon",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 0.43,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-25-000123"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amazon_free_cash_flow_quarter_q22025",
+   "entity_id": "amazon",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 0.332,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000026"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amazon_free_cash_flow_quarter_q12025",
+   "entity_id": "amazon",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": -8.004,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000014"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amazon_free_cash_flow_quarter_q42024",
+   "entity_id": "amazon",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 17.802,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000004",
+    "sec_0001018724-25-000123"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amazon_free_cash_flow_quarter_q32024",
+   "entity_id": "amazon",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 3.351,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-25-000123"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amazon_revenue_quarter_q22026",
+   "entity_id": "amazon",
+   "key": "revenue_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 200.606,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000026"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_revenue_quarter_q12026",
+   "entity_id": "amazon",
+   "key": "revenue_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 181.519,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000014"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_revenue_quarter_q42025",
+   "entity_id": "amazon",
+   "key": "revenue_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 213.386,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000004",
+    "sec_0001018724-25-000123"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amazon_revenue_quarter_q32025",
+   "entity_id": "amazon",
+   "key": "revenue_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 180.169,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-25-000123"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_revenue_quarter_q22025",
+   "entity_id": "amazon",
+   "key": "revenue_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 167.702,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000026"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_revenue_quarter_q12025",
+   "entity_id": "amazon",
+   "key": "revenue_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 155.667,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000014"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amazon_revenue_quarter_q42024",
+   "entity_id": "amazon",
+   "key": "revenue_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 187.792,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000004",
+    "sec_0001018724-25-000123"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amazon_revenue_quarter_q32024",
+   "entity_id": "amazon",
+   "key": "revenue_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 158.877,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-25-000123"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_alphabet_capex_quarter_q22026",
+   "entity_id": "alphabet",
+   "key": "capex_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 44.924,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000071",
+    "sec_0001652044-26-000048"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_capex_quarter_q12026",
+   "entity_id": "alphabet",
+   "key": "capex_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 35.674,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000048"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_alphabet_capex_quarter_q42025",
+   "entity_id": "alphabet",
+   "key": "capex_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 27.851,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000018",
+    "sec_0001652044-25-000091"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_capex_quarter_q32025",
+   "entity_id": "alphabet",
+   "key": "capex_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 23.953,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-25-000091",
+    "sec_0001652044-26-000071"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_capex_quarter_q22025",
+   "entity_id": "alphabet",
+   "key": "capex_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 22.446,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000071",
+    "sec_0001652044-26-000048"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_capex_quarter_q12025",
+   "entity_id": "alphabet",
+   "key": "capex_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 17.197,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000048"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_alphabet_capex_quarter_q42024",
+   "entity_id": "alphabet",
+   "key": "capex_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 14.276,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000018",
+    "sec_0001652044-25-000091"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_capex_quarter_q32024",
+   "entity_id": "alphabet",
+   "key": "capex_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 13.061,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-25-000091",
+    "sec_0001652044-25-000062"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_operating_cash_flow_quarter_q22026",
+   "entity_id": "alphabet",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 39.069,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000071",
+    "sec_0001652044-26-000048"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_operating_cash_flow_quarter_q12026",
+   "entity_id": "alphabet",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 45.79,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000048"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_alphabet_operating_cash_flow_quarter_q42025",
+   "entity_id": "alphabet",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 52.402,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000018",
+    "sec_0001652044-25-000091"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_operating_cash_flow_quarter_q32025",
+   "entity_id": "alphabet",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 48.414,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-25-000091",
+    "sec_0001652044-26-000071"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_operating_cash_flow_quarter_q22025",
+   "entity_id": "alphabet",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 27.747,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000071",
+    "sec_0001652044-26-000048"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_operating_cash_flow_quarter_q12025",
+   "entity_id": "alphabet",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 36.15,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000048"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_alphabet_operating_cash_flow_quarter_q42024",
+   "entity_id": "alphabet",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 39.113,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000018",
+    "sec_0001652044-25-000091"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_operating_cash_flow_quarter_q32024",
+   "entity_id": "alphabet",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 30.698,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-25-000091",
+    "sec_0001652044-25-000062"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_free_cash_flow_quarter_q22026",
+   "entity_id": "alphabet",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": -5.855,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000071",
+    "sec_0001652044-26-000048"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_free_cash_flow_quarter_q12026",
+   "entity_id": "alphabet",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 10.116,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000048"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_free_cash_flow_quarter_q42025",
+   "entity_id": "alphabet",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 24.551,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000018",
+    "sec_0001652044-25-000091"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_free_cash_flow_quarter_q32025",
+   "entity_id": "alphabet",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 24.461,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-25-000091",
+    "sec_0001652044-26-000071"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_free_cash_flow_quarter_q22025",
+   "entity_id": "alphabet",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 5.301,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000071",
+    "sec_0001652044-26-000048"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_free_cash_flow_quarter_q12025",
+   "entity_id": "alphabet",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 18.953,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000048"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_free_cash_flow_quarter_q42024",
+   "entity_id": "alphabet",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 24.837,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000018",
+    "sec_0001652044-25-000091"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_free_cash_flow_quarter_q32024",
+   "entity_id": "alphabet",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 17.637,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-25-000091",
+    "sec_0001652044-25-000062"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_revenue_quarter_q22026",
+   "entity_id": "alphabet",
+   "key": "revenue_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 119.796,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000071"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_alphabet_revenue_quarter_q12026",
+   "entity_id": "alphabet",
+   "key": "revenue_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 109.896,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000048"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_alphabet_revenue_quarter_q42025",
+   "entity_id": "alphabet",
+   "key": "revenue_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 113.829,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000018",
+    "sec_0001652044-25-000091"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_revenue_quarter_q32025",
+   "entity_id": "alphabet",
+   "key": "revenue_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 102.346,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-25-000091"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_alphabet_revenue_quarter_q22025",
+   "entity_id": "alphabet",
+   "key": "revenue_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 96.428,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000071"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_alphabet_revenue_quarter_q12025",
+   "entity_id": "alphabet",
+   "key": "revenue_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 90.234,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000048"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_alphabet_revenue_quarter_q42024",
+   "entity_id": "alphabet",
+   "key": "revenue_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 96.469,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000018",
+    "sec_0001652044-25-000091"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_alphabet_revenue_quarter_q32024",
+   "entity_id": "alphabet",
+   "key": "revenue_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 88.268,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-25-000091"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_meta_capex_quarter_q22026",
+   "entity_id": "meta",
+   "key": "capex_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 30.116,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-050705",
+    "sec_0001628280-26-028526"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_capex_quarter_q12026",
+   "entity_id": "meta",
+   "key": "capex_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 18.997,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-028526"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_meta_capex_quarter_q42025",
+   "entity_id": "meta",
+   "key": "capex_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 21.383,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-003942",
+    "sec_0001628280-25-047240"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_capex_quarter_q32025",
+   "entity_id": "meta",
+   "key": "capex_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 18.829,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-25-047240",
+    "sec_0001628280-26-050705"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_capex_quarter_q22025",
+   "entity_id": "meta",
+   "key": "capex_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 16.538,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-050705",
+    "sec_0001628280-26-028526"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_capex_quarter_q12025",
+   "entity_id": "meta",
+   "key": "capex_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 12.941,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-028526"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_meta_capex_quarter_q42024",
+   "entity_id": "meta",
+   "key": "capex_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 14.425,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-003942",
+    "sec_0001628280-25-047240"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_capex_quarter_q32024",
+   "entity_id": "meta",
+   "key": "capex_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 8.258,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-25-047240",
+    "sec_0001628280-25-036791"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_operating_cash_flow_quarter_q22026",
+   "entity_id": "meta",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 31.862,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-050705",
+    "sec_0001628280-26-028526"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_operating_cash_flow_quarter_q12026",
+   "entity_id": "meta",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 32.226,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-028526"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_meta_operating_cash_flow_quarter_q42025",
+   "entity_id": "meta",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 36.214,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-003942",
+    "sec_0001628280-25-047240"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_operating_cash_flow_quarter_q32025",
+   "entity_id": "meta",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 29.999,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-25-047240",
+    "sec_0001628280-26-050705"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_operating_cash_flow_quarter_q22025",
+   "entity_id": "meta",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 25.561,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-050705",
+    "sec_0001628280-26-028526"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_operating_cash_flow_quarter_q12025",
+   "entity_id": "meta",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 24.026,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-028526"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_meta_operating_cash_flow_quarter_q42024",
+   "entity_id": "meta",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 27.988,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-003942",
+    "sec_0001628280-25-047240"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_operating_cash_flow_quarter_q32024",
+   "entity_id": "meta",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 24.724,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-25-047240",
+    "sec_0001628280-25-036791"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_free_cash_flow_quarter_q22026",
+   "entity_id": "meta",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 1.746,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-050705",
+    "sec_0001628280-26-028526"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_free_cash_flow_quarter_q12026",
+   "entity_id": "meta",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 13.229,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-028526"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_free_cash_flow_quarter_q42025",
+   "entity_id": "meta",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 14.831,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-003942",
+    "sec_0001628280-25-047240"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_free_cash_flow_quarter_q32025",
+   "entity_id": "meta",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 11.17,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-25-047240",
+    "sec_0001628280-26-050705"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_free_cash_flow_quarter_q22025",
+   "entity_id": "meta",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 9.023,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-050705",
+    "sec_0001628280-26-028526"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_free_cash_flow_quarter_q12025",
+   "entity_id": "meta",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 11.085,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-028526"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_free_cash_flow_quarter_q42024",
+   "entity_id": "meta",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 13.563,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-003942",
+    "sec_0001628280-25-047240"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_free_cash_flow_quarter_q32024",
+   "entity_id": "meta",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 16.466,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-25-047240",
+    "sec_0001628280-25-036791"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_revenue_quarter_q22026",
+   "entity_id": "meta",
+   "key": "revenue_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 60.801,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-050705"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_meta_revenue_quarter_q12026",
+   "entity_id": "meta",
+   "key": "revenue_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 56.311,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-028526"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_meta_revenue_quarter_q42025",
+   "entity_id": "meta",
+   "key": "revenue_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 59.893,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-003942",
+    "sec_0001628280-25-047240"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_revenue_quarter_q32025",
+   "entity_id": "meta",
+   "key": "revenue_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 51.242,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-25-047240"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_meta_revenue_quarter_q22025",
+   "entity_id": "meta",
+   "key": "revenue_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 47.516,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-050705"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_meta_revenue_quarter_q12025",
+   "entity_id": "meta",
+   "key": "revenue_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 42.314,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-028526"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_meta_revenue_quarter_q42024",
+   "entity_id": "meta",
+   "key": "revenue_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 48.385,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-003942",
+    "sec_0001628280-25-047240"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_meta_revenue_quarter_q32024",
+   "entity_id": "meta",
+   "key": "revenue_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 40.589,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-25-047240"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_nvidia_capex_quarter_q22026",
+   "entity_id": "nvidia",
+   "key": "capex_quarter",
+   "period": "Q2 2026",
+   "end": "2026-07-26",
+   "value": 2.677,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000075",
+    "sec_0001045810-26-000052"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_capex_quarter_q12026",
+   "entity_id": "nvidia",
+   "key": "capex_quarter",
+   "period": "Q1 2026",
+   "end": "2026-04-26",
+   "value": 1.757,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000052"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_nvidia_capex_quarter_q42025",
+   "entity_id": "nvidia",
+   "key": "capex_quarter",
+   "period": "Q4 2025",
+   "end": "2026-01-25",
+   "value": 1.284,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000021",
+    "sec_0001045810-25-000230"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_capex_quarter_q32025",
+   "entity_id": "nvidia",
+   "key": "capex_quarter",
+   "period": "Q3 2025",
+   "end": "2025-10-26",
+   "value": 1.636,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-25-000230",
+    "sec_0001045810-26-000075"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_capex_quarter_q22025",
+   "entity_id": "nvidia",
+   "key": "capex_quarter",
+   "period": "Q2 2025",
+   "end": "2025-07-27",
+   "value": 1.895,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000075",
+    "sec_0001045810-26-000052"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_capex_quarter_q12025",
+   "entity_id": "nvidia",
+   "key": "capex_quarter",
+   "period": "Q1 2025",
+   "end": "2025-04-27",
+   "value": 1.227,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000052"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_nvidia_capex_quarter_q42024",
+   "entity_id": "nvidia",
+   "key": "capex_quarter",
+   "period": "Q4 2024",
+   "end": "2025-01-26",
+   "value": 1.077,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000021",
+    "sec_0001045810-25-000230"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_capex_quarter_q32024",
+   "entity_id": "nvidia",
+   "key": "capex_quarter",
+   "period": "Q3 2024",
+   "end": "2024-10-27",
+   "value": 0.813,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-25-000230",
+    "sec_0001045810-25-000209"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_operating_cash_flow_quarter_q22026",
+   "entity_id": "nvidia",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-07-26",
+   "value": 24.077,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000075",
+    "sec_0001045810-26-000052"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_operating_cash_flow_quarter_q12026",
+   "entity_id": "nvidia",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-04-26",
+   "value": 50.344,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000052"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_nvidia_operating_cash_flow_quarter_q42025",
+   "entity_id": "nvidia",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2026-01-25",
+   "value": 36.188,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000021",
+    "sec_0001045810-25-000230"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_operating_cash_flow_quarter_q32025",
+   "entity_id": "nvidia",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-10-26",
+   "value": 23.751,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-25-000230",
+    "sec_0001045810-26-000075"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_operating_cash_flow_quarter_q22025",
+   "entity_id": "nvidia",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-07-27",
+   "value": 15.365,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000075",
+    "sec_0001045810-26-000052"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_operating_cash_flow_quarter_q12025",
+   "entity_id": "nvidia",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-04-27",
+   "value": 27.414,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000052"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_nvidia_operating_cash_flow_quarter_q42024",
+   "entity_id": "nvidia",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2025-01-26",
+   "value": 16.629,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000021",
+    "sec_0001045810-25-000230"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_operating_cash_flow_quarter_q32024",
+   "entity_id": "nvidia",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-10-27",
+   "value": 17.627,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-25-000230",
+    "sec_0001045810-25-000209"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_free_cash_flow_quarter_q22026",
+   "entity_id": "nvidia",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-07-26",
+   "value": 21.4,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000075",
+    "sec_0001045810-26-000052"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_free_cash_flow_quarter_q12026",
+   "entity_id": "nvidia",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-04-26",
+   "value": 48.587,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000052"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_free_cash_flow_quarter_q42025",
+   "entity_id": "nvidia",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2026-01-25",
+   "value": 34.904,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000021",
+    "sec_0001045810-25-000230"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_free_cash_flow_quarter_q32025",
+   "entity_id": "nvidia",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-10-26",
+   "value": 22.115,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-25-000230",
+    "sec_0001045810-26-000075"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_free_cash_flow_quarter_q22025",
+   "entity_id": "nvidia",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-07-27",
+   "value": 13.47,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000075",
+    "sec_0001045810-26-000052"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_free_cash_flow_quarter_q12025",
+   "entity_id": "nvidia",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-04-27",
+   "value": 26.187,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000052"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_free_cash_flow_quarter_q42024",
+   "entity_id": "nvidia",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2025-01-26",
+   "value": 15.552,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000021",
+    "sec_0001045810-25-000230"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_free_cash_flow_quarter_q32024",
+   "entity_id": "nvidia",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-10-27",
+   "value": 16.814,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-25-000230",
+    "sec_0001045810-25-000209"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_revenue_quarter_q22026",
+   "entity_id": "nvidia",
+   "key": "revenue_quarter",
+   "period": "Q2 2026",
+   "end": "2026-07-26",
+   "value": 96.221,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000075"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_nvidia_revenue_quarter_q12026",
+   "entity_id": "nvidia",
+   "key": "revenue_quarter",
+   "period": "Q1 2026",
+   "end": "2026-04-26",
+   "value": 81.615,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000052"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_nvidia_revenue_quarter_q42025",
+   "entity_id": "nvidia",
+   "key": "revenue_quarter",
+   "period": "Q4 2025",
+   "end": "2026-01-25",
+   "value": 68.127,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000021",
+    "sec_0001045810-25-000230"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_revenue_quarter_q32025",
+   "entity_id": "nvidia",
+   "key": "revenue_quarter",
+   "period": "Q3 2025",
+   "end": "2025-10-26",
+   "value": 57.006,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-25-000230"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_nvidia_revenue_quarter_q22025",
+   "entity_id": "nvidia",
+   "key": "revenue_quarter",
+   "period": "Q2 2025",
+   "end": "2025-07-27",
+   "value": 46.743,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000075"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_nvidia_revenue_quarter_q12025",
+   "entity_id": "nvidia",
+   "key": "revenue_quarter",
+   "period": "Q1 2025",
+   "end": "2025-04-27",
+   "value": 44.062,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000052"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_nvidia_revenue_quarter_q42024",
+   "entity_id": "nvidia",
+   "key": "revenue_quarter",
+   "period": "Q4 2024",
+   "end": "2025-01-26",
+   "value": 39.331,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-26-000021",
+    "sec_0001045810-25-000230"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_nvidia_revenue_quarter_q32024",
+   "entity_id": "nvidia",
+   "key": "revenue_quarter",
+   "period": "Q3 2024",
+   "end": "2024-10-27",
+   "value": 35.082,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001045810-25-000230"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_broadcom_capex_quarter_q22026",
+   "entity_id": "broadcom",
+   "key": "capex_quarter",
+   "period": "Q2 2026",
+   "end": "2026-08-02",
+   "value": 0.532,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000080",
+    "sec_0001730168-26-000054"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_capex_quarter_q12026",
+   "entity_id": "broadcom",
+   "key": "capex_quarter",
+   "period": "Q1 2026",
+   "end": "2026-05-03",
+   "value": 0.231,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000054",
+    "sec_0001730168-26-000016"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_capex_quarter_q42025",
+   "entity_id": "broadcom",
+   "key": "capex_quarter",
+   "period": "Q4 2025",
+   "end": "2026-02-01",
+   "value": 0.25,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000016"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_broadcom_capex_quarter_q32025",
+   "entity_id": "broadcom",
+   "key": "capex_quarter",
+   "period": "Q3 2025",
+   "end": "2025-11-02",
+   "value": 0.237,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-25-000121",
+    "sec_0001730168-26-000080"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_capex_quarter_q22025",
+   "entity_id": "broadcom",
+   "key": "capex_quarter",
+   "period": "Q2 2025",
+   "end": "2025-08-03",
+   "value": 0.142,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000080",
+    "sec_0001730168-26-000054"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_capex_quarter_q12025",
+   "entity_id": "broadcom",
+   "key": "capex_quarter",
+   "period": "Q1 2025",
+   "end": "2025-05-04",
+   "value": 0.144,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000054",
+    "sec_0001730168-26-000016"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_capex_quarter_q42024",
+   "entity_id": "broadcom",
+   "key": "capex_quarter",
+   "period": "Q4 2024",
+   "end": "2025-02-02",
+   "value": 0.1,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000016"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_broadcom_capex_quarter_q32024",
+   "entity_id": "broadcom",
+   "key": "capex_quarter",
+   "period": "Q3 2024",
+   "end": "2024-11-03",
+   "value": 0.122,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-25-000121",
+    "sec_0001730168-25-000098"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_operating_cash_flow_quarter_q22026",
+   "entity_id": "broadcom",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-08-02",
+   "value": 14.197,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000080",
+    "sec_0001730168-26-000054"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_operating_cash_flow_quarter_q12026",
+   "entity_id": "broadcom",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-05-03",
+   "value": 10.493,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000054",
+    "sec_0001730168-26-000016"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_operating_cash_flow_quarter_q42025",
+   "entity_id": "broadcom",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2026-02-01",
+   "value": 8.26,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000016"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_broadcom_operating_cash_flow_quarter_q32025",
+   "entity_id": "broadcom",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-11-02",
+   "value": 7.703,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-25-000121",
+    "sec_0001730168-26-000080"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_operating_cash_flow_quarter_q22025",
+   "entity_id": "broadcom",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-08-03",
+   "value": 7.166,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000080",
+    "sec_0001730168-26-000054"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_operating_cash_flow_quarter_q12025",
+   "entity_id": "broadcom",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-05-04",
+   "value": 6.555,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000054",
+    "sec_0001730168-26-000016"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_operating_cash_flow_quarter_q42024",
+   "entity_id": "broadcom",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2025-02-02",
+   "value": 6.113,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000016"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_broadcom_operating_cash_flow_quarter_q32024",
+   "entity_id": "broadcom",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-11-03",
+   "value": 5.604,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-25-000121",
+    "sec_0001730168-25-000098"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_free_cash_flow_quarter_q22026",
+   "entity_id": "broadcom",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-08-02",
+   "value": 13.665,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000080",
+    "sec_0001730168-26-000054"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_free_cash_flow_quarter_q12026",
+   "entity_id": "broadcom",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-05-03",
+   "value": 10.262,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000054",
+    "sec_0001730168-26-000016"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_free_cash_flow_quarter_q42025",
+   "entity_id": "broadcom",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2026-02-01",
+   "value": 8.01,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000016"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_free_cash_flow_quarter_q32025",
+   "entity_id": "broadcom",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-11-02",
+   "value": 7.466,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-25-000121",
+    "sec_0001730168-26-000080"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_free_cash_flow_quarter_q22025",
+   "entity_id": "broadcom",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-08-03",
+   "value": 7.024,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000080",
+    "sec_0001730168-26-000054"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_free_cash_flow_quarter_q12025",
+   "entity_id": "broadcom",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-05-04",
+   "value": 6.411,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000054",
+    "sec_0001730168-26-000016"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_free_cash_flow_quarter_q42024",
+   "entity_id": "broadcom",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2025-02-02",
+   "value": 6.013,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000016"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_free_cash_flow_quarter_q32024",
+   "entity_id": "broadcom",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-11-03",
+   "value": 5.482,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-25-000121",
+    "sec_0001730168-25-000098"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_revenue_quarter_q22026",
+   "entity_id": "broadcom",
+   "key": "revenue_quarter",
+   "period": "Q2 2026",
+   "end": "2026-08-02",
+   "value": 29.591,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000080"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_broadcom_revenue_quarter_q12026",
+   "entity_id": "broadcom",
+   "key": "revenue_quarter",
+   "period": "Q1 2026",
+   "end": "2026-05-03",
+   "value": 22.187,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000054"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_broadcom_revenue_quarter_q42025",
+   "entity_id": "broadcom",
+   "key": "revenue_quarter",
+   "period": "Q4 2025",
+   "end": "2026-02-01",
+   "value": 19.311,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000016"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_broadcom_revenue_quarter_q32025",
+   "entity_id": "broadcom",
+   "key": "revenue_quarter",
+   "period": "Q3 2025",
+   "end": "2025-11-02",
+   "value": 18.015,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-25-000121",
+    "sec_0001730168-26-000080"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_broadcom_revenue_quarter_q22025",
+   "entity_id": "broadcom",
+   "key": "revenue_quarter",
+   "period": "Q2 2025",
+   "end": "2025-08-03",
+   "value": 15.952,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000080"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_broadcom_revenue_quarter_q12025",
+   "entity_id": "broadcom",
+   "key": "revenue_quarter",
+   "period": "Q1 2025",
+   "end": "2025-05-04",
+   "value": 15.004,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000054"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_broadcom_revenue_quarter_q42024",
+   "entity_id": "broadcom",
+   "key": "revenue_quarter",
+   "period": "Q4 2024",
+   "end": "2025-02-02",
+   "value": 14.916,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-26-000016"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_broadcom_revenue_quarter_q32024",
+   "entity_id": "broadcom",
+   "key": "revenue_quarter",
+   "period": "Q3 2024",
+   "end": "2024-11-03",
+   "value": 14.054,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001730168-25-000121",
+    "sec_0001730168-25-000098"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_capex_quarter_q22026",
+   "entity_id": "amd",
+   "key": "capex_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-27",
+   "value": 0.808,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000123",
+    "sec_0000002488-26-000076"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_capex_quarter_q12026",
+   "entity_id": "amd",
+   "key": "capex_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-28",
+   "value": 0.389,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000076"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amd_capex_quarter_q42025",
+   "entity_id": "amd",
+   "key": "capex_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-27",
+   "value": 0.222,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000018",
+    "sec_0000002488-25-000166"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_capex_quarter_q32025",
+   "entity_id": "amd",
+   "key": "capex_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-27",
+   "value": 0.258,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-25-000166",
+    "sec_0000002488-26-000123"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_capex_quarter_q22025",
+   "entity_id": "amd",
+   "key": "capex_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-28",
+   "value": 0.282,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000123",
+    "sec_0000002488-26-000076"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_capex_quarter_q12025",
+   "entity_id": "amd",
+   "key": "capex_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-29",
+   "value": 0.212,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000076"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amd_capex_quarter_q42024",
+   "entity_id": "amd",
+   "key": "capex_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-28",
+   "value": 0.208,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000018",
+    "sec_0000002488-25-000166"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_capex_quarter_q32024",
+   "entity_id": "amd",
+   "key": "capex_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-28",
+   "value": 0.132,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-25-000166",
+    "sec_0000002488-25-000108"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_operating_cash_flow_quarter_q22026",
+   "entity_id": "amd",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-27",
+   "value": 2.366,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000123",
+    "sec_0000002488-26-000076"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_operating_cash_flow_quarter_q12026",
+   "entity_id": "amd",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-28",
+   "value": 2.955,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000076"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amd_operating_cash_flow_quarter_q42025",
+   "entity_id": "amd",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-27",
+   "value": 2.6,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000018",
+    "sec_0000002488-25-000166"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_operating_cash_flow_quarter_q32025",
+   "entity_id": "amd",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-27",
+   "value": 2.159,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-25-000166",
+    "sec_0000002488-26-000123"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_operating_cash_flow_quarter_q22025",
+   "entity_id": "amd",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-28",
+   "value": 2.011,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000123",
+    "sec_0000002488-26-000076"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_operating_cash_flow_quarter_q12025",
+   "entity_id": "amd",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-29",
+   "value": 0.939,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000076"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amd_operating_cash_flow_quarter_q42024",
+   "entity_id": "amd",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-28",
+   "value": 1.299,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000018",
+    "sec_0000002488-25-000166"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_operating_cash_flow_quarter_q32024",
+   "entity_id": "amd",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-28",
+   "value": 0.628,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-25-000166",
+    "sec_0000002488-25-000108"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_free_cash_flow_quarter_q22026",
+   "entity_id": "amd",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-27",
+   "value": 1.558,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000123",
+    "sec_0000002488-26-000076"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_free_cash_flow_quarter_q12026",
+   "entity_id": "amd",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-28",
+   "value": 2.566,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000076"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_free_cash_flow_quarter_q42025",
+   "entity_id": "amd",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-27",
+   "value": 2.378,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000018",
+    "sec_0000002488-25-000166"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_free_cash_flow_quarter_q32025",
+   "entity_id": "amd",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-27",
+   "value": 1.901,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-25-000166",
+    "sec_0000002488-26-000123"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_free_cash_flow_quarter_q22025",
+   "entity_id": "amd",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-28",
+   "value": 1.729,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000123",
+    "sec_0000002488-26-000076"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_free_cash_flow_quarter_q12025",
+   "entity_id": "amd",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-29",
+   "value": 0.727,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000076"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_free_cash_flow_quarter_q42024",
+   "entity_id": "amd",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-28",
+   "value": 1.091,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000018",
+    "sec_0000002488-25-000166"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_free_cash_flow_quarter_q32024",
+   "entity_id": "amd",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-28",
+   "value": 0.496,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-25-000166",
+    "sec_0000002488-25-000108"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_revenue_quarter_q22026",
+   "entity_id": "amd",
+   "key": "revenue_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-27",
+   "value": 11.536,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000123"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amd_revenue_quarter_q12026",
+   "entity_id": "amd",
+   "key": "revenue_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-28",
+   "value": 10.253,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000076"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amd_revenue_quarter_q42025",
+   "entity_id": "amd",
+   "key": "revenue_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-27",
+   "value": 10.27,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000018",
+    "sec_0000002488-25-000166"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_revenue_quarter_q32025",
+   "entity_id": "amd",
+   "key": "revenue_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-27",
+   "value": 9.246,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-25-000166"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amd_revenue_quarter_q22025",
+   "entity_id": "amd",
+   "key": "revenue_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-28",
+   "value": 7.685,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000123"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amd_revenue_quarter_q12025",
+   "entity_id": "amd",
+   "key": "revenue_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-29",
+   "value": 7.438,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000076"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_amd_revenue_quarter_q42024",
+   "entity_id": "amd",
+   "key": "revenue_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-28",
+   "value": 7.658,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000018",
+    "sec_0000002488-25-000166"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_amd_revenue_quarter_q32024",
+   "entity_id": "amd",
+   "key": "revenue_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-28",
+   "value": 6.819,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-25-000166"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_apple_capex_quarter_q22026",
+   "entity_id": "apple",
+   "key": "capex_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-27",
+   "value": 2.455,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000020",
+    "sec_0000320193-26-000013"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_capex_quarter_q12026",
+   "entity_id": "apple",
+   "key": "capex_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-28",
+   "value": 1.971,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000013",
+    "sec_0000320193-26-000006"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_capex_quarter_q42025",
+   "entity_id": "apple",
+   "key": "capex_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-27",
+   "value": 2.373,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000006"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_apple_capex_quarter_q32025",
+   "entity_id": "apple",
+   "key": "capex_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-27",
+   "value": 3.242,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-25-000079",
+    "sec_0000320193-26-000020"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_capex_quarter_q22025",
+   "entity_id": "apple",
+   "key": "capex_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-28",
+   "value": 3.462,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000020",
+    "sec_0000320193-26-000013"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_capex_quarter_q12025",
+   "entity_id": "apple",
+   "key": "capex_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-29",
+   "value": 3.071,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000013",
+    "sec_0000320193-26-000006"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_capex_quarter_q42024",
+   "entity_id": "apple",
+   "key": "capex_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-28",
+   "value": 2.94,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000006"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_apple_capex_quarter_q32024",
+   "entity_id": "apple",
+   "key": "capex_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-28",
+   "value": 2.908,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-25-000079",
+    "sec_0000320193-25-000073"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_operating_cash_flow_quarter_q22026",
+   "entity_id": "apple",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-27",
+   "value": 34.369,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000020",
+    "sec_0000320193-26-000013"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_operating_cash_flow_quarter_q12026",
+   "entity_id": "apple",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-28",
+   "value": 28.702,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000013",
+    "sec_0000320193-26-000006"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_operating_cash_flow_quarter_q42025",
+   "entity_id": "apple",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-27",
+   "value": 53.925,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000006"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_apple_operating_cash_flow_quarter_q32025",
+   "entity_id": "apple",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-27",
+   "value": 29.728,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-25-000079",
+    "sec_0000320193-26-000020"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_operating_cash_flow_quarter_q22025",
+   "entity_id": "apple",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-28",
+   "value": 27.867,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000020",
+    "sec_0000320193-26-000013"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_operating_cash_flow_quarter_q12025",
+   "entity_id": "apple",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-29",
+   "value": 23.952,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000013",
+    "sec_0000320193-26-000006"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_operating_cash_flow_quarter_q42024",
+   "entity_id": "apple",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-28",
+   "value": 29.935,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000006"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_apple_operating_cash_flow_quarter_q32024",
+   "entity_id": "apple",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-28",
+   "value": 26.811,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-25-000079",
+    "sec_0000320193-25-000073"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_free_cash_flow_quarter_q22026",
+   "entity_id": "apple",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-27",
+   "value": 31.914,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000020",
+    "sec_0000320193-26-000013"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_free_cash_flow_quarter_q12026",
+   "entity_id": "apple",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-28",
+   "value": 26.731,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000013",
+    "sec_0000320193-26-000006"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_free_cash_flow_quarter_q42025",
+   "entity_id": "apple",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-27",
+   "value": 51.552,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000006"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_free_cash_flow_quarter_q32025",
+   "entity_id": "apple",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-27",
+   "value": 26.486,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-25-000079",
+    "sec_0000320193-26-000020"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_free_cash_flow_quarter_q22025",
+   "entity_id": "apple",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-28",
+   "value": 24.405,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000020",
+    "sec_0000320193-26-000013"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_free_cash_flow_quarter_q12025",
+   "entity_id": "apple",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-29",
+   "value": 20.881,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000013",
+    "sec_0000320193-26-000006"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_free_cash_flow_quarter_q42024",
+   "entity_id": "apple",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-28",
+   "value": 26.995,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000006"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_free_cash_flow_quarter_q32024",
+   "entity_id": "apple",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-28",
+   "value": 23.903,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-25-000079",
+    "sec_0000320193-25-000073"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_revenue_quarter_q22026",
+   "entity_id": "apple",
+   "key": "revenue_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-27",
+   "value": 109.417,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000020"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_apple_revenue_quarter_q12026",
+   "entity_id": "apple",
+   "key": "revenue_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-28",
+   "value": 111.184,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000013"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_apple_revenue_quarter_q42025",
+   "entity_id": "apple",
+   "key": "revenue_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-27",
+   "value": 143.756,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000006"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_apple_revenue_quarter_q32025",
+   "entity_id": "apple",
+   "key": "revenue_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-27",
+   "value": 102.466,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-25-000079",
+    "sec_0000320193-26-000020"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_apple_revenue_quarter_q22025",
+   "entity_id": "apple",
+   "key": "revenue_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-28",
+   "value": 94.036,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000020"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_apple_revenue_quarter_q12025",
+   "entity_id": "apple",
+   "key": "revenue_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-29",
+   "value": 95.359,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000013"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_apple_revenue_quarter_q42024",
+   "entity_id": "apple",
+   "key": "revenue_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-28",
+   "value": 124.3,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000006"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_apple_revenue_quarter_q32024",
+   "entity_id": "apple",
+   "key": "revenue_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-28",
+   "value": 94.93,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-25-000079",
+    "sec_0000320193-25-000073"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_capex_quarter_q22026",
+   "entity_id": "tesla",
+   "key": "capex_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 5.789,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-049270",
+    "sec_0001628280-26-026673"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_capex_quarter_q12026",
+   "entity_id": "tesla",
+   "key": "capex_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 2.493,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-026673"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_tesla_capex_quarter_q42025",
+   "entity_id": "tesla",
+   "key": "capex_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 2.393,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-003952",
+    "sec_0001628280-25-045968"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_capex_quarter_q32025",
+   "entity_id": "tesla",
+   "key": "capex_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 2.248,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-25-045968",
+    "sec_0001628280-26-049270"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_capex_quarter_q22025",
+   "entity_id": "tesla",
+   "key": "capex_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 2.394,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-049270",
+    "sec_0001628280-26-026673"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_capex_quarter_q12025",
+   "entity_id": "tesla",
+   "key": "capex_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 1.492,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-026673"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_tesla_capex_quarter_q42024",
+   "entity_id": "tesla",
+   "key": "capex_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 2.78,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-003952",
+    "sec_0001628280-25-045968"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_capex_quarter_q32024",
+   "entity_id": "tesla",
+   "key": "capex_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 3.513,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-25-045968",
+    "sec_0001628280-25-035806"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_operating_cash_flow_quarter_q22026",
+   "entity_id": "tesla",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 4.697,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-049270",
+    "sec_0001628280-26-026673"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_operating_cash_flow_quarter_q12026",
+   "entity_id": "tesla",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 3.937,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-026673"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_tesla_operating_cash_flow_quarter_q42025",
+   "entity_id": "tesla",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 3.813,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-003952",
+    "sec_0001628280-25-045968"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_operating_cash_flow_quarter_q32025",
+   "entity_id": "tesla",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 6.238,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-25-045968",
+    "sec_0001628280-26-049270"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_operating_cash_flow_quarter_q22025",
+   "entity_id": "tesla",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 2.54,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-049270",
+    "sec_0001628280-26-026673"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_operating_cash_flow_quarter_q12025",
+   "entity_id": "tesla",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 2.156,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-026673"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_tesla_operating_cash_flow_quarter_q42024",
+   "entity_id": "tesla",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 4.814,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-003952",
+    "sec_0001628280-25-045968"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_operating_cash_flow_quarter_q32024",
+   "entity_id": "tesla",
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 6.255,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-25-045968",
+    "sec_0001628280-25-035806"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_free_cash_flow_quarter_q22026",
+   "entity_id": "tesla",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": -1.092,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-049270",
+    "sec_0001628280-26-026673"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_free_cash_flow_quarter_q12026",
+   "entity_id": "tesla",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 1.444,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-026673"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_free_cash_flow_quarter_q42025",
+   "entity_id": "tesla",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 1.42,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-003952",
+    "sec_0001628280-25-045968"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_free_cash_flow_quarter_q32025",
+   "entity_id": "tesla",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 3.99,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-25-045968",
+    "sec_0001628280-26-049270"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_free_cash_flow_quarter_q22025",
+   "entity_id": "tesla",
+   "key": "free_cash_flow_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 0.146,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-049270",
+    "sec_0001628280-26-026673"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_free_cash_flow_quarter_q12025",
+   "entity_id": "tesla",
+   "key": "free_cash_flow_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 0.664,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-026673"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_free_cash_flow_quarter_q42024",
+   "entity_id": "tesla",
+   "key": "free_cash_flow_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 2.034,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-003952",
+    "sec_0001628280-25-045968"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_free_cash_flow_quarter_q32024",
+   "entity_id": "tesla",
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 2.742,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-25-045968",
+    "sec_0001628280-25-035806"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_revenue_quarter_q22026",
+   "entity_id": "tesla",
+   "key": "revenue_quarter",
+   "period": "Q2 2026",
+   "end": "2026-06-30",
+   "value": 28.236,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-049270"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_tesla_revenue_quarter_q12026",
+   "entity_id": "tesla",
+   "key": "revenue_quarter",
+   "period": "Q1 2026",
+   "end": "2026-03-31",
+   "value": 22.387,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-026673"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_tesla_revenue_quarter_q42025",
+   "entity_id": "tesla",
+   "key": "revenue_quarter",
+   "period": "Q4 2025",
+   "end": "2025-12-31",
+   "value": 24.901,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-003952",
+    "sec_0001628280-25-045968"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_revenue_quarter_q32025",
+   "entity_id": "tesla",
+   "key": "revenue_quarter",
+   "period": "Q3 2025",
+   "end": "2025-09-30",
+   "value": 28.095,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-25-045968"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_tesla_revenue_quarter_q22025",
+   "entity_id": "tesla",
+   "key": "revenue_quarter",
+   "period": "Q2 2025",
+   "end": "2025-06-30",
+   "value": 22.496,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-049270"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_tesla_revenue_quarter_q12025",
+   "entity_id": "tesla",
+   "key": "revenue_quarter",
+   "period": "Q1 2025",
+   "end": "2025-03-31",
+   "value": 19.335,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-026673"
+   ],
+   "derived": false
+  },
+  {
+   "id": "sec_tesla_revenue_quarter_q42024",
+   "entity_id": "tesla",
+   "key": "revenue_quarter",
+   "period": "Q4 2024",
+   "end": "2024-12-31",
+   "value": 25.707,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-26-003952",
+    "sec_0001628280-25-045968"
+   ],
+   "derived": true
+  },
+  {
+   "id": "sec_tesla_revenue_quarter_q32024",
+   "entity_id": "tesla",
+   "key": "revenue_quarter",
+   "period": "Q3 2024",
+   "end": "2024-09-30",
+   "value": 25.182,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001628280-25-045968"
+   ],
+   "derived": false
+  }
+ ],
+ "filings": [
+  {
+   "entity_id": "oracle",
+   "form": "10-K",
+   "filed": "2026-06-22",
+   "report_date": "2026-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/orcl-20260531.htm",
+   "accession": "0001193125-26-277521"
+  },
+  {
+   "entity_id": "oracle",
+   "form": "10-Q",
+   "filed": "2026-09-11",
+   "report_date": "2026-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/orcl-20260831.htm",
+   "accession": "0001193125-26-389274"
+  },
+  {
+   "entity_id": "oracle",
+   "form": "8-K",
+   "filed": "2026-09-14",
+   "report_date": "2026-09-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389753/d20034d8k.htm",
+   "accession": "0001193125-26-389753"
+  },
+  {
+   "entity_id": "microsoft",
+   "form": "10-K",
+   "filed": "2026-07-29",
+   "report_date": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+   "accession": "0001193125-26-323660"
+  },
+  {
+   "entity_id": "microsoft",
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "report_date": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/msft-20260331.htm",
+   "accession": "0001193125-26-191507"
+  },
+  {
+   "entity_id": "microsoft",
+   "form": "8-K",
+   "filed": "2026-09-02",
+   "report_date": "2026-09-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526380280/d291965d8k.htm",
+   "accession": "0001193125-26-380280"
+  },
+  {
+   "entity_id": "amazon",
+   "form": "10-K",
+   "filed": "2026-02-06",
+   "report_date": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+   "accession": "0001018724-26-000004"
+  },
+  {
+   "entity_id": "amazon",
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "report_date": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+   "accession": "0001018724-26-000026"
+  },
+  {
+   "entity_id": "amazon",
+   "form": "8-K",
+   "filed": "2026-09-14",
+   "report_date": "2026-09-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926107526/tm2624614d5_8k.htm",
+   "accession": "0001104659-26-107526"
+  },
+  {
+   "entity_id": "alphabet",
+   "form": "10-K",
+   "filed": "2026-02-05",
+   "report_date": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+   "accession": "0001652044-26-000018"
+  },
+  {
+   "entity_id": "alphabet",
+   "form": "10-Q",
+   "filed": "2026-07-23",
+   "report_date": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm",
+   "accession": "0001652044-26-000071"
+  },
+  {
+   "entity_id": "alphabet",
+   "form": "8-K",
+   "filed": "2026-08-10",
+   "report_date": "2026-08-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526342390/d171253d8k.htm",
+   "accession": "0001193125-26-342390"
+  },
+  {
+   "entity_id": "meta",
+   "form": "10-K",
+   "filed": "2026-01-29",
+   "report_date": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+   "accession": "0001628280-26-003942"
+  },
+  {
+   "entity_id": "meta",
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "report_date": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/meta-20260630.htm",
+   "accession": "0001628280-26-050705"
+  },
+  {
+   "entity_id": "meta",
+   "form": "8-K",
+   "filed": "2026-07-29",
+   "report_date": "2026-07-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050596/meta-20260729.htm",
+   "accession": "0001628280-26-050596"
+  },
+  {
+   "entity_id": "nvidia",
+   "form": "10-K",
+   "filed": "2026-02-25",
+   "report_date": "2026-01-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+   "accession": "0001045810-26-000021"
+  },
+  {
+   "entity_id": "nvidia",
+   "form": "10-Q",
+   "filed": "2026-08-26",
+   "report_date": "2026-07-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+   "accession": "0001045810-26-000075"
+  },
+  {
+   "entity_id": "nvidia",
+   "form": "8-K",
+   "filed": "2026-09-03",
+   "report_date": "2026-09-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm",
+   "accession": "0001045810-26-000078"
+  },
+  {
+   "entity_id": "broadcom",
+   "form": "10-K",
+   "filed": "2025-12-18",
+   "report_date": "2025-11-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm",
+   "accession": "0001730168-25-000121"
+  },
+  {
+   "entity_id": "broadcom",
+   "form": "10-Q",
+   "filed": "2026-09-10",
+   "report_date": "2026-08-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000080/avgo-20260802.htm",
+   "accession": "0001730168-26-000080"
+  },
+  {
+   "entity_id": "broadcom",
+   "form": "8-K",
+   "filed": "2026-09-02",
+   "report_date": "2026-09-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000076/avgo-20260902.htm",
+   "accession": "0001730168-26-000076"
+  },
+  {
+   "entity_id": "amd",
+   "form": "10-K",
+   "filed": "2026-02-04",
+   "report_date": "2025-12-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm",
+   "accession": "0000002488-26-000018"
+  },
+  {
+   "entity_id": "amd",
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "report_date": "2026-06-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/amd-20260627.htm",
+   "accession": "0000002488-26-000123"
+  },
+  {
+   "entity_id": "amd",
+   "form": "8-K",
+   "filed": "2026-09-28",
+   "report_date": "2026-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000182/amd-20260926.htm",
+   "accession": "0000002488-26-000182"
+  },
+  {
+   "entity_id": "apple",
+   "form": "10-K",
+   "filed": "2025-10-31",
+   "report_date": "2025-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+   "accession": "0000320193-25-000079"
+  },
+  {
+   "entity_id": "apple",
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "report_date": "2026-06-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+   "accession": "0000320193-26-000020"
+  },
+  {
+   "entity_id": "apple",
+   "form": "8-K",
+   "filed": "2026-07-30",
+   "report_date": "2026-07-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000018/aapl-20260730.htm",
+   "accession": "0000320193-26-000018"
+  },
+  {
+   "entity_id": "tesla",
+   "form": "10-K",
+   "filed": "2026-01-29",
+   "report_date": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm",
+   "accession": "0001628280-26-003952"
+  },
+  {
+   "entity_id": "tesla",
+   "form": "10-Q",
+   "filed": "2026-07-23",
+   "report_date": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049270/tsla-20260630.htm",
+   "accession": "0001628280-26-049270"
+  },
+  {
+   "entity_id": "tesla",
+   "form": "8-K",
+   "filed": "2026-10-02",
+   "report_date": "2026-10-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026064366/tsla-20261002.htm",
+   "accession": "0001628280-26-064366"
+  },
+  {
+   "entity_id": "tsmc",
+   "form": "20-F",
+   "filed": "2026-04-16",
+   "report_date": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+   "accession": "0001628280-26-025362"
+  },
+  {
+   "entity_id": "tsmc",
+   "form": "6-K",
+   "filed": "2026-09-24",
+   "report_date": "2026-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000660/tsm-monthend6kx20260924.htm",
+   "accession": "0001046179-26-000660"
+  },
+  {
+   "entity_id": "asml",
+   "form": "20-F",
+   "filed": "2026-02-25",
+   "report_date": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026011378/asml-20251231.htm",
+   "accession": "0001628280-26-011378"
+  },
+  {
+   "entity_id": "asml",
+   "form": "6-K",
+   "filed": "2026-07-15",
+   "report_date": "2026-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/form6-kquarterlyfilings.htm",
+   "accession": "0001628280-26-048235"
+  }
+ ]
+}
