@@ -57,3 +57,11 @@ describe('validateGraph rejects bad data', () => {
   it('duplicate fact ids', () => broken((d) => { d.metrics[1].id = d.metrics[0].id; }, /duplicate id/));
   it('a missing status (schema)', () => broken((d) => { delete d.relations[0].status; }, /status/));
 });
+
+describe('links are web links only', () => {
+  it('rejects javascript: and data: URLs from untrusted feeds', async () => {
+    const { webUrl } = await import('../../src/lib/data/schema');
+    expect(webUrl.safeParse('https://www.sec.gov/x').success).toBe(true);
+    for (const bad of ['javascript:alert(1)', 'data:text/html,x', 'ftp://x', 'https://a b']) expect(webUrl.safeParse(bad).success, bad).toBe(false);
+  });
+});

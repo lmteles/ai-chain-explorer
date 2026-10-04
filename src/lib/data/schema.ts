@@ -1,6 +1,9 @@
 import { z } from 'zod';
 
 // Dates are ISO; month precision ("2026-07") is allowed when the source gives no day.
+/** Links shown to users must be web links: data from GDELT/RSS is untrusted, and Zod's url() accepts javascript:. */
+export const webUrl = z.string().regex(/^https?:\/\/[^\s]+$/, 'expected an http(s) URL');
+
 const isoDate = z.string().regex(/^\d{4}-\d{2}(-\d{2})?$/, 'expected YYYY-MM or YYYY-MM-DD');
 
 export const Status = z.enum(['filed', 'filed_inferred_name', 'reported', 'claimed_by_eisman', 'background_unverified']);
@@ -18,7 +21,7 @@ export const Source = z.object({
   id: z.string(),
   publisher: z.string(),
   title: z.string(),
-  url: z.string(),
+  url: z.union([webUrl, z.literal('')]), // '' = no public URL (background knowledge)
   published: isoDate.nullable(),
   kind: z.enum(['filing', 'ir', 'press', 'transcript', 'analyst', 'blog', 'background', 'data']),
   reliability: Reliability,
@@ -93,7 +96,7 @@ export const Filing = z.object({
   form: z.string(),
   filed: isoDate,
   report_date: isoDate.nullable(),
-  url: z.string().url(),
+  url: webUrl,
   accession: z.string(),
 });
 
@@ -113,7 +116,7 @@ export const RelationEvent = z.object({
   date: isoDate,
   type: z.enum(['announced', 'revised', 'closed']),
   headline: z.string(),
-  url: z.string().url(),
+  url: webUrl,
   publisher: z.string(),
 });
 export type RelationEvent = z.infer<typeof RelationEvent>;

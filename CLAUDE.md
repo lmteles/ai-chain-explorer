@@ -46,11 +46,11 @@ loop, and every other loop, visible and measurable.
 9. **Staleness is visible.** Older than 90 days: amber badge; older than 180 days: red.
 
 ## Stack
-- Vite + React 19 + TypeScript strict, hash router, Tailwind, shadcn/ui
-- Sparklines are inline SVG (`Sparkline.tsx`); Recharts only if a real chart needs it (M9 bars).
+- Vite + React 19 + TypeScript strict, hash routing (hand-rolled, no router library), Tailwind. No component library.
+- Sparklines and the simulator bar chart are inline SVG; no charting library.
 - Graph: Cytoscape.js. Tier view uses a **preset layout** (y fixed by tier, x ordered within tier; computed
   once, so no jitter); `cytoscape-fcose` for the force view. Parallel edges: `curve-style: bezier`.
-  `d3-sankey` for flows. Recharts for sparklines and bars.
+  `d3-sankey` for flows.
 - Data: JSON files validated by Zod at load and in every script. One hook, `useGraphData()`.
 - Jobs: Node scripts under `/scripts`, run by GitHub Actions; they write JSON, never call an LLM on a schedule.
 - Tests: Vitest (unit, adapter fixtures), Playwright (click-through against the built site).

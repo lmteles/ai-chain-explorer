@@ -1,6 +1,6 @@
 import { z } from 'zod';
 import type { LiveBundle } from './live.ts';
-import type { Metric, Relation, Source } from './schema.ts';
+import { webUrl, type Metric, type Relation, type Source } from './schema.ts';
 
 /** A downloaded investor document (an EDGAR filing with one or more files). Hashes pin exactly what was read. */
 export const IrDocument = z.object({
@@ -10,9 +10,9 @@ export const IrDocument = z.object({
   form: z.string(),
   filed: z.string(),
   accession: z.string(),
-  index_url: z.string().url(),
-  files: z.array(z.object({ name: z.string(), url: z.string().url(), sha256: z.string().length(64) })).min(1),
-  pages: z.array(z.object({ page: z.number().int().positive(), url: z.string().url() })), // slide images, if any
+  index_url: webUrl,
+  files: z.array(z.object({ name: z.string(), url: webUrl, sha256: z.string().length(64) })).min(1),
+  pages: z.array(z.object({ page: z.number().int().positive(), url: webUrl })), // slide images, if any
 });
 export type IrDocument = z.infer<typeof IrDocument>;
 

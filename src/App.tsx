@@ -109,6 +109,8 @@ export function App() {
         <h1 className="text-lg font-semibold">AI Chain Explorer</h1>
         <span className="text-sm text-slate-500">Who pays whom in the AI build-out, and on whose word</span>
         <a href="#/flows" className="ml-auto text-sm underline decoration-dotted">Follow the money</a>
+        <a href="https://github.com/lmteles/ai-chain-explorer/blob/main/docs/MANUAL.md" target="_blank" rel="noopener noreferrer"
+          className="text-sm underline decoration-dotted">Help</a>
         <a href="#/simulate" className="text-sm underline decoration-dotted">Simulator</a>
         {review && (
           <a href="#/review" className="text-sm underline decoration-dotted">

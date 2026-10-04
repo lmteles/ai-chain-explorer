@@ -1,10 +1,10 @@
 import { z } from 'zod';
 import type { LiveBundle } from './live.ts';
-import { AmountBasis, RelationType, type Relation, type Source } from './schema.ts';
+import { AmountBasis, RelationType, webUrl, type Relation, type Source } from './schema.ts';
 
 export const Headline = z.object({
   title: z.string(),                    // verbatim as the source gave it: this is the evidence
-  url: z.string().url(),
+  url: webUrl,
   domain: z.string(),
   seen: z.string(),                     // ISO date-time
   source: z.enum(['gdelt', 'rss']),
@@ -38,7 +38,7 @@ export const NewsProposal = z.object({
   kind: z.enum(['new_relation', 'amount_change', 'event']),
   cluster_id: z.string(),
   headline: z.string(),
-  url: z.string().url(),
+  url: webUrl,
   publisher: z.string(),
   date: z.string(),
   relation_id: z.string().optional(),            // amount_change, event
