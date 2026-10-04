@@ -1,6 +1,6 @@
 {
  "adapter": "quotes",
- "fetched_at": "2026-10-04T18:23:20.953Z",
+ "fetched_at": "2026-10-04T22:22:48.428Z",
  "metrics": [
   {
    "id": "mkt_microsoft_market_cap",
@@ -6136,5 +6136,9 @@
    "derived": false
   }
  ],
- "filings": []
+ "filings": [],
+ "relation_updates": [],
+ "relations": [],
+ "amount_updates": [],
+ "events": []
 }

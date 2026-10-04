@@ -457,5 +457,125 @@
     "notes": [
       "not licensed: disabled stub, no scraping"
     ]
+  },
+  {
+    "adapter": "sec",
+    "started_at": "2026-10-04T22:22:42.546Z",
+    "finished_at": "2026-10-04T22:22:47.237Z",
+    "status": "ok",
+    "rows": 413,
+    "errors": [],
+    "notes": [
+      "oracle: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "microsoft: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "amazon: capex=PaymentsToAcquireProductiveAssets ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "alphabet: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=Revenues",
+      "meta: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "nvidia: capex=PaymentsToAcquireProductiveAssets ocf=NetCashProvidedByUsedInOperatingActivities revenue=Revenues",
+      "broadcom: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "amd: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "apple: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "tesla: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "tsmc: no us-gaap facts (IFRS filer); figures come from investor materials in M5",
+      "asml: capex=none ocf=none revenue=none"
+    ]
+  },
+  {
+    "adapter": "fred",
+    "started_at": "2026-10-04T22:22:47.535Z",
+    "finished_at": "2026-10-04T22:22:47.718Z",
+    "status": "ok",
+    "rows": 1,
+    "errors": [],
+    "notes": [
+      "macro_dgs10 = 5.24 (2026-10-01)"
+    ]
+  },
+  {
+    "adapter": "treasury",
+    "started_at": "2026-10-04T22:22:47.719Z",
+    "finished_at": "2026-10-04T22:22:48.426Z",
+    "status": "ok",
+    "rows": 3,
+    "errors": [],
+    "notes": [
+      "macro_federal_debt = 40260.64 (2026-10-01)",
+      "macro_interest_public = 981.81 (2026-08-31)",
+      "macro_interest_total = 1267.81 (2026-08-31)"
+    ]
+  },
+  {
+    "adapter": "quotes",
+    "started_at": "2026-10-04T22:22:48.428Z",
+    "finished_at": "2026-10-04T22:22:53.668Z",
+    "status": "ok",
+    "rows": 468,
+    "errors": [],
+    "notes": [
+      "softbank: 9984.T not covered by Financial Modeling Prep",
+      "oracle: ORCL not covered on the current Financial Modeling Prep plan",
+      "broadcom: AVGO not covered on the current Financial Modeling Prep plan",
+      "samsung: 005930.KS not covered by Financial Modeling Prep",
+      "asml: ASML not covered on the current Financial Modeling Prep plan"
+    ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-10-04T22:22:53.966Z",
+    "finished_at": "2026-10-04T22:23:45.145Z",
+    "status": "failed",
+    "rows": 0,
+    "errors": [
+      "…L)%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=250&sort=DateDesc&timespan=1d: fetch failed"
+    ],
+    "notes": [
+      "0 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-10-04T22:23:45.147Z",
+    "finished_at": "2026-10-04T22:23:46.165Z",
+    "status": "ok",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "0 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-10-04T22:23:46.165Z",
+    "finished_at": "2026-10-04T22:23:46.165Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-10-04T22:23:46.166Z",
+    "finished_at": "2026-10-04T22:23:46.166Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ir",
+    "started_at": "2026-10-04T22:23:46.431Z",
+    "finished_at": "2026-10-04T22:23:48.637Z",
+    "status": "ok",
+    "rows": 3,
+    "errors": [],
+    "notes": [
+      "tsmc-results-2026-06-30: a2q26e_withguidancexfinal.htm sha256 ca75d953b8d1…, a2q26presentatione.htm sha256 4b5401116a11…",
+      "tsmc-20f-2025-12-31: tsm-20251231.htm sha256 8a7ec012c800…",
+      "asml-results-2026-06-28: presentationinvestorrela.htm sha256 6708aa16f8f0…, pressreleasefinancialresul.htm sha256 ec7d95b29e0a…"
+    ]
   }
 ]

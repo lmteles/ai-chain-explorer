@@ -1,6 +1,6 @@
 {
  "adapter": "sec",
- "fetched_at": "2026-10-04T18:06:44.940Z",
+ "fetched_at": "2026-10-04T22:22:42.546Z",
  "metrics": [
   {
    "id": "sec_oracle_capex_quarter_q32026",
@@ -6101,5 +6101,9 @@
    "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/form6-kquarterlyfilings.htm",
    "accession": "0001628280-26-048235"
   }
- ]
+ ],
+ "relation_updates": [],
+ "relations": [],
+ "amount_updates": [],
+ "events": []
 }
