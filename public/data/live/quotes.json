@@ -1,159 +1,159 @@
 {
  "adapter": "quotes",
- "fetched_at": "2026-10-05T05:52:42.538Z",
+ "fetched_at": "2026-10-05T14:56:04.612Z",
  "metrics": [
   {
    "id": "mkt_microsoft_market_cap",
    "entity_id": "microsoft",
    "key": "market_cap",
-   "value": 3842.94,
+   "value": 3906.17,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "2026-10-02",
+   "period": "2026-10-05",
    "status": "reported",
    "source_ids": [
     "fmp_quotes"
    ],
    "confidence": "high",
-   "as_of": "2026-10-02",
-   "note": "MSFT at $517.53. For ADRs, the market cap of the underlying company in USD."
+   "as_of": "2026-10-05",
+   "note": "MSFT at $526.0444. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_amazon_market_cap",
    "entity_id": "amazon",
    "key": "market_cap",
-   "value": 2705.63,
+   "value": 2706.06,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "2026-10-02",
+   "period": "2026-10-05",
    "status": "reported",
    "source_ids": [
     "fmp_quotes"
    ],
    "confidence": "high",
-   "as_of": "2026-10-02",
-   "note": "AMZN at $251.52. For ADRs, the market cap of the underlying company in USD."
+   "as_of": "2026-10-05",
+   "note": "AMZN at $251.56. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_alphabet_market_cap",
    "entity_id": "alphabet",
    "key": "market_cap",
-   "value": 4157.08,
+   "value": 4160.28,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "2026-10-02",
+   "period": "2026-10-05",
    "status": "reported",
    "source_ids": [
     "fmp_quotes"
    ],
    "confidence": "high",
-   "as_of": "2026-10-02",
-   "note": "GOOGL at $343.5. For ADRs, the market cap of the underlying company in USD."
+   "as_of": "2026-10-05",
+   "note": "GOOGL at $343.765. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_meta_market_cap",
    "entity_id": "meta",
    "key": "market_cap",
-   "value": 1854.77,
+   "value": 1895.18,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "2026-10-02",
+   "period": "2026-10-05",
    "status": "reported",
    "source_ids": [
     "fmp_quotes"
    ],
    "confidence": "high",
-   "as_of": "2026-10-02",
-   "note": "META at $728.08. For ADRs, the market cap of the underlying company in USD."
+   "as_of": "2026-10-05",
+   "note": "META at $743.94. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_nvidia_market_cap",
    "entity_id": "nvidia",
    "key": "market_cap",
-   "value": 5666.5,
+   "value": 5742.56,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "2026-10-02",
+   "period": "2026-10-05",
    "status": "reported",
    "source_ids": [
     "fmp_quotes"
    ],
    "confidence": "high",
-   "as_of": "2026-10-02",
-   "note": "NVDA at $233.95. For ADRs, the market cap of the underlying company in USD."
+   "as_of": "2026-10-05",
+   "note": "NVDA at $237.09. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_amd_market_cap",
    "entity_id": "amd",
    "key": "market_cap",
-   "value": 1033.65,
+   "value": 1026.89,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "2026-10-02",
+   "period": "2026-10-05",
    "status": "reported",
    "source_ids": [
     "fmp_quotes"
    ],
    "confidence": "high",
-   "as_of": "2026-10-02",
-   "note": "AMD at $633.91. For ADRs, the market cap of the underlying company in USD."
+   "as_of": "2026-10-05",
+   "note": "AMD at $629.76. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_apple_market_cap",
    "entity_id": "apple",
    "key": "market_cap",
-   "value": 4901.02,
+   "value": 4902.2,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "2026-10-02",
+   "period": "2026-10-05",
    "status": "reported",
    "source_ids": [
     "fmp_quotes"
    ],
    "confidence": "high",
-   "as_of": "2026-10-02",
-   "note": "AAPL at $333.69. For ADRs, the market cap of the underlying company in USD."
+   "as_of": "2026-10-05",
+   "note": "AAPL at $333.77. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_tesla_market_cap",
    "entity_id": "tesla",
    "key": "market_cap",
-   "value": 1463.66,
+   "value": 1484.22,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "2026-10-02",
+   "period": "2026-10-05",
    "status": "reported",
    "source_ids": [
     "fmp_quotes"
    ],
    "confidence": "high",
-   "as_of": "2026-10-02",
-   "note": "TSLA at $370.59. For ADRs, the market cap of the underlying company in USD."
+   "as_of": "2026-10-05",
+   "note": "TSLA at $375.79501. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_tsmc_market_cap",
    "entity_id": "tsmc",
    "key": "market_cap",
-   "value": 2452.06,
+   "value": 2490.86,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "2026-10-02",
+   "period": "2026-10-05",
    "status": "reported",
    "source_ids": [
     "fmp_quotes"
    ],
    "confidence": "high",
-   "as_of": "2026-10-02",
-   "note": "TSM at $472.78. For ADRs, the market cap of the underlying company in USD."
+   "as_of": "2026-10-05",
+   "note": "TSM at $480.26. For ADRs, the market cap of the underlying company in USD."
   }
  ],
  "sources": [
@@ -169,12 +169,12 @@
  ],
  "history": [
   {
-   "id": "mkt_microsoft_price_2025-10-10",
+   "id": "mkt_microsoft_price_2025-10-06",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2025-10-10",
-   "end": "2025-10-10",
-   "value": 510.96,
+   "period": "2025-10-06",
+   "end": "2025-10-06",
+   "value": 528.57,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -182,12 +182,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2025-10-17",
+   "id": "mkt_microsoft_price_2025-10-13",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2025-10-17",
-   "end": "2025-10-17",
-   "value": 513.58,
+   "period": "2025-10-13",
+   "end": "2025-10-13",
+   "value": 514.05,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -195,12 +195,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2025-10-24",
+   "id": "mkt_microsoft_price_2025-10-20",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 523.61,
+   "period": "2025-10-20",
+   "end": "2025-10-20",
+   "value": 516.79,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -208,12 +208,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2025-10-31",
+   "id": "mkt_microsoft_price_2025-10-27",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2025-10-31",
-   "end": "2025-10-31",
-   "value": 517.81,
+   "period": "2025-10-27",
+   "end": "2025-10-27",
+   "value": 531.52,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -221,12 +221,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2025-11-07",
+   "id": "mkt_microsoft_price_2025-11-03",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2025-11-07",
-   "end": "2025-11-07",
-   "value": 496.82,
+   "period": "2025-11-03",
+   "end": "2025-11-03",
+   "value": 517.03,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -234,12 +234,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2025-11-14",
+   "id": "mkt_microsoft_price_2025-11-10",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2025-11-14",
-   "end": "2025-11-14",
-   "value": 510.18,
+   "period": "2025-11-10",
+   "end": "2025-11-10",
+   "value": 506,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -247,12 +247,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2025-11-21",
+   "id": "mkt_microsoft_price_2025-11-17",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2025-11-21",
-   "end": "2025-11-21",
-   "value": 472.12,
+   "period": "2025-11-17",
+   "end": "2025-11-17",
+   "value": 507.49,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -260,12 +260,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2025-12-01",
+   "id": "mkt_microsoft_price_2025-11-24",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2025-12-01",
-   "end": "2025-12-01",
-   "value": 486.74,
+   "period": "2025-11-24",
+   "end": "2025-11-24",
+   "value": 474,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -273,12 +273,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2025-12-08",
+   "id": "mkt_microsoft_price_2025-12-02",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2025-12-08",
-   "end": "2025-12-08",
-   "value": 491.02,
+   "period": "2025-12-02",
+   "end": "2025-12-02",
+   "value": 490,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -286,12 +286,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2025-12-15",
+   "id": "mkt_microsoft_price_2025-12-09",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2025-12-15",
-   "end": "2025-12-15",
-   "value": 474.82,
+   "period": "2025-12-09",
+   "end": "2025-12-09",
+   "value": 492.02,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -299,12 +299,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2025-12-22",
+   "id": "mkt_microsoft_price_2025-12-16",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2025-12-22",
-   "end": "2025-12-22",
-   "value": 484.92,
+   "period": "2025-12-16",
+   "end": "2025-12-16",
+   "value": 476.39,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -312,12 +312,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2025-12-30",
+   "id": "mkt_microsoft_price_2025-12-23",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2025-12-30",
-   "end": "2025-12-30",
-   "value": 487.48,
+   "period": "2025-12-23",
+   "end": "2025-12-23",
+   "value": 486.85,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -325,12 +325,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-01-07",
+   "id": "mkt_microsoft_price_2025-12-31",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-01-07",
-   "end": "2026-01-07",
-   "value": 483.47,
+   "period": "2025-12-31",
+   "end": "2025-12-31",
+   "value": 483.62,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -338,12 +338,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-01-14",
+   "id": "mkt_microsoft_price_2026-01-08",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-01-14",
-   "end": "2026-01-14",
-   "value": 459.38,
+   "period": "2026-01-08",
+   "end": "2026-01-08",
+   "value": 478.11,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -351,12 +351,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-01-22",
+   "id": "mkt_microsoft_price_2026-01-15",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-01-22",
-   "end": "2026-01-22",
-   "value": 451.14,
+   "period": "2026-01-15",
+   "end": "2026-01-15",
+   "value": 456.66,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -364,12 +364,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-01-29",
+   "id": "mkt_microsoft_price_2026-01-23",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-01-29",
-   "end": "2026-01-29",
-   "value": 433.5,
+   "period": "2026-01-23",
+   "end": "2026-01-23",
+   "value": 465.95,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -377,12 +377,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-02-05",
+   "id": "mkt_microsoft_price_2026-01-30",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-02-05",
-   "end": "2026-02-05",
-   "value": 393.67,
+   "period": "2026-01-30",
+   "end": "2026-01-30",
+   "value": 430.29,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -390,12 +390,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-02-12",
+   "id": "mkt_microsoft_price_2026-02-06",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-02-12",
-   "end": "2026-02-12",
-   "value": 401.84,
+   "period": "2026-02-06",
+   "end": "2026-02-06",
+   "value": 401.14,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -403,12 +403,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-02-20",
+   "id": "mkt_microsoft_price_2026-02-13",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-02-20",
-   "end": "2026-02-20",
-   "value": 397.23,
+   "period": "2026-02-13",
+   "end": "2026-02-13",
+   "value": 401.32,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -416,12 +416,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-02-27",
+   "id": "mkt_microsoft_price_2026-02-23",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-02-27",
-   "end": "2026-02-27",
-   "value": 392.74,
+   "period": "2026-02-23",
+   "end": "2026-02-23",
+   "value": 384.47,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -429,12 +429,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-03-06",
+   "id": "mkt_microsoft_price_2026-03-02",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-03-06",
-   "end": "2026-03-06",
-   "value": 408.96,
+   "period": "2026-03-02",
+   "end": "2026-03-02",
+   "value": 398.55,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -442,12 +442,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-03-13",
+   "id": "mkt_microsoft_price_2026-03-09",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-03-13",
-   "end": "2026-03-13",
-   "value": 395.55,
+   "period": "2026-03-09",
+   "end": "2026-03-09",
+   "value": 409.41,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -455,12 +455,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-03-20",
+   "id": "mkt_microsoft_price_2026-03-16",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-03-20",
-   "end": "2026-03-20",
-   "value": 381.87,
+   "period": "2026-03-16",
+   "end": "2026-03-16",
+   "value": 399.95,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -468,12 +468,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-03-27",
+   "id": "mkt_microsoft_price_2026-03-23",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-03-27",
-   "end": "2026-03-27",
-   "value": 356.77,
+   "period": "2026-03-23",
+   "end": "2026-03-23",
+   "value": 383,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -481,12 +481,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-04-06",
+   "id": "mkt_microsoft_price_2026-03-30",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-04-06",
-   "end": "2026-04-06",
-   "value": 372.88,
+   "period": "2026-03-30",
+   "end": "2026-03-30",
+   "value": 358.96,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -494,12 +494,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-04-13",
+   "id": "mkt_microsoft_price_2026-04-07",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-04-13",
-   "end": "2026-04-13",
-   "value": 384.37,
+   "period": "2026-04-07",
+   "end": "2026-04-07",
+   "value": 372.29,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -507,12 +507,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-04-20",
+   "id": "mkt_microsoft_price_2026-04-14",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-04-20",
-   "end": "2026-04-20",
-   "value": 418.07,
+   "period": "2026-04-14",
+   "end": "2026-04-14",
+   "value": 393.11,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -520,12 +520,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-04-27",
+   "id": "mkt_microsoft_price_2026-04-21",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-04-27",
-   "end": "2026-04-27",
-   "value": 424.82,
+   "period": "2026-04-21",
+   "end": "2026-04-21",
+   "value": 424.16,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -533,12 +533,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-05-04",
+   "id": "mkt_microsoft_price_2026-04-28",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-05-04",
-   "end": "2026-05-04",
-   "value": 413.62,
+   "period": "2026-04-28",
+   "end": "2026-04-28",
+   "value": 429.25,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -546,12 +546,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-05-11",
+   "id": "mkt_microsoft_price_2026-05-05",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-05-11",
-   "end": "2026-05-11",
-   "value": 412.66,
+   "period": "2026-05-05",
+   "end": "2026-05-05",
+   "value": 411.38,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -559,12 +559,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-05-18",
+   "id": "mkt_microsoft_price_2026-05-12",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-05-18",
-   "end": "2026-05-18",
-   "value": 423.54,
+   "period": "2026-05-12",
+   "end": "2026-05-12",
+   "value": 407.77,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -572,12 +572,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-05-26",
+   "id": "mkt_microsoft_price_2026-05-19",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-05-26",
-   "end": "2026-05-26",
-   "value": 416.03,
+   "period": "2026-05-19",
+   "end": "2026-05-19",
+   "value": 417.42,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -585,12 +585,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-06-02",
+   "id": "mkt_microsoft_price_2026-05-27",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-06-02",
-   "end": "2026-06-02",
-   "value": 441.31,
+   "period": "2026-05-27",
+   "end": "2026-05-27",
+   "value": 412.67,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -598,12 +598,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-06-09",
+   "id": "mkt_microsoft_price_2026-06-03",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-06-09",
-   "end": "2026-06-09",
-   "value": 403.41,
+   "period": "2026-06-03",
+   "end": "2026-06-03",
+   "value": 427.34,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -611,12 +611,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-06-16",
+   "id": "mkt_microsoft_price_2026-06-10",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-06-16",
-   "end": "2026-06-16",
-   "value": 393.83,
+   "period": "2026-06-10",
+   "end": "2026-06-10",
+   "value": 397.36,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -624,12 +624,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-06-24",
+   "id": "mkt_microsoft_price_2026-06-17",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-06-24",
-   "end": "2026-06-24",
-   "value": 365.46,
+   "period": "2026-06-17",
+   "end": "2026-06-17",
+   "value": 378.91,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -637,12 +637,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-07-01",
+   "id": "mkt_microsoft_price_2026-06-25",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-07-01",
-   "end": "2026-07-01",
-   "value": 384.28,
+   "period": "2026-06-25",
+   "end": "2026-06-25",
+   "value": 352.83,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -650,12 +650,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-07-09",
+   "id": "mkt_microsoft_price_2026-07-02",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-07-09",
-   "end": "2026-07-09",
-   "value": 384.36,
+   "period": "2026-07-02",
+   "end": "2026-07-02",
+   "value": 390.49,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -663,12 +663,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-07-16",
+   "id": "mkt_microsoft_price_2026-07-10",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-07-16",
-   "end": "2026-07-16",
-   "value": 401.1,
+   "period": "2026-07-10",
+   "end": "2026-07-10",
+   "value": 385.1,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -676,12 +676,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-07-23",
+   "id": "mkt_microsoft_price_2026-07-17",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-07-23",
-   "end": "2026-07-23",
-   "value": 381.58,
+   "period": "2026-07-17",
+   "end": "2026-07-17",
+   "value": 393.82,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -689,12 +689,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-07-30",
+   "id": "mkt_microsoft_price_2026-07-24",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-07-30",
-   "end": "2026-07-30",
-   "value": 451.1,
+   "period": "2026-07-24",
+   "end": "2026-07-24",
+   "value": 381.7,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -702,12 +702,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-08-06",
+   "id": "mkt_microsoft_price_2026-07-31",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-08-06",
-   "end": "2026-08-06",
-   "value": 499.86,
+   "period": "2026-07-31",
+   "end": "2026-07-31",
+   "value": 464.72,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -715,12 +715,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-08-13",
+   "id": "mkt_microsoft_price_2026-08-07",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-08-13",
-   "end": "2026-08-13",
-   "value": 496.88,
+   "period": "2026-08-07",
+   "end": "2026-08-07",
+   "value": 499.99,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -728,12 +728,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-08-20",
+   "id": "mkt_microsoft_price_2026-08-14",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-08-20",
-   "end": "2026-08-20",
-   "value": 481.15,
+   "period": "2026-08-14",
+   "end": "2026-08-14",
+   "value": 495.4,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -741,12 +741,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-08-27",
+   "id": "mkt_microsoft_price_2026-08-21",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-08-27",
-   "end": "2026-08-27",
-   "value": 505.06,
+   "period": "2026-08-21",
+   "end": "2026-08-21",
+   "value": 483.24,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -754,12 +754,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-09-03",
+   "id": "mkt_microsoft_price_2026-08-28",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-09-03",
-   "end": "2026-09-03",
-   "value": 510.12,
+   "period": "2026-08-28",
+   "end": "2026-08-28",
+   "value": 513.53,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -767,12 +767,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-09-11",
+   "id": "mkt_microsoft_price_2026-09-04",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-09-11",
-   "end": "2026-09-11",
-   "value": 495.63,
+   "period": "2026-09-04",
+   "end": "2026-09-04",
+   "value": 499.7,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -780,12 +780,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-09-18",
+   "id": "mkt_microsoft_price_2026-09-14",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-09-18",
-   "end": "2026-09-18",
-   "value": 493.78,
+   "period": "2026-09-14",
+   "end": "2026-09-14",
+   "value": 505.41,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -793,12 +793,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-09-25",
+   "id": "mkt_microsoft_price_2026-09-21",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-09-25",
-   "end": "2026-09-25",
-   "value": 516.17,
+   "period": "2026-09-21",
+   "end": "2026-09-21",
+   "value": 501.61,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -806,12 +806,12 @@
    "derived": false
   },
   {
-   "id": "mkt_microsoft_price_2026-10-02",
+   "id": "mkt_microsoft_price_2026-09-28",
    "entity_id": "microsoft",
    "key": "price",
-   "period": "2026-10-02",
-   "end": "2026-10-02",
-   "value": 517.53,
+   "period": "2026-09-28",
+   "end": "2026-09-28",
+   "value": 509.22,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -819,12 +819,25 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2025-10-10",
+   "id": "mkt_microsoft_price_2026-10-05",
+   "entity_id": "microsoft",
+   "key": "price",
+   "period": "2026-10-05",
+   "end": "2026-10-05",
+   "value": 526.20001,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_amazon_price_2025-10-06",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2025-10-10",
-   "end": "2025-10-10",
-   "value": 216.37,
+   "period": "2025-10-06",
+   "end": "2025-10-06",
+   "value": 220.9,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -832,12 +845,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2025-10-17",
+   "id": "mkt_amazon_price_2025-10-13",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2025-10-17",
-   "end": "2025-10-17",
-   "value": 213.04,
+   "period": "2025-10-13",
+   "end": "2025-10-13",
+   "value": 220.07,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -845,12 +858,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2025-10-24",
+   "id": "mkt_amazon_price_2025-10-20",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 224.21,
+   "period": "2025-10-20",
+   "end": "2025-10-20",
+   "value": 216.48,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -858,12 +871,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2025-10-31",
+   "id": "mkt_amazon_price_2025-10-27",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2025-10-31",
-   "end": "2025-10-31",
-   "value": 244.22,
+   "period": "2025-10-27",
+   "end": "2025-10-27",
+   "value": 226.97,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -871,12 +884,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2025-11-07",
+   "id": "mkt_amazon_price_2025-11-03",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2025-11-07",
-   "end": "2025-11-07",
-   "value": 244.41,
+   "period": "2025-11-03",
+   "end": "2025-11-03",
+   "value": 254,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -884,12 +897,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2025-11-14",
+   "id": "mkt_amazon_price_2025-11-10",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2025-11-14",
-   "end": "2025-11-14",
-   "value": 234.69,
+   "period": "2025-11-10",
+   "end": "2025-11-10",
+   "value": 248.4,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -897,12 +910,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2025-11-21",
+   "id": "mkt_amazon_price_2025-11-17",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2025-11-21",
-   "end": "2025-11-21",
-   "value": 220.69,
+   "period": "2025-11-17",
+   "end": "2025-11-17",
+   "value": 232.87,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -910,12 +923,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2025-12-01",
+   "id": "mkt_amazon_price_2025-11-24",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2025-12-01",
-   "end": "2025-12-01",
-   "value": 233.88,
+   "period": "2025-11-24",
+   "end": "2025-11-24",
+   "value": 226.28,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -923,12 +936,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2025-12-08",
+   "id": "mkt_amazon_price_2025-12-02",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2025-12-08",
-   "end": "2025-12-08",
-   "value": 226.89,
+   "period": "2025-12-02",
+   "end": "2025-12-02",
+   "value": 234.42,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -936,12 +949,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2025-12-15",
+   "id": "mkt_amazon_price_2025-12-09",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2025-12-15",
-   "end": "2025-12-15",
-   "value": 222.54,
+   "period": "2025-12-09",
+   "end": "2025-12-09",
+   "value": 227.92,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -949,12 +962,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2025-12-22",
+   "id": "mkt_amazon_price_2025-12-16",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2025-12-22",
-   "end": "2025-12-22",
-   "value": 228.43,
+   "period": "2025-12-16",
+   "end": "2025-12-16",
+   "value": 222.56,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -962,12 +975,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2025-12-30",
+   "id": "mkt_amazon_price_2025-12-23",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2025-12-30",
-   "end": "2025-12-30",
-   "value": 232.53,
+   "period": "2025-12-23",
+   "end": "2025-12-23",
+   "value": 232.14,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -975,12 +988,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-01-07",
+   "id": "mkt_amazon_price_2025-12-31",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-01-07",
-   "end": "2026-01-07",
-   "value": 241.56,
+   "period": "2025-12-31",
+   "end": "2025-12-31",
+   "value": 230.82,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -988,12 +1001,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-01-14",
+   "id": "mkt_amazon_price_2026-01-08",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-01-14",
-   "end": "2026-01-14",
-   "value": 236.65,
+   "period": "2026-01-08",
+   "end": "2026-01-08",
+   "value": 246.29,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1001,12 +1014,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-01-22",
+   "id": "mkt_amazon_price_2026-01-15",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-01-22",
-   "end": "2026-01-22",
-   "value": 234.34,
+   "period": "2026-01-15",
+   "end": "2026-01-15",
+   "value": 238.18,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1014,12 +1027,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-01-29",
+   "id": "mkt_amazon_price_2026-01-23",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-01-29",
-   "end": "2026-01-29",
-   "value": 241.73,
+   "period": "2026-01-23",
+   "end": "2026-01-23",
+   "value": 239.16,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1027,12 +1040,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-02-05",
+   "id": "mkt_amazon_price_2026-01-30",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-02-05",
-   "end": "2026-02-05",
-   "value": 222.69,
+   "period": "2026-01-30",
+   "end": "2026-01-30",
+   "value": 239.3,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1040,12 +1053,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-02-12",
+   "id": "mkt_amazon_price_2026-02-06",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-02-12",
-   "end": "2026-02-12",
-   "value": 199.6,
+   "period": "2026-02-06",
+   "end": "2026-02-06",
+   "value": 210.32,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1053,12 +1066,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-02-20",
+   "id": "mkt_amazon_price_2026-02-13",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-02-20",
-   "end": "2026-02-20",
-   "value": 210.11,
+   "period": "2026-02-13",
+   "end": "2026-02-13",
+   "value": 198.79,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1066,12 +1079,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-02-27",
+   "id": "mkt_amazon_price_2026-02-23",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-02-27",
-   "end": "2026-02-27",
-   "value": 210,
+   "period": "2026-02-23",
+   "end": "2026-02-23",
+   "value": 205.27,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1079,12 +1092,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-03-06",
+   "id": "mkt_amazon_price_2026-03-02",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-03-06",
-   "end": "2026-03-06",
-   "value": 213.21,
+   "period": "2026-03-02",
+   "end": "2026-03-02",
+   "value": 208.39,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1092,12 +1105,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-03-13",
+   "id": "mkt_amazon_price_2026-03-09",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-03-13",
-   "end": "2026-03-13",
-   "value": 207.67,
+   "period": "2026-03-09",
+   "end": "2026-03-09",
+   "value": 213.49,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1105,12 +1118,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-03-20",
+   "id": "mkt_amazon_price_2026-03-16",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-03-20",
-   "end": "2026-03-20",
-   "value": 205.37,
+   "period": "2026-03-16",
+   "end": "2026-03-16",
+   "value": 211.74,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1118,12 +1131,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-03-27",
+   "id": "mkt_amazon_price_2026-03-23",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-03-27",
-   "end": "2026-03-27",
-   "value": 199.34,
+   "period": "2026-03-23",
+   "end": "2026-03-23",
+   "value": 210.14,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1131,12 +1144,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-04-06",
+   "id": "mkt_amazon_price_2026-03-30",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-04-06",
-   "end": "2026-04-06",
-   "value": 212.79,
+   "period": "2026-03-30",
+   "end": "2026-03-30",
+   "value": 200.95,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1144,12 +1157,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-04-13",
+   "id": "mkt_amazon_price_2026-04-07",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-04-13",
-   "end": "2026-04-13",
-   "value": 239.89,
+   "period": "2026-04-07",
+   "end": "2026-04-07",
+   "value": 213.77,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1157,12 +1170,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-04-20",
+   "id": "mkt_amazon_price_2026-04-14",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-04-20",
-   "end": "2026-04-20",
-   "value": 248.28,
+   "period": "2026-04-14",
+   "end": "2026-04-14",
+   "value": 249.02,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1170,12 +1183,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-04-27",
+   "id": "mkt_amazon_price_2026-04-21",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-04-27",
-   "end": "2026-04-27",
-   "value": 261.12,
+   "period": "2026-04-21",
+   "end": "2026-04-21",
+   "value": 249.91,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1183,12 +1196,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-05-04",
+   "id": "mkt_amazon_price_2026-04-28",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-05-04",
-   "end": "2026-05-04",
-   "value": 272.05,
+   "period": "2026-04-28",
+   "end": "2026-04-28",
+   "value": 259.7,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1196,12 +1209,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-05-11",
+   "id": "mkt_amazon_price_2026-05-05",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-05-11",
-   "end": "2026-05-11",
-   "value": 268.99,
+   "period": "2026-05-05",
+   "end": "2026-05-05",
+   "value": 273.55,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1209,12 +1222,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-05-18",
+   "id": "mkt_amazon_price_2026-05-12",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-05-18",
-   "end": "2026-05-18",
-   "value": 264.86,
+   "period": "2026-05-12",
+   "end": "2026-05-12",
+   "value": 265.82,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1222,12 +1235,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-05-26",
+   "id": "mkt_amazon_price_2026-05-19",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-05-26",
-   "end": "2026-05-26",
-   "value": 265.29,
+   "period": "2026-05-19",
+   "end": "2026-05-19",
+   "value": 259.34,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1235,12 +1248,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-06-02",
+   "id": "mkt_amazon_price_2026-05-27",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-06-02",
-   "end": "2026-06-02",
-   "value": 256.52,
+   "period": "2026-05-27",
+   "end": "2026-05-27",
+   "value": 271.85,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1248,12 +1261,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-06-09",
+   "id": "mkt_amazon_price_2026-06-03",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-06-09",
-   "end": "2026-06-09",
-   "value": 244.19,
+   "period": "2026-06-03",
+   "end": "2026-06-03",
+   "value": 250.02,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1261,12 +1274,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-06-16",
+   "id": "mkt_amazon_price_2026-06-10",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-06-16",
-   "end": "2026-06-16",
-   "value": 246,
+   "period": "2026-06-10",
+   "end": "2026-06-10",
+   "value": 238,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1274,12 +1287,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-06-24",
+   "id": "mkt_amazon_price_2026-06-17",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-06-24",
-   "end": "2026-06-24",
-   "value": 234.27,
+   "period": "2026-06-17",
+   "end": "2026-06-17",
+   "value": 237.5,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1287,12 +1300,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-07-01",
+   "id": "mkt_amazon_price_2026-06-25",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-07-01",
-   "end": "2026-07-01",
-   "value": 241.7,
+   "period": "2026-06-25",
+   "end": "2026-06-25",
+   "value": 227.01,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1300,12 +1313,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-07-09",
+   "id": "mkt_amazon_price_2026-07-02",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-07-09",
-   "end": "2026-07-09",
-   "value": 247.04,
+   "period": "2026-07-02",
+   "end": "2026-07-02",
+   "value": 242.67,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1313,12 +1326,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-07-16",
+   "id": "mkt_amazon_price_2026-07-10",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-07-16",
-   "end": "2026-07-16",
-   "value": 249.89,
+   "period": "2026-07-10",
+   "end": "2026-07-10",
+   "value": 245.34,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1326,12 +1339,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-07-23",
+   "id": "mkt_amazon_price_2026-07-17",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-07-23",
-   "end": "2026-07-23",
-   "value": 233.66,
+   "period": "2026-07-17",
+   "end": "2026-07-17",
+   "value": 247.23,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1339,12 +1352,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-07-30",
+   "id": "mkt_amazon_price_2026-07-24",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-07-30",
-   "end": "2026-07-30",
-   "value": 235.5,
+   "period": "2026-07-24",
+   "end": "2026-07-24",
+   "value": 232.11,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1352,12 +1365,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-08-06",
+   "id": "mkt_amazon_price_2026-07-31",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-08-06",
-   "end": "2026-08-06",
-   "value": 272.26,
+   "period": "2026-07-31",
+   "end": "2026-07-31",
+   "value": 271.58,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1365,12 +1378,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-08-13",
+   "id": "mkt_amazon_price_2026-08-07",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-08-13",
-   "end": "2026-08-13",
-   "value": 265.13,
+   "period": "2026-08-07",
+   "end": "2026-08-07",
+   "value": 274.48,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1378,12 +1391,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-08-20",
+   "id": "mkt_amazon_price_2026-08-14",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-08-20",
-   "end": "2026-08-20",
-   "value": 260.11,
+   "period": "2026-08-14",
+   "end": "2026-08-14",
+   "value": 262.65,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1391,12 +1404,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-08-27",
+   "id": "mkt_amazon_price_2026-08-21",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-08-27",
-   "end": "2026-08-27",
-   "value": 256.26,
+   "period": "2026-08-21",
+   "end": "2026-08-21",
+   "value": 258.63,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1404,12 +1417,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-09-03",
+   "id": "mkt_amazon_price_2026-08-28",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-09-03",
-   "end": "2026-09-03",
-   "value": 258.9,
+   "period": "2026-08-28",
+   "end": "2026-08-28",
+   "value": 266.43,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1417,12 +1430,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-09-11",
+   "id": "mkt_amazon_price_2026-09-04",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-09-11",
-   "end": "2026-09-11",
-   "value": 256.78,
+   "period": "2026-09-04",
+   "end": "2026-09-04",
+   "value": 258.51,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1430,12 +1443,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-09-18",
+   "id": "mkt_amazon_price_2026-09-14",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-09-18",
-   "end": "2026-09-18",
-   "value": 253.71,
+   "period": "2026-09-14",
+   "end": "2026-09-14",
+   "value": 253.54,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1443,12 +1456,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-09-25",
+   "id": "mkt_amazon_price_2026-09-21",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-09-25",
-   "end": "2026-09-25",
-   "value": 249.67,
+   "period": "2026-09-21",
+   "end": "2026-09-21",
+   "value": 258.45,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1456,12 +1469,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amazon_price_2026-10-02",
+   "id": "mkt_amazon_price_2026-09-28",
    "entity_id": "amazon",
    "key": "price",
-   "period": "2026-10-02",
-   "end": "2026-10-02",
-   "value": 251.52,
+   "period": "2026-09-28",
+   "end": "2026-09-28",
+   "value": 246.15,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1469,12 +1482,25 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2025-10-10",
+   "id": "mkt_amazon_price_2026-10-05",
+   "entity_id": "amazon",
+   "key": "price",
+   "period": "2026-10-05",
+   "end": "2026-10-05",
+   "value": 251.42999,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_alphabet_price_2025-10-06",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2025-10-10",
-   "end": "2025-10-10",
-   "value": 236.57,
+   "period": "2025-10-06",
+   "end": "2025-10-06",
+   "value": 250.43,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1482,12 +1508,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2025-10-17",
+   "id": "mkt_alphabet_price_2025-10-13",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2025-10-17",
-   "end": "2025-10-17",
-   "value": 253.3,
+   "period": "2025-10-13",
+   "end": "2025-10-13",
+   "value": 244.15,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1495,12 +1521,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2025-10-24",
+   "id": "mkt_alphabet_price_2025-10-20",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 259.92,
+   "period": "2025-10-20",
+   "end": "2025-10-20",
+   "value": 256.55,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1508,12 +1534,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2025-10-31",
+   "id": "mkt_alphabet_price_2025-10-27",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2025-10-31",
-   "end": "2025-10-31",
-   "value": 281.19,
+   "period": "2025-10-27",
+   "end": "2025-10-27",
+   "value": 269.27,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1521,12 +1547,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2025-11-07",
+   "id": "mkt_alphabet_price_2025-11-03",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2025-11-07",
-   "end": "2025-11-07",
-   "value": 278.83,
+   "period": "2025-11-03",
+   "end": "2025-11-03",
+   "value": 283.72,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1534,12 +1560,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2025-11-14",
+   "id": "mkt_alphabet_price_2025-11-10",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2025-11-14",
-   "end": "2025-11-14",
-   "value": 276.41,
+   "period": "2025-11-10",
+   "end": "2025-11-10",
+   "value": 290.1,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1547,12 +1573,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2025-11-21",
+   "id": "mkt_alphabet_price_2025-11-17",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2025-11-21",
-   "end": "2025-11-21",
-   "value": 299.66,
+   "period": "2025-11-17",
+   "end": "2025-11-17",
+   "value": 285.02,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1560,12 +1586,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2025-12-01",
+   "id": "mkt_alphabet_price_2025-11-24",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2025-12-01",
-   "end": "2025-12-01",
-   "value": 314.89,
+   "period": "2025-11-24",
+   "end": "2025-11-24",
+   "value": 318.58,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1573,12 +1599,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2025-12-08",
+   "id": "mkt_alphabet_price_2025-12-02",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2025-12-08",
-   "end": "2025-12-08",
-   "value": 313.72,
+   "period": "2025-12-02",
+   "end": "2025-12-02",
+   "value": 315.81,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1586,12 +1612,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2025-12-15",
+   "id": "mkt_alphabet_price_2025-12-09",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2025-12-15",
-   "end": "2025-12-15",
-   "value": 308.22,
+   "period": "2025-12-09",
+   "end": "2025-12-09",
+   "value": 317.08,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1599,12 +1625,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2025-12-22",
+   "id": "mkt_alphabet_price_2025-12-16",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2025-12-22",
-   "end": "2025-12-22",
-   "value": 309.78,
+   "period": "2025-12-16",
+   "end": "2025-12-16",
+   "value": 306.57,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1612,12 +1638,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2025-12-30",
+   "id": "mkt_alphabet_price_2025-12-23",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2025-12-30",
-   "end": "2025-12-30",
-   "value": 313.85,
+   "period": "2025-12-23",
+   "end": "2025-12-23",
+   "value": 314.35,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1625,12 +1651,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-01-07",
+   "id": "mkt_alphabet_price_2025-12-31",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-01-07",
-   "end": "2026-01-07",
-   "value": 321.98,
+   "period": "2025-12-31",
+   "end": "2025-12-31",
+   "value": 313,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1638,12 +1664,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-01-14",
+   "id": "mkt_alphabet_price_2026-01-08",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-01-14",
-   "end": "2026-01-14",
-   "value": 335.84,
+   "period": "2026-01-08",
+   "end": "2026-01-08",
+   "value": 325.44,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1651,12 +1677,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-01-22",
+   "id": "mkt_alphabet_price_2026-01-15",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-01-22",
-   "end": "2026-01-22",
-   "value": 330.54,
+   "period": "2026-01-15",
+   "end": "2026-01-15",
+   "value": 332.78,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1664,12 +1690,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-01-29",
+   "id": "mkt_alphabet_price_2026-01-23",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-01-29",
-   "end": "2026-01-29",
-   "value": 338.25,
+   "period": "2026-01-23",
+   "end": "2026-01-23",
+   "value": 327.93,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1677,12 +1703,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-02-05",
+   "id": "mkt_alphabet_price_2026-01-30",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-02-05",
-   "end": "2026-02-05",
-   "value": 331.25,
+   "period": "2026-01-30",
+   "end": "2026-01-30",
+   "value": 338,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1690,12 +1716,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-02-12",
+   "id": "mkt_alphabet_price_2026-02-06",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-02-12",
-   "end": "2026-02-12",
-   "value": 309,
+   "period": "2026-02-06",
+   "end": "2026-02-06",
+   "value": 322.86,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1703,12 +1729,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-02-20",
+   "id": "mkt_alphabet_price_2026-02-13",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-02-20",
-   "end": "2026-02-20",
-   "value": 314.98,
+   "period": "2026-02-13",
+   "end": "2026-02-13",
+   "value": 305.72,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1716,12 +1742,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-02-27",
+   "id": "mkt_alphabet_price_2026-02-23",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-02-27",
-   "end": "2026-02-27",
-   "value": 311.76,
+   "period": "2026-02-23",
+   "end": "2026-02-23",
+   "value": 311.49,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1729,12 +1755,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-03-06",
+   "id": "mkt_alphabet_price_2026-03-02",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-03-06",
-   "end": "2026-03-06",
-   "value": 298.52,
+   "period": "2026-03-02",
+   "end": "2026-03-02",
+   "value": 306.52,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1742,12 +1768,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-03-13",
+   "id": "mkt_alphabet_price_2026-03-09",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-03-13",
-   "end": "2026-03-13",
-   "value": 302.28,
+   "period": "2026-03-09",
+   "end": "2026-03-09",
+   "value": 306.36,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1755,12 +1781,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-03-20",
+   "id": "mkt_alphabet_price_2026-03-16",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-03-20",
-   "end": "2026-03-20",
-   "value": 301,
+   "period": "2026-03-16",
+   "end": "2026-03-16",
+   "value": 305.56,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1768,12 +1794,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-03-27",
+   "id": "mkt_alphabet_price_2026-03-23",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-03-27",
-   "end": "2026-03-27",
-   "value": 274.34,
+   "period": "2026-03-23",
+   "end": "2026-03-23",
+   "value": 302.06,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1781,12 +1807,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-04-06",
+   "id": "mkt_alphabet_price_2026-03-30",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-04-06",
-   "end": "2026-04-06",
-   "value": 299.99,
+   "period": "2026-03-30",
+   "end": "2026-03-30",
+   "value": 273.5,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1794,12 +1820,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-04-13",
+   "id": "mkt_alphabet_price_2026-04-07",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-04-13",
-   "end": "2026-04-13",
-   "value": 321.31,
+   "period": "2026-04-07",
+   "end": "2026-04-07",
+   "value": 305.46,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1807,12 +1833,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-04-20",
+   "id": "mkt_alphabet_price_2026-04-14",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-04-20",
-   "end": "2026-04-20",
-   "value": 337.42,
+   "period": "2026-04-14",
+   "end": "2026-04-14",
+   "value": 332.91,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1820,12 +1846,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-04-27",
+   "id": "mkt_alphabet_price_2026-04-21",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-04-27",
-   "end": "2026-04-27",
-   "value": 350.34,
+   "period": "2026-04-21",
+   "end": "2026-04-21",
+   "value": 332.29,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1833,12 +1859,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-05-04",
+   "id": "mkt_alphabet_price_2026-04-28",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-05-04",
-   "end": "2026-05-04",
-   "value": 383.25,
+   "period": "2026-04-28",
+   "end": "2026-04-28",
+   "value": 349.78,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1846,12 +1872,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-05-11",
+   "id": "mkt_alphabet_price_2026-05-05",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-05-11",
-   "end": "2026-05-11",
-   "value": 388.64,
+   "period": "2026-05-05",
+   "end": "2026-05-05",
+   "value": 388.43,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1859,12 +1885,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-05-18",
+   "id": "mkt_alphabet_price_2026-05-12",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-05-18",
-   "end": "2026-05-18",
-   "value": 396.94,
+   "period": "2026-05-12",
+   "end": "2026-05-12",
+   "value": 387.35,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1872,12 +1898,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-05-26",
+   "id": "mkt_alphabet_price_2026-05-19",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-05-26",
-   "end": "2026-05-26",
-   "value": 388.88,
+   "period": "2026-05-19",
+   "end": "2026-05-19",
+   "value": 387.66,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1885,12 +1911,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-06-02",
+   "id": "mkt_alphabet_price_2026-05-27",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-06-02",
-   "end": "2026-06-02",
-   "value": 361.85,
+   "period": "2026-05-27",
+   "end": "2026-05-27",
+   "value": 388.83,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1898,12 +1924,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-06-09",
+   "id": "mkt_alphabet_price_2026-06-03",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-06-09",
-   "end": "2026-06-09",
-   "value": 364.26,
+   "period": "2026-06-03",
+   "end": "2026-06-03",
+   "value": 358.99,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1911,12 +1937,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-06-16",
+   "id": "mkt_alphabet_price_2026-06-10",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-06-16",
-   "end": "2026-06-16",
-   "value": 373.25,
+   "period": "2026-06-10",
+   "end": "2026-06-10",
+   "value": 356.38,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1924,12 +1950,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-06-24",
+   "id": "mkt_alphabet_price_2026-06-17",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-06-24",
-   "end": "2026-06-24",
-   "value": 345.29,
+   "period": "2026-06-17",
+   "end": "2026-06-17",
+   "value": 363.79,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1937,12 +1963,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-07-01",
+   "id": "mkt_alphabet_price_2026-06-25",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-07-01",
-   "end": "2026-07-01",
-   "value": 361.21,
+   "period": "2026-06-25",
+   "end": "2026-06-25",
+   "value": 343.71,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1950,12 +1976,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-07-09",
+   "id": "mkt_alphabet_price_2026-07-02",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-07-09",
-   "end": "2026-07-09",
-   "value": 358.89,
+   "period": "2026-07-02",
+   "end": "2026-07-02",
+   "value": 359.91,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1963,12 +1989,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-07-16",
+   "id": "mkt_alphabet_price_2026-07-10",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-07-16",
-   "end": "2026-07-16",
-   "value": 354.46,
+   "period": "2026-07-10",
+   "end": "2026-07-10",
+   "value": 357.18,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1976,12 +2002,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-07-23",
+   "id": "mkt_alphabet_price_2026-07-17",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-07-23",
-   "end": "2026-07-23",
-   "value": 317.69,
+   "period": "2026-07-17",
+   "end": "2026-07-17",
+   "value": 346.77,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1989,12 +2015,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-07-30",
+   "id": "mkt_alphabet_price_2026-07-24",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-07-30",
-   "end": "2026-07-30",
-   "value": 333.66,
+   "period": "2026-07-24",
+   "end": "2026-07-24",
+   "value": 319.74,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2002,12 +2028,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-08-06",
+   "id": "mkt_alphabet_price_2026-07-31",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-08-06",
-   "end": "2026-08-06",
-   "value": 357.75,
+   "period": "2026-07-31",
+   "end": "2026-07-31",
+   "value": 356.13,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2015,12 +2041,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-08-13",
+   "id": "mkt_alphabet_price_2026-08-07",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-08-13",
-   "end": "2026-08-13",
-   "value": 346.36,
+   "period": "2026-08-07",
+   "end": "2026-08-07",
+   "value": 354.3,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2028,12 +2054,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-08-20",
+   "id": "mkt_alphabet_price_2026-08-14",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-08-20",
-   "end": "2026-08-20",
-   "value": 340.67,
+   "period": "2026-08-14",
+   "end": "2026-08-14",
+   "value": 345.9,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2041,12 +2067,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-08-27",
+   "id": "mkt_alphabet_price_2026-08-21",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-08-27",
-   "end": "2026-08-27",
-   "value": 340.65,
+   "period": "2026-08-21",
+   "end": "2026-08-21",
+   "value": 344.82,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2054,12 +2080,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-09-03",
+   "id": "mkt_alphabet_price_2026-08-28",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-09-03",
-   "end": "2026-09-03",
-   "value": 342.48,
+   "period": "2026-08-28",
+   "end": "2026-08-28",
+   "value": 346.59,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2067,12 +2093,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-09-11",
+   "id": "mkt_alphabet_price_2026-09-04",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-09-11",
-   "end": "2026-09-11",
-   "value": 338.5,
+   "period": "2026-09-04",
+   "end": "2026-09-04",
+   "value": 338.46,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2080,12 +2106,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-09-18",
+   "id": "mkt_alphabet_price_2026-09-14",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-09-18",
-   "end": "2026-09-18",
-   "value": 349.54,
+   "period": "2026-09-14",
+   "end": "2026-09-14",
+   "value": 349.39,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2093,12 +2119,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-09-25",
+   "id": "mkt_alphabet_price_2026-09-21",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-09-25",
-   "end": "2026-09-25",
-   "value": 343.92,
+   "period": "2026-09-21",
+   "end": "2026-09-21",
+   "value": 354.97,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2106,12 +2132,12 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2026-10-02",
+   "id": "mkt_alphabet_price_2026-09-28",
    "entity_id": "alphabet",
    "key": "price",
-   "period": "2026-10-02",
-   "end": "2026-10-02",
-   "value": 343.5,
+   "period": "2026-09-28",
+   "end": "2026-09-28",
+   "value": 342.75,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2119,12 +2145,25 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2025-10-10",
+   "id": "mkt_alphabet_price_2026-10-05",
+   "entity_id": "alphabet",
+   "key": "price",
+   "period": "2026-10-05",
+   "end": "2026-10-05",
+   "value": 344.0901,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_meta_price_2025-10-06",
    "entity_id": "meta",
    "key": "price",
-   "period": "2025-10-10",
-   "end": "2025-10-10",
-   "value": 705.3,
+   "period": "2025-10-06",
+   "end": "2025-10-06",
+   "value": 715.66,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2132,12 +2171,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2025-10-17",
+   "id": "mkt_meta_price_2025-10-13",
    "entity_id": "meta",
    "key": "price",
-   "period": "2025-10-17",
-   "end": "2025-10-17",
-   "value": 716.92,
+   "period": "2025-10-13",
+   "end": "2025-10-13",
+   "value": 715.7,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2145,12 +2184,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2025-10-24",
+   "id": "mkt_meta_price_2025-10-20",
    "entity_id": "meta",
    "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 738.36,
+   "period": "2025-10-20",
+   "end": "2025-10-20",
+   "value": 732.17,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2158,12 +2197,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2025-10-31",
+   "id": "mkt_meta_price_2025-10-27",
    "entity_id": "meta",
    "key": "price",
-   "period": "2025-10-31",
-   "end": "2025-10-31",
-   "value": 648.35,
+   "period": "2025-10-27",
+   "end": "2025-10-27",
+   "value": 750.82,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2171,12 +2210,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2025-11-07",
+   "id": "mkt_meta_price_2025-11-03",
    "entity_id": "meta",
    "key": "price",
-   "period": "2025-11-07",
-   "end": "2025-11-07",
-   "value": 621.71,
+   "period": "2025-11-03",
+   "end": "2025-11-03",
+   "value": 637.71,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2184,12 +2223,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2025-11-14",
+   "id": "mkt_meta_price_2025-11-10",
    "entity_id": "meta",
    "key": "price",
-   "period": "2025-11-14",
-   "end": "2025-11-14",
-   "value": 609.46,
+   "period": "2025-11-10",
+   "end": "2025-11-10",
+   "value": 631.76,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2197,12 +2236,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2025-11-21",
+   "id": "mkt_meta_price_2025-11-17",
    "entity_id": "meta",
    "key": "price",
-   "period": "2025-11-21",
-   "end": "2025-11-21",
-   "value": 594.25,
+   "period": "2025-11-17",
+   "end": "2025-11-17",
+   "value": 602.01,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2210,12 +2249,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2025-12-01",
+   "id": "mkt_meta_price_2025-11-24",
    "entity_id": "meta",
    "key": "price",
-   "period": "2025-12-01",
-   "end": "2025-12-01",
-   "value": 640.87,
+   "period": "2025-11-24",
+   "end": "2025-11-24",
+   "value": 613.05,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2223,12 +2262,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2025-12-08",
+   "id": "mkt_meta_price_2025-12-02",
    "entity_id": "meta",
    "key": "price",
-   "period": "2025-12-08",
-   "end": "2025-12-08",
-   "value": 666.8,
+   "period": "2025-12-02",
+   "end": "2025-12-02",
+   "value": 647.1,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2236,12 +2275,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2025-12-15",
+   "id": "mkt_meta_price_2025-12-09",
    "entity_id": "meta",
    "key": "price",
-   "period": "2025-12-15",
-   "end": "2025-12-15",
-   "value": 647.51,
+   "period": "2025-12-09",
+   "end": "2025-12-09",
+   "value": 656.96,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2249,12 +2288,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2025-12-22",
+   "id": "mkt_meta_price_2025-12-16",
    "entity_id": "meta",
    "key": "price",
-   "period": "2025-12-22",
-   "end": "2025-12-22",
-   "value": 661.5,
+   "period": "2025-12-16",
+   "end": "2025-12-16",
+   "value": 657.15,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2262,12 +2301,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2025-12-30",
+   "id": "mkt_meta_price_2025-12-23",
    "entity_id": "meta",
    "key": "price",
-   "period": "2025-12-30",
-   "end": "2025-12-30",
-   "value": 665.95,
+   "period": "2025-12-23",
+   "end": "2025-12-23",
+   "value": 664.94,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2275,12 +2314,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-01-07",
+   "id": "mkt_meta_price_2025-12-31",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-01-07",
-   "end": "2026-01-07",
-   "value": 648.69,
+   "period": "2025-12-31",
+   "end": "2025-12-31",
+   "value": 660.09,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2288,12 +2327,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-01-14",
+   "id": "mkt_meta_price_2026-01-08",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-01-14",
-   "end": "2026-01-14",
-   "value": 615.52,
+   "period": "2026-01-08",
+   "end": "2026-01-08",
+   "value": 646.06,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2301,12 +2340,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-01-22",
+   "id": "mkt_meta_price_2026-01-15",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-01-22",
-   "end": "2026-01-22",
-   "value": 647.63,
+   "period": "2026-01-15",
+   "end": "2026-01-15",
+   "value": 620.8,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2314,12 +2353,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-01-29",
+   "id": "mkt_meta_price_2026-01-23",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-01-29",
-   "end": "2026-01-29",
-   "value": 738.31,
+   "period": "2026-01-23",
+   "end": "2026-01-23",
+   "value": 658.76,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2327,12 +2366,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-02-05",
+   "id": "mkt_meta_price_2026-01-30",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-02-05",
-   "end": "2026-02-05",
-   "value": 670.21,
+   "period": "2026-01-30",
+   "end": "2026-01-30",
+   "value": 716.5,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2340,12 +2379,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-02-12",
+   "id": "mkt_meta_price_2026-02-06",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-02-12",
-   "end": "2026-02-12",
-   "value": 649.81,
+   "period": "2026-02-06",
+   "end": "2026-02-06",
+   "value": 661.46,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2353,12 +2392,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-02-20",
+   "id": "mkt_meta_price_2026-02-13",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-02-20",
-   "end": "2026-02-20",
-   "value": 655.66,
+   "period": "2026-02-13",
+   "end": "2026-02-13",
+   "value": 639.77,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2366,12 +2405,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-02-27",
+   "id": "mkt_meta_price_2026-02-23",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-02-27",
-   "end": "2026-02-27",
-   "value": 648.18,
+   "period": "2026-02-23",
+   "end": "2026-02-23",
+   "value": 637.25,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2379,12 +2418,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-03-06",
+   "id": "mkt_meta_price_2026-03-02",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-03-06",
-   "end": "2026-03-06",
-   "value": 644.86,
+   "period": "2026-03-02",
+   "end": "2026-03-02",
+   "value": 653.56,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2392,12 +2431,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-03-13",
+   "id": "mkt_meta_price_2026-03-09",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-03-13",
-   "end": "2026-03-13",
-   "value": 613.71,
+   "period": "2026-03-09",
+   "end": "2026-03-09",
+   "value": 647.39,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2405,12 +2444,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-03-20",
+   "id": "mkt_meta_price_2026-03-16",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-03-20",
-   "end": "2026-03-20",
-   "value": 593.66,
+   "period": "2026-03-16",
+   "end": "2026-03-16",
+   "value": 627.45,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2418,12 +2457,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-03-27",
+   "id": "mkt_meta_price_2026-03-23",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-03-27",
-   "end": "2026-03-27",
-   "value": 525.72,
+   "period": "2026-03-23",
+   "end": "2026-03-23",
+   "value": 604.06,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2431,12 +2470,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-04-06",
+   "id": "mkt_meta_price_2026-03-30",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-04-06",
-   "end": "2026-04-06",
-   "value": 573.02,
+   "period": "2026-03-30",
+   "end": "2026-03-30",
+   "value": 536.38,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2444,12 +2483,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-04-13",
+   "id": "mkt_meta_price_2026-04-07",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-04-13",
-   "end": "2026-04-13",
-   "value": 634.53,
+   "period": "2026-04-07",
+   "end": "2026-04-07",
+   "value": 575.05,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2457,12 +2496,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-04-20",
+   "id": "mkt_meta_price_2026-04-14",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-04-20",
-   "end": "2026-04-20",
-   "value": 670.91,
+   "period": "2026-04-14",
+   "end": "2026-04-14",
+   "value": 662.49,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2470,12 +2509,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-04-27",
+   "id": "mkt_meta_price_2026-04-21",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-04-27",
-   "end": "2026-04-27",
-   "value": 678.62,
+   "period": "2026-04-21",
+   "end": "2026-04-21",
+   "value": 668.84,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2483,12 +2522,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-05-04",
+   "id": "mkt_meta_price_2026-04-28",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-05-04",
-   "end": "2026-05-04",
-   "value": 610.41,
+   "period": "2026-04-28",
+   "end": "2026-04-28",
+   "value": 671.34,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2496,12 +2535,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-05-11",
+   "id": "mkt_meta_price_2026-05-05",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-05-11",
-   "end": "2026-05-11",
-   "value": 598.86,
+   "period": "2026-05-05",
+   "end": "2026-05-05",
+   "value": 604.96,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2509,12 +2548,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-05-18",
+   "id": "mkt_meta_price_2026-05-12",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-05-18",
-   "end": "2026-05-18",
-   "value": 611.21,
+   "period": "2026-05-12",
+   "end": "2026-05-12",
+   "value": 603,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2522,12 +2561,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-05-26",
+   "id": "mkt_meta_price_2026-05-19",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-05-26",
-   "end": "2026-05-26",
-   "value": 612.34,
+   "period": "2026-05-19",
+   "end": "2026-05-19",
+   "value": 602.61,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2535,12 +2574,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-06-02",
+   "id": "mkt_meta_price_2026-05-27",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-06-02",
-   "end": "2026-06-02",
-   "value": 597.63,
+   "period": "2026-05-27",
+   "end": "2026-05-27",
+   "value": 635.26,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2548,12 +2587,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-06-09",
+   "id": "mkt_meta_price_2026-06-03",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-06-09",
-   "end": "2026-06-09",
-   "value": 584.59,
+   "period": "2026-06-03",
+   "end": "2026-06-03",
+   "value": 622.98,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2561,12 +2600,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-06-16",
+   "id": "mkt_meta_price_2026-06-10",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-06-16",
-   "end": "2026-06-16",
-   "value": 600.21,
+   "period": "2026-06-10",
+   "end": "2026-06-10",
+   "value": 570.98,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2574,12 +2613,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-06-24",
+   "id": "mkt_meta_price_2026-06-17",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-06-24",
-   "end": "2026-06-24",
-   "value": 557.67,
+   "period": "2026-06-17",
+   "end": "2026-06-17",
+   "value": 567.58,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2587,12 +2626,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-07-01",
+   "id": "mkt_meta_price_2026-06-25",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-07-01",
-   "end": "2026-07-01",
-   "value": 612.91,
+   "period": "2026-06-25",
+   "end": "2026-06-25",
+   "value": 542.87,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2600,12 +2639,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-07-09",
+   "id": "mkt_meta_price_2026-07-02",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-07-09",
-   "end": "2026-07-09",
-   "value": 631.48,
+   "period": "2026-07-02",
+   "end": "2026-07-02",
+   "value": 582.9,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2613,12 +2652,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-07-16",
+   "id": "mkt_meta_price_2026-07-10",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-07-16",
-   "end": "2026-07-16",
-   "value": 664.54,
+   "period": "2026-07-10",
+   "end": "2026-07-10",
+   "value": 669.21,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2626,12 +2665,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-07-23",
+   "id": "mkt_meta_price_2026-07-17",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-07-23",
-   "end": "2026-07-23",
-   "value": 606.1,
+   "period": "2026-07-17",
+   "end": "2026-07-17",
+   "value": 646.01,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2639,12 +2678,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-07-30",
+   "id": "mkt_meta_price_2026-07-24",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-07-30",
-   "end": "2026-07-30",
-   "value": 539.03,
+   "period": "2026-07-24",
+   "end": "2026-07-24",
+   "value": 595.19,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2652,12 +2691,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-08-06",
+   "id": "mkt_meta_price_2026-07-31",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-08-06",
-   "end": "2026-08-06",
-   "value": 589.9,
+   "period": "2026-07-31",
+   "end": "2026-07-31",
+   "value": 556.71,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2665,12 +2704,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-08-13",
+   "id": "mkt_meta_price_2026-08-07",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-08-13",
-   "end": "2026-08-13",
-   "value": 594.97,
+   "period": "2026-08-07",
+   "end": "2026-08-07",
+   "value": 592.1,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2678,12 +2717,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-08-20",
+   "id": "mkt_meta_price_2026-08-14",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-08-20",
-   "end": "2026-08-20",
-   "value": 545.83,
+   "period": "2026-08-14",
+   "end": "2026-08-14",
+   "value": 589.85,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2691,12 +2730,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-08-27",
+   "id": "mkt_meta_price_2026-08-21",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-08-27",
-   "end": "2026-08-27",
-   "value": 571.1,
+   "period": "2026-08-21",
+   "end": "2026-08-21",
+   "value": 549.9,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2704,12 +2743,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-09-03",
+   "id": "mkt_meta_price_2026-08-28",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-09-03",
-   "end": "2026-09-03",
-   "value": 610.68,
+   "period": "2026-08-28",
+   "end": "2026-08-28",
+   "value": 578.02,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2717,12 +2756,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-09-11",
+   "id": "mkt_meta_price_2026-09-04",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-09-11",
-   "end": "2026-09-11",
-   "value": 648.03,
+   "period": "2026-09-04",
+   "end": "2026-09-04",
+   "value": 616.77,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2730,12 +2769,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-09-18",
+   "id": "mkt_meta_price_2026-09-14",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-09-18",
-   "end": "2026-09-18",
-   "value": 665.75,
+   "period": "2026-09-14",
+   "end": "2026-09-14",
+   "value": 665.6,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2743,12 +2782,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-09-25",
+   "id": "mkt_meta_price_2026-09-21",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-09-25",
-   "end": "2026-09-25",
-   "value": 751.66,
+   "period": "2026-09-21",
+   "end": "2026-09-21",
+   "value": 741.25,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2756,12 +2795,12 @@
    "derived": false
   },
   {
-   "id": "mkt_meta_price_2026-10-02",
+   "id": "mkt_meta_price_2026-09-28",
    "entity_id": "meta",
    "key": "price",
-   "period": "2026-10-02",
-   "end": "2026-10-02",
-   "value": 728.08,
+   "period": "2026-09-28",
+   "end": "2026-09-28",
+   "value": 715.62,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2769,12 +2808,25 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2025-10-10",
+   "id": "mkt_meta_price_2026-10-05",
+   "entity_id": "meta",
+   "key": "price",
+   "period": "2026-10-05",
+   "end": "2026-10-05",
+   "value": 743.4488,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2025-10-06",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2025-10-10",
-   "end": "2025-10-10",
-   "value": 183.16,
+   "period": "2025-10-06",
+   "end": "2025-10-06",
+   "value": 185.54,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2782,11 +2834,284 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2025-10-17",
+   "id": "mkt_nvidia_price_2025-10-13",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2025-10-17",
-   "end": "2025-10-17",
+   "period": "2025-10-13",
+   "end": "2025-10-13",
+   "value": 188.32,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2025-10-20",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2025-10-20",
+   "end": "2025-10-20",
+   "value": 182.64,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2025-10-27",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2025-10-27",
+   "end": "2025-10-27",
+   "value": 191.49,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2025-11-03",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2025-11-03",
+   "end": "2025-11-03",
+   "value": 206.88,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2025-11-10",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2025-11-10",
+   "end": "2025-11-10",
+   "value": 199.05,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2025-11-17",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2025-11-17",
+   "end": "2025-11-17",
+   "value": 186.6,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2025-11-24",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2025-11-24",
+   "end": "2025-11-24",
+   "value": 182.55,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2025-12-02",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2025-12-02",
+   "end": "2025-12-02",
+   "value": 181.46,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2025-12-09",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2025-12-09",
+   "end": "2025-12-09",
+   "value": 184.97,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2025-12-16",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2025-12-16",
+   "end": "2025-12-16",
+   "value": 177.72,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2025-12-23",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2025-12-23",
+   "end": "2025-12-23",
+   "value": 189.21,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2025-12-31",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2025-12-31",
+   "end": "2025-12-31",
+   "value": 186.5,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2026-01-08",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2026-01-08",
+   "end": "2026-01-08",
+   "value": 185.04,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2026-01-15",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2026-01-15",
+   "end": "2026-01-15",
+   "value": 187.05,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2026-01-23",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2026-01-23",
+   "end": "2026-01-23",
+   "value": 187.67,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2026-01-30",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2026-01-30",
+   "end": "2026-01-30",
+   "value": 191.13,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2026-02-06",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2026-02-06",
+   "end": "2026-02-06",
+   "value": 185.41,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2026-02-13",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2026-02-13",
+   "end": "2026-02-13",
+   "value": 182.81,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2026-02-23",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2026-02-23",
+   "end": "2026-02-23",
+   "value": 191.55,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2026-03-02",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2026-03-02",
+   "end": "2026-03-02",
+   "value": 182.48,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2026-03-09",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2026-03-09",
+   "end": "2026-03-09",
+   "value": 182.65,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_nvidia_price_2026-03-16",
+   "entity_id": "nvidia",
+   "key": "price",
+   "period": "2026-03-16",
+   "end": "2026-03-16",
    "value": 183.22,
    "unit": "USD",
    "source_ids": [
@@ -2795,12 +3120,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2025-10-24",
+   "id": "mkt_nvidia_price_2026-03-23",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 186.26,
+   "period": "2026-03-23",
+   "end": "2026-03-23",
+   "value": 175.64,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2808,12 +3133,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2025-10-31",
+   "id": "mkt_nvidia_price_2026-03-30",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2025-10-31",
-   "end": "2025-10-31",
-   "value": 202.49,
+   "period": "2026-03-30",
+   "end": "2026-03-30",
+   "value": 165.17,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2821,12 +3146,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2025-11-07",
+   "id": "mkt_nvidia_price_2026-04-07",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2025-11-07",
-   "end": "2025-11-07",
-   "value": 188.15,
+   "period": "2026-04-07",
+   "end": "2026-04-07",
+   "value": 178.1,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2834,12 +3159,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2025-11-14",
+   "id": "mkt_nvidia_price_2026-04-14",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2025-11-14",
-   "end": "2025-11-14",
-   "value": 190.17,
+   "period": "2026-04-14",
+   "end": "2026-04-14",
+   "value": 196.51,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2847,12 +3172,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2025-11-21",
+   "id": "mkt_nvidia_price_2026-04-21",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2025-11-21",
-   "end": "2025-11-21",
-   "value": 178.88,
+   "period": "2026-04-21",
+   "end": "2026-04-21",
+   "value": 199.88,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2860,12 +3185,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2025-12-01",
+   "id": "mkt_nvidia_price_2026-04-28",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2025-12-01",
-   "end": "2025-12-01",
-   "value": 179.92,
+   "period": "2026-04-28",
+   "end": "2026-04-28",
+   "value": 213.17,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2873,12 +3198,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2025-12-08",
+   "id": "mkt_nvidia_price_2026-05-05",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2025-12-08",
-   "end": "2025-12-08",
-   "value": 185.55,
+   "period": "2026-05-05",
+   "end": "2026-05-05",
+   "value": 196.5,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2886,12 +3211,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2025-12-15",
+   "id": "mkt_nvidia_price_2026-05-12",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2025-12-15",
-   "end": "2025-12-15",
-   "value": 176.29,
+   "period": "2026-05-12",
+   "end": "2026-05-12",
+   "value": 220.78,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2899,12 +3224,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2025-12-22",
+   "id": "mkt_nvidia_price_2026-05-19",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2025-12-22",
-   "end": "2025-12-22",
-   "value": 183.69,
+   "period": "2026-05-19",
+   "end": "2026-05-19",
+   "value": 220.61,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2912,12 +3237,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2025-12-30",
+   "id": "mkt_nvidia_price_2026-05-27",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2025-12-30",
-   "end": "2025-12-30",
-   "value": 187.54,
+   "period": "2026-05-27",
+   "end": "2026-05-27",
+   "value": 212.6,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2925,12 +3250,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-01-07",
+   "id": "mkt_nvidia_price_2026-06-03",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-01-07",
-   "end": "2026-01-07",
-   "value": 189.11,
+   "period": "2026-06-03",
+   "end": "2026-06-03",
+   "value": 214.75,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2938,12 +3263,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-01-14",
+   "id": "mkt_nvidia_price_2026-06-10",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-01-14",
-   "end": "2026-01-14",
-   "value": 183.14,
+   "period": "2026-06-10",
+   "end": "2026-06-10",
+   "value": 200.42,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2951,12 +3276,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-01-22",
+   "id": "mkt_nvidia_price_2026-06-17",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-01-22",
-   "end": "2026-01-22",
-   "value": 184.84,
+   "period": "2026-06-17",
+   "end": "2026-06-17",
+   "value": 204.65,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2964,12 +3289,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-01-29",
+   "id": "mkt_nvidia_price_2026-06-25",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-01-29",
-   "end": "2026-01-29",
-   "value": 192.51,
+   "period": "2026-06-25",
+   "end": "2026-06-25",
+   "value": 195.74,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2977,12 +3302,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-02-05",
+   "id": "mkt_nvidia_price_2026-07-02",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-02-05",
-   "end": "2026-02-05",
-   "value": 171.88,
+   "period": "2026-07-02",
+   "end": "2026-07-02",
+   "value": 194.83,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2990,12 +3315,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-02-12",
+   "id": "mkt_nvidia_price_2026-07-10",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-02-12",
-   "end": "2026-02-12",
-   "value": 186.94,
+   "period": "2026-07-10",
+   "end": "2026-07-10",
+   "value": 210.96,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3003,12 +3328,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-02-20",
+   "id": "mkt_nvidia_price_2026-07-17",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-02-20",
-   "end": "2026-02-20",
-   "value": 189.82,
+   "period": "2026-07-17",
+   "end": "2026-07-17",
+   "value": 202.81,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3016,12 +3341,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-02-27",
+   "id": "mkt_nvidia_price_2026-07-24",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-02-27",
-   "end": "2026-02-27",
-   "value": 177.19,
+   "period": "2026-07-24",
+   "end": "2026-07-24",
+   "value": 206.84,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3029,12 +3354,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-03-06",
+   "id": "mkt_nvidia_price_2026-07-31",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-03-06",
-   "end": "2026-03-06",
-   "value": 177.82,
+   "period": "2026-07-31",
+   "end": "2026-07-31",
+   "value": 200.75,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3042,12 +3367,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-03-13",
+   "id": "mkt_nvidia_price_2026-08-07",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-03-13",
-   "end": "2026-03-13",
-   "value": 180.25,
+   "period": "2026-08-07",
+   "end": "2026-08-07",
+   "value": 223.96,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3055,12 +3380,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-03-20",
+   "id": "mkt_nvidia_price_2026-08-14",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-03-20",
-   "end": "2026-03-20",
-   "value": 172.7,
+   "period": "2026-08-14",
+   "end": "2026-08-14",
+   "value": 225.16,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3068,12 +3393,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-03-27",
+   "id": "mkt_nvidia_price_2026-08-21",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-03-27",
-   "end": "2026-03-27",
-   "value": 167.52,
+   "period": "2026-08-21",
+   "end": "2026-08-21",
+   "value": 214.72,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3081,12 +3406,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-04-06",
+   "id": "mkt_nvidia_price_2026-08-28",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-04-06",
-   "end": "2026-04-06",
-   "value": 177.64,
+   "period": "2026-08-28",
+   "end": "2026-08-28",
+   "value": 217.55,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3094,12 +3419,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-04-13",
+   "id": "mkt_nvidia_price_2026-09-04",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-04-13",
-   "end": "2026-04-13",
-   "value": 189.31,
+   "period": "2026-09-04",
+   "end": "2026-09-04",
+   "value": 230.36,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3107,12 +3432,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-04-20",
+   "id": "mkt_nvidia_price_2026-09-14",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-04-20",
-   "end": "2026-04-20",
-   "value": 202.06,
+   "period": "2026-09-14",
+   "end": "2026-09-14",
+   "value": 210.96,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3120,12 +3445,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-04-27",
+   "id": "mkt_nvidia_price_2026-09-21",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-04-27",
-   "end": "2026-04-27",
-   "value": 216.61,
+   "period": "2026-09-21",
+   "end": "2026-09-21",
+   "value": 227.38,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3133,12 +3458,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-05-04",
+   "id": "mkt_nvidia_price_2026-09-28",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-05-04",
-   "end": "2026-05-04",
-   "value": 198.48,
+   "period": "2026-09-28",
+   "end": "2026-09-28",
+   "value": 228.86,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3146,12 +3471,12 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-05-11",
+   "id": "mkt_nvidia_price_2026-10-05",
    "entity_id": "nvidia",
    "key": "price",
-   "period": "2026-05-11",
-   "end": "2026-05-11",
-   "value": 219.44,
+   "period": "2026-10-05",
+   "end": "2026-10-05",
+   "value": 237.23,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3159,271 +3484,154 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2026-05-18",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-05-18",
-   "end": "2026-05-18",
-   "value": 222.32,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-05-26",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-05-26",
-   "end": "2026-05-26",
-   "value": 214.86,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-06-02",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-06-02",
-   "end": "2026-06-02",
-   "value": 222.82,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-06-09",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-06-09",
-   "end": "2026-06-09",
-   "value": 208.19,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-06-16",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-06-16",
-   "end": "2026-06-16",
-   "value": 207.41,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-06-24",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-06-24",
-   "end": "2026-06-24",
-   "value": 199,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-07-01",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-07-01",
-   "end": "2026-07-01",
-   "value": 197.58,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-07-09",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-07-09",
-   "end": "2026-07-09",
-   "value": 202.78,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-07-16",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-07-16",
-   "end": "2026-07-16",
-   "value": 207.4,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-07-23",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-07-23",
-   "end": "2026-07-23",
-   "value": 208.76,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-07-30",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-07-30",
-   "end": "2026-07-30",
-   "value": 195.04,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-08-06",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-08-06",
-   "end": "2026-08-06",
-   "value": 218.99,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-08-13",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-08-13",
-   "end": "2026-08-13",
-   "value": 225.3,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-08-20",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-08-20",
-   "end": "2026-08-20",
-   "value": 216.85,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-08-27",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-08-27",
-   "end": "2026-08-27",
-   "value": 227.98,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-09-03",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-09-03",
-   "end": "2026-09-03",
-   "value": 228.45,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-09-11",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-09-11",
-   "end": "2026-09-11",
-   "value": 218.29,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-09-18",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-09-18",
-   "end": "2026-09-18",
-   "value": 222.27,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-09-25",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-09-25",
-   "end": "2026-09-25",
-   "value": 225.07,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_nvidia_price_2026-10-02",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2026-10-02",
-   "end": "2026-10-02",
-   "value": 233.95,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_amd_price_2025-10-10",
+   "id": "mkt_amd_price_2025-10-06",
    "entity_id": "amd",
    "key": "price",
-   "period": "2025-10-10",
-   "end": "2025-10-10",
+   "period": "2025-10-06",
+   "end": "2025-10-06",
+   "value": 203.71,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_amd_price_2025-10-13",
+   "entity_id": "amd",
+   "key": "price",
+   "period": "2025-10-13",
+   "end": "2025-10-13",
+   "value": 216.42,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_amd_price_2025-10-20",
+   "entity_id": "amd",
+   "key": "price",
+   "period": "2025-10-20",
+   "end": "2025-10-20",
+   "value": 240.56,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_amd_price_2025-10-27",
+   "entity_id": "amd",
+   "key": "price",
+   "period": "2025-10-27",
+   "end": "2025-10-27",
+   "value": 259.67,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_amd_price_2025-11-03",
+   "entity_id": "amd",
+   "key": "price",
+   "period": "2025-11-03",
+   "end": "2025-11-03",
+   "value": 259.65,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_amd_price_2025-11-10",
+   "entity_id": "amd",
+   "key": "price",
+   "period": "2025-11-10",
+   "end": "2025-11-10",
+   "value": 243.98,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_amd_price_2025-11-17",
+   "entity_id": "amd",
+   "key": "price",
+   "period": "2025-11-17",
+   "end": "2025-11-17",
+   "value": 240.52,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_amd_price_2025-11-24",
+   "entity_id": "amd",
+   "key": "price",
+   "period": "2025-11-24",
+   "end": "2025-11-24",
+   "value": 215.05,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_amd_price_2025-12-02",
+   "entity_id": "amd",
+   "key": "price",
+   "period": "2025-12-02",
+   "end": "2025-12-02",
+   "value": 215.24,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_amd_price_2025-12-09",
+   "entity_id": "amd",
+   "key": "price",
+   "period": "2025-12-09",
+   "end": "2025-12-09",
+   "value": 221.62,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_amd_price_2025-12-16",
+   "entity_id": "amd",
+   "key": "price",
+   "period": "2025-12-16",
+   "end": "2025-12-16",
+   "value": 209.17,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_amd_price_2025-12-23",
+   "entity_id": "amd",
+   "key": "price",
+   "period": "2025-12-23",
+   "end": "2025-12-23",
    "value": 214.9,
    "unit": "USD",
    "source_ids": [
@@ -3432,12 +3640,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2025-10-17",
+   "id": "mkt_amd_price_2025-12-31",
    "entity_id": "amd",
    "key": "price",
-   "period": "2025-10-17",
-   "end": "2025-10-17",
-   "value": 233.08,
+   "period": "2025-12-31",
+   "end": "2025-12-31",
+   "value": 214.16,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3445,12 +3653,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2025-10-24",
+   "id": "mkt_amd_price_2026-01-08",
    "entity_id": "amd",
    "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 252.92,
+   "period": "2026-01-08",
+   "end": "2026-01-08",
+   "value": 204.68,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3458,12 +3666,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2025-10-31",
+   "id": "mkt_amd_price_2026-01-15",
    "entity_id": "amd",
    "key": "price",
-   "period": "2025-10-31",
-   "end": "2025-10-31",
-   "value": 256.12,
+   "period": "2026-01-15",
+   "end": "2026-01-15",
+   "value": 227.92,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3471,12 +3679,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2025-11-07",
+   "id": "mkt_amd_price_2026-01-23",
    "entity_id": "amd",
    "key": "price",
-   "period": "2025-11-07",
-   "end": "2025-11-07",
-   "value": 233.54,
+   "period": "2026-01-23",
+   "end": "2026-01-23",
+   "value": 259.68,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3484,12 +3692,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2025-11-14",
+   "id": "mkt_amd_price_2026-01-30",
    "entity_id": "amd",
    "key": "price",
-   "period": "2025-11-14",
-   "end": "2025-11-14",
-   "value": 246.81,
+   "period": "2026-01-30",
+   "end": "2026-01-30",
+   "value": 236.73,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3497,12 +3705,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2025-11-21",
+   "id": "mkt_amd_price_2026-02-06",
    "entity_id": "amd",
    "key": "price",
-   "period": "2025-11-21",
-   "end": "2025-11-21",
-   "value": 203.78,
+   "period": "2026-02-06",
+   "end": "2026-02-06",
+   "value": 208.44,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3510,12 +3718,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2025-12-01",
+   "id": "mkt_amd_price_2026-02-13",
    "entity_id": "amd",
    "key": "price",
-   "period": "2025-12-01",
-   "end": "2025-12-01",
-   "value": 219.76,
+   "period": "2026-02-13",
+   "end": "2026-02-13",
+   "value": 207.32,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3523,12 +3731,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2025-12-08",
+   "id": "mkt_amd_price_2026-02-23",
    "entity_id": "amd",
    "key": "price",
-   "period": "2025-12-08",
-   "end": "2025-12-08",
-   "value": 221.11,
+   "period": "2026-02-23",
+   "end": "2026-02-23",
+   "value": 196.6,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3536,12 +3744,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2025-12-15",
+   "id": "mkt_amd_price_2026-03-02",
    "entity_id": "amd",
    "key": "price",
-   "period": "2025-12-15",
-   "end": "2025-12-15",
-   "value": 207.58,
+   "period": "2026-03-02",
+   "end": "2026-03-02",
+   "value": 198.62,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3549,12 +3757,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2025-12-22",
+   "id": "mkt_amd_price_2026-03-09",
    "entity_id": "amd",
    "key": "price",
-   "period": "2025-12-22",
-   "end": "2025-12-22",
-   "value": 214.95,
+   "period": "2026-03-09",
+   "end": "2026-03-09",
+   "value": 202.68,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3562,12 +3770,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2025-12-30",
+   "id": "mkt_amd_price_2026-03-16",
    "entity_id": "amd",
    "key": "price",
-   "period": "2025-12-30",
-   "end": "2025-12-30",
-   "value": 215.34,
+   "period": "2026-03-16",
+   "end": "2026-03-16",
+   "value": 196.58,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3575,12 +3783,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-01-07",
+   "id": "mkt_amd_price_2026-03-23",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-01-07",
-   "end": "2026-01-07",
-   "value": 210.02,
+   "period": "2026-03-23",
+   "end": "2026-03-23",
+   "value": 202.68,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3588,12 +3796,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-01-14",
+   "id": "mkt_amd_price_2026-03-30",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-01-14",
-   "end": "2026-01-14",
-   "value": 223.6,
+   "period": "2026-03-30",
+   "end": "2026-03-30",
+   "value": 196.04,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3601,12 +3809,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-01-22",
+   "id": "mkt_amd_price_2026-04-07",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-01-22",
-   "end": "2026-01-22",
-   "value": 253.73,
+   "period": "2026-04-07",
+   "end": "2026-04-07",
+   "value": 221.53,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3614,12 +3822,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-01-29",
+   "id": "mkt_amd_price_2026-04-14",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-01-29",
-   "end": "2026-01-29",
-   "value": 252.18,
+   "period": "2026-04-14",
+   "end": "2026-04-14",
+   "value": 255.07,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3627,12 +3835,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-02-05",
+   "id": "mkt_amd_price_2026-04-21",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-02-05",
-   "end": "2026-02-05",
-   "value": 192.5,
+   "period": "2026-04-21",
+   "end": "2026-04-21",
+   "value": 284.49,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3640,12 +3848,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-02-12",
+   "id": "mkt_amd_price_2026-04-28",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-02-12",
-   "end": "2026-02-12",
-   "value": 205.94,
+   "period": "2026-04-28",
+   "end": "2026-04-28",
+   "value": 323.21,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3653,12 +3861,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-02-20",
+   "id": "mkt_amd_price_2026-05-05",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-02-20",
-   "end": "2026-02-20",
-   "value": 200.15,
+   "period": "2026-05-05",
+   "end": "2026-05-05",
+   "value": 355.26,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3666,12 +3874,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-02-27",
+   "id": "mkt_amd_price_2026-05-12",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-02-27",
-   "end": "2026-02-27",
-   "value": 200.21,
+   "period": "2026-05-12",
+   "end": "2026-05-12",
+   "value": 448.29,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3679,12 +3887,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-03-06",
+   "id": "mkt_amd_price_2026-05-19",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-03-06",
-   "end": "2026-03-06",
-   "value": 192.43,
+   "period": "2026-05-19",
+   "end": "2026-05-19",
+   "value": 414.05,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3692,12 +3900,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-03-13",
+   "id": "mkt_amd_price_2026-05-27",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-03-13",
-   "end": "2026-03-13",
-   "value": 193.39,
+   "period": "2026-05-27",
+   "end": "2026-05-27",
+   "value": 495.54,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3705,12 +3913,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-03-20",
+   "id": "mkt_amd_price_2026-06-03",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-03-20",
-   "end": "2026-03-20",
-   "value": 201.33,
+   "period": "2026-06-03",
+   "end": "2026-06-03",
+   "value": 542.52,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3718,12 +3926,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-03-27",
+   "id": "mkt_amd_price_2026-06-10",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-03-27",
-   "end": "2026-03-27",
-   "value": 201.99,
+   "period": "2026-06-10",
+   "end": "2026-06-10",
+   "value": 452.4,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3731,12 +3939,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-04-06",
+   "id": "mkt_amd_price_2026-06-17",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-04-06",
-   "end": "2026-04-06",
-   "value": 220.18,
+   "period": "2026-06-17",
+   "end": "2026-06-17",
+   "value": 512.48,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3744,12 +3952,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-04-13",
+   "id": "mkt_amd_price_2026-06-25",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-04-13",
-   "end": "2026-04-13",
-   "value": 246.83,
+   "period": "2026-06-25",
+   "end": "2026-06-25",
+   "value": 532.57,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3757,12 +3965,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-04-20",
+   "id": "mkt_amd_price_2026-07-02",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-04-20",
-   "end": "2026-04-20",
-   "value": 274.95,
+   "period": "2026-07-02",
+   "end": "2026-07-02",
+   "value": 517.82,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3770,12 +3978,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-04-27",
+   "id": "mkt_amd_price_2026-07-10",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-04-27",
-   "end": "2026-04-27",
-   "value": 334.63,
+   "period": "2026-07-10",
+   "end": "2026-07-10",
+   "value": 557.89,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3783,12 +3991,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-05-04",
+   "id": "mkt_amd_price_2026-07-17",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-05-04",
-   "end": "2026-05-04",
-   "value": 341.54,
+   "period": "2026-07-17",
+   "end": "2026-07-17",
+   "value": 495.76,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3796,12 +4004,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-05-11",
+   "id": "mkt_amd_price_2026-07-24",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-05-11",
-   "end": "2026-05-11",
-   "value": 458.79,
+   "period": "2026-07-24",
+   "end": "2026-07-24",
+   "value": 521.95,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3809,12 +4017,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-05-18",
+   "id": "mkt_amd_price_2026-07-31",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-05-18",
-   "end": "2026-05-18",
-   "value": 420.99,
+   "period": "2026-07-31",
+   "end": "2026-07-31",
+   "value": 476.15,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3822,12 +4030,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-05-26",
+   "id": "mkt_amd_price_2026-08-07",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-05-26",
-   "end": "2026-05-26",
-   "value": 503.89,
+   "period": "2026-08-07",
+   "end": "2026-08-07",
+   "value": 483.36,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3835,12 +4043,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-06-02",
+   "id": "mkt_amd_price_2026-08-14",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-06-02",
-   "end": "2026-06-02",
-   "value": 521.54,
+   "period": "2026-08-14",
+   "end": "2026-08-14",
+   "value": 514.39,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3848,12 +4056,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-06-09",
+   "id": "mkt_amd_price_2026-08-21",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-06-09",
-   "end": "2026-06-09",
-   "value": 475.51,
+   "period": "2026-08-21",
+   "end": "2026-08-21",
+   "value": 473.25,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3861,12 +4069,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-06-16",
+   "id": "mkt_amd_price_2026-08-28",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-06-16",
-   "end": "2026-06-16",
-   "value": 507.29,
+   "period": "2026-08-28",
+   "end": "2026-08-28",
+   "value": 465.58,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3874,12 +4082,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-06-24",
+   "id": "mkt_amd_price_2026-09-04",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-06-24",
-   "end": "2026-06-24",
-   "value": 519.74,
+   "period": "2026-09-04",
+   "end": "2026-09-04",
+   "value": 477.57,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3887,12 +4095,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-07-01",
+   "id": "mkt_amd_price_2026-09-14",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-07-01",
-   "end": "2026-07-01",
-   "value": 540.88,
+   "period": "2026-09-14",
+   "end": "2026-09-14",
+   "value": 493.41,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3900,12 +4108,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-07-09",
+   "id": "mkt_amd_price_2026-09-21",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-07-09",
-   "end": "2026-07-09",
-   "value": 546.72,
+   "period": "2026-09-21",
+   "end": "2026-09-21",
+   "value": 615.52,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3913,12 +4121,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-07-16",
+   "id": "mkt_amd_price_2026-09-28",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-07-16",
-   "end": "2026-07-16",
-   "value": 500.94,
+   "period": "2026-09-28",
+   "end": "2026-09-28",
+   "value": 607.87,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3926,12 +4134,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-07-23",
+   "id": "mkt_amd_price_2026-10-05",
    "entity_id": "amd",
    "key": "price",
-   "period": "2026-07-23",
-   "end": "2026-07-23",
-   "value": 539.69,
+   "period": "2026-10-05",
+   "end": "2026-10-05",
+   "value": 630.92999,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3939,142 +4147,12 @@
    "derived": false
   },
   {
-   "id": "mkt_amd_price_2026-07-30",
-   "entity_id": "amd",
-   "key": "price",
-   "period": "2026-07-30",
-   "end": "2026-07-30",
-   "value": 485.39,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_amd_price_2026-08-06",
-   "entity_id": "amd",
-   "key": "price",
-   "period": "2026-08-06",
-   "end": "2026-08-06",
-   "value": 489.28,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_amd_price_2026-08-13",
-   "entity_id": "amd",
-   "key": "price",
-   "period": "2026-08-13",
-   "end": "2026-08-13",
-   "value": 483.01,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_amd_price_2026-08-20",
-   "entity_id": "amd",
-   "key": "price",
-   "period": "2026-08-20",
-   "end": "2026-08-20",
-   "value": 469.46,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_amd_price_2026-08-27",
-   "entity_id": "amd",
-   "key": "price",
-   "period": "2026-08-27",
-   "end": "2026-08-27",
-   "value": 476.67,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_amd_price_2026-09-03",
-   "entity_id": "amd",
-   "key": "price",
-   "period": "2026-09-03",
-   "end": "2026-09-03",
-   "value": 456.16,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_amd_price_2026-09-11",
-   "entity_id": "amd",
-   "key": "price",
-   "period": "2026-09-11",
-   "end": "2026-09-11",
-   "value": 516.13,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_amd_price_2026-09-18",
-   "entity_id": "amd",
-   "key": "price",
-   "period": "2026-09-18",
-   "end": "2026-09-18",
-   "value": 559.82,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_amd_price_2026-09-25",
-   "entity_id": "amd",
-   "key": "price",
-   "period": "2026-09-25",
-   "end": "2026-09-25",
-   "value": 630.63,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_amd_price_2026-10-02",
-   "entity_id": "amd",
-   "key": "price",
-   "period": "2026-10-02",
-   "end": "2026-10-02",
-   "value": 633.91,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_apple_price_2025-10-10",
+   "id": "mkt_apple_price_2025-10-06",
    "entity_id": "apple",
    "key": "price",
-   "period": "2025-10-10",
-   "end": "2025-10-10",
-   "value": 245.27,
+   "period": "2025-10-06",
+   "end": "2025-10-06",
+   "value": 256.69,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4082,12 +4160,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2025-10-17",
+   "id": "mkt_apple_price_2025-10-13",
    "entity_id": "apple",
    "key": "price",
-   "period": "2025-10-17",
-   "end": "2025-10-17",
-   "value": 252.29,
+   "period": "2025-10-13",
+   "end": "2025-10-13",
+   "value": 247.66,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4095,12 +4173,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2025-10-24",
+   "id": "mkt_apple_price_2025-10-20",
    "entity_id": "apple",
    "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 262.82,
+   "period": "2025-10-20",
+   "end": "2025-10-20",
+   "value": 262.24,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4108,12 +4186,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2025-10-31",
+   "id": "mkt_apple_price_2025-10-27",
    "entity_id": "apple",
    "key": "price",
-   "period": "2025-10-31",
-   "end": "2025-10-31",
-   "value": 270.37,
+   "period": "2025-10-27",
+   "end": "2025-10-27",
+   "value": 268.81,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4121,12 +4199,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2025-11-07",
+   "id": "mkt_apple_price_2025-11-03",
    "entity_id": "apple",
    "key": "price",
-   "period": "2025-11-07",
-   "end": "2025-11-07",
-   "value": 268.47,
+   "period": "2025-11-03",
+   "end": "2025-11-03",
+   "value": 269.05,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4134,12 +4212,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2025-11-14",
+   "id": "mkt_apple_price_2025-11-10",
    "entity_id": "apple",
    "key": "price",
-   "period": "2025-11-14",
-   "end": "2025-11-14",
-   "value": 272.41,
+   "period": "2025-11-10",
+   "end": "2025-11-10",
+   "value": 269.43,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4147,12 +4225,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2025-11-21",
+   "id": "mkt_apple_price_2025-11-17",
    "entity_id": "apple",
    "key": "price",
-   "period": "2025-11-21",
-   "end": "2025-11-21",
-   "value": 271.49,
+   "period": "2025-11-17",
+   "end": "2025-11-17",
+   "value": 267.46,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4160,12 +4238,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2025-12-01",
+   "id": "mkt_apple_price_2025-11-24",
    "entity_id": "apple",
    "key": "price",
-   "period": "2025-12-01",
-   "end": "2025-12-01",
-   "value": 283.1,
+   "period": "2025-11-24",
+   "end": "2025-11-24",
+   "value": 275.92,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4173,12 +4251,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2025-12-08",
+   "id": "mkt_apple_price_2025-12-02",
    "entity_id": "apple",
    "key": "price",
-   "period": "2025-12-08",
-   "end": "2025-12-08",
-   "value": 277.89,
+   "period": "2025-12-02",
+   "end": "2025-12-02",
+   "value": 286.19,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4186,12 +4264,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2025-12-15",
+   "id": "mkt_apple_price_2025-12-09",
    "entity_id": "apple",
    "key": "price",
-   "period": "2025-12-15",
-   "end": "2025-12-15",
-   "value": 274.11,
+   "period": "2025-12-09",
+   "end": "2025-12-09",
+   "value": 277.18,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4199,12 +4277,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2025-12-22",
+   "id": "mkt_apple_price_2025-12-16",
    "entity_id": "apple",
    "key": "price",
-   "period": "2025-12-22",
-   "end": "2025-12-22",
-   "value": 270.97,
+   "period": "2025-12-16",
+   "end": "2025-12-16",
+   "value": 274.61,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4212,12 +4290,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2025-12-30",
+   "id": "mkt_apple_price_2025-12-23",
    "entity_id": "apple",
    "key": "price",
-   "period": "2025-12-30",
-   "end": "2025-12-30",
-   "value": 273.08,
+   "period": "2025-12-23",
+   "end": "2025-12-23",
+   "value": 272.36,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4225,12 +4303,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-01-07",
+   "id": "mkt_apple_price_2025-12-31",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-01-07",
-   "end": "2026-01-07",
-   "value": 260.33,
+   "period": "2025-12-31",
+   "end": "2025-12-31",
+   "value": 271.86,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4238,12 +4316,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-01-14",
+   "id": "mkt_apple_price_2026-01-08",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-01-14",
-   "end": "2026-01-14",
-   "value": 259.96,
+   "period": "2026-01-08",
+   "end": "2026-01-08",
+   "value": 259.04,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4251,12 +4329,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-01-22",
+   "id": "mkt_apple_price_2026-01-15",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-01-22",
-   "end": "2026-01-22",
-   "value": 248.35,
+   "period": "2026-01-15",
+   "end": "2026-01-15",
+   "value": 258.21,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4264,12 +4342,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-01-29",
+   "id": "mkt_apple_price_2026-01-23",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-01-29",
-   "end": "2026-01-29",
-   "value": 258.28,
+   "period": "2026-01-23",
+   "end": "2026-01-23",
+   "value": 248.04,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4277,12 +4355,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-02-05",
+   "id": "mkt_apple_price_2026-01-30",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-02-05",
-   "end": "2026-02-05",
-   "value": 275.91,
+   "period": "2026-01-30",
+   "end": "2026-01-30",
+   "value": 259.48,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4290,12 +4368,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-02-12",
+   "id": "mkt_apple_price_2026-02-06",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-02-12",
-   "end": "2026-02-12",
-   "value": 261.73,
+   "period": "2026-02-06",
+   "end": "2026-02-06",
+   "value": 278.12,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4303,12 +4381,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-02-20",
+   "id": "mkt_apple_price_2026-02-13",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-02-20",
-   "end": "2026-02-20",
-   "value": 264.58,
+   "period": "2026-02-13",
+   "end": "2026-02-13",
+   "value": 255.78,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4316,12 +4394,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-02-27",
+   "id": "mkt_apple_price_2026-02-23",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-02-27",
-   "end": "2026-02-27",
-   "value": 264.18,
+   "period": "2026-02-23",
+   "end": "2026-02-23",
+   "value": 266.18,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4329,12 +4407,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-03-06",
+   "id": "mkt_apple_price_2026-03-02",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-03-06",
-   "end": "2026-03-06",
-   "value": 257.46,
+   "period": "2026-03-02",
+   "end": "2026-03-02",
+   "value": 264.72,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4342,12 +4420,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-03-13",
+   "id": "mkt_apple_price_2026-03-09",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-03-13",
-   "end": "2026-03-13",
-   "value": 250.12,
+   "period": "2026-03-09",
+   "end": "2026-03-09",
+   "value": 259.88,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4355,12 +4433,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-03-20",
+   "id": "mkt_apple_price_2026-03-16",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-03-20",
-   "end": "2026-03-20",
-   "value": 247.99,
+   "period": "2026-03-16",
+   "end": "2026-03-16",
+   "value": 252.82,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4368,12 +4446,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-03-27",
+   "id": "mkt_apple_price_2026-03-23",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-03-27",
-   "end": "2026-03-27",
-   "value": 248.8,
+   "period": "2026-03-23",
+   "end": "2026-03-23",
+   "value": 251.49,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4381,12 +4459,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-04-06",
+   "id": "mkt_apple_price_2026-03-30",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-04-06",
-   "end": "2026-04-06",
-   "value": 258.86,
+   "period": "2026-03-30",
+   "end": "2026-03-30",
+   "value": 246.63,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4394,12 +4472,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-04-13",
+   "id": "mkt_apple_price_2026-04-07",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-04-13",
-   "end": "2026-04-13",
-   "value": 259.2,
+   "period": "2026-04-07",
+   "end": "2026-04-07",
+   "value": 253.5,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4407,12 +4485,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-04-20",
+   "id": "mkt_apple_price_2026-04-14",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-04-20",
-   "end": "2026-04-20",
-   "value": 273.05,
+   "period": "2026-04-14",
+   "end": "2026-04-14",
+   "value": 258.83,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4420,12 +4498,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-04-27",
+   "id": "mkt_apple_price_2026-04-21",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-04-27",
-   "end": "2026-04-27",
-   "value": 267.61,
+   "period": "2026-04-21",
+   "end": "2026-04-21",
+   "value": 266.17,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4433,12 +4511,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-05-04",
+   "id": "mkt_apple_price_2026-04-28",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-05-04",
-   "end": "2026-05-04",
-   "value": 276.83,
+   "period": "2026-04-28",
+   "end": "2026-04-28",
+   "value": 270.71,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4446,12 +4524,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-05-11",
+   "id": "mkt_apple_price_2026-05-05",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-05-11",
-   "end": "2026-05-11",
-   "value": 292.68,
+   "period": "2026-05-05",
+   "end": "2026-05-05",
+   "value": 284.18,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4459,12 +4537,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-05-18",
+   "id": "mkt_apple_price_2026-05-12",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-05-18",
-   "end": "2026-05-18",
-   "value": 297.84,
+   "period": "2026-05-12",
+   "end": "2026-05-12",
+   "value": 294.8,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4472,12 +4550,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-05-26",
+   "id": "mkt_apple_price_2026-05-19",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-05-26",
-   "end": "2026-05-26",
-   "value": 308.33,
+   "period": "2026-05-19",
+   "end": "2026-05-19",
+   "value": 298.97,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4485,12 +4563,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-06-02",
+   "id": "mkt_apple_price_2026-05-27",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-06-02",
-   "end": "2026-06-02",
-   "value": 315.2,
+   "period": "2026-05-27",
+   "end": "2026-05-27",
+   "value": 310.85,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4498,12 +4576,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-06-09",
+   "id": "mkt_apple_price_2026-06-03",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-06-09",
-   "end": "2026-06-09",
-   "value": 290.55,
+   "period": "2026-06-03",
+   "end": "2026-06-03",
+   "value": 310.26,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4511,12 +4589,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-06-16",
+   "id": "mkt_apple_price_2026-06-10",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-06-16",
-   "end": "2026-06-16",
-   "value": 299.24,
+   "period": "2026-06-10",
+   "end": "2026-06-10",
+   "value": 291.58,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4524,12 +4602,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-06-24",
+   "id": "mkt_apple_price_2026-06-17",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-06-24",
-   "end": "2026-06-24",
-   "value": 293.08,
+   "period": "2026-06-17",
+   "end": "2026-06-17",
+   "value": 295.95,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4537,12 +4615,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-07-01",
+   "id": "mkt_apple_price_2026-06-25",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-07-01",
-   "end": "2026-07-01",
-   "value": 294.38,
+   "period": "2026-06-25",
+   "end": "2026-06-25",
+   "value": 275.15,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4550,12 +4628,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-07-09",
+   "id": "mkt_apple_price_2026-07-02",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-07-09",
-   "end": "2026-07-09",
-   "value": 316.22,
+   "period": "2026-07-02",
+   "end": "2026-07-02",
+   "value": 308.63,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4563,12 +4641,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-07-16",
+   "id": "mkt_apple_price_2026-07-10",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-07-16",
-   "end": "2026-07-16",
-   "value": 333.26,
+   "period": "2026-07-10",
+   "end": "2026-07-10",
+   "value": 315.32,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4576,12 +4654,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-07-23",
+   "id": "mkt_apple_price_2026-07-17",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-07-23",
-   "end": "2026-07-23",
-   "value": 321.66,
+   "period": "2026-07-17",
+   "end": "2026-07-17",
+   "value": 333.74,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4589,12 +4667,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-07-30",
+   "id": "mkt_apple_price_2026-07-24",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-07-30",
-   "end": "2026-07-30",
-   "value": 333.43,
+   "period": "2026-07-24",
+   "end": "2026-07-24",
+   "value": 333.02,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4602,12 +4680,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-08-06",
+   "id": "mkt_apple_price_2026-07-31",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-08-06",
-   "end": "2026-08-06",
-   "value": 312.41,
+   "period": "2026-07-31",
+   "end": "2026-07-31",
+   "value": 308.91,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4615,12 +4693,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-08-13",
+   "id": "mkt_apple_price_2026-08-07",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-08-13",
-   "end": "2026-08-13",
-   "value": 305.26,
+   "period": "2026-08-07",
+   "end": "2026-08-07",
+   "value": 313.33,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4628,12 +4706,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-08-20",
+   "id": "mkt_apple_price_2026-08-14",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-08-20",
-   "end": "2026-08-20",
-   "value": 311.3,
+   "period": "2026-08-14",
+   "end": "2026-08-14",
+   "value": 305.93,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4641,12 +4719,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-08-27",
+   "id": "mkt_apple_price_2026-08-21",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-08-27",
-   "end": "2026-08-27",
-   "value": 314.58,
+   "period": "2026-08-21",
+   "end": "2026-08-21",
+   "value": 309.35,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4654,12 +4732,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-09-03",
+   "id": "mkt_apple_price_2026-08-28",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-09-03",
-   "end": "2026-09-03",
-   "value": 328.21,
+   "period": "2026-08-28",
+   "end": "2026-08-28",
+   "value": 319.7,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4667,12 +4745,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-09-11",
+   "id": "mkt_apple_price_2026-09-04",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-09-11",
-   "end": "2026-09-11",
-   "value": 332.27,
+   "period": "2026-09-04",
+   "end": "2026-09-04",
+   "value": 319.97,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4680,12 +4758,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-09-18",
+   "id": "mkt_apple_price_2026-09-14",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-09-18",
-   "end": "2026-09-18",
-   "value": 336.13,
+   "period": "2026-09-14",
+   "end": "2026-09-14",
+   "value": 333.08,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4693,12 +4771,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-09-25",
+   "id": "mkt_apple_price_2026-09-21",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-09-25",
-   "end": "2026-09-25",
-   "value": 341.07,
+   "period": "2026-09-21",
+   "end": "2026-09-21",
+   "value": 338.98,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4706,12 +4784,12 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2026-10-02",
+   "id": "mkt_apple_price_2026-09-28",
    "entity_id": "apple",
    "key": "price",
-   "period": "2026-10-02",
-   "end": "2026-10-02",
-   "value": 333.69,
+   "period": "2026-09-28",
+   "end": "2026-09-28",
+   "value": 338.4,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4719,12 +4797,25 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2025-10-10",
+   "id": "mkt_apple_price_2026-10-05",
+   "entity_id": "apple",
+   "key": "price",
+   "period": "2026-10-05",
+   "end": "2026-10-05",
+   "value": 334.40759,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_tesla_price_2025-10-06",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2025-10-10",
-   "end": "2025-10-10",
-   "value": 413.49,
+   "period": "2025-10-06",
+   "end": "2025-10-06",
+   "value": 453.25,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4732,12 +4823,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2025-10-17",
+   "id": "mkt_tesla_price_2025-10-13",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2025-10-17",
-   "end": "2025-10-17",
-   "value": 439.31,
+   "period": "2025-10-13",
+   "end": "2025-10-13",
+   "value": 435.9,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4745,12 +4836,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2025-10-24",
+   "id": "mkt_tesla_price_2025-10-20",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 433.72,
+   "period": "2025-10-20",
+   "end": "2025-10-20",
+   "value": 447.43,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4758,12 +4849,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2025-10-31",
+   "id": "mkt_tesla_price_2025-10-27",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2025-10-31",
-   "end": "2025-10-31",
-   "value": 456.56,
+   "period": "2025-10-27",
+   "end": "2025-10-27",
+   "value": 452.42,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4771,12 +4862,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2025-11-07",
+   "id": "mkt_tesla_price_2025-11-03",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2025-11-07",
-   "end": "2025-11-07",
-   "value": 429.52,
+   "period": "2025-11-03",
+   "end": "2025-11-03",
+   "value": 468.37,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4784,12 +4875,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2025-11-14",
+   "id": "mkt_tesla_price_2025-11-10",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2025-11-14",
-   "end": "2025-11-14",
-   "value": 404.35,
+   "period": "2025-11-10",
+   "end": "2025-11-10",
+   "value": 445.23,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4797,12 +4888,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2025-11-21",
+   "id": "mkt_tesla_price_2025-11-17",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2025-11-21",
-   "end": "2025-11-21",
-   "value": 391.09,
+   "period": "2025-11-17",
+   "end": "2025-11-17",
+   "value": 408.92,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4810,12 +4901,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2025-12-01",
+   "id": "mkt_tesla_price_2025-11-24",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2025-12-01",
-   "end": "2025-12-01",
-   "value": 430.14,
+   "period": "2025-11-24",
+   "end": "2025-11-24",
+   "value": 417.78,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4823,12 +4914,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2025-12-08",
+   "id": "mkt_tesla_price_2025-12-02",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2025-12-08",
-   "end": "2025-12-08",
-   "value": 439.58,
+   "period": "2025-12-02",
+   "end": "2025-12-02",
+   "value": 429.24,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4836,12 +4927,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2025-12-15",
+   "id": "mkt_tesla_price_2025-12-09",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2025-12-15",
-   "end": "2025-12-15",
-   "value": 475.31,
+   "period": "2025-12-09",
+   "end": "2025-12-09",
+   "value": 445.17,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4849,12 +4940,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2025-12-22",
+   "id": "mkt_tesla_price_2025-12-16",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2025-12-22",
-   "end": "2025-12-22",
-   "value": 488.73,
+   "period": "2025-12-16",
+   "end": "2025-12-16",
+   "value": 489.88,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4862,12 +4953,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2025-12-30",
+   "id": "mkt_tesla_price_2025-12-23",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2025-12-30",
-   "end": "2025-12-30",
-   "value": 454.43,
+   "period": "2025-12-23",
+   "end": "2025-12-23",
+   "value": 485.56,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4875,12 +4966,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-01-07",
+   "id": "mkt_tesla_price_2025-12-31",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-01-07",
-   "end": "2026-01-07",
-   "value": 431.41,
+   "period": "2025-12-31",
+   "end": "2025-12-31",
+   "value": 449.72,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4888,12 +4979,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-01-14",
+   "id": "mkt_tesla_price_2026-01-08",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-01-14",
-   "end": "2026-01-14",
-   "value": 439.2,
+   "period": "2026-01-08",
+   "end": "2026-01-08",
+   "value": 435.8,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4901,12 +4992,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-01-22",
+   "id": "mkt_tesla_price_2026-01-15",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-01-22",
-   "end": "2026-01-22",
-   "value": 449.36,
+   "period": "2026-01-15",
+   "end": "2026-01-15",
+   "value": 438.57,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4914,12 +5005,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-01-29",
+   "id": "mkt_tesla_price_2026-01-23",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-01-29",
-   "end": "2026-01-29",
-   "value": 416.56,
+   "period": "2026-01-23",
+   "end": "2026-01-23",
+   "value": 449.06,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4927,12 +5018,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-02-05",
+   "id": "mkt_tesla_price_2026-01-30",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-02-05",
-   "end": "2026-02-05",
-   "value": 397.21,
+   "period": "2026-01-30",
+   "end": "2026-01-30",
+   "value": 430.41,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4940,12 +5031,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-02-12",
+   "id": "mkt_tesla_price_2026-02-06",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-02-12",
-   "end": "2026-02-12",
-   "value": 417.07,
+   "period": "2026-02-06",
+   "end": "2026-02-06",
+   "value": 411.11,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4953,12 +5044,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-02-20",
+   "id": "mkt_tesla_price_2026-02-13",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-02-20",
-   "end": "2026-02-20",
-   "value": 411.82,
+   "period": "2026-02-13",
+   "end": "2026-02-13",
+   "value": 417.44,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4966,12 +5057,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-02-27",
+   "id": "mkt_tesla_price_2026-02-23",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-02-27",
-   "end": "2026-02-27",
-   "value": 402.51,
+   "period": "2026-02-23",
+   "end": "2026-02-23",
+   "value": 399.83,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4979,12 +5070,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-03-06",
+   "id": "mkt_tesla_price_2026-03-02",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-03-06",
-   "end": "2026-03-06",
-   "value": 396.73,
+   "period": "2026-03-02",
+   "end": "2026-03-02",
+   "value": 403.32,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4992,12 +5083,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-03-13",
+   "id": "mkt_tesla_price_2026-03-09",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-03-13",
-   "end": "2026-03-13",
-   "value": 391.2,
+   "period": "2026-03-09",
+   "end": "2026-03-09",
+   "value": 398.68,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5005,12 +5096,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-03-20",
+   "id": "mkt_tesla_price_2026-03-16",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-03-20",
-   "end": "2026-03-20",
-   "value": 367.96,
+   "period": "2026-03-16",
+   "end": "2026-03-16",
+   "value": 395.56,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5018,12 +5109,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-03-27",
+   "id": "mkt_tesla_price_2026-03-23",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-03-27",
-   "end": "2026-03-27",
-   "value": 361.83,
+   "period": "2026-03-23",
+   "end": "2026-03-23",
+   "value": 380.85,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5031,12 +5122,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-04-06",
+   "id": "mkt_tesla_price_2026-03-30",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-04-06",
-   "end": "2026-04-06",
-   "value": 352.82,
+   "period": "2026-03-30",
+   "end": "2026-03-30",
+   "value": 355.28,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5044,12 +5135,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-04-13",
+   "id": "mkt_tesla_price_2026-04-07",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-04-13",
-   "end": "2026-04-13",
-   "value": 352.42,
+   "period": "2026-04-07",
+   "end": "2026-04-07",
+   "value": 346.65,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5057,12 +5148,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-04-20",
+   "id": "mkt_tesla_price_2026-04-14",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-04-20",
-   "end": "2026-04-20",
-   "value": 392.5,
+   "period": "2026-04-14",
+   "end": "2026-04-14",
+   "value": 364.2,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5070,12 +5161,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-04-27",
+   "id": "mkt_tesla_price_2026-04-21",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-04-27",
-   "end": "2026-04-27",
-   "value": 378.67,
+   "period": "2026-04-21",
+   "end": "2026-04-21",
+   "value": 386.42,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5083,12 +5174,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-05-04",
+   "id": "mkt_tesla_price_2026-04-28",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-05-04",
-   "end": "2026-05-04",
-   "value": 392.51,
+   "period": "2026-04-28",
+   "end": "2026-04-28",
+   "value": 376.02,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5096,12 +5187,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-05-11",
+   "id": "mkt_tesla_price_2026-05-05",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-05-11",
-   "end": "2026-05-11",
-   "value": 445,
+   "period": "2026-05-05",
+   "end": "2026-05-05",
+   "value": 389.37,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5109,12 +5200,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-05-18",
+   "id": "mkt_tesla_price_2026-05-12",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-05-18",
-   "end": "2026-05-18",
-   "value": 409.99,
+   "period": "2026-05-12",
+   "end": "2026-05-12",
+   "value": 433.45,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5122,12 +5213,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-05-26",
+   "id": "mkt_tesla_price_2026-05-19",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-05-26",
-   "end": "2026-05-26",
-   "value": 433.59,
+   "period": "2026-05-19",
+   "end": "2026-05-19",
+   "value": 404.11,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5135,12 +5226,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-06-02",
+   "id": "mkt_tesla_price_2026-05-27",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-06-02",
-   "end": "2026-06-02",
-   "value": 423.74,
+   "period": "2026-05-27",
+   "end": "2026-05-27",
+   "value": 440.36,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5148,12 +5239,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-06-09",
+   "id": "mkt_tesla_price_2026-06-03",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-06-09",
-   "end": "2026-06-09",
-   "value": 396.68,
+   "period": "2026-06-03",
+   "end": "2026-06-03",
+   "value": 423.7,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5161,12 +5252,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-06-16",
+   "id": "mkt_tesla_price_2026-06-10",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-06-16",
-   "end": "2026-06-16",
-   "value": 404.66,
+   "period": "2026-06-10",
+   "end": "2026-06-10",
+   "value": 381.59,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5174,12 +5265,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-06-24",
+   "id": "mkt_tesla_price_2026-06-17",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-06-24",
-   "end": "2026-06-24",
-   "value": 375.53,
+   "period": "2026-06-17",
+   "end": "2026-06-17",
+   "value": 396.38,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5187,12 +5278,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-07-01",
+   "id": "mkt_tesla_price_2026-06-25",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-07-01",
-   "end": "2026-07-01",
-   "value": 425.3,
+   "period": "2026-06-25",
+   "end": "2026-06-25",
+   "value": 375.12,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5200,12 +5291,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-07-09",
+   "id": "mkt_tesla_price_2026-07-02",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-07-09",
-   "end": "2026-07-09",
-   "value": 406.55,
+   "period": "2026-07-02",
+   "end": "2026-07-02",
+   "value": 393.45,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5213,12 +5304,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-07-16",
+   "id": "mkt_tesla_price_2026-07-10",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-07-16",
-   "end": "2026-07-16",
-   "value": 391.06,
+   "period": "2026-07-10",
+   "end": "2026-07-10",
+   "value": 407.76,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5226,12 +5317,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-07-23",
+   "id": "mkt_tesla_price_2026-07-17",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-07-23",
-   "end": "2026-07-23",
-   "value": 319.69,
+   "period": "2026-07-17",
+   "end": "2026-07-17",
+   "value": 380.84,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5239,12 +5330,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-07-30",
+   "id": "mkt_tesla_price_2026-07-24",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-07-30",
-   "end": "2026-07-30",
-   "value": 308.85,
+   "period": "2026-07-24",
+   "end": "2026-07-24",
+   "value": 313.03,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5252,12 +5343,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-08-06",
+   "id": "mkt_tesla_price_2026-07-31",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-08-06",
-   "end": "2026-08-06",
-   "value": 319.53,
+   "period": "2026-07-31",
+   "end": "2026-07-31",
+   "value": 311.21,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5265,12 +5356,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-08-13",
+   "id": "mkt_tesla_price_2026-08-07",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-08-13",
-   "end": "2026-08-13",
-   "value": 339.96,
+   "period": "2026-08-07",
+   "end": "2026-08-07",
+   "value": 328.58,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5278,12 +5369,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-08-20",
+   "id": "mkt_tesla_price_2026-08-14",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-08-20",
-   "end": "2026-08-20",
-   "value": 345.13,
+   "period": "2026-08-14",
+   "end": "2026-08-14",
+   "value": 342.27,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5291,12 +5382,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-08-27",
+   "id": "mkt_tesla_price_2026-08-21",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-08-27",
-   "end": "2026-08-27",
-   "value": 354.81,
+   "period": "2026-08-21",
+   "end": "2026-08-21",
+   "value": 362.86,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5304,12 +5395,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-09-03",
+   "id": "mkt_tesla_price_2026-08-28",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-09-03",
-   "end": "2026-09-03",
-   "value": 376.37,
+   "period": "2026-08-28",
+   "end": "2026-08-28",
+   "value": 348.75,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5317,12 +5408,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-09-11",
+   "id": "mkt_tesla_price_2026-09-04",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-09-11",
-   "end": "2026-09-11",
-   "value": 365.44,
+   "period": "2026-09-04",
+   "end": "2026-09-04",
+   "value": 354.08,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5330,12 +5421,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-09-18",
+   "id": "mkt_tesla_price_2026-09-14",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-09-18",
-   "end": "2026-09-18",
-   "value": 364.27,
+   "period": "2026-09-14",
+   "end": "2026-09-14",
+   "value": 358.97,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5343,12 +5434,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-09-25",
+   "id": "mkt_tesla_price_2026-09-21",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-09-25",
-   "end": "2026-09-25",
-   "value": 372.11,
+   "period": "2026-09-21",
+   "end": "2026-09-21",
+   "value": 375.3,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5356,12 +5447,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2026-10-02",
+   "id": "mkt_tesla_price_2026-09-28",
    "entity_id": "tesla",
    "key": "price",
-   "period": "2026-10-02",
-   "end": "2026-10-02",
-   "value": 370.59,
+   "period": "2026-09-28",
+   "end": "2026-09-28",
+   "value": 357.45,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5369,12 +5460,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2025-10-10",
-   "entity_id": "tsmc",
+   "id": "mkt_tesla_price_2026-10-05",
+   "entity_id": "tesla",
    "key": "price",
-   "period": "2025-10-10",
-   "end": "2025-10-10",
-   "value": 280.66,
+   "period": "2026-10-05",
+   "end": "2026-10-05",
+   "value": 375.83,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5382,12 +5473,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2025-10-17",
+   "id": "mkt_tsmc_price_2025-10-06",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2025-10-17",
-   "end": "2025-10-17",
-   "value": 295.08,
+   "period": "2025-10-06",
+   "end": "2025-10-06",
+   "value": 302.4,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5395,12 +5486,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2025-10-24",
+   "id": "mkt_tsmc_price_2025-10-13",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 294.96,
+   "period": "2025-10-13",
+   "end": "2025-10-13",
+   "value": 302.89,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5408,12 +5499,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2025-10-31",
+   "id": "mkt_tsmc_price_2025-10-20",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2025-10-31",
-   "end": "2025-10-31",
-   "value": 300.43,
+   "period": "2025-10-20",
+   "end": "2025-10-20",
+   "value": 297.7,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5421,12 +5512,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2025-11-07",
+   "id": "mkt_tsmc_price_2025-10-27",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2025-11-07",
-   "end": "2025-11-07",
-   "value": 286.5,
+   "period": "2025-10-27",
+   "end": "2025-10-27",
+   "value": 298.25,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5434,12 +5525,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2025-11-14",
+   "id": "mkt_tsmc_price_2025-11-03",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2025-11-14",
-   "end": "2025-11-14",
-   "value": 284.82,
+   "period": "2025-11-03",
+   "end": "2025-11-03",
+   "value": 304.86,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5447,12 +5538,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2025-11-21",
+   "id": "mkt_tsmc_price_2025-11-10",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2025-11-21",
-   "end": "2025-11-21",
-   "value": 275.06,
+   "period": "2025-11-10",
+   "end": "2025-11-10",
+   "value": 295.27,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5460,12 +5551,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2025-12-01",
+   "id": "mkt_tsmc_price_2025-11-17",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2025-12-01",
-   "end": "2025-12-01",
-   "value": 287.68,
+   "period": "2025-11-17",
+   "end": "2025-11-17",
+   "value": 282.01,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5473,12 +5564,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2025-12-08",
+   "id": "mkt_tsmc_price_2025-11-24",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2025-12-08",
-   "end": "2025-12-08",
-   "value": 301.87,
+   "period": "2025-11-24",
+   "end": "2025-11-24",
+   "value": 284.64,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5486,12 +5577,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2025-12-15",
+   "id": "mkt_tsmc_price_2025-12-02",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2025-12-15",
-   "end": "2025-12-15",
-   "value": 287.74,
+   "period": "2025-12-02",
+   "end": "2025-12-02",
+   "value": 292.09,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5499,12 +5590,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2025-12-22",
+   "id": "mkt_tsmc_price_2025-12-09",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2025-12-22",
-   "end": "2025-12-22",
-   "value": 293.28,
+   "period": "2025-12-09",
+   "end": "2025-12-09",
+   "value": 303.41,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5512,12 +5603,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2025-12-30",
+   "id": "mkt_tsmc_price_2025-12-16",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2025-12-30",
-   "end": "2025-12-30",
-   "value": 299.77,
+   "period": "2025-12-16",
+   "end": "2025-12-16",
+   "value": 286.87,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5525,12 +5616,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-01-07",
+   "id": "mkt_tsmc_price_2025-12-23",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-01-07",
-   "end": "2026-01-07",
-   "value": 318.68,
+   "period": "2025-12-23",
+   "end": "2025-12-23",
+   "value": 296.95,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5538,12 +5629,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-01-14",
+   "id": "mkt_tsmc_price_2025-12-31",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-01-14",
-   "end": "2026-01-14",
-   "value": 327.11,
+   "period": "2025-12-31",
+   "end": "2025-12-31",
+   "value": 303.89,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5551,12 +5642,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-01-22",
+   "id": "mkt_tsmc_price_2026-01-08",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-01-22",
-   "end": "2026-01-22",
-   "value": 327.37,
+   "period": "2026-01-08",
+   "end": "2026-01-08",
+   "value": 318.01,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5564,12 +5655,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-01-29",
+   "id": "mkt_tsmc_price_2026-01-15",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-01-29",
-   "end": "2026-01-29",
-   "value": 339.55,
+   "period": "2026-01-15",
+   "end": "2026-01-15",
+   "value": 341.64,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5577,12 +5668,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-02-05",
+   "id": "mkt_tsmc_price_2026-01-23",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-02-05",
-   "end": "2026-02-05",
-   "value": 330.73,
+   "period": "2026-01-23",
+   "end": "2026-01-23",
+   "value": 334.87,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5590,12 +5681,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-02-12",
+   "id": "mkt_tsmc_price_2026-01-30",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-02-12",
-   "end": "2026-02-12",
-   "value": 368.1,
+   "period": "2026-01-30",
+   "end": "2026-01-30",
+   "value": 330.56,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5603,12 +5694,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-02-20",
+   "id": "mkt_tsmc_price_2026-02-06",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-02-20",
-   "end": "2026-02-20",
-   "value": 370.54,
+   "period": "2026-02-06",
+   "end": "2026-02-06",
+   "value": 348.85,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5616,12 +5707,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-02-27",
+   "id": "mkt_tsmc_price_2026-02-13",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-02-27",
-   "end": "2026-02-27",
-   "value": 374.58,
+   "period": "2026-02-13",
+   "end": "2026-02-13",
+   "value": 366.36,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5629,12 +5720,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-03-06",
+   "id": "mkt_tsmc_price_2026-02-23",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-03-06",
-   "end": "2026-03-06",
-   "value": 338.89,
+   "period": "2026-02-23",
+   "end": "2026-02-23",
+   "value": 370.04,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5642,12 +5733,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-03-13",
+   "id": "mkt_tsmc_price_2026-03-02",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-03-13",
-   "end": "2026-03-13",
-   "value": 338.31,
+   "period": "2026-03-02",
+   "end": "2026-03-02",
+   "value": 369.11,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5655,12 +5746,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-03-20",
+   "id": "mkt_tsmc_price_2026-03-09",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-03-20",
-   "end": "2026-03-20",
-   "value": 329.24,
+   "period": "2026-03-09",
+   "end": "2026-03-09",
+   "value": 348.7,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5668,12 +5759,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-03-27",
+   "id": "mkt_tsmc_price_2026-03-16",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-03-27",
-   "end": "2026-03-27",
-   "value": 326.74,
+   "period": "2026-03-16",
+   "end": "2026-03-16",
+   "value": 340.23,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5681,12 +5772,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-04-06",
+   "id": "mkt_tsmc_price_2026-03-23",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-04-06",
-   "end": "2026-04-06",
-   "value": 341.76,
+   "period": "2026-03-23",
+   "end": "2026-03-23",
+   "value": 338.45,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5694,12 +5785,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-04-13",
+   "id": "mkt_tsmc_price_2026-03-30",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-04-13",
-   "end": "2026-04-13",
-   "value": 369.57,
+   "period": "2026-03-30",
+   "end": "2026-03-30",
+   "value": 316.5,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5707,12 +5798,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-04-20",
+   "id": "mkt_tsmc_price_2026-04-07",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-04-20",
-   "end": "2026-04-20",
-   "value": 366.24,
+   "period": "2026-04-07",
+   "end": "2026-04-07",
+   "value": 345.32,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5720,12 +5811,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-04-27",
+   "id": "mkt_tsmc_price_2026-04-14",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-04-27",
-   "end": "2026-04-27",
-   "value": 404.98,
+   "period": "2026-04-14",
+   "end": "2026-04-14",
+   "value": 379.89,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5733,12 +5824,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-05-04",
+   "id": "mkt_tsmc_price_2026-04-21",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-05-04",
-   "end": "2026-05-04",
-   "value": 401.61,
+   "period": "2026-04-21",
+   "end": "2026-04-21",
+   "value": 368.08,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5746,12 +5837,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-05-11",
+   "id": "mkt_tsmc_price_2026-04-28",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-05-11",
-   "end": "2026-05-11",
-   "value": 404.54,
+   "period": "2026-04-28",
+   "end": "2026-04-28",
+   "value": 392.34,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5759,12 +5850,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-05-18",
+   "id": "mkt_tsmc_price_2026-05-05",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-05-18",
-   "end": "2026-05-18",
-   "value": 395.95,
+   "period": "2026-05-05",
+   "end": "2026-05-05",
+   "value": 394.41,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5772,12 +5863,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-05-26",
+   "id": "mkt_tsmc_price_2026-05-12",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-05-26",
-   "end": "2026-05-26",
-   "value": 412.32,
+   "period": "2026-05-12",
+   "end": "2026-05-12",
+   "value": 397.28,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5785,12 +5876,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-06-02",
+   "id": "mkt_tsmc_price_2026-05-19",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-06-02",
-   "end": "2026-06-02",
-   "value": 446.69,
+   "period": "2026-05-19",
+   "end": "2026-05-19",
+   "value": 392.61,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5798,12 +5889,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-06-09",
+   "id": "mkt_tsmc_price_2026-05-27",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-06-09",
-   "end": "2026-06-09",
-   "value": 427.92,
+   "period": "2026-05-27",
+   "end": "2026-05-27",
+   "value": 422.73,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5811,12 +5902,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-06-16",
+   "id": "mkt_tsmc_price_2026-06-03",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-06-16",
-   "end": "2026-06-16",
-   "value": 425.83,
+   "period": "2026-06-03",
+   "end": "2026-06-03",
+   "value": 436.69,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5824,12 +5915,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-06-24",
+   "id": "mkt_tsmc_price_2026-06-10",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-06-24",
-   "end": "2026-06-24",
-   "value": 440.8,
+   "period": "2026-06-10",
+   "end": "2026-06-10",
+   "value": 408.75,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5837,12 +5928,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-07-01",
+   "id": "mkt_tsmc_price_2026-06-17",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-07-01",
-   "end": "2026-07-01",
-   "value": 444.23,
+   "period": "2026-06-17",
+   "end": "2026-06-17",
+   "value": 432.15,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5850,12 +5941,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-07-09",
+   "id": "mkt_tsmc_price_2026-06-25",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-07-09",
-   "end": "2026-07-09",
-   "value": 436.96,
+   "period": "2026-06-25",
+   "end": "2026-06-25",
+   "value": 434.99,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5863,12 +5954,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-07-16",
+   "id": "mkt_tsmc_price_2026-07-02",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-07-16",
-   "end": "2026-07-16",
-   "value": 409.74,
+   "period": "2026-07-02",
+   "end": "2026-07-02",
+   "value": 434.16,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5876,12 +5967,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-07-23",
+   "id": "mkt_tsmc_price_2026-07-10",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-07-23",
-   "end": "2026-07-23",
-   "value": 415.58,
+   "period": "2026-07-10",
+   "end": "2026-07-10",
+   "value": 434.11,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5889,12 +5980,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-07-30",
+   "id": "mkt_tsmc_price_2026-07-17",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-07-30",
-   "end": "2026-07-30",
-   "value": 403.31,
+   "period": "2026-07-17",
+   "end": "2026-07-17",
+   "value": 398.37,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5902,12 +5993,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-08-06",
+   "id": "mkt_tsmc_price_2026-07-24",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-08-06",
-   "end": "2026-08-06",
-   "value": 418.2,
+   "period": "2026-07-24",
+   "end": "2026-07-24",
+   "value": 403.41,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5915,12 +6006,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-08-13",
+   "id": "mkt_tsmc_price_2026-07-31",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-08-13",
-   "end": "2026-08-13",
-   "value": 430.49,
+   "period": "2026-07-31",
+   "end": "2026-07-31",
+   "value": 404.25,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5928,12 +6019,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-08-20",
+   "id": "mkt_tsmc_price_2026-08-07",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-08-20",
-   "end": "2026-08-20",
-   "value": 416,
+   "period": "2026-08-07",
+   "end": "2026-08-07",
+   "value": 420.04,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5941,12 +6032,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-08-27",
+   "id": "mkt_tsmc_price_2026-08-14",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-08-27",
-   "end": "2026-08-27",
-   "value": 427.3,
+   "period": "2026-08-14",
+   "end": "2026-08-14",
+   "value": 426.35,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5954,12 +6045,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-09-03",
+   "id": "mkt_tsmc_price_2026-08-21",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-09-03",
-   "end": "2026-09-03",
-   "value": 417.01,
+   "period": "2026-08-21",
+   "end": "2026-08-21",
+   "value": 418.95,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5967,12 +6058,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-09-11",
+   "id": "mkt_tsmc_price_2026-08-28",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-09-11",
-   "end": "2026-09-11",
-   "value": 433.24,
+   "period": "2026-08-28",
+   "end": "2026-08-28",
+   "value": 417.52,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5980,12 +6071,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-09-18",
+   "id": "mkt_tsmc_price_2026-09-04",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-09-18",
-   "end": "2026-09-18",
-   "value": 434.67,
+   "period": "2026-09-04",
+   "end": "2026-09-04",
+   "value": 428.91,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5993,12 +6084,12 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-09-25",
+   "id": "mkt_tsmc_price_2026-09-14",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-09-25",
-   "end": "2026-09-25",
-   "value": 450.61,
+   "period": "2026-09-14",
+   "end": "2026-09-14",
+   "value": 418.01,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -6006,12 +6097,38 @@
    "derived": false
   },
   {
-   "id": "mkt_tsmc_price_2026-10-02",
+   "id": "mkt_tsmc_price_2026-09-21",
    "entity_id": "tsmc",
    "key": "price",
-   "period": "2026-10-02",
-   "end": "2026-10-02",
-   "value": 472.78,
+   "period": "2026-09-21",
+   "end": "2026-09-21",
+   "value": 445.14,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_tsmc_price_2026-09-28",
+   "entity_id": "tsmc",
+   "key": "price",
+   "period": "2026-09-28",
+   "end": "2026-09-28",
+   "value": 452.88,
+   "unit": "USD",
+   "source_ids": [
+    "fmp_quotes"
+   ],
+   "derived": false
+  },
+  {
+   "id": "mkt_tsmc_price_2026-10-05",
+   "entity_id": "tsmc",
+   "key": "price",
+   "period": "2026-10-05",
+   "end": "2026-10-05",
+   "value": 480.055,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
