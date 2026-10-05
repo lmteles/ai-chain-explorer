@@ -1,6 +1,6 @@
 {
  "adapter": "quotes",
- "fetched_at": "2026-10-04T22:22:48.428Z",
+ "fetched_at": "2026-10-05T05:52:42.538Z",
  "metrics": [
   {
    "id": "mkt_microsoft_market_cap",
@@ -168,19 +168,6 @@
   }
  ],
  "history": [
-  {
-   "id": "mkt_microsoft_price_2025-10-03",
-   "entity_id": "microsoft",
-   "key": "price",
-   "period": "2025-10-03",
-   "end": "2025-10-03",
-   "value": 517.35,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
   {
    "id": "mkt_microsoft_price_2025-10-10",
    "entity_id": "microsoft",
@@ -825,19 +812,6 @@
    "period": "2026-10-02",
    "end": "2026-10-02",
    "value": 517.53,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_amazon_price_2025-10-03",
-   "entity_id": "amazon",
-   "key": "price",
-   "period": "2025-10-03",
-   "end": "2025-10-03",
-   "value": 219.51,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1495,19 +1469,6 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2025-10-03",
-   "entity_id": "alphabet",
-   "key": "price",
-   "period": "2025-10-03",
-   "end": "2025-10-03",
-   "value": 245.35,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
    "id": "mkt_alphabet_price_2025-10-10",
    "entity_id": "alphabet",
    "key": "price",
@@ -2151,19 +2112,6 @@
    "period": "2026-10-02",
    "end": "2026-10-02",
    "value": 343.5,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_meta_price_2025-10-03",
-   "entity_id": "meta",
-   "key": "price",
-   "period": "2025-10-03",
-   "end": "2025-10-03",
-   "value": 710.56,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2821,19 +2769,6 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2025-10-03",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2025-10-03",
-   "end": "2025-10-03",
-   "value": 187.62,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
    "id": "mkt_nvidia_price_2025-10-10",
    "entity_id": "nvidia",
    "key": "price",
@@ -3477,19 +3412,6 @@
    "period": "2026-10-02",
    "end": "2026-10-02",
    "value": 233.95,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_amd_price_2025-10-03",
-   "entity_id": "amd",
-   "key": "price",
-   "period": "2025-10-03",
-   "end": "2025-10-03",
-   "value": 164.67,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4147,19 +4069,6 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2025-10-03",
-   "entity_id": "apple",
-   "key": "price",
-   "period": "2025-10-03",
-   "end": "2025-10-03",
-   "value": 258.02,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
    "id": "mkt_apple_price_2025-10-10",
    "entity_id": "apple",
    "key": "price",
@@ -4810,19 +4719,6 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2025-10-03",
-   "entity_id": "tesla",
-   "key": "price",
-   "period": "2025-10-03",
-   "end": "2025-10-03",
-   "value": 429.83,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
    "id": "mkt_tesla_price_2025-10-10",
    "entity_id": "tesla",
    "key": "price",
@@ -5466,19 +5362,6 @@
    "period": "2026-10-02",
    "end": "2026-10-02",
    "value": 370.59,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_tsmc_price_2025-10-03",
-   "entity_id": "tsmc",
-   "key": "price",
-   "period": "2025-10-03",
-   "end": "2025-10-03",
-   "value": 292.19,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"

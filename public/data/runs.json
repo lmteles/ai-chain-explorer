@@ -577,5 +577,44 @@
       "tsmc-20f-2025-12-31: tsm-20251231.htm sha256 8a7ec012c800…",
       "asml-results-2026-06-28: presentationinvestorrela.htm sha256 6708aa16f8f0…, pressreleasefinancialresul.htm sha256 ec7d95b29e0a…"
     ]
+  },
+  {
+    "adapter": "fred",
+    "started_at": "2026-10-05T05:52:41.549Z",
+    "finished_at": "2026-10-05T05:52:41.858Z",
+    "status": "ok",
+    "rows": 1,
+    "errors": [],
+    "notes": [
+      "macro_dgs10 = 5.24 (2026-10-01)"
+    ]
+  },
+  {
+    "adapter": "treasury",
+    "started_at": "2026-10-05T05:52:41.858Z",
+    "finished_at": "2026-10-05T05:52:42.537Z",
+    "status": "ok",
+    "rows": 3,
+    "errors": [],
+    "notes": [
+      "macro_federal_debt = 40260.64 (2026-10-01)",
+      "macro_interest_public = 981.81 (2026-08-31)",
+      "macro_interest_total = 1267.81 (2026-08-31)"
+    ]
+  },
+  {
+    "adapter": "quotes",
+    "started_at": "2026-10-05T05:52:42.538Z",
+    "finished_at": "2026-10-05T05:52:47.884Z",
+    "status": "ok",
+    "rows": 459,
+    "errors": [],
+    "notes": [
+      "softbank: 9984.T not covered by Financial Modeling Prep",
+      "oracle: ORCL not covered on the current Financial Modeling Prep plan",
+      "broadcom: AVGO not covered on the current Financial Modeling Prep plan",
+      "samsung: 005930.KS not covered by Financial Modeling Prep",
+      "asml: ASML not covered on the current Financial Modeling Prep plan"
+    ]
   }
 ]
