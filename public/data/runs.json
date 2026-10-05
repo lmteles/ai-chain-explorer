@@ -723,5 +723,49 @@
       "samsung: 005930.KS not covered by Financial Modeling Prep",
       "asml: ASML not covered on the current Financial Modeling Prep plan"
     ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-10-05T15:16:38.920Z",
+    "finished_at": "2026-10-05T15:16:53.828Z",
+    "status": "ok",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "0 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-10-05T15:16:53.917Z",
+    "finished_at": "2026-10-05T15:16:54.914Z",
+    "status": "ok",
+    "rows": 4,
+    "errors": [],
+    "notes": [
+      "4 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-10-05T15:16:54.993Z",
+    "finished_at": "2026-10-05T15:16:54.994Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-10-05T15:16:55.046Z",
+    "finished_at": "2026-10-05T15:16:55.046Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
   }
 ]
