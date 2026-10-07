@@ -1327,5 +1327,49 @@
       "tsmc: no us-gaap facts (IFRS filer); figures come from investor materials in M5",
       "asml: capex=none ocf=none revenue=none"
     ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-10-07T13:56:11.736Z",
+    "finished_at": "2026-10-07T13:56:26.559Z",
+    "status": "ok",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "0 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-10-07T13:56:26.561Z",
+    "finished_at": "2026-10-07T13:56:27.688Z",
+    "status": "ok",
+    "rows": 10,
+    "errors": [],
+    "notes": [
+      "10 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-10-07T13:56:27.689Z",
+    "finished_at": "2026-10-07T13:56:27.689Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-10-07T13:56:27.691Z",
+    "finished_at": "2026-10-07T13:56:27.691Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
   }
 ]
