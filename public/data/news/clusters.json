@@ -1,7 +1,24 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-08T14:04:44.893Z",
+ "updated_at": "2026-10-08T23:34:34.093Z",
  "clusters": [
+  {
+   "id": "c_aa0546b9f2",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-08T14:31:00.000Z",
+   "last_seen": "2026-10-08T14:31:00.000Z",
+   "headlines": [
+    {
+     "title": "NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
+     "domain": "nvidianews.nvidia.com",
+     "seen": "2026-10-08T14:31:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
   {
    "id": "c_60ef2af305",
    "entity_ids": [
