@@ -1,6 +1,6 @@
 {
  "adapter": "sec",
- "fetched_at": "2026-10-07T13:21:13.827Z",
+ "fetched_at": "2026-10-08T13:27:39.622Z",
  "metrics": [
   {
    "id": "sec_oracle_capex_quarter_q32026",
@@ -6080,10 +6080,10 @@
   {
    "entity_id": "tsmc",
    "form": "6-K",
-   "filed": "2026-09-24",
-   "report_date": "2026-08-31",
-   "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000660/tsm-monthend6kx20260924.htm",
-   "accession": "0001046179-26-000660"
+   "filed": "2026-10-08",
+   "report_date": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000680/tsm-revenue20261008.htm",
+   "accession": "0001046179-26-000680"
   },
   {
    "entity_id": "asml",
