@@ -1,7 +1,24 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-09T06:43:27.932Z",
+ "updated_at": "2026-10-09T18:32:01.750Z",
  "clusters": [
+  {
+   "id": "c_edd58468d5",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-10-09T07:00:00.000Z",
+   "last_seen": "2026-10-09T07:00:00.000Z",
+   "headlines": [
+    {
+     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+     "url": "https://openai.com/index/sophos",
+     "domain": "openai.com",
+     "seen": "2026-10-09T07:00:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
   {
    "id": "c_aa0546b9f2",
    "entity_ids": [
