@@ -1,6 +1,6 @@
 {
  "adapter": "quotes",
- "fetched_at": "2026-10-09T20:09:36.802Z",
+ "fetched_at": "2026-10-10T00:05:15.266Z",
  "metrics": [
   {
    "id": "mkt_microsoft_market_cap",
@@ -108,7 +108,7 @@
    "id": "mkt_apple_market_cap",
    "entity_id": "apple",
    "key": "market_cap",
-   "value": 4944.95,
+   "value": 4944.35,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -119,7 +119,7 @@
    ],
    "confidence": "high",
    "as_of": "2026-10-09",
-   "note": "AAPL at $336.681. For ADRs, the market cap of the underlying company in USD."
+   "note": "AAPL at $336.64. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_tesla_market_cap",
@@ -142,7 +142,7 @@
    "id": "mkt_tsmc_market_cap",
    "entity_id": "tsmc",
    "key": "market_cap",
-   "value": 2350.93,
+   "value": 2351.08,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -153,7 +153,7 @@
    ],
    "confidence": "high",
    "as_of": "2026-10-09",
-   "note": "TSM at $453.28. For ADRs, the market cap of the underlying company in USD."
+   "note": "TSM at $453.31. For ADRs, the market cap of the underlying company in USD."
   }
  ],
  "sources": [
@@ -1487,7 +1487,7 @@
    "key": "price",
    "period": "2026-10-09",
    "end": "2026-10-09",
-   "value": 262.48,
+   "value": 262.43,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2813,7 +2813,7 @@
    "key": "price",
    "period": "2026-10-09",
    "end": "2026-10-09",
-   "value": 718.42,
+   "value": 718.67,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4802,7 +4802,7 @@
    "key": "price",
    "period": "2026-10-09",
    "end": "2026-10-09",
-   "value": 336.681,
+   "value": 336.64,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -6128,7 +6128,7 @@
    "key": "price",
    "period": "2026-10-09",
    "end": "2026-10-09",
-   "value": 453.28,
+   "value": 453.31,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
