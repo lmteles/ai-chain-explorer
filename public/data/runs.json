@@ -2436,5 +2436,49 @@
     "notes": [
       "not licensed: disabled stub, no scraping"
     ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-10-11T22:28:15.566Z",
+    "finished_at": "2026-10-11T22:28:24.914Z",
+    "status": "ok",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "0 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-10-11T22:28:24.917Z",
+    "finished_at": "2026-10-11T22:28:25.513Z",
+    "status": "ok",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "0 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-10-11T22:28:25.514Z",
+    "finished_at": "2026-10-11T22:28:25.514Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-10-11T22:28:25.516Z",
+    "finished_at": "2026-10-11T22:28:25.516Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
   }
 ]
