@@ -2519,5 +2519,51 @@
       "samsung: 005930.KS not covered by Financial Modeling Prep",
       "asml: ASML not covered on the current Financial Modeling Prep plan"
     ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-10-12T06:31:57.634Z",
+    "finished_at": "2026-10-12T06:32:49.990Z",
+    "status": "failed",
+    "rows": 0,
+    "errors": [
+      "…0ASML)%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=250&sort=DateDesc&timespan=1d: HTTP 429"
+    ],
+    "notes": [
+      "0 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-10-12T06:32:49.992Z",
+    "finished_at": "2026-10-12T06:32:50.919Z",
+    "status": "ok",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "0 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-10-12T06:32:50.921Z",
+    "finished_at": "2026-10-12T06:32:50.921Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-10-12T06:32:50.923Z",
+    "finished_at": "2026-10-12T06:32:50.923Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
   }
 ]
