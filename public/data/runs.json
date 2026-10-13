@@ -207,76 +207,6 @@
   },
   {
     "adapter": "gdelt",
-    "started_at": "2026-10-04T19:56:38.943Z",
-    "finished_at": "2026-10-04T20:01:18.717Z",
-    "status": "partial",
-    "rows": 90,
-    "errors": [
-      "openai+oracle: https://api.gdeltproject.org/api/v2/doc/doc?query=%22OpenAI%22%20%22Oracle%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode",
-      "microsoft+openai: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Microsoft%22%20%22OpenAI%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&m",
-      "amazon+openai: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Amazon%22%20%22OpenAI%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode",
-      "nvidia+openai: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nvidia%22%20%22OpenAI%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode",
-      "amazon+anthropic: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Amazon%22%20%22Anthropic%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&m",
-      "alphabet+anthropic: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Alphabet%22%20%22Anthropic%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)",
-      "anthropic+microsoft: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anthropic%22%20%22Microsoft%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement",
-      "anthropic+nvidia: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Anthropic%22%20%22Nvidia%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&m",
-      "nvidia+oracle: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nvidia%22%20%22Oracle%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode",
-      "amazon+nvidia: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Amazon%22%20%22Nvidia%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode",
-      "alphabet+nvidia: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Alphabet%22%20%22Nvidia%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mo",
-      "meta+nvidia: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Meta%22%20%22Nvidia%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=A",
-      "amd+meta: https://api.gdeltproject.org/api/v2/doc/doc?query=%22AMD%22%20%22Meta%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtL",
-      "alphabet+meta: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Alphabet%22%20%22Meta%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode",
-      "alphabet+broadcom: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Alphabet%22%20%22Broadcom%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&",
-      "alphabet+apple: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Alphabet%22%20%22Apple%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mod",
-      "apple+tsmc: GDELT: The specified phrase is too short.\n",
-      "nvidia+tsmc: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nvidia%22%20%22TSMC%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=A",
-      "broadcom+tsmc: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Broadcom%22%20%22TSMC%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode",
-      "amd+tsmc: https://api.gdeltproject.org/api/v2/doc/doc?query=%22AMD%22%20%22TSMC%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtL",
-      "tesla+tsmc: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Tesla%22%20%22TSMC%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=Ar",
-      "samsung+tesla: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Samsung%22%20%22Tesla%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode",
-      "nvidia+tesla: https://api.gdeltproject.org/api/v2/doc/doc?query=%22Nvidia%22%20%22Tesla%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=",
-      "asml+tsmc: https://api.gdeltproject.org/api/v2/doc/doc?query=%22ASML%22%20%22TSMC%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=Art",
-      "asml+samsung: https://api.gdeltproject.org/api/v2/doc/doc?query=%22ASML%22%20%22Samsung%22%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode="
-    ],
-    "notes": [
-      "90 headline(s) over 7 day(s), 27 pairs"
-    ]
-  },
-  {
-    "adapter": "rss",
-    "started_at": "2026-10-04T20:01:18.721Z",
-    "finished_at": "2026-10-04T20:01:21.128Z",
-    "status": "ok",
-    "rows": 60,
-    "errors": [],
-    "notes": [
-      "60 headline(s) over 7 day(s)"
-    ]
-  },
-  {
-    "adapter": "bloomberg",
-    "started_at": "2026-10-04T20:01:21.129Z",
-    "finished_at": "2026-10-04T20:01:21.129Z",
-    "status": "skipped",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "not licensed: disabled stub, no scraping"
-    ]
-  },
-  {
-    "adapter": "ft",
-    "started_at": "2026-10-04T20:01:21.129Z",
-    "finished_at": "2026-10-04T20:01:21.129Z",
-    "status": "skipped",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "not licensed: disabled stub, no scraping"
-    ]
-  },
-  {
-    "adapter": "gdelt",
     "started_at": "2026-10-04T20:02:09.633Z",
     "finished_at": "2026-10-04T20:09:11.937Z",
     "status": "partial",
@@ -2954,6 +2884,50 @@
       "broadcom: AVGO not covered on the current Financial Modeling Prep plan",
       "samsung: 005930.KS not covered by Financial Modeling Prep",
       "asml: ASML not covered on the current Financial Modeling Prep plan"
+    ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-10-13T23:07:41.511Z",
+    "finished_at": "2026-10-13T23:08:01.378Z",
+    "status": "ok",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "0 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-10-13T23:08:01.380Z",
+    "finished_at": "2026-10-13T23:08:02.196Z",
+    "status": "ok",
+    "rows": 16,
+    "errors": [],
+    "notes": [
+      "16 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-10-13T23:08:02.198Z",
+    "finished_at": "2026-10-13T23:08:02.198Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-10-13T23:08:02.201Z",
+    "finished_at": "2026-10-13T23:08:02.201Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
     ]
   }
 ]
