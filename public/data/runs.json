@@ -93,73 +93,6 @@
   },
   {
     "adapter": "gdelt",
-    "started_at": "2026-10-04T20:12:41.402Z",
-    "finished_at": "2026-10-04T20:28:49.470Z",
-    "status": "partial",
-    "rows": 285,
-    "errors": [
-      "openai+oracle: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
-      "amazon+openai: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
-      "nvidia+openai: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "anthropic+microsoft: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
-      "anthropic+nvidia: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "nvidia+oracle: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "amazon+nvidia: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
-      "alphabet+nvidia: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "meta+nvidia: …GDELT: The specified phrase is too short.\n",
-      "amd+meta: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "alphabet+meta: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
-      "alphabet+broadcom: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
-      "alphabet+apple: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
-      "apple+tsmc: …GDELT: The specified phrase is too short.\n",
-      "nvidia+tsmc: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
-      "broadcom+tsmc: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
-      "amd+tsmc: …GDELT: The specified phrase is too short.\n",
-      "tesla+tsmc: …GDELT: The specified phrase is too short.\n",
-      "samsung+tesla: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
-      "nvidia+tesla: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
-      "asml+tsmc: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
-      "asml+samsung: …GDELT: The specified phrase is too short.\n"
-    ],
-    "notes": [
-      "285 headline(s) over 7 day(s), 27 pairs"
-    ]
-  },
-  {
-    "adapter": "rss",
-    "started_at": "2026-10-04T20:28:49.473Z",
-    "finished_at": "2026-10-04T20:28:49.495Z",
-    "status": "ok",
-    "rows": 60,
-    "errors": [],
-    "notes": [
-      "60 headline(s) over 7 day(s)"
-    ]
-  },
-  {
-    "adapter": "bloomberg",
-    "started_at": "2026-10-04T20:28:49.496Z",
-    "finished_at": "2026-10-04T20:28:49.496Z",
-    "status": "skipped",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "not licensed: disabled stub, no scraping"
-    ]
-  },
-  {
-    "adapter": "ft",
-    "started_at": "2026-10-04T20:28:49.496Z",
-    "finished_at": "2026-10-04T20:28:49.496Z",
-    "status": "skipped",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "not licensed: disabled stub, no scraping"
-    ]
-  },
-  {
-    "adapter": "gdelt",
     "started_at": "2026-10-04T20:30:49.689Z",
     "finished_at": "2026-10-04T20:31:40.791Z",
     "status": "failed",
@@ -2927,6 +2860,52 @@
       "tesla: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
       "tsmc: no us-gaap facts (IFRS filer); figures come from investor materials in M5",
       "asml: capex=none ocf=none revenue=none"
+    ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-10-14T12:22:54.202Z",
+    "finished_at": "2026-10-14T12:23:44.711Z",
+    "status": "failed",
+    "rows": 0,
+    "errors": [
+      "…0ASML)%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=250&sort=DateDesc&timespan=1d: HTTP 429"
+    ],
+    "notes": [
+      "0 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-10-14T12:23:44.715Z",
+    "finished_at": "2026-10-14T12:23:45.627Z",
+    "status": "ok",
+    "rows": 22,
+    "errors": [],
+    "notes": [
+      "22 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-10-14T12:23:45.630Z",
+    "finished_at": "2026-10-14T12:23:45.630Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-10-14T12:23:45.632Z",
+    "finished_at": "2026-10-14T12:23:45.632Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
     ]
   }
 ]
