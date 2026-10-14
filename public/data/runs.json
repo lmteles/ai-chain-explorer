@@ -132,76 +132,6 @@
   },
   {
     "adapter": "gdelt",
-    "started_at": "2026-10-04T20:02:09.633Z",
-    "finished_at": "2026-10-04T20:09:11.937Z",
-    "status": "partial",
-    "rows": 90,
-    "errors": [
-      "openai+oracle: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "microsoft+openai: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "amazon+openai: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "nvidia+openai: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "amazon+anthropic: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "alphabet+anthropic: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "anthropic+microsoft: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "anthropic+nvidia: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "nvidia+oracle: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "amazon+nvidia: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "alphabet+nvidia: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429",
-      "meta+nvidia: …GDELT: The specified phrase is too short.\n",
-      "amd+meta: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "alphabet+meta: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "alphabet+broadcom: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "alphabet+apple: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "apple+tsmc: …GDELT: The specified phrase is too short.\n",
-      "nvidia+tsmc: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "broadcom+tsmc: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "amd+tsmc: …GDELT: The specified phrase is too short.\n",
-      "tesla+tsmc: …GDELT: The specified phrase is too short.\n",
-      "samsung+tesla: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "nvidia+tesla: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "asml+tsmc: …igawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: fetch failed",
-      "asml+samsung: …%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=75&sort=DateDesc&timespan=7d: HTTP 429"
-    ],
-    "notes": [
-      "90 headline(s) over 7 day(s), 27 pairs"
-    ]
-  },
-  {
-    "adapter": "rss",
-    "started_at": "2026-10-04T20:09:11.941Z",
-    "finished_at": "2026-10-04T20:09:11.965Z",
-    "status": "ok",
-    "rows": 60,
-    "errors": [],
-    "notes": [
-      "60 headline(s) over 7 day(s)"
-    ]
-  },
-  {
-    "adapter": "bloomberg",
-    "started_at": "2026-10-04T20:09:11.965Z",
-    "finished_at": "2026-10-04T20:09:11.965Z",
-    "status": "skipped",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "not licensed: disabled stub, no scraping"
-    ]
-  },
-  {
-    "adapter": "ft",
-    "started_at": "2026-10-04T20:09:11.966Z",
-    "finished_at": "2026-10-04T20:09:11.966Z",
-    "status": "skipped",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "not licensed: disabled stub, no scraping"
-    ]
-  },
-  {
-    "adapter": "gdelt",
     "started_at": "2026-10-04T20:12:41.402Z",
     "finished_at": "2026-10-04T20:28:49.470Z",
     "status": "partial",
@@ -2931,6 +2861,50 @@
       "broadcom: AVGO not covered on the current Financial Modeling Prep plan",
       "samsung: 005930.KS not covered by Financial Modeling Prep",
       "asml: ASML not covered on the current Financial Modeling Prep plan"
+    ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-10-14T05:24:04.086Z",
+    "finished_at": "2026-10-14T05:25:11.803Z",
+    "status": "ok",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "0 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-10-14T05:25:11.806Z",
+    "finished_at": "2026-10-14T05:25:12.484Z",
+    "status": "ok",
+    "rows": 14,
+    "errors": [],
+    "notes": [
+      "14 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-10-14T05:25:12.486Z",
+    "finished_at": "2026-10-14T05:25:12.486Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-10-14T05:25:12.489Z",
+    "finished_at": "2026-10-14T05:25:12.489Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
     ]
   }
 ]
