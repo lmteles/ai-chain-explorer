@@ -1,6 +1,6 @@
 {
  "adapter": "sec",
- "fetched_at": "2026-10-13T14:10:08.542Z",
+ "fetched_at": "2026-10-14T11:50:28.200Z",
  "metrics": [
   {
    "id": "sec_oracle_capex_quarter_q32026",
@@ -6096,10 +6096,10 @@
   {
    "entity_id": "asml",
    "form": "6-K",
-   "filed": "2026-07-15",
-   "report_date": "2026-06-28",
-   "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026048235/form6-kquarterlyfilings.htm",
-   "accession": "0001628280-26-048235"
+   "filed": "2026-10-14",
+   "report_date": "2026-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026065813/form6-kquarterlyfilings.htm",
+   "accession": "0001628280-26-065813"
   }
  ],
  "relation_updates": [],
