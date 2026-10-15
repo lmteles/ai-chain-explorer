@@ -1,20 +1,126 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-15T12:08:41.232Z",
+ "updated_at": "2026-10-15T17:22:11.541Z",
  "clusters": [
+  {
+   "id": "c_634c3db5d0",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-15T16:15:00Z",
+   "last_seen": "2026-10-15T16:15:00Z",
+   "headlines": [
+    {
+     "title": "Senators Want to Know Why Meta Claimed $6 . 6 Billion in Research Tax Credits for AI Data Centers",
+     "url": "https://247wallst.com/investing/2026/10/15/senators-want-to-know-why-meta-claimed-6-6-billion-in-research-tax-credits-for-ai-data-centers/",
+     "domain": "247wallst.com",
+     "seen": "2026-10-15T16:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_d9f4b44b82",
    "entity_ids": [
     "tsmc"
    ],
    "first_seen": "2026-10-15T11:45:00Z",
-   "last_seen": "2026-10-15T11:45:00Z",
+   "last_seen": "2026-10-15T16:00:00Z",
    "headlines": [
     {
      "title": "Taiwan chipmaker TSMC explores Texas investment to expand production in the US",
      "url": "http://www.sitkasentinel.com/stories/taiwan-chipmaker-tsmc-explores-texas-investment-to-expand-production-in-the-us,178788",
      "domain": "sitkasentinel.com",
      "seen": "2026-10-15T11:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Taiwan chipmaker TSMC explores Texas investment to expand production in the US",
+     "url": "https://abcnews.com/Business/wireStory/taiwan-chipmaker-tsmc-explores-texas-investment-expand-production-137281006",
+     "domain": "abcnews.com",
+     "seen": "2026-10-15T13:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Taiwan chipmaker TSMC explores Texas investment to expand production in the US",
+     "url": "https://www.ksat.com/business/2026/10/15/taiwan-chipmaker-tsmc-explores-texas-investment-to-expand-production-in-the-us/",
+     "domain": "ksat.com",
+     "seen": "2026-10-15T15:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Taiwan chipmaker TSMC explores Texas investment to expand US production",
+     "url": "https://www.capitalgazette.com/2026/10/15/taiwan-chipmaker-tsmc-texas/",
+     "domain": "capitalgazette.com",
+     "seen": "2026-10-15T16:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_f5b0d06d7d",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-15T15:45:00Z",
+   "last_seen": "2026-10-15T15:45:00Z",
+   "headlines": [
+    {
+     "title": "Here What $5 , 000 Invested in Nvidia Stock Could Be Worth by the End of 2030",
+     "url": "https://www.fool.com/investing/2026/10/15/heres-what-5000-invested-in-nvidia-stock-could-be/?source=iedfolrf0000001",
+     "domain": "fool.com",
+     "seen": "2026-10-15T15:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_d256abe00b",
+   "entity_ids": [
+    "microsoft"
+   ],
+   "first_seen": "2026-10-15T14:15:00Z",
+   "last_seen": "2026-10-15T14:15:00Z",
+   "headlines": [
+    {
+     "title": "Tanium Selected as Testing Partner for Microsoft Codename MDASH",
+     "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69848769-tanium-selected-as-testing-partner-for-microsoft-s-codename-mdash-004.htm",
+     "domain": "finanznachrichten.de",
+     "seen": "2026-10-15T14:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_25a0038af2",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-10-15T14:00:00Z",
+   "last_seen": "2026-10-15T14:00:00Z",
+   "headlines": [
+    {
+     "title": "Innover Digital Named an OpenAI Select Partner to Help Enterprises Put Agentic AI to Work in Core Operations",
+     "url": "http://www.prnewswire.com/news-releases/innover-digital-named-an-openai-select-partner-to-help-enterprises-put-agentic-ai-to-work-in-core-operations-302910148.html",
+     "domain": "prnewswire.com",
+     "seen": "2026-10-15T14:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_b8137fdebd",
+   "entity_ids": [
+    "apple"
+   ],
+   "first_seen": "2026-10-15T13:45:00Z",
+   "last_seen": "2026-10-15T13:45:00Z",
+   "headlines": [
+    {
+     "title": "If You Invest $1 , 000 in Apple Today , Here What It Could Be Worth by 2030",
+     "url": "https://www.aol.com/articles/invest-1-000-apple-today-130039000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-15T13:45:00Z",
      "source": "gdelt"
     }
    ]
