@@ -1,7 +1,24 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-14T21:57:44.689Z",
+ "updated_at": "2026-10-15T05:12:59.741Z",
  "clusters": [
+  {
+   "id": "c_68f85c5a70",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-15T05:00:12.000Z",
+   "last_seen": "2026-10-15T05:00:12.000Z",
+   "headlines": [
+    {
+     "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+     "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+     "domain": "blogs.nvidia.com",
+     "seen": "2026-10-15T05:00:12.000Z",
+     "source": "rss"
+    }
+   ]
+  },
   {
    "id": "c_aa0546b9f2",
    "entity_ids": [
