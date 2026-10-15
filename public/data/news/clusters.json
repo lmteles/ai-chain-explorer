@@ -1,7 +1,92 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-15T05:12:59.741Z",
+ "updated_at": "2026-10-15T12:08:41.232Z",
  "clusters": [
+  {
+   "id": "c_d9f4b44b82",
+   "entity_ids": [
+    "tsmc"
+   ],
+   "first_seen": "2026-10-15T11:45:00Z",
+   "last_seen": "2026-10-15T11:45:00Z",
+   "headlines": [
+    {
+     "title": "Taiwan chipmaker TSMC explores Texas investment to expand production in the US",
+     "url": "http://www.sitkasentinel.com/stories/taiwan-chipmaker-tsmc-explores-texas-investment-to-expand-production-in-the-us,178788",
+     "domain": "sitkasentinel.com",
+     "seen": "2026-10-15T11:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_e9bf48349b",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-15T11:45:00Z",
+   "last_seen": "2026-10-15T11:45:00Z",
+   "headlines": [
+    {
+     "title": "Tenon Financial LLC Purchases New Holdings in Tesla , Inc . $TSLA",
+     "url": "https://www.dailypolitical.com/2026/10/15/tenon-financial-llc-purchases-new-holdings-in-tesla-inc-tsla.html",
+     "domain": "dailypolitical.com",
+     "seen": "2026-10-15T11:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_b8b743024f",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-15T10:00:00Z",
+   "last_seen": "2026-10-15T10:00:00Z",
+   "headlines": [
+    {
+     "title": "Tesla , Inc . $TSLA Stock : Mezzasalma Advisors LLC Raises Stake",
+     "url": "https://www.dailypolitical.com/2026/10/15/tesla-inc-tsla-stock-mezzasalma-advisors-llc-raises-stake.html",
+     "domain": "dailypolitical.com",
+     "seen": "2026-10-15T10:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_eae221b1ee",
+   "entity_ids": [
+    "broadcom"
+   ],
+   "first_seen": "2026-10-15T10:00:00Z",
+   "last_seen": "2026-10-15T10:00:00Z",
+   "headlines": [
+    {
+     "title": "Warren Buffett and Broadcom CEO Issue a Similar Blunt Warning to Wall Street . Here What Investors Should Do Next , According to a Key Buffett Investing Principle . ",
+     "url": "https://www.aol.com/articles/warren-buffett-broadcom-ceo-issue-081802000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-15T10:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_8ab9dcac14",
+   "entity_ids": [
+    "alphabet"
+   ],
+   "first_seen": "2026-10-15T10:00:00Z",
+   "last_seen": "2026-10-15T10:00:00Z",
+   "headlines": [
+    {
+     "title": "Alphabet Inc . $GOOGL Stock Acquired by Q Fund Management Hong Kong Ltd",
+     "url": "https://www.dailypolitical.com/2026/10/15/alphabet-inc-googl-stock-acquired-by-q-fund-management-hong-kong-ltd.html",
+     "domain": "dailypolitical.com",
+     "seen": "2026-10-15T10:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_68f85c5a70",
    "entity_ids": [
