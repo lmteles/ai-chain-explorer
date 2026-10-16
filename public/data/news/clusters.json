@@ -1,7 +1,133 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-16T16:58:20.761Z",
+ "updated_at": "2026-10-16T21:43:33.530Z",
  "clusters": [
+  {
+   "id": "c_aea2550166",
+   "entity_ids": [
+    "softbank"
+   ],
+   "first_seen": "2026-10-16T21:15:00Z",
+   "last_seen": "2026-10-16T21:15:00Z",
+   "headlines": [
+    {
+     "title": "SoftBank weighs $18 billion acquisition of Allied Universal , Bloomberg News reports",
+     "url": "https://www.aol.com/articles/softbank-weighs-18-billion-acquisition-200431000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-16T21:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_52ccbe8e5e",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-16T19:30:00Z",
+   "last_seen": "2026-10-16T19:30:00Z",
+   "headlines": [
+    {
+     "title": "Novo Tesla Roadster : carro voador pode custar mais de R$ 1 milhão",
+     "url": "https://carros.ig.com.br/2026-10-16/tesla-roadster-carro-voador-pode-custar-mais-de-1-milhao.html",
+     "domain": "carros.ig.com.br",
+     "seen": "2026-10-16T19:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_db4b7443e7",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-16T18:30:00Z",
+   "last_seen": "2026-10-16T18:30:00Z",
+   "headlines": [
+    {
+     "title": "Bank of America Says Meta Could Beat Revenue Forecasts as AI Boosts Ads , Despite $10 Billion Legal Charge",
+     "url": "https://www.ibtimes.com.au/bank-america-meta-revenue-ai-legal-charge-1876929",
+     "domain": "ibtimes.com.au",
+     "seen": "2026-10-16T18:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_d3875c4a8c",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-16T18:00:00Z",
+   "last_seen": "2026-10-16T18:00:00Z",
+   "headlines": [
+    {
+     "title": "Tesla  Cannot Guarantee  Your Roadster Pre - Order Will Ever Be Delivered",
+     "url": "https://insideevs.com:443/news/812247/tesla-roadster-preorder-delivery-guarantee/",
+     "domain": "insideevs.com",
+     "seen": "2026-10-16T18:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_e255581065",
+   "entity_ids": [
+    "alphabet"
+   ],
+   "first_seen": "2026-10-16T17:30:00Z",
+   "last_seen": "2026-10-16T17:30:00Z",
+   "headlines": [
+    {
+     "title": "Alphabet Cloud Surge and AI Dominance Overshadow Capex Fears and Keep Me Buying",
+     "url": "https://www.aol.com/articles/alphabet-cloud-surge-ai-dominance-164534000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-16T17:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_59517dea10",
+   "entity_ids": [
+    "asml"
+   ],
+   "first_seen": "2026-10-16T16:00:00Z",
+   "last_seen": "2026-10-16T16:15:00Z",
+   "headlines": [
+    {
+     "title": "With Demand Set to Outstrip Supply Until at Least 2028 , ASML Stock Is a Buy",
+     "url": "https://www.aol.com/articles/demand-set-outstrip-supply-until-152300000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-16T16:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "With Demand Set to Outstrip Supply Until at Least 2028 , ASML Stock Is a Buy",
+     "url": "https://www.fool.com/investing/2026/10/16/with-demand-set-to-outstrip-supply-until-at-least/",
+     "domain": "fool.com",
+     "seen": "2026-10-16T16:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_af2eca4ee4",
+   "entity_ids": [
+    "amd"
+   ],
+   "first_seen": "2026-10-16T15:45:00Z",
+   "last_seen": "2026-10-16T15:45:00Z",
+   "headlines": [
+    {
+     "title": "If You Invest $1 , 000 in AMD Each Month Starting Now , This is What Youd Have in 5 Years",
+     "url": "https://247wallst.com/investing/2026/10/16/if-you-invest-1000-in-amd-each-month-starting-now-this-is-what-youd-have-in-5-years/",
+     "domain": "247wallst.com",
+     "seen": "2026-10-16T15:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_982bbbceda",
    "entity_ids": [
