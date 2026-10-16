@@ -1,7 +1,94 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-15T21:47:47.671Z",
+ "updated_at": "2026-10-16T04:59:45.308Z",
  "clusters": [
+  {
+   "id": "c_3e0c150398",
+   "entity_ids": [
+    "asml"
+   ],
+   "first_seen": "2026-10-16T04:00:00Z",
+   "last_seen": "2026-10-16T04:00:00Z",
+   "headlines": [
+    {
+     "title": "ASML reports €11 . 7 billion total net sales and €5 . 0 billion net income in Q3 2026 · EMSNow",
+     "url": "https://www.emsnow.com/asml-reports-e11-7-billion-total-net-sales-and-e5-0-billion-net-income-in-q3-2026/",
+     "domain": "emsnow.com",
+     "seen": "2026-10-16T04:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_f976a3ae2c",
+   "entity_ids": [
+    "alphabet"
+   ],
+   "first_seen": "2026-10-16T01:15:00Z",
+   "last_seen": "2026-10-16T01:15:00Z",
+   "headlines": [
+    {
+     "title": "AEP Plans $4 Billion Fuel Cell Power Plant for Google , Signs Up to 1 . 6 GW Mainspring Generator Deal",
+     "url": "https://www.powermag.com/aep-plans-4-billion-fuel-cell-power-plant-for-google-signs-up-to-1-6-gw-mainspring-generator-deal/",
+     "domain": "powermag.com",
+     "seen": "2026-10-16T01:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_3818586c43",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-16T01:15:00Z",
+   "last_seen": "2026-10-16T01:15:00Z",
+   "headlines": [
+    {
+     "title": "Amazon Australia invests over $400m in latest fulfilment centre",
+     "url": "https://www.applianceretailer.com.au/amazon-australia-invests-over-400m-in-latest-fulfilment-centre/",
+     "domain": "applianceretailer.com.au",
+     "seen": "2026-10-16T01:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_d743a7a4eb",
+   "entity_ids": [
+    "alphabet",
+    "nvidia",
+    "apple"
+   ],
+   "first_seen": "2026-10-16T01:00:00Z",
+   "last_seen": "2026-10-16T01:00:00Z",
+   "headlines": [
+    {
+     "title": "Trump White House ballroom donor list revealed : Apple , Nvidia , Google among top contributors to $333 million fund",
+     "url": "https://www.hindustantimes.com/world-news/us-news/trump-white-house-ballroom-donor-list-revealed-apple-nvidia-google-among-top-contributors-to-333-million-fund-101792094720382.html",
+     "domain": "hindustantimes.com",
+     "seen": "2026-10-16T01:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_a9fde52b64",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-15T23:00:00Z",
+   "last_seen": "2026-10-15T23:00:00Z",
+   "headlines": [
+    {
+     "title": "Supermicro hires a new CFO after $2 . 5 billion Nvidia smuggling case and a 2 - year search",
+     "url": "https://fortune.com/2026/10/15/supermicro-new-cfo-mark-long-western-digital-nvidia-smuggling/",
+     "domain": "fortune.com",
+     "seen": "2026-10-15T23:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_982bbbceda",
    "entity_ids": [
