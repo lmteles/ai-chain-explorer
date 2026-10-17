@@ -1,7 +1,59 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-17T04:59:46.782Z",
+ "updated_at": "2026-10-17T11:11:44.969Z",
  "clusters": [
+  {
+   "id": "c_c73eefeb3b",
+   "entity_ids": [
+    "microsoft",
+    "amazon"
+   ],
+   "first_seen": "2026-10-17T08:15:00Z",
+   "last_seen": "2026-10-17T08:15:00Z",
+   "headlines": [
+    {
+     "title": "14 best deals from the Amazon united kingdom weekend sale all the top offers from Lego , Ninja , Microsoft , Shark , Bose , and more Id buy",
+     "url": "https://www.techradar.com/seasonal-sales/14-best-deals-from-the-amazon-uk-weekend-sale-all-the-top-offers-from-lego-ninja-microsoft-shark-bose-and-more-id-buy",
+     "domain": "techradar.com",
+     "seen": "2026-10-17T08:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_9b894c1a57",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-17T05:00:00Z",
+   "last_seen": "2026-10-17T05:00:00Z",
+   "headlines": [
+    {
+     "title": "Landmark Mount Baker development blooming from public , private partnership , UW & Amazon",
+     "url": "https://komonews.com/news/local/landmark-mount-baker-development-blooming-from-public-private-partnership-uw-amazon-living-next-to-light-rail-uw-rainer-valley",
+     "domain": "komonews.com",
+     "seen": "2026-10-17T05:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_a169a087b9",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-17T05:00:00Z",
+   "last_seen": "2026-10-17T05:00:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic $2 trillion IPO dream hits a new reality",
+     "url": "https://www.aol.com/articles/anthropic-2-trillion-ipo-dream-000700000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-17T05:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_aea2550166",
    "entity_ids": [
