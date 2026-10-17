@@ -1,7 +1,55 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-17T11:11:44.969Z",
+ "updated_at": "2026-10-17T15:56:35.659Z",
  "clusters": [
+  {
+   "id": "c_199fac53e5",
+   "entity_ids": [
+    "microsoft"
+   ],
+   "first_seen": "2026-10-17T14:45:00Z",
+   "last_seen": "2026-10-17T15:30:00Z",
+   "headlines": [
+    {
+     "title": "Here How Microsoft $175 Billion in Capital Expenditures Is Hurting Its Business",
+     "url": "https://www.fool.com/investing/2026/10/17/heres-how-microsofts-175-billion-in-capital-expend/",
+     "domain": "fool.com",
+     "seen": "2026-10-17T14:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Here How Microsoft $175 Billion in Capital Expenditures Is Hurting Its Business",
+     "url": "https://www.fool.com/investing/2026/10/17/heres-how-microsofts-175-billion-in-capital-expend/?source=iedfolrf0000001",
+     "domain": "fool.com",
+     "seen": "2026-10-17T15:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Here How Microsoft $175 Billion in Capital Expenditures Is Hurting Its Business",
+     "url": "https://www.aol.com/articles/heres-microsofts-175-billion-capital-143600000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-17T15:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_e8498283be",
+   "entity_ids": [
+    "apple"
+   ],
+   "first_seen": "2026-10-17T13:00:00Z",
+   "last_seen": "2026-10-17T13:00:00Z",
+   "headlines": [
+    {
+     "title": "Instamart Quick India Movement Sale : Deals on Apple , Nothing , Ninja and Bergner",
+     "url": "https://www.hindustantimes.com/genesis/instamart-quick-india-movement-sale-deals-on-apple-nothing-ninja-and-bergner-101792236405528.html",
+     "domain": "hindustantimes.com",
+     "seen": "2026-10-17T13:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_c73eefeb3b",
    "entity_ids": [

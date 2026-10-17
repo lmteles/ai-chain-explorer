@@ -228,50 +228,6 @@
     ]
   },
   {
-    "adapter": "gdelt",
-    "started_at": "2026-10-08T14:03:45.247Z",
-    "finished_at": "2026-10-08T14:04:44.318Z",
-    "status": "ok",
-    "rows": 3,
-    "errors": [],
-    "notes": [
-      "3 headline(s) over 1 day(s)"
-    ]
-  },
-  {
-    "adapter": "rss",
-    "started_at": "2026-10-08T14:04:44.320Z",
-    "finished_at": "2026-10-08T14:04:44.870Z",
-    "status": "ok",
-    "rows": 11,
-    "errors": [],
-    "notes": [
-      "11 headline(s) over 1 day(s)"
-    ]
-  },
-  {
-    "adapter": "bloomberg",
-    "started_at": "2026-10-08T14:04:44.871Z",
-    "finished_at": "2026-10-08T14:04:44.871Z",
-    "status": "skipped",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "not licensed: disabled stub, no scraping"
-    ]
-  },
-  {
-    "adapter": "ft",
-    "started_at": "2026-10-08T14:04:44.872Z",
-    "finished_at": "2026-10-08T14:04:44.872Z",
-    "status": "skipped",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "not licensed: disabled stub, no scraping"
-    ]
-  },
-  {
     "adapter": "fred",
     "started_at": "2026-10-08T21:23:08.128Z",
     "finished_at": "2026-10-08T21:23:08.548Z",
@@ -2957,6 +2913,50 @@
     "adapter": "ft",
     "started_at": "2026-10-17T11:11:44.937Z",
     "finished_at": "2026-10-17T11:11:44.937Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-10-17T15:56:22.028Z",
+    "finished_at": "2026-10-17T15:56:34.857Z",
+    "status": "ok",
+    "rows": 250,
+    "errors": [],
+    "notes": [
+      "250 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-10-17T15:56:34.860Z",
+    "finished_at": "2026-10-17T15:56:35.628Z",
+    "status": "ok",
+    "rows": 4,
+    "errors": [],
+    "notes": [
+      "4 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-10-17T15:56:35.630Z",
+    "finished_at": "2026-10-17T15:56:35.630Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-10-17T15:56:35.632Z",
+    "finished_at": "2026-10-17T15:56:35.632Z",
     "status": "skipped",
     "rows": 0,
     "errors": [],
