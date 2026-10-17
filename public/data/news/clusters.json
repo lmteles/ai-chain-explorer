@@ -1,7 +1,134 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-17T15:56:35.659Z",
+ "updated_at": "2026-10-17T20:59:05.147Z",
  "clusters": [
+  {
+   "id": "c_68cedab296",
+   "entity_ids": [
+    "tsmc"
+   ],
+   "first_seen": "2026-10-17T19:30:00Z",
+   "last_seen": "2026-10-17T19:30:00Z",
+   "headlines": [
+    {
+     "title": "TSMC Keeps 2026 Spending Plan at Up to $64 Billion Amid Tool Constraints",
+     "url": "https://econotimes.com/TSMC-Keeps-2026-Spending-Plan-at-Up-to-64-Billion-Amid-Tool-Constraints-1756026",
+     "domain": "econotimes.com",
+     "seen": "2026-10-17T19:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_2581955527",
+   "entity_ids": [
+    "oracle"
+   ],
+   "first_seen": "2026-10-17T19:00:00Z",
+   "last_seen": "2026-10-17T19:15:00Z",
+   "headlines": [
+    {
+     "title": "Oracle Real Growth Story Is Hiding in Its $664 Billion Backlog",
+     "url": "https://www.aol.com/articles/oracles-real-growth-story-hiding-182000000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-17T19:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Oracle Real Growth Story Is Hiding in Its $664 Billion Backlog",
+     "url": "https://www.fool.com/investing/2026/10/17/oracles-real-growth-story-is-hiding-in-its-664-bil/",
+     "domain": "fool.com",
+     "seen": "2026-10-17T19:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_c029722955",
+   "entity_ids": [
+    "apple"
+   ],
+   "first_seen": "2026-10-17T19:15:00Z",
+   "last_seen": "2026-10-17T19:15:00Z",
+   "headlines": [
+    {
+     "title": "Is Apple foldable iPhone Duo worth $2 , 000 ? See how it stacks up against other foldable phones . ",
+     "url": "https://www.morningstar.com/news/marketwatch/20261017119/is-apples-foldable-iphone-duo-worth-2000-see-how-it-stacks-up-against-other-foldable-phones",
+     "domain": "morningstar.com",
+     "seen": "2026-10-17T19:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_08f837d19c",
+   "entity_ids": [
+    "amd"
+   ],
+   "first_seen": "2026-10-17T19:00:00Z",
+   "last_seen": "2026-10-17T19:00:00Z",
+   "headlines": [
+    {
+     "title": "1 Red Flag That AMD Investors Should Be Aware Of Now",
+     "url": "https://www.aol.com/articles/1-red-flag-amd-investors-165000000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-17T19:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_9342a708a1",
+   "entity_ids": [
+    "apple"
+   ],
+   "first_seen": "2026-10-17T17:45:00Z",
+   "last_seen": "2026-10-17T17:45:00Z",
+   "headlines": [
+    {
+     "title": "$10 , 000 Invested in Apple Could Be Worth This Much by 2031",
+     "url": "https://www.aol.com/articles/10-000-invested-apple-could-154902000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-17T17:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_0609aa8f45",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-17T16:15:00Z",
+   "last_seen": "2026-10-17T16:15:00Z",
+   "headlines": [
+    {
+     "title": "Quad 8 - pin mod protects the $8 , 500 RTX 5090 you cant replace from melting modder custom power solution claims to fix Nvidia 16 - pin GPU meltdowns",
+     "url": "https://www.tomshardware.com/pc-components/gpus/quad-8-pin-mod-protects-the-usd8-500-rtx-5090-you-cant-replace-from-melting-modders-custom-power-solution-claims-to-fix-nvidia-16-pin-gpu-meltdowns",
+     "domain": "tomshardware.com",
+     "seen": "2026-10-17T16:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_e9b82bfa14",
+   "entity_ids": [
+    "amazon",
+    "nvidia"
+   ],
+   "first_seen": "2026-10-17T16:15:00Z",
+   "last_seen": "2026-10-17T16:15:00Z",
+   "headlines": [
+    {
+     "title": "Nvidia reportedly insists the RTX 5090 isnt dead despite severe shortages and removed listings at multiple retailers flagship GPU is missing from Nvidia store and commands $8 , 500 on Amazon",
+     "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon",
+     "domain": "tomshardware.com",
+     "seen": "2026-10-17T16:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_199fac53e5",
    "entity_ids": [
