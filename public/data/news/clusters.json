@@ -1,6 +1,6 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-16T21:43:33.530Z",
+ "updated_at": "2026-10-17T04:59:46.782Z",
  "clusters": [
   {
    "id": "c_aea2550166",
@@ -8,13 +8,349 @@
     "softbank"
    ],
    "first_seen": "2026-10-16T21:15:00Z",
-   "last_seen": "2026-10-16T21:15:00Z",
+   "last_seen": "2026-10-17T04:30:00Z",
    "headlines": [
     {
      "title": "SoftBank weighs $18 billion acquisition of Allied Universal , Bloomberg News reports",
      "url": "https://www.aol.com/articles/softbank-weighs-18-billion-acquisition-200431000.html",
      "domain": "aol.com",
      "seen": "2026-10-16T21:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank weighs $23 . 1b acquisition of Allied Universal , source says",
+     "url": "https://www.asiaone.com:443/money/softbank-weighs-231b-acquisition-allied-universal-source-says",
+     "domain": "asiaone.com",
+     "seen": "2026-10-17T04:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_9cd6c75ac1",
+   "entity_ids": [
+    "asml"
+   ],
+   "first_seen": "2026-10-16T23:45:00Z",
+   "last_seen": "2026-10-17T04:15:00Z",
+   "headlines": [
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.indiagazette.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "indiagazette.com",
+     "seen": "2026-10-16T23:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.srilankasource.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "srilankasource.com",
+     "seen": "2026-10-17T00:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.jamaicantimes.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "jamaicantimes.com",
+     "seen": "2026-10-17T00:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.newyorktelegraph.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "newyorktelegraph.com",
+     "seen": "2026-10-17T00:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.afghanistansun.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "afghanistansun.com",
+     "seen": "2026-10-17T00:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.haitisun.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "haitisun.com",
+     "seen": "2026-10-17T00:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.newyorkstatesman.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "newyorkstatesman.com",
+     "seen": "2026-10-17T00:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.stlouisstar.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "stlouisstar.com",
+     "seen": "2026-10-17T00:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.asiabulletin.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "asiabulletin.com",
+     "seen": "2026-10-17T00:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.iranherald.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "iranherald.com",
+     "seen": "2026-10-17T00:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.argentinastar.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "argentinastar.com",
+     "seen": "2026-10-17T00:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.utahindependent.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "utahindependent.com",
+     "seen": "2026-10-17T01:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.austinglobe.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "austinglobe.com",
+     "seen": "2026-10-17T01:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.russiaherald.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "russiaherald.com",
+     "seen": "2026-10-17T01:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.pakistantelegraph.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "pakistantelegraph.com",
+     "seen": "2026-10-17T01:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.neworleanssun.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "neworleanssun.com",
+     "seen": "2026-10-17T02:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.hawaiitelegraph.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "hawaiitelegraph.com",
+     "seen": "2026-10-17T02:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.trinidadtimes.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "trinidadtimes.com",
+     "seen": "2026-10-17T03:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.clevelandstar.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "clevelandstar.com",
+     "seen": "2026-10-17T03:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.californiatelegraph.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "californiatelegraph.com",
+     "seen": "2026-10-17T04:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.singaporestar.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "singaporestar.com",
+     "seen": "2026-10-17T04:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.phoenixherald.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "phoenixherald.com",
+     "seen": "2026-10-17T04:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.hongkongherald.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "hongkongherald.com",
+     "seen": "2026-10-17T04:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.newzealandstar.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "newzealandstar.com",
+     "seen": "2026-10-17T04:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML says strong chip orders signal AI spending boom has room to run",
+     "url": "http://www.memphissun.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
+     "domain": "memphissun.com",
+     "seen": "2026-10-17T04:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_c8d5aeff17",
+   "entity_ids": [
+    "apple"
+   ],
+   "first_seen": "2026-10-17T03:00:00Z",
+   "last_seen": "2026-10-17T03:00:00Z",
+   "headlines": [
+    {
+     "title": "Hurry ! Get Apple iPad A16 for just $199 at T - Mobile here how",
+     "url": "https://www.tomsguide.com/computing/ipads/hurry-get-apples-ipad-a16-for-just-usd199-at-t-mobile-heres-how",
+     "domain": "tomsguide.com",
+     "seen": "2026-10-17T03:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_77067bda7c",
+   "entity_ids": [
+    "apple"
+   ],
+   "first_seen": "2026-10-17T01:00:00Z",
+   "last_seen": "2026-10-17T01:00:00Z",
+   "headlines": [
+    {
+     "title": "Apple iPhone 17 production cut India : Apple resets factory settings for iPhone 17 : Price - conscious buyers pause purchases as Pro models gain ground",
+     "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-resets-factory-settings-for-iphone-17-price-conscious-buyers-pause-purchases-as-pro-models-gain-ground/articleshow/135003022.cms",
+     "domain": "economictimes.indiatimes.com",
+     "seen": "2026-10-17T01:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_f27a3d318d",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-17T01:00:00Z",
+   "last_seen": "2026-10-17T01:00:00Z",
+   "headlines": [
+    {
+     "title": "FT Reports Anthropic BB+ Rating as Bloomberg Details $60 Billion Chip Financing Push",
+     "url": "https://econotimes.com/FT-Reports-Anthropic-s-BB-Rating-as-Bloomberg-Details-60-Billion-Chip-Financing-Push-1755730",
+     "domain": "econotimes.com",
+     "seen": "2026-10-17T01:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_30c05dc401",
+   "entity_ids": [
+    "asml"
+   ],
+   "first_seen": "2026-10-17T01:00:00Z",
+   "last_seen": "2026-10-17T01:00:00Z",
+   "headlines": [
+    {
+     "title": "ASML sees AI chip demand stretching into 2030 as orders surge",
+     "url": "http://www.bignewsnetwork.com/news/279374422/asml-sees-ai-chip-demand-stretching-into-2030-as-orders-surge",
+     "domain": "bignewsnetwork.com",
+     "seen": "2026-10-17T01:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_4b4e9f5e92",
+   "entity_ids": [
+    "microsoft",
+    "alphabet"
+   ],
+   "first_seen": "2026-10-16T23:30:00Z",
+   "last_seen": "2026-10-17T00:30:00Z",
+   "headlines": [
+    {
+     "title": "Not Alphabet . Not Microsoft . This Is the Cloud Stock Id Buy With $5 , 000 Right Now . ",
+     "url": "https://www.fool.com/investing/2026/10/16/not-alphabet-not-microsoft-this-is-the-cloud-stock/?source=iedfolrf0000001",
+     "domain": "fool.com",
+     "seen": "2026-10-16T23:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Not Alphabet . Not Microsoft . This Is the Cloud Stock Id Buy With $5 , 000 Right Now . ",
+     "url": "https://www.fool.com/investing/2026/10/16/not-alphabet-not-microsoft-this-is-the-cloud-stock/",
+     "domain": "fool.com",
+     "seen": "2026-10-17T00:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_12309411dd",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-17T00:00:00Z",
+   "last_seen": "2026-10-17T00:00:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic is client of $10B Canadian AI data centre project",
+     "url": "https://www.stcatharinesstandard.ca/politics/federal/anthropic-revealed-as-client-of-10b-canadian-ai-data-centre-project/article_8c25d38f-4ef8-568f-be68-a1c4748aaee9.html",
+     "domain": "stcatharinesstandard.ca",
+     "seen": "2026-10-17T00:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_9fb3c75820",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-17T00:00:00Z",
+   "last_seen": "2026-10-17T00:00:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic signs onto $10 - billion Nova Scotia data centre project",
+     "url": "https://www.theglobeandmail.com/business/article-anthropic-signs-onto-10-billion-nova-scotia-data-centre-project/",
+     "domain": "theglobeandmail.com",
+     "seen": "2026-10-17T00:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_420112228e",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-16T23:30:00Z",
+   "last_seen": "2026-10-16T23:30:00Z",
+   "headlines": [
+    {
+     "title": "Nvidia RTX Spark Event in San Francisco Attracts Long Lines , But Few Buyers",
+     "url": "https://www.pcmag.com/news/nvidias-rtx-spark-event-in-san-francisco-attracts-long-lines-but-few-buyers",
+     "domain": "pcmag.com",
+     "seen": "2026-10-16T23:30:00Z",
      "source": "gdelt"
     }
    ]
