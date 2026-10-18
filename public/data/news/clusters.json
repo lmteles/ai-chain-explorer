@@ -1,7 +1,110 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-18T05:09:24.574Z",
+ "updated_at": "2026-10-18T11:43:40.534Z",
  "clusters": [
+  {
+   "id": "c_5a5681acc6",
+   "entity_ids": [
+    "asml"
+   ],
+   "first_seen": "2026-10-18T10:30:00Z",
+   "last_seen": "2026-10-18T10:30:00Z",
+   "headlines": [
+    {
+     "title": "ASML Holding N . V . ( NASDAQ : ASML ) Stock Has Average Target Price of $2 , 085 . 38 According to Analysts",
+     "url": "https://www.themarketsdaily.com/2026/10/18/asml-holding-n-v-nasdaqasml-stock-has-average-target-price-of-2085-38-according-to-analysts.html",
+     "domain": "themarketsdaily.com",
+     "seen": "2026-10-18T10:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_1b63dbaa31",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-18T10:30:00Z",
+   "last_seen": "2026-10-18T10:30:00Z",
+   "headlines": [
+    {
+     "title": "8 , 741 Amazon . com , Inc . $AMZN Shares Bought by Tilia Fiduciary Partners Inc . ",
+     "url": "https://www.tickerreport.com/banking-finance/13624632/8741-amazon-com-inc-amzn-shares-bought-by-tilia-fiduciary-partners-inc.html",
+     "domain": "tickerreport.com",
+     "seen": "2026-10-18T10:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_69bc2009d6",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-18T10:30:00Z",
+   "last_seen": "2026-10-18T10:30:00Z",
+   "headlines": [
+    {
+     "title": "Sacks & Associates LLC Acquires 5 , 046 Shares of Amazon . com , Inc . $AMZN",
+     "url": "https://www.themarketsdaily.com/2026/10/18/sacks-associates-llc-acquires-5046-shares-of-amazon-com-inc-amzn.html",
+     "domain": "themarketsdaily.com",
+     "seen": "2026-10-18T10:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_711269444a",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-18T10:30:00Z",
+   "last_seen": "2026-10-18T10:30:00Z",
+   "headlines": [
+    {
+     "title": "Amazon . com , Inc . $AMZN Stock Acquired by Vertrix Wealth Management LLC",
+     "url": "https://www.dailypolitical.com/2026/10/18/amazon-com-inc-amzn-stock-acquired-by-vertrix-wealth-management-llc.html",
+     "domain": "dailypolitical.com",
+     "seen": "2026-10-18T10:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_db62e6b217",
+   "entity_ids": [
+    "microsoft"
+   ],
+   "first_seen": "2026-10-18T10:00:00Z",
+   "last_seen": "2026-10-18T10:00:00Z",
+   "headlines": [
+    {
+     "title": "NiSource announces long - term agreement with Microsoft expected to increase customer savings and support Indiana economic growth | Government",
+     "url": "http://www.postregister.com/businessreport/government/nisource-announces-long-term-agreement-with-microsoft-expected-to-increase-customer-savings-and-support-indiana/article_9725c69d-030e-5a68-a29a-f512dfee459c.html",
+     "domain": "postregister.com",
+     "seen": "2026-10-18T10:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_6007907a08",
+   "entity_ids": [
+    "nvidia",
+    "apple"
+   ],
+   "first_seen": "2026-10-18T09:00:00Z",
+   "last_seen": "2026-10-18T09:00:00Z",
+   "headlines": [
+    {
+     "title": "Apple , Nvidia e multimilionários financiam salão de baile de Trump com milhões de dólares",
+     "url": "https://sapo.pt/artigo/apple-nvidia-e-multimilionarios-financiam-salao-de-baile-de-trump-com-milhoes-de-dolares-6ad47d8b67f99269c8a5b8a6",
+     "domain": "sapo.pt",
+     "seen": "2026-10-18T09:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_fedce5029d",
    "entity_ids": [
