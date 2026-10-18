@@ -1,7 +1,72 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-17T20:59:05.147Z",
+ "updated_at": "2026-10-18T05:09:24.574Z",
  "clusters": [
+  {
+   "id": "c_fedce5029d",
+   "entity_ids": [
+    "alphabet"
+   ],
+   "first_seen": "2026-10-18T00:00:00Z",
+   "last_seen": "2026-10-18T01:00:00Z",
+   "headlines": [
+    {
+     "title": "Greg Abel Made Major Additions to Alphabet and Delta Last Quarter While Berkshire Bought Back $4 . 4 Billion of Its Own Stock . Is This a Buying Signal Investors Should Watch ? ",
+     "url": "https://www.fool.com/investing/2026/10/17/greg-abel-made-major-additions-to-alphabet-and-del/",
+     "domain": "fool.com",
+     "seen": "2026-10-18T00:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Greg Abel Made Major Additions to Alphabet and Delta Last Quarter While Berkshire Bought Back $4 . 4 Billion of Its Own Stock . Is This a Buying Signal Investors Should Watch ? ",
+     "url": "https://www.fool.com/investing/2026/10/17/greg-abel-made-major-additions-to-alphabet-and-del/?source=iedfolrf0000001",
+     "domain": "fool.com",
+     "seen": "2026-10-18T01:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_181f6cf8dc",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-18T01:00:00Z",
+   "last_seen": "2026-10-18T01:00:00Z",
+   "headlines": [
+    {
+     "title": "How Nvidia Could Make $150 Billion Look Small",
+     "url": "https://www.fool.com/investing/2026/10/17/how-nvidia-could-make-usd150-billion-look-small/?source=iedfolrf0000001",
+     "domain": "fool.com",
+     "seen": "2026-10-18T01:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_5fba449f2b",
+   "entity_ids": [
+    "alphabet"
+   ],
+   "first_seen": "2026-10-17T23:30:00Z",
+   "last_seen": "2026-10-18T00:00:00Z",
+   "headlines": [
+    {
+     "title": "Should You Buy NuScale at $6 After the Google Rally ? Here the Next Catalyst That Could Send It Higher . ",
+     "url": "https://www.aol.com/articles/buy-nuscale-6-google-rally-222500000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-17T23:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Should You Buy NuScale at $6 After the Google Rally ? Here the Next Catalyst That Could Send It Higher . ",
+     "url": "https://www.fool.com/investing/2026/10/17/should-you-buy-nuscale-at-6-after-the-google-rally/",
+     "domain": "fool.com",
+     "seen": "2026-10-18T00:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_68cedab296",
    "entity_ids": [
