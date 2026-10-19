@@ -2999,5 +2999,18 @@
     "notes": [
       "not licensed: disabled stub, no scraping"
     ]
+  },
+  {
+    "adapter": "ir",
+    "started_at": "2026-10-19T14:35:32.956Z",
+    "finished_at": "2026-10-19T14:35:34.411Z",
+    "status": "ok",
+    "rows": 3,
+    "errors": [],
+    "notes": [
+      "tsmc-results-2026-09-30: a3q26e_withguidancexfinal.htm sha256 ab00b5211ae4…, a3q26presentatione.htm sha256 174539de3442…",
+      "tsmc-20f-2025-12-31: tsm-20251231.htm sha256 eb463d93ed81…",
+      "asml-results-2026-09-27: pressreleasefinancialresul.htm sha256 f3f3ed978b0f…"
+    ]
   }
 ]
