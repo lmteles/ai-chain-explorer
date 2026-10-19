@@ -1,7 +1,151 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-19T05:20:56.872Z",
+ "updated_at": "2026-10-19T14:00:08.009Z",
  "clusters": [
+  {
+   "id": "c_73dfa3ff92",
+   "entity_ids": [
+    "apple"
+   ],
+   "first_seen": "2026-10-19T13:15:00Z",
+   "last_seen": "2026-10-19T13:15:00Z",
+   "headlines": [
+    {
+     "title": "Apple iPhone Duo sells out within minutes ; where can buyers find early delivery dates ? Apple drops major update ; check details",
+     "url": "https://economictimes.indiatimes.com/magazines/panache/apple-iphone-duo-sells-out-within-minutes-where-can-buyers-find-early-delivery-dates-apple-drops-major-update-check-details/articleshow/135048827.cms",
+     "domain": "economictimes.indiatimes.com",
+     "seen": "2026-10-19T13:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_8b26cd828c",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-19T13:00:00Z",
+   "last_seen": "2026-10-19T13:00:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic offers Blackstone more than 10 % return in US$60 billion AI chip financing deal",
+     "url": "https://www.digitimes.com/news/a20261019PD245/anthropic-financing-ai-chip-capacity-finance.html",
+     "domain": "digitimes.com",
+     "seen": "2026-10-19T13:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_1aae4806d6",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-19T11:15:00Z",
+   "last_seen": "2026-10-19T11:15:00Z",
+   "headlines": [
+    {
+     "title": "Amazon $220 Billion AI Bet Tests the Limits of Its Empire",
+     "url": "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10",
+     "domain": "businessinsider.com",
+     "seen": "2026-10-19T11:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_a626c0b526",
+   "entity_ids": [
+    "samsung"
+   ],
+   "first_seen": "2026-10-19T10:00:00Z",
+   "last_seen": "2026-10-19T10:00:00Z",
+   "headlines": [
+    {
+     "title": "Samsung Electro - Mechanics wins W360 . 5b memory substrate supply deal",
+     "url": "https://www.koreaherald.com/article/10907706",
+     "domain": "koreaherald.com",
+     "seen": "2026-10-19T10:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_e1ea0845f4",
+   "entity_ids": [
+    "amd"
+   ],
+   "first_seen": "2026-10-19T10:00:00Z",
+   "last_seen": "2026-10-19T10:00:00Z",
+   "headlines": [
+    {
+     "title": "NASDAQ - Titel Intel vs . AMD : Welche Chip - Aktie jetzt das bessere Potenzial für Investoren bietet",
+     "url": "https://www.finanzen.net/nachricht/aktien/chipduell-intel-vs-amd-welche-chip-aktie-das-staerkere-kurspotenzial-fuer-anleger-bietet-00-15992429",
+     "domain": "finanzen.net",
+     "seen": "2026-10-19T10:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_0c1b55eeb8",
+   "entity_ids": [
+    "microsoft"
+   ],
+   "first_seen": "2026-10-18T17:30:00Z",
+   "last_seen": "2026-10-19T08:45:00Z",
+   "headlines": [
+    {
+     "title": "Microsoft pulls out of united kingdom data center deal with Nscale , Telegraph reports",
+     "url": "https://www.aol.com/articles/microsoft-pulls-uk-data-center-100116000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-18T17:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Microsoft pulls out of Nscale deal for united kingdom largest AI data centre",
+     "url": "https://www.cityam.com/microsoft-pulls-out-of-nscale-deal-for-uks-largest-ai-data-centre/",
+     "domain": "cityam.com",
+     "seen": "2026-10-19T08:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_998800ecd5",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-19T08:30:00Z",
+   "last_seen": "2026-10-19T08:30:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic says it is committing 5 pct of its shares to public benefits , Elon Musk reacts",
+     "url": "https://www.digit.in/news/general/anthropic-says-it-is-committing-5-pct-of-its-shares-to-public-benefits-elon-musk-reacts.html",
+     "domain": "digit.in",
+     "seen": "2026-10-19T08:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_ef51dc1ac7",
+   "entity_ids": [
+    "apple",
+    "samsung"
+   ],
+   "first_seen": "2026-10-19T08:30:00Z",
+   "last_seen": "2026-10-19T08:30:00Z",
+   "headlines": [
+    {
+     "title": "Apple iPhone Duo battery capacity revealed , here is how it compares to Samsung Galaxy Z Fold 8",
+     "url": "https://www.digit.in/news/mobile-phones/apple-iphone-duo-battery-capacity-revealed-here-is-how-it-compares-to-samsung-galaxy-z-fold-8.html",
+     "domain": "digit.in",
+     "seen": "2026-10-19T08:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_982bbbceda",
    "entity_ids": [
@@ -138,23 +282,6 @@
      "url": "https://www.emirates247.com/technology/apples-foldable-iphone-faces-january-2027-delivery-dates-in-uae-amid-huge-pre-order-demand/6884",
      "domain": "emirates247.com",
      "seen": "2026-10-18T18:15:00Z",
-     "source": "gdelt"
-    }
-   ]
-  },
-  {
-   "id": "c_0c1b55eeb8",
-   "entity_ids": [
-    "microsoft"
-   ],
-   "first_seen": "2026-10-18T17:30:00Z",
-   "last_seen": "2026-10-18T17:30:00Z",
-   "headlines": [
-    {
-     "title": "Microsoft pulls out of united kingdom data center deal with Nscale , Telegraph reports",
-     "url": "https://www.aol.com/articles/microsoft-pulls-uk-data-center-100116000.html",
-     "domain": "aol.com",
-     "seen": "2026-10-18T17:30:00Z",
      "source": "gdelt"
     }
    ]
