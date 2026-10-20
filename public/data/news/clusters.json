@@ -1,7 +1,431 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-20T17:32:48.130Z",
+ "updated_at": "2026-10-20T21:54:00.595Z",
  "clusters": [
+  {
+   "id": "c_aea2550166",
+   "entity_ids": [
+    "softbank"
+   ],
+   "first_seen": "2026-10-16T21:15:00Z",
+   "last_seen": "2026-10-20T21:30:00Z",
+   "headlines": [
+    {
+     "title": "SoftBank weighs $18 billion acquisition of Allied Universal , Bloomberg News reports",
+     "url": "https://www.aol.com/articles/softbank-weighs-18-billion-acquisition-200431000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-16T21:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank weighs $23 . 1b acquisition of Allied Universal , source says",
+     "url": "https://www.asiaone.com:443/money/softbank-weighs-231b-acquisition-allied-universal-source-says",
+     "domain": "asiaone.com",
+     "seen": "2026-10-17T04:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.parisguardian.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "parisguardian.com",
+     "seen": "2026-10-20T19:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.asiabulletin.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "asiabulletin.com",
+     "seen": "2026-10-20T19:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.sandiegosun.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "sandiegosun.com",
+     "seen": "2026-10-20T20:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.zimbabwestar.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "zimbabwestar.com",
+     "seen": "2026-10-20T20:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.utahindependent.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "utahindependent.com",
+     "seen": "2026-10-20T20:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.memphissun.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "memphissun.com",
+     "seen": "2026-10-20T20:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.mainemirror.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "mainemirror.com",
+     "seen": "2026-10-20T20:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.pittsburghstar.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "pittsburghstar.com",
+     "seen": "2026-10-20T20:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.bostonstar.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "bostonstar.com",
+     "seen": "2026-10-20T20:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.brazilsun.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "brazilsun.com",
+     "seen": "2026-10-20T21:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.californiatelegraph.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "californiatelegraph.com",
+     "seen": "2026-10-20T21:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.oklahomastar.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "oklahomastar.com",
+     "seen": "2026-10-20T21:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.ohiostandard.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "ohiostandard.com",
+     "seen": "2026-10-20T21:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.trinidadtimes.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "trinidadtimes.com",
+     "seen": "2026-10-20T21:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.malaysiasun.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "malaysiasun.com",
+     "seen": "2026-10-20T21:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank eyes $18 billion Allied Universal acquisition",
+     "url": "http://www.laosnews.net/news/279381514/softbank-eyes-usd18-billion-allied-universal-acquisition",
+     "domain": "laosnews.net",
+     "seen": "2026-10-20T21:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank eyes $18 billion Allied Universal acquisition",
+     "url": "http://www.calcuttanews.net/news/279381514/softbank-eyes-usd18-billion-allied-universal-acquisition",
+     "domain": "calcuttanews.net",
+     "seen": "2026-10-20T21:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank eyes $18 billion Allied Universal acquisition",
+     "url": "http://www.australiannews.net/news/279381514/softbank-eyes-usd18-billion-allied-universal-acquisition",
+     "domain": "australiannews.net",
+     "seen": "2026-10-20T21:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.nigeriasun.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "nigeriasun.com",
+     "seen": "2026-10-20T21:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.torontotelegraph.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "torontotelegraph.com",
+     "seen": "2026-10-20T21:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.floridastatesman.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "floridastatesman.com",
+     "seen": "2026-10-20T21:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SoftBank considers $18 billion deal for Allied Universal",
+     "url": "http://www.russiaherald.com/news/279381514/softbank-considers-usd18-billion-deal-for-allied-universal",
+     "domain": "russiaherald.com",
+     "seen": "2026-10-20T21:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_7e591db33a",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-20T21:30:00Z",
+   "last_seen": "2026-10-20T21:30:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic Has Set Aside 5 Percent for the Public . Give Kids a Stake . ",
+     "url": "https://www.aei.org/domestic-policy/anthropic-has-set-aside-5-percent-for-the-public-give-kids-a-stake/",
+     "domain": "aei.org",
+     "seen": "2026-10-20T21:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_17b7531226",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-20T21:30:00Z",
+   "last_seen": "2026-10-20T21:30:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic备战IPO ： 半年亏$807亿 仍狂扩算力",
+     "url": "https://www.wenxuecity.com/news/2026/10/20/126811047.html",
+     "domain": "wenxuecity.com",
+     "seen": "2026-10-20T21:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_be9fbd1ab4",
+   "entity_ids": [
+    "tsmc"
+   ],
+   "first_seen": "2026-10-20T21:15:00Z",
+   "last_seen": "2026-10-20T21:15:00Z",
+   "headlines": [
+    {
+     "title": "Hyperion Asset Management Ltd Acquires 183 , 081 Shares of Taiwan Semiconductor Manufacturing Company Ltd . $TSM",
+     "url": "https://www.dailypolitical.com/2026/10/20/hyperion-asset-management-ltd-acquires-183081-shares-of-taiwan-semiconductor-manufacturing-company-ltd-tsm.html",
+     "domain": "dailypolitical.com",
+     "seen": "2026-10-20T21:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_735e931e87",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-20T21:00:00Z",
+   "last_seen": "2026-10-20T21:00:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic draft IPO filing reportedly shows H1 net loss of $80 . 7B and possible $750B in future compute spending · Digg",
+     "url": "https://digg.com/tech/hxa3xssc",
+     "domain": "digg.com",
+     "seen": "2026-10-20T21:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_5a19bc6cc3",
+   "entity_ids": [
+    "apple"
+   ],
+   "first_seen": "2026-10-20T20:45:00Z",
+   "last_seen": "2026-10-20T20:45:00Z",
+   "headlines": [
+    {
+     "title": "Apple keeps acquiring companies with one clear goal in mind",
+     "url": "https://9to5mac.com/2026/10/20/apple-keeps-acquiring-companies-with-one-clear-goal-in-mind/",
+     "domain": "9to5mac.com",
+     "seen": "2026-10-20T20:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_e7999a9d5b",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-20T19:45:00Z",
+   "last_seen": "2026-10-20T19:45:00Z",
+   "headlines": [
+    {
+     "title": "Investment summit : German government strikes AI deal with Nvidia",
+     "url": "https://www.euronews.com/2026/10/20/investment-summit-german-government-strikes-ai-deal-with-nvidia",
+     "domain": "euronews.com",
+     "seen": "2026-10-20T19:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_800c78197d",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-20T19:45:00Z",
+   "last_seen": "2026-10-20T19:45:00Z",
+   "headlines": [
+    {
+     "title": "Amazon va investir 16 milliards deuros en 2027 pour lIA et plus en Allemagne",
+     "url": "https://kulturegeek.fr/news-362145/amazon-investir-16-milliards-deuros-2027-lia-plus-allemagne",
+     "domain": "kulturegeek.fr",
+     "seen": "2026-10-20T19:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_1543a8e69d",
+   "entity_ids": [
+    "apple"
+   ],
+   "first_seen": "2026-10-20T18:45:00Z",
+   "last_seen": "2026-10-20T18:45:00Z",
+   "headlines": [
+    {
+     "title": "Apple gibt neue Partner im American Manufacturing Program für iPhone Duo und iPhone 18 Pro bekannt › Macerkopf",
+     "url": "https://www.macerkopf.de/2026/10/20/apple-partner-american-manufacturing-program/",
+     "domain": "macerkopf.de",
+     "seen": "2026-10-20T18:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_44c9eeef86",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-20T18:45:00Z",
+   "last_seen": "2026-10-20T18:45:00Z",
+   "headlines": [
+    {
+     "title": "ByteDance , Alibaba , Tencent Order Over $35 Bln Of Nvidia Chips : Reports",
+     "url": "https://www.rttnews.com/3700721/bytedance-alibaba-tencent-order-over-35-bln-of-nvidia-chips-reports.aspx",
+     "domain": "rttnews.com",
+     "seen": "2026-10-20T18:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_f7853d1c7b",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-20T18:00:00Z",
+   "last_seen": "2026-10-20T18:00:00Z",
+   "headlines": [
+    {
+     "title": "We found the best deals on Amazon little - known coupon page shop them before they run out",
+     "url": "https://www.aol.com/shopping/we-found-the-best-deals-on-amazon-s-little-known-coupon-page-shop-them-before-they-run-out-151216000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-20T18:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_d15cf259e3",
+   "entity_ids": [
+    "anthropic",
+    "microsoft"
+   ],
+   "first_seen": "2026-10-20T17:30:00Z",
+   "last_seen": "2026-10-20T17:30:00Z",
+   "headlines": [
+    {
+     "title": "Nscale eyes second $45bn deal with Anthropic after Microsoft setback",
+     "url": "https://www.cityam.com/nscale-eyes-second-45bn-deal-with-anthropic-after-microsoft-setback/",
+     "domain": "cityam.com",
+     "seen": "2026-10-20T17:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_f9dcf672fb",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-20T17:30:00Z",
+   "last_seen": "2026-10-20T17:30:00Z",
+   "headlines": [
+    {
+     "title": "ByteDance , Alibaba and Tencent Place $35 Billion Nvidia AI Chip Orders as China Faces GPU Shortage",
+     "url": "https://infotechlead.com/networking/bytedance-alibaba-and-tencent-place-35-billion-nvidia-ai-chip-orders-as-china-faces-gpu-shortage-99033",
+     "domain": "infotechlead.com",
+     "seen": "2026-10-20T17:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_b9b6da1ecd",
+   "entity_ids": [
+    "apple"
+   ],
+   "first_seen": "2026-10-20T17:30:00Z",
+   "last_seen": "2026-10-20T17:30:00Z",
+   "headlines": [
+    {
+     "title": "Apple expands US manufacturing partnerships for latest iPhone lineup",
+     "url": "https://thefrontierpost.com/apple-expands-us-manufacturing-partnerships-for-latest-iphone-lineup/",
+     "domain": "thefrontierpost.com",
+     "seen": "2026-10-20T17:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_0d0eaabb2b",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-20T17:30:00Z",
+   "last_seen": "2026-10-20T17:30:00Z",
+   "headlines": [
+    {
+     "title": "Amazon to Invest €16 Billion in Germany in 2027 : AWS AI Data Centers , Satellite Broadband and Logistics Expansion",
+     "url": "https://infotechlead.com/data-center/amazon-to-invest-e16-billion-in-germany-in-2027-aws-ai-data-centers-satellite-broadband-and-logistics-expansion-99035",
+     "domain": "infotechlead.com",
+     "seen": "2026-10-20T17:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Amazon Plans to Invest More Than €16 Billion in Germany in 2027",
+     "url": "https://econotimes.com/Amazon-Plans-to-Invest-More-Than-16-Billion-in-Germany-in-2027-1757883",
+     "domain": "econotimes.com",
+     "seen": "2026-10-20T17:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_1a75bb2b65",
    "entity_ids": [
@@ -15,6 +439,23 @@
      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7518239029990023168/",
      "domain": "www.linkedin.com",
      "seen": "2026-10-20T10:16:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
+  {
+   "id": "c_dbaa902542",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-10-20T00:00:00.000Z",
+   "last_seen": "2026-10-20T00:00:00.000Z",
+   "headlines": [
+    {
+     "title": "OpenAI acquires Orchestra Bio",
+     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+     "domain": "openai.com",
+     "seen": "2026-10-20T00:00:00.000Z",
      "source": "rss"
     }
    ]
@@ -728,30 +1169,6 @@
      "url": "https://www.aol.com/articles/anthropic-2-trillion-ipo-dream-000700000.html",
      "domain": "aol.com",
      "seen": "2026-10-17T05:00:00Z",
-     "source": "gdelt"
-    }
-   ]
-  },
-  {
-   "id": "c_aea2550166",
-   "entity_ids": [
-    "softbank"
-   ],
-   "first_seen": "2026-10-16T21:15:00Z",
-   "last_seen": "2026-10-17T04:30:00Z",
-   "headlines": [
-    {
-     "title": "SoftBank weighs $18 billion acquisition of Allied Universal , Bloomberg News reports",
-     "url": "https://www.aol.com/articles/softbank-weighs-18-billion-acquisition-200431000.html",
-     "domain": "aol.com",
-     "seen": "2026-10-16T21:15:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "SoftBank weighs $23 . 1b acquisition of Allied Universal , source says",
-     "url": "https://www.asiaone.com:443/money/softbank-weighs-231b-acquisition-allied-universal-source-says",
-     "domain": "asiaone.com",
-     "seen": "2026-10-17T04:30:00Z",
      "source": "gdelt"
     }
    ]
