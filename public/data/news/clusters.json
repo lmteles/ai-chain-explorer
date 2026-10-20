@@ -1,7 +1,24 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-20T12:13:00.003Z",
+ "updated_at": "2026-10-20T17:32:48.130Z",
  "clusters": [
+  {
+   "id": "c_1a75bb2b65",
+   "entity_ids": [
+    "microsoft"
+   ],
+   "first_seen": "2026-10-20T10:16:00.000Z",
+   "last_seen": "2026-10-20T10:16:00.000Z",
+   "headlines": [
+    {
+     "title": "Today in Paris, we announced new capabilities across Microsoft Sovereign Cloud, expanding choice and control for organizations running their most sensitive workloads across public and private cloud, and our growing partner ecosystem.",
+     "url": "https://www.linkedin.com/feed/update/urn:li:activity:7518239029990023168/",
+     "domain": "www.linkedin.com",
+     "seen": "2026-10-20T10:16:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
   {
    "id": "c_73dfa3ff92",
    "entity_ids": [
