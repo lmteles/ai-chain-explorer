@@ -1,7 +1,514 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-21T17:40:44.102Z",
+ "updated_at": "2026-10-21T21:59:19.159Z",
  "clusters": [
+  {
+   "id": "c_69bf243e6f",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-21T18:30:00Z",
+   "last_seen": "2026-10-21T21:30:00Z",
+   "headlines": [
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion after Cambridge Analytica trial",
+     "url": "https://www.dailylocal.com/2026/10/21/meta-trial-cambridge-analytica-judgement/",
+     "domain": "dailylocal.com",
+     "seen": "2026-10-21T18:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion after Cambridge Analytica trial",
+     "url": "https://www.mcall.com/2026/10/21/meta-trial-cambridge-analytica-judgement/",
+     "domain": "mcall.com",
+     "seen": "2026-10-21T18:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
+     "url": "https://mymotherlode.com/news/national/us-government/11240102/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook.html",
+     "domain": "mymotherlode.com",
+     "seen": "2026-10-21T18:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25B for deceiving users",
+     "url": "https://www.ksbw.com/article/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook-tech/74207571",
+     "domain": "ksbw.com",
+     "seen": "2026-10-21T18:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
+     "url": "https://www.wsls.com/news/politics/2026/10/21/meta-ordered-to-pay-new-mexico-25-billion-after-cambridge-analytica-trial/",
+     "domain": "wsls.com",
+     "seen": "2026-10-21T18:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion after Cambridge Analytica trial",
+     "url": "https://www.dailycamera.com/2026/10/21/meta-trial-cambridge-analytica-judgement/",
+     "domain": "dailycamera.com",
+     "seen": "2026-10-21T18:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion after Cambridge Analytica trial",
+     "url": "https://www.fortmorgantimes.com/2026/10/21/meta-trial-cambridge-analytica-judgement/",
+     "domain": "fortmorgantimes.com",
+     "seen": "2026-10-21T18:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion after Cambridge Analytica trial",
+     "url": "https://www.chicoer.com/2026/10/21/meta-trial-cambridge-analytica-judgement/",
+     "domain": "chicoer.com",
+     "seen": "2026-10-21T18:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25B for deceiving users",
+     "url": "https://www.kmbc.com/article/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook-tech/74207571",
+     "domain": "kmbc.com",
+     "seen": "2026-10-21T19:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25B for deceiving users",
+     "url": "https://www.ketv.com/article/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook-tech/74207571",
+     "domain": "ketv.com",
+     "seen": "2026-10-21T19:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25B for deceiving Facebook users – NBC Chicago",
+     "url": "https://www.nbcchicago.com/news/national-international/meta-new-mexico-pay-25-billion-deceiving-users-facebook-privacy/4005568/",
+     "domain": "nbcchicago.com",
+     "seen": "2026-10-21T19:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion after Cambridge Analytica trial",
+     "url": "https://www.wokv.com/news/business/meta-ordered-pay-new/P7E4MDTYXQ4J5FAZZA6AZZGKT4/",
+     "domain": "wokv.com",
+     "seen": "2026-10-21T19:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25B for deceiving Facebook users – NBC 7 San Diego",
+     "url": "https://www.nbcsandiego.com/news/national-international/meta-new-mexico-pay-25-billion-deceiving-users-facebook-privacy/4089994/",
+     "domain": "nbcsandiego.com",
+     "seen": "2026-10-21T19:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion after Cambridge Analytica trial",
+     "url": "https://www.reporterherald.com/2026/10/21/meta-trial-cambridge-analytica-judgement/",
+     "domain": "reporterherald.com",
+     "seen": "2026-10-21T19:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion after Cambridge Analytica trial",
+     "url": "https://www.mendocinobeacon.com/2026/10/21/meta-trial-cambridge-analytica-judgement/",
+     "domain": "mendocinobeacon.com",
+     "seen": "2026-10-21T19:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25B for deceiving users",
+     "url": "https://www.gulfcoastnewsnow.com/article/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook-tech/74207571",
+     "domain": "gulfcoastnewsnow.com",
+     "seen": "2026-10-21T19:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
+     "url": "https://www.clickorlando.com/news/politics/2026/10/21/meta-ordered-to-pay-new-mexico-25-billion-after-cambridge-analytica-trial/",
+     "domain": "clickorlando.com",
+     "seen": "2026-10-21T19:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion after Cambridge Analytica trial",
+     "url": "https://www.standardspeaker.com/2026/10/21/meta-trial-cambridge-analytica-judgement/",
+     "domain": "standardspeaker.com",
+     "seen": "2026-10-21T19:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion after Cambridge Analytica trial",
+     "url": "https://www.citizensvoice.com/2026/10/21/meta-trial-cambridge-analytica-judgement/",
+     "domain": "citizensvoice.com",
+     "seen": "2026-10-21T19:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25B for deceiving Facebook users – NBC 5 Dallas - Fort Worth",
+     "url": "https://www.nbcdfw.com/news/national-international/meta-new-mexico-pay-25-billion-deceiving-users-facebook-privacy/4093951/",
+     "domain": "nbcdfw.com",
+     "seen": "2026-10-21T19:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion after jury finds it deceived Facebook users about privacy",
+     "url": "https://economictimes.indiatimes.com/tech/technology/meta-ordered-to-pay-new-mexico-25-billion-after-jury-finds-it-deceived-facebook-users-about-privacy/articleshow/135097554.cms",
+     "domain": "economictimes.indiatimes.com",
+     "seen": "2026-10-21T19:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
+     "url": "https://santamariatimes.com/ap/business/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/article_33b555b5-9f09-5f24-b2c7-fcba50784b92.html",
+     "domain": "santamariatimes.com",
+     "seen": "2026-10-21T19:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion after Cambridge Analytica trial",
+     "url": "https://www.greeleytribune.com/2026/10/21/meta-trial-cambridge-analytica-judgement/",
+     "domain": "greeleytribune.com",
+     "seen": "2026-10-21T19:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about Facebook privacy",
+     "url": "https://www.mprnews.org/story/2026/10/21/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook",
+     "domain": "mprnews.org",
+     "seen": "2026-10-21T20:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
+     "url": "https://www.yankton.net/news/national_ap/article_a060f18f-6236-5f57-aa28-cfc6ed341ddc.html",
+     "domain": "yankton.net",
+     "seen": "2026-10-21T20:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Judge orders Meta to pay $25 billion for violating New Mexico law in the Cambridge Analytica data breach",
+     "url": "https://abc7chicago.com/story/judge-orders-meta-pay-25-billion-violating-new-mexico-law-cambridge-analytica-data-breach/19965355/",
+     "domain": "abc7chicago.com",
+     "seen": "2026-10-21T20:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta to pay New Mexico $25 billion for Facebook privacy deception",
+     "url": "https://www.chicagotribune.com/2026/10/21/meta-new-mexico-25-billion-facebook-privacy/",
+     "domain": "chicagotribune.com",
+     "seen": "2026-10-21T20:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion for deceiving users",
+     "url": "https://www.timescall.com/2026/10/21/meta-trial-cambridge-analytica-judgement/",
+     "domain": "timescall.com",
+     "seen": "2026-10-21T20:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25B for deceiving Facebook users – NBC New York",
+     "url": "https://www.nbcnewyork.com/news/national-international/meta-new-mexico-pay-25-billion-deceiving-users-facebook-privacy/6561683/",
+     "domain": "nbcnewyork.com",
+     "seen": "2026-10-21T20:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25B for deceiving users",
+     "url": "https://www.wpbf.com/article/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook-tech/74207571",
+     "domain": "wpbf.com",
+     "seen": "2026-10-21T20:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
+     "url": "https://www.nvdaily.com/associated_press_national/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/article_7543784d-f323-507c-8fa9-933ac5a78119.html",
+     "domain": "nvdaily.com",
+     "seen": "2026-10-21T20:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
+     "url": "https://www.news8000.com/lifestyle/money/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/article_8e2fbbe9-4c38-53f3-ad3a-597ae189a8a3.html",
+     "domain": "news8000.com",
+     "seen": "2026-10-21T20:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
+     "url": "https://www.ksat.com/news/politics/2026/10/21/meta-ordered-to-pay-new-mexico-25-billion-after-cambridge-analytica-trial/",
+     "domain": "ksat.com",
+     "seen": "2026-10-21T20:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion for deceiving users",
+     "url": "https://www.courant.com/2026/10/21/meta-trial-cambridge-analytica-judgement/",
+     "domain": "courant.com",
+     "seen": "2026-10-21T20:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion for deceiving users",
+     "url": "https://www.eptrail.com/2026/10/21/meta-trial-cambridge-analytica-judgement/",
+     "domain": "eptrail.com",
+     "seen": "2026-10-21T20:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "New Mexico wins $25 billion Meta privacy case",
+     "url": "https://www.koat.com/article/new-mexico-facebook-privacy-case-25-billion-judgment/74207292",
+     "domain": "koat.com",
+     "seen": "2026-10-21T20:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion for deceiving users",
+     "url": "https://www.twincities.com/2026/10/21/meta-trial-cambridge-analytica-judgement/",
+     "domain": "twincities.com",
+     "seen": "2026-10-21T20:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion for deceiving users about privacy on Facebook",
+     "url": "https://www.click2houston.com/news/politics/2026/10/21/meta-ordered-to-pay-new-mexico-25-billion-after-cambridge-analytica-trial/",
+     "domain": "click2houston.com",
+     "seen": "2026-10-21T20:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion after Cambridge Analytica trial",
+     "url": "https://www.wgauradio.com/news/business/meta-ordered-pay-new/P7E4MDTYXQ4J5FAZZA6AZZGKT4/",
+     "domain": "wgauradio.com",
+     "seen": "2026-10-21T20:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Judge orders Meta to pay $25 billion for violating New Mexico law in the Cambridge Analytica data breach",
+     "url": "https://abc30.com/story/judge-orders-meta-pay-25-billion-violating-new-mexico-law-cambridge-analytica-data-breach/19965355/",
+     "domain": "abc30.com",
+     "seen": "2026-10-21T20:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "US judge orders Meta to pay $25 billion over data privacy claims",
+     "url": "https://news.az/news/us-judge-orders-meta-to-pay-25-billion-over-data-privacy-claims",
+     "domain": "news.az",
+     "seen": "2026-10-21T21:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion over Cambridge Analytica breach",
+     "url": "http://www.somdnews.com/ap/nation/meta-ordered-to-pay-new-mexico-25-billion-over-cambridge-analytica-breach/article_7105dc11-af8b-53a2-88dc-6be5e7784bb9.html",
+     "domain": "somdnews.com",
+     "seen": "2026-10-21T21:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25B for deceiving Facebook users – NBC10 Philadelphia",
+     "url": "https://www.nbcphiladelphia.com/news/national-international/meta-new-mexico-pay-25-billion-deceiving-users-facebook-privacy/4483014/",
+     "domain": "nbcphiladelphia.com",
+     "seen": "2026-10-21T21:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay $25B over Facebook privacy deception",
+     "url": "https://www.dailysabah.com/business/tech/meta-ordered-to-pay-25b-over-facebook-privacy-deception",
+     "domain": "dailysabah.com",
+     "seen": "2026-10-21T21:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25 billion over Cambridge Analytica breach - Boston News , Weather , Sports",
+     "url": "https://whdh.com/news/meta-ordered-to-pay-new-mexico-25-billion-over-cambridge-analytica-breach/",
+     "domain": "whdh.com",
+     "seen": "2026-10-21T21:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_8060c28dac",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-21T21:15:00Z",
+   "last_seen": "2026-10-21T21:15:00Z",
+   "headlines": [
+    {
+     "title": "Amazon abandons $427 million data center plan and pledges land donations worth $65 million instead",
+     "url": "https://fortune.com/2026/10/21/amazon-427-million-gw-campus-data-center-65-million/",
+     "domain": "fortune.com",
+     "seen": "2026-10-21T21:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_4f9001eb37",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-21T14:00:00Z",
+   "last_seen": "2026-10-21T20:15:00Z",
+   "headlines": [
+    {
+     "title": "Why Elon Musk wants to merge Tesla and SpaceX into a $3 . 5 trillion supercompany",
+     "url": "https://www.the-independent.com/tech/elon-musk-tesla-spacex-merger-b3070467.html",
+     "domain": "the-independent.com",
+     "seen": "2026-10-21T14:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Elon Musk plans to merge SpaceX and Tesla in a $3 . 6 trillion deal",
+     "url": "https://americanbazaaronline.com/2026/10/21/elon-musk-plans-to-merge-spacex-and-tesla-in-a-3-6-trillion-deal-490457/",
+     "domain": "americanbazaaronline.com",
+     "seen": "2026-10-21T20:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_6535439bb5",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-21T07:30:00Z",
+   "last_seen": "2026-10-21T20:15:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic Reports $80 . 7 Billion Loss for First Half of the Year ; Major Financial Challenge Emerges Ahead of IPO",
+     "url": "https://www.khaskhabar.com/picture-news/gadget-news-anthropic-reports-$807-billion-loss-for-first-half-of-the-year-major-financial-challenge-emerges-ahead-of-ipo-news-hindi-1-854876-KKN.html",
+     "domain": "khaskhabar.com",
+     "seen": "2026-10-21T07:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic Reports Massive $80 . 7 Billion Net Loss In First Half Of 2026 As AI Firm Prepares For Reported November IPO",
+     "url": "https://www.freepressjournal.in/tech/anthropic-reports-massive-807-billion-net-loss-in-first-half-of-2026-as-ai-firm-prepares-for-reported-november-ipo",
+     "domain": "freepressjournal.in",
+     "seen": "2026-10-21T08:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic posts $80 . 7 billion loss in first half of 2026 as AI infrastructure costs surge",
+     "url": "https://americanbazaaronline.com/2026/10/21/anthropic-posts-80-7-billion-loss-in-first-half-of-2026-as-ai-infrastructure-costs-surge-490467/",
+     "domain": "americanbazaaronline.com",
+     "seen": "2026-10-21T20:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_aaacd0e310",
+   "entity_ids": [
+    "nvidia",
+    "asml"
+   ],
+   "first_seen": "2026-10-21T19:45:00Z",
+   "last_seen": "2026-10-21T20:15:00Z",
+   "headlines": [
+    {
+     "title": "ASML Has Incredible News for Nvidia Stock and Micron Stock Investors",
+     "url": "https://www.aol.com/articles/asml-incredible-news-nvidia-stock-185202000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-21T19:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "ASML Has Incredible News for Nvidia Stock and Micron Stock Investors",
+     "url": "https://www.fool.com/investing/2026/10/21/asml-has-incredible-news-for-nvidia-stock-and-micron-stock-investors/",
+     "domain": "fool.com",
+     "seen": "2026-10-21T20:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_8dc1533599",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-21T20:15:00Z",
+   "last_seen": "2026-10-21T20:15:00Z",
+   "headlines": [
+    {
+     "title": "Judge orders Meta to pay $25B US for misleading consumers about data privacy",
+     "url": "https://www.cbc.ca/news/world/meta-25-billion-new-mexico-9.7390345",
+     "domain": "cbc.ca",
+     "seen": "2026-10-21T20:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_66d70b4b80",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-21T19:45:00Z",
+   "last_seen": "2026-10-21T19:45:00Z",
+   "headlines": [
+    {
+     "title": "From Rockets to Roadsters : SpaceX , Tesla Boards Start Possible $3 . 5 Trillion Merger",
+     "url": "https://www.theepochtimes.com/business/from-rockets-to-roadsters-spacex-tesla-boards-start-possible-3-5-trillion-merger-6107097",
+     "domain": "theepochtimes.com",
+     "seen": "2026-10-21T19:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_3861409ff9",
+   "entity_ids": [
+    "oracle"
+   ],
+   "first_seen": "2026-10-21T19:00:00Z",
+   "last_seen": "2026-10-21T19:00:00Z",
+   "headlines": [
+    {
+     "title": "Salesforce ( CRM ) vs Oracle ( ORCL ): Which Is a Better Stock to Buy ? ",
+     "url": "https://www.insidermonkey.com/news/salesforce-crm-vs-oracle-orcl-which-is-a-better-stock-to-buy-1856912/",
+     "domain": "insidermonkey.com",
+     "seen": "2026-10-21T19:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_d849e29d16",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-21T18:30:00Z",
+   "last_seen": "2026-10-21T18:30:00Z",
+   "headlines": [
+    {
+     "title": "Here What $10 , 000 Invested in SpaceX and Tesla Could Be Worth in 2030",
+     "url": "https://www.aol.com/articles/heres-10-000-invested-spacex-180600000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-21T18:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_1e4984cc7d",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-21T18:15:00Z",
+   "last_seen": "2026-10-21T18:15:00Z",
+   "headlines": [
+    {
+     "title": "DJI Power 1000 V2 portable power station drops to $400 at Amazon",
+     "url": "https://www.techradar.com/pro/djis-power-1000-v2-delivers-all-day-drone-charging-with-2-600w-of-home-backup-and-amazon-dropped-the-price-to-usd400",
+     "domain": "techradar.com",
+     "seen": "2026-10-21T18:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_91139c5f4d",
    "entity_ids": [
@@ -168,23 +675,6 @@
      "title": "Apple vs . Intel : Which Tech Stock Is a Better Buy in 2026 ? ",
      "url": "https://www.fool.com/coverage/better-buy/2026/10/21/apple-vs-intel-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
      "domain": "fool.com",
-     "seen": "2026-10-21T14:00:00Z",
-     "source": "gdelt"
-    }
-   ]
-  },
-  {
-   "id": "c_4f9001eb37",
-   "entity_ids": [
-    "tesla"
-   ],
-   "first_seen": "2026-10-21T14:00:00Z",
-   "last_seen": "2026-10-21T14:00:00Z",
-   "headlines": [
-    {
-     "title": "Why Elon Musk wants to merge Tesla and SpaceX into a $3 . 5 trillion supercompany",
-     "url": "https://www.the-independent.com/tech/elon-musk-tesla-spacex-merger-b3070467.html",
-     "domain": "the-independent.com",
      "seen": "2026-10-21T14:00:00Z",
      "source": "gdelt"
     }
@@ -405,30 +895,6 @@
      "url": "https://www.equitybulls.com/news/377334/allcargo-logistics-transforms-financial-processes-with-oracle-fusion-cloud-appli",
      "domain": "equitybulls.com",
      "seen": "2026-10-21T08:45:00Z",
-     "source": "gdelt"
-    }
-   ]
-  },
-  {
-   "id": "c_6535439bb5",
-   "entity_ids": [
-    "anthropic"
-   ],
-   "first_seen": "2026-10-21T07:30:00Z",
-   "last_seen": "2026-10-21T08:30:00Z",
-   "headlines": [
-    {
-     "title": "Anthropic Reports $80 . 7 Billion Loss for First Half of the Year ; Major Financial Challenge Emerges Ahead of IPO",
-     "url": "https://www.khaskhabar.com/picture-news/gadget-news-anthropic-reports-$807-billion-loss-for-first-half-of-the-year-major-financial-challenge-emerges-ahead-of-ipo-news-hindi-1-854876-KKN.html",
-     "domain": "khaskhabar.com",
-     "seen": "2026-10-21T07:30:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Anthropic Reports Massive $80 . 7 Billion Net Loss In First Half Of 2026 As AI Firm Prepares For Reported November IPO",
-     "url": "https://www.freepressjournal.in/tech/anthropic-reports-massive-807-billion-net-loss-in-first-half-of-2026-as-ai-firm-prepares-for-reported-november-ipo",
-     "domain": "freepressjournal.in",
-     "seen": "2026-10-21T08:30:00Z",
      "source": "gdelt"
     }
    ]
