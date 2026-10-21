@@ -1,7 +1,270 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-21T05:20:05.098Z",
+ "updated_at": "2026-10-21T12:25:30.367Z",
  "clusters": [
+  {
+   "id": "c_be9fbd1ab4",
+   "entity_ids": [
+    "tsmc"
+   ],
+   "first_seen": "2026-10-20T21:15:00Z",
+   "last_seen": "2026-10-21T12:00:00Z",
+   "headlines": [
+    {
+     "title": "Hyperion Asset Management Ltd Acquires 183 , 081 Shares of Taiwan Semiconductor Manufacturing Company Ltd . $TSM",
+     "url": "https://www.dailypolitical.com/2026/10/20/hyperion-asset-management-ltd-acquires-183081-shares-of-taiwan-semiconductor-manufacturing-company-ltd-tsm.html",
+     "domain": "dailypolitical.com",
+     "seen": "2026-10-20T21:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Robbins Farley Makes New Investment in Taiwan Semiconductor Manufacturing Company Ltd . $TSM",
+     "url": "https://www.themarketsdaily.com/2026/10/21/robbins-farley-makes-new-investment-in-taiwan-semiconductor-manufacturing-company-ltd-tsm.html",
+     "domain": "themarketsdaily.com",
+     "seen": "2026-10-21T12:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_bbac3faaf3",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-21T12:00:00Z",
+   "last_seen": "2026-10-21T12:00:00Z",
+   "headlines": [
+    {
+     "title": "Nutanix and Netris Announce Strategic Collaboration to Deliver a Multitenant Infrastructure Stack from Compute to Network for Neoclouds and NVIDIA Cloud Partner Environments",
+     "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/nutanix-and-netris-announce-strategic-collaboration-to-deliver-a-multitenant-infrastructure-stack-from-compute-to-network-for-neoclouds-and-nvidia-cloud-partner-environments/2450692",
+     "domain": "manilatimes.net",
+     "seen": "2026-10-21T12:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_07de345e7e",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-21T12:00:00Z",
+   "last_seen": "2026-10-21T12:00:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic logged net loss of over $102b in first half of 2026",
+     "url": "https://www.asiaone.com/money/anthropic-logged-net-loss-over-102b-first-half-2026",
+     "domain": "asiaone.com",
+     "seen": "2026-10-21T12:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_06974791f2",
+   "entity_ids": [
+    "samsung"
+   ],
+   "first_seen": "2026-10-21T10:45:00Z",
+   "last_seen": "2026-10-21T10:45:00Z",
+   "headlines": [
+    {
+     "title": "Samsung shifts M2800 modem to 2nm , frees 4nm capacity for HBM base dies",
+     "url": "https://www.digitimes.com/news/a20261021PD228/samsung-4nm-hbm-modem-capacity.html",
+     "domain": "digitimes.com",
+     "seen": "2026-10-21T10:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_37991df881",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-21T10:33:00.000Z",
+   "last_seen": "2026-10-21T10:33:00.000Z",
+   "headlines": [
+    {
+     "title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
+     "domain": "nvidianews.nvidia.com",
+     "seen": "2026-10-21T10:33:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
+  {
+   "id": "c_f47072a36f",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-21T10:30:41.000Z",
+   "last_seen": "2026-10-21T10:30:41.000Z",
+   "headlines": [
+    {
+     "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+     "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+     "domain": "blogs.nvidia.com",
+     "seen": "2026-10-21T10:30:41.000Z",
+     "source": "rss"
+    }
+   ]
+  },
+  {
+   "id": "c_492e7e0921",
+   "entity_ids": [
+    "microsoft"
+   ],
+   "first_seen": "2026-10-21T10:15:00Z",
+   "last_seen": "2026-10-21T10:15:00Z",
+   "headlines": [
+    {
+     "title": "Microsoft Corporation $MSFT Shares Newly Acquired by Transamerica Financial Advisors LLC",
+     "url": "https://www.tickerreport.com/banking-finance/13628302/microsoft-corporation-msft-shares-newly-acquired-by-transamerica-financial-advisors-llc.html",
+     "domain": "tickerreport.com",
+     "seen": "2026-10-21T10:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_7e7ee91ada",
+   "entity_ids": [
+    "microsoft"
+   ],
+   "first_seen": "2026-10-21T10:15:00Z",
+   "last_seen": "2026-10-21T10:15:00Z",
+   "headlines": [
+    {
+     "title": "Punch & Associates Investment Management Inc . Makes New $16 . 08 Million Investment in Microsoft Corporation $MSFT",
+     "url": "https://www.themarketsdaily.com/2026/10/21/punch-associates-investment-management-inc-makes-new-16-08-million-investment-in-microsoft-corporation-msft.html",
+     "domain": "themarketsdaily.com",
+     "seen": "2026-10-21T10:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_aba250f827",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-21T09:30:00Z",
+   "last_seen": "2026-10-21T09:30:00Z",
+   "headlines": [
+    {
+     "title": "NVIDIA - Acquired Groq Is Moving Its Next - Gen LPUs From SRAM To 3D Stacked DRAM , Betting On Capacity Over Speed As Models Keep Growing",
+     "url": "https://wccftech.com/nvidia-groq-moving-next-gen-lpus-from-sram-to-3d-stacked-dram/",
+     "domain": "wccftech.com",
+     "seen": "2026-10-21T09:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_bfa4257f7c",
+   "entity_ids": [
+    "samsung"
+   ],
+   "first_seen": "2026-10-21T07:30:00Z",
+   "last_seen": "2026-10-21T08:45:00Z",
+   "headlines": [
+    {
+     "title": "Samsung Biologics Reports Third Quarter 2026 Financial Results",
+     "url": "https://www.prnewswire.com/news-releases/samsung-biologics-reports-third-quarter-2026-financial-results-302915131.html",
+     "domain": "prnewswire.com",
+     "seen": "2026-10-21T07:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Samsung Biologics Reports Third Quarter 2026 Financial Results",
+     "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/pr-newswire/samsung-biologics-reports-third-quarter-2026-financial-results/2450466",
+     "domain": "manilatimes.net",
+     "seen": "2026-10-21T08:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_616c1fc20f",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-21T07:30:00Z",
+   "last_seen": "2026-10-21T08:45:00Z",
+   "headlines": [
+    {
+     "title": "Musk says SpaceX - Tesla merger is  a good idea  as companies form deal committees",
+     "url": "https://www.rappler.com/technology/elon-musk-spacex-tesla-merger-good-idea-companies-form-deal-committees/",
+     "domain": "rappler.com",
+     "seen": "2026-10-21T07:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Musk says SpaceX - Tesla merger is  a good idea  as companies form deal committees",
+     "url": "https://bdnews24.com/business/fj1hrq6m2e",
+     "domain": "bdnews24.com",
+     "seen": "2026-10-21T08:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Musk says SpaceX - Tesla merger is  a good idea  as companies form deal committees",
+     "url": "https://dunyanews.tv/en/Technology/978811-musk-says-spacextesla-merger-is-a-good-idea-as-companies-form-deal-",
+     "domain": "dunyanews.tv",
+     "seen": "2026-10-21T08:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Musk Says Tesla and SpaceX Have Merger Committees , but a Deal Is Far From Certain",
+     "url": "https://www.ibtimes.co.uk/tesla-spacex-potential-merger-independent-committees-1826902",
+     "domain": "ibtimes.co.uk",
+     "seen": "2026-10-21T08:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_3e3d5c1e81",
+   "entity_ids": [
+    "oracle"
+   ],
+   "first_seen": "2026-10-21T08:45:00Z",
+   "last_seen": "2026-10-21T08:45:00Z",
+   "headlines": [
+    {
+     "title": "Allcargo Logistics transforms Financial Processes with Oracle Fusion Cloud Applications",
+     "url": "https://www.equitybulls.com/news/377334/allcargo-logistics-transforms-financial-processes-with-oracle-fusion-cloud-appli",
+     "domain": "equitybulls.com",
+     "seen": "2026-10-21T08:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_6535439bb5",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-21T07:30:00Z",
+   "last_seen": "2026-10-21T08:30:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic Reports $80 . 7 Billion Loss for First Half of the Year ; Major Financial Challenge Emerges Ahead of IPO",
+     "url": "https://www.khaskhabar.com/picture-news/gadget-news-anthropic-reports-$807-billion-loss-for-first-half-of-the-year-major-financial-challenge-emerges-ahead-of-ipo-news-hindi-1-854876-KKN.html",
+     "domain": "khaskhabar.com",
+     "seen": "2026-10-21T07:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic Reports Massive $80 . 7 Billion Net Loss In First Half Of 2026 As AI Firm Prepares For Reported November IPO",
+     "url": "https://www.freepressjournal.in/tech/anthropic-reports-massive-807-billion-net-loss-in-first-half-of-2026-as-ai-firm-prepares-for-reported-november-ipo",
+     "domain": "freepressjournal.in",
+     "seen": "2026-10-21T08:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_aea2550166",
    "entity_ids": [
@@ -210,23 +473,6 @@
      "url": "https://www.wenxuecity.com/news/2026/10/20/126811047.html",
      "domain": "wenxuecity.com",
      "seen": "2026-10-20T21:30:00Z",
-     "source": "gdelt"
-    }
-   ]
-  },
-  {
-   "id": "c_be9fbd1ab4",
-   "entity_ids": [
-    "tsmc"
-   ],
-   "first_seen": "2026-10-20T21:15:00Z",
-   "last_seen": "2026-10-20T21:15:00Z",
-   "headlines": [
-    {
-     "title": "Hyperion Asset Management Ltd Acquires 183 , 081 Shares of Taiwan Semiconductor Manufacturing Company Ltd . $TSM",
-     "url": "https://www.dailypolitical.com/2026/10/20/hyperion-asset-management-ltd-acquires-183081-shares-of-taiwan-semiconductor-manufacturing-company-ltd-tsm.html",
-     "domain": "dailypolitical.com",
-     "seen": "2026-10-20T21:15:00Z",
      "source": "gdelt"
     }
    ]
