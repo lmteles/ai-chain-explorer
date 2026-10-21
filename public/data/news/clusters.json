@@ -1,7 +1,213 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-21T12:25:30.367Z",
+ "updated_at": "2026-10-21T17:40:44.102Z",
  "clusters": [
+  {
+   "id": "c_91139c5f4d",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-21T16:45:00Z",
+   "last_seen": "2026-10-21T16:45:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic could spend $750bn on compute , The Wall Street Journal reports",
+     "url": "https://thenextweb.com/news/anthropic-s-1-750bn-compute-80-7bn-loss",
+     "domain": "thenextweb.com",
+     "seen": "2026-10-21T16:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_9f22f189ef",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-21T16:45:00Z",
+   "last_seen": "2026-10-21T16:45:00Z",
+   "headlines": [
+    {
+     "title": "Amazon ( AMZN ): Can Custom AI Silicon Outpace Capex Commitments ? ",
+     "url": "https://www.insidermonkey.com/news/amazon-amzn-can-custom-ai-silicon-outpace-capex-commitments-1857267/",
+     "domain": "insidermonkey.com",
+     "seen": "2026-10-21T16:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_a30e77d0fe",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-21T16:30:00Z",
+   "last_seen": "2026-10-21T16:30:00Z",
+   "headlines": [
+    {
+     "title": "Red Hat and Nvidia expand their partnership to secure autonomous AI agents",
+     "url": "https://siliconangle.com/2026/10/21/red-hat-and-nvidia-expand-their-partnership-to-secure-autonomous-ai-agents/",
+     "domain": "siliconangle.com",
+     "seen": "2026-10-21T16:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_2083123c56",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-21T16:15:00Z",
+   "last_seen": "2026-10-21T16:15:00Z",
+   "headlines": [
+    {
+     "title": "Musk vai unir SpaceX e Tesla ? Empresas formam comitê para avaliar fusão de US$ 3 , 6 trilhões",
+     "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/10/21/musk-vai-unir-spacex-e-tesla-empresas-formam-comite-para-avaliar-fusao-de-us-36-trilhoes.ghtml",
+     "domain": "oglobo.globo.com",
+     "seen": "2026-10-21T16:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_4c736fe145",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-21T16:15:00Z",
+   "last_seen": "2026-10-21T16:15:00Z",
+   "headlines": [
+    {
+     "title": "AWS Bets $18B On Germany AI Data Center Boom Amid Public Backlash",
+     "url": "https://www.crn.com/news/ai/2026/aws-bets-18b-on-germany-ai-data-center-boom-amid-public-backlash",
+     "domain": "crn.com",
+     "seen": "2026-10-21T16:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_24bef3c4f3",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-21T16:15:00Z",
+   "last_seen": "2026-10-21T16:15:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic Draft IPO Shows Massive Revenue Surge Amid Billion ‑ Dollar Equipment Commitments",
+     "url": "https://kenya-today.com/report-anthropics-draft-ipo-shows-massive-revenue-surge-amid-billiondollar-equipment-commitments-14603/",
+     "domain": "kenya-today.com",
+     "seen": "2026-10-21T16:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_616c1fc20f",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-21T07:30:00Z",
+   "last_seen": "2026-10-21T14:00:00Z",
+   "headlines": [
+    {
+     "title": "Musk says SpaceX - Tesla merger is  a good idea  as companies form deal committees",
+     "url": "https://www.rappler.com/technology/elon-musk-spacex-tesla-merger-good-idea-companies-form-deal-committees/",
+     "domain": "rappler.com",
+     "seen": "2026-10-21T07:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Musk says SpaceX - Tesla merger is  a good idea  as companies form deal committees",
+     "url": "https://bdnews24.com/business/fj1hrq6m2e",
+     "domain": "bdnews24.com",
+     "seen": "2026-10-21T08:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Musk says SpaceX - Tesla merger is  a good idea  as companies form deal committees",
+     "url": "https://dunyanews.tv/en/Technology/978811-musk-says-spacextesla-merger-is-a-good-idea-as-companies-form-deal-",
+     "domain": "dunyanews.tv",
+     "seen": "2026-10-21T08:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Musk Says Tesla and SpaceX Have Merger Committees , but a Deal Is Far From Certain",
+     "url": "https://www.ibtimes.co.uk/tesla-spacex-potential-merger-independent-committees-1826902",
+     "domain": "ibtimes.co.uk",
+     "seen": "2026-10-21T08:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SpaceX and Tesla Form Merger Exploration Committee That Excludes Elon Musk",
+     "url": "https://www.fool.com/investing/2026/10/21/spacex-and-tesla-form-merger-exploration-committee-that-excludes-elon-musk/?source=iedfolrf0000001",
+     "domain": "fool.com",
+     "seen": "2026-10-21T14:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SpaceX and Tesla Form Merger Exploration Committee That Excludes Elon Musk",
+     "url": "https://www.aol.com/articles/spacex-tesla-form-merger-exploration-132054000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-21T14:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_617dc9cea0",
+   "entity_ids": [
+    "apple"
+   ],
+   "first_seen": "2026-10-21T14:00:00Z",
+   "last_seen": "2026-10-21T14:00:00Z",
+   "headlines": [
+    {
+     "title": "Apple vs . Intel : Which Tech Stock Is a Better Buy in 2026 ? ",
+     "url": "https://www.fool.com/coverage/better-buy/2026/10/21/apple-vs-intel-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+     "domain": "fool.com",
+     "seen": "2026-10-21T14:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_4f9001eb37",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-21T14:00:00Z",
+   "last_seen": "2026-10-21T14:00:00Z",
+   "headlines": [
+    {
+     "title": "Why Elon Musk wants to merge Tesla and SpaceX into a $3 . 5 trillion supercompany",
+     "url": "https://www.the-independent.com/tech/elon-musk-tesla-spacex-merger-b3070467.html",
+     "domain": "the-independent.com",
+     "seen": "2026-10-21T14:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_6be56e4445",
+   "entity_ids": [
+    "oracle",
+    "nvidia"
+   ],
+   "first_seen": "2026-10-21T13:45:00Z",
+   "last_seen": "2026-10-21T13:45:00Z",
+   "headlines": [
+    {
+     "title": "TD Cowen Thinks Nvidia Is Helping Oracle Get Its Data Centers Financed",
+     "url": "https://www.aol.com/articles/td-cowen-thinks-nvidia-helping-124554000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-21T13:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_be9fbd1ab4",
    "entity_ids": [
@@ -181,44 +387,6 @@
      "title": "Samsung Biologics Reports Third Quarter 2026 Financial Results",
      "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/pr-newswire/samsung-biologics-reports-third-quarter-2026-financial-results/2450466",
      "domain": "manilatimes.net",
-     "seen": "2026-10-21T08:45:00Z",
-     "source": "gdelt"
-    }
-   ]
-  },
-  {
-   "id": "c_616c1fc20f",
-   "entity_ids": [
-    "tesla"
-   ],
-   "first_seen": "2026-10-21T07:30:00Z",
-   "last_seen": "2026-10-21T08:45:00Z",
-   "headlines": [
-    {
-     "title": "Musk says SpaceX - Tesla merger is  a good idea  as companies form deal committees",
-     "url": "https://www.rappler.com/technology/elon-musk-spacex-tesla-merger-good-idea-companies-form-deal-committees/",
-     "domain": "rappler.com",
-     "seen": "2026-10-21T07:30:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Musk says SpaceX - Tesla merger is  a good idea  as companies form deal committees",
-     "url": "https://bdnews24.com/business/fj1hrq6m2e",
-     "domain": "bdnews24.com",
-     "seen": "2026-10-21T08:30:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Musk says SpaceX - Tesla merger is  a good idea  as companies form deal committees",
-     "url": "https://dunyanews.tv/en/Technology/978811-musk-says-spacextesla-merger-is-a-good-idea-as-companies-form-deal-",
-     "domain": "dunyanews.tv",
-     "seen": "2026-10-21T08:45:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Musk Says Tesla and SpaceX Have Merger Committees , but a Deal Is Far From Certain",
-     "url": "https://www.ibtimes.co.uk/tesla-spacex-potential-merger-independent-committees-1826902",
-     "domain": "ibtimes.co.uk",
      "seen": "2026-10-21T08:45:00Z",
      "source": "gdelt"
     }
