@@ -1,6 +1,6 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-21T21:59:19.159Z",
+ "updated_at": "2026-10-22T05:22:10.826Z",
  "clusters": [
   {
    "id": "c_69bf243e6f",
@@ -8,7 +8,7 @@
     "meta"
    ],
    "first_seen": "2026-10-21T18:30:00Z",
-   "last_seen": "2026-10-21T21:30:00Z",
+   "last_seen": "2026-10-22T05:00:00Z",
    "headlines": [
     {
      "title": "Meta ordered to pay New Mexico $25 billion after Cambridge Analytica trial",
@@ -324,6 +324,247 @@
      "domain": "whdh.com",
      "seen": "2026-10-21T21:30:00Z",
      "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay $25 billion for deceiving users about privacy on Facebook",
+     "url": "https://greatbendpost.com/posts/e8427d04-666c-41a5-907c-69a8149f9d61",
+     "domain": "greatbendpost.com",
+     "seen": "2026-10-22T02:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay $25 billion for deceiving users about privacy on Facebook",
+     "url": "https://hayspost.com/posts/e8427d04-666c-41a5-907c-69a8149f9d61",
+     "domain": "hayspost.com",
+     "seen": "2026-10-22T03:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay $25 billion for deceiving users about privacy on Facebook",
+     "url": "https://jcpost.com/posts/e8427d04-666c-41a5-907c-69a8149f9d61",
+     "domain": "jcpost.com",
+     "seen": "2026-10-22T03:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta fined $25 billion in Cambridge Analytica privacy scandal",
+     "url": "http://www.albuquerqueexpress.com/news/279391162/meta-fined-25-billion-in-cambridge-analytica-privacy-scandal",
+     "domain": "albuquerqueexpress.com",
+     "seen": "2026-10-22T03:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta fined $25 billion in Cambridge Analytica privacy scandal",
+     "url": "http://www.caribbeanherald.com/news/279391162/meta-fined-25-billion-in-cambridge-analytica-privacy-scandal",
+     "domain": "caribbeanherald.com",
+     "seen": "2026-10-22T04:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta ordered to pay New Mexico $25b for deceiving users about privacy on Facebook",
+     "url": "https://www.bostonglobe.com/2026/10/21/business/meta-cambridge-analytica-new-mexico/",
+     "domain": "bostonglobe.com",
+     "seen": "2026-10-22T05:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_38dc7a1521",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-22T04:30:00Z",
+   "last_seen": "2026-10-22T05:00:00Z",
+   "headlines": [
+    {
+     "title": "Meta Q3 revenue rises 26 % to USD 64 . 6 billion , net income jumps 264 % ",
+     "url": "http://www.bignewsnetwork.com/news/279391407/meta-q3-revenue-rises-26-to-usd-646-billion-net-income-jumps-264",
+     "domain": "bignewsnetwork.com",
+     "seen": "2026-10-22T04:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta Q3 revenue rises 26 % to USD 64 . 6 billion , net income jumps 264 % ",
+     "url": "https://timesofoman.com/article/178257-meta-q3-revenue-rises-26-to-usd-646-billion-net-income-jumps-264",
+     "domain": "timesofoman.com",
+     "seen": "2026-10-22T05:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_8ed7aeb6aa",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-22T03:15:00Z",
+   "last_seen": "2026-10-22T04:45:00Z",
+   "headlines": [
+    {
+     "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-22-meta-strikes-deal-to-keep-zuckerberg-in-california-after-wealth-tax-concerns/",
+     "domain": "dailymaverick.co.za",
+     "seen": "2026-10-22T03:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
+     "url": "https://bdnews24.com/technology/fqtgw270wp",
+     "domain": "bdnews24.com",
+     "seen": "2026-10-22T03:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "California wealth tax : Meta strikes deal to retain Zuckerberg as CEO",
+     "url": "https://www.moneycontrol.com/world/california-wealth-tax-meta-strikes-deal-to-retain-zuckerberg-as-ceo-article-14057217.html",
+     "domain": "moneycontrol.com",
+     "seen": "2026-10-22T04:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_c7875c19a7",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-22T04:30:00Z",
+   "last_seen": "2026-10-22T04:30:00Z",
+   "headlines": [
+    {
+     "title": "Meta Faces Record $25bn Fine in New Mexico Over Facebook Privacy and Safety Failures",
+     "url": "https://slguardian.org/meta-faces-record-25bn-fine-in-new-mexico-over-facebook-privacy-and-safety-failures/",
+     "domain": "slguardian.org",
+     "seen": "2026-10-22T04:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_97baf3328c",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-22T03:45:00Z",
+   "last_seen": "2026-10-22T03:45:00Z",
+   "headlines": [
+    {
+     "title": "Meta Cops $35B Fine As Its Revenue Climbs A Quarter",
+     "url": "https://www.bandt.com.au/meta-cops-35b-fine-as-its-revenue-climbs-a-quarter/",
+     "domain": "bandt.com.au",
+     "seen": "2026-10-22T03:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_bb45b6e92e",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-22T03:45:00Z",
+   "last_seen": "2026-10-22T03:45:00Z",
+   "headlines": [
+    {
+     "title": "Tesla cuts spending before potential SpaceX deal even as Musk bets future on AI , robots",
+     "url": "https://dunyanews.tv/en/Technology/978985-tesla-cuts-spending-before-potential-spacex-deal-even-as-musk-bets-fut",
+     "domain": "dunyanews.tv",
+     "seen": "2026-10-22T03:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_616c1fc20f",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-21T07:30:00Z",
+   "last_seen": "2026-10-22T03:15:00Z",
+   "headlines": [
+    {
+     "title": "Musk says SpaceX - Tesla merger is  a good idea  as companies form deal committees",
+     "url": "https://www.rappler.com/technology/elon-musk-spacex-tesla-merger-good-idea-companies-form-deal-committees/",
+     "domain": "rappler.com",
+     "seen": "2026-10-21T07:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Musk says SpaceX - Tesla merger is  a good idea  as companies form deal committees",
+     "url": "https://bdnews24.com/business/fj1hrq6m2e",
+     "domain": "bdnews24.com",
+     "seen": "2026-10-21T08:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Musk says SpaceX - Tesla merger is  a good idea  as companies form deal committees",
+     "url": "https://dunyanews.tv/en/Technology/978811-musk-says-spacextesla-merger-is-a-good-idea-as-companies-form-deal-",
+     "domain": "dunyanews.tv",
+     "seen": "2026-10-21T08:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Musk Says Tesla and SpaceX Have Merger Committees , but a Deal Is Far From Certain",
+     "url": "https://www.ibtimes.co.uk/tesla-spacex-potential-merger-independent-committees-1826902",
+     "domain": "ibtimes.co.uk",
+     "seen": "2026-10-21T08:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SpaceX and Tesla Form Merger Exploration Committee That Excludes Elon Musk",
+     "url": "https://www.fool.com/investing/2026/10/21/spacex-and-tesla-form-merger-exploration-committee-that-excludes-elon-musk/?source=iedfolrf0000001",
+     "domain": "fool.com",
+     "seen": "2026-10-21T14:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "SpaceX and Tesla Form Merger Exploration Committee That Excludes Elon Musk",
+     "url": "https://www.aol.com/articles/spacex-tesla-form-merger-exploration-132054000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-21T14:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "A Tesla - SpaceX merger may boost Elon Musk fortune by $110 billion",
+     "url": "https://www.moneycontrol.com/news/business/companies/a-tesla-spacex-merger-may-boost-elon-musk-s-fortune-by-110-billion-14057060.html",
+     "domain": "moneycontrol.com",
+     "seen": "2026-10-22T03:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_a463348c91",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-22T03:15:00Z",
+   "last_seen": "2026-10-22T03:15:00Z",
+   "headlines": [
+    {
+     "title": "Nvidia lines up six suppliers to expand substrate , packaging , and testing capacity",
+     "url": "https://www.digitimes.com/news/a20261022PR201/nvidia-capacity-testing-substrate-packaging.html",
+     "domain": "digitimes.com",
+     "seen": "2026-10-22T03:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_67cc4d7a96",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-22T02:45:00Z",
+   "last_seen": "2026-10-22T02:45:00Z",
+   "headlines": [
+    {
+     "title": "Social media giants face record $26 billion in privacy penalties since 2020 , Meta leads at $23 . 7 billion – NaturalNews . com",
+     "url": "https://www.naturalnews.com/2026-10-21-socmed-giants-face-record-privacy-penalties-since-2020.html",
+     "domain": "naturalnews.com",
+     "seen": "2026-10-22T02:45:00Z",
+     "source": "gdelt"
     }
    ]
   },
@@ -607,58 +848,6 @@
      "url": "https://kenya-today.com/report-anthropics-draft-ipo-shows-massive-revenue-surge-amid-billiondollar-equipment-commitments-14603/",
      "domain": "kenya-today.com",
      "seen": "2026-10-21T16:15:00Z",
-     "source": "gdelt"
-    }
-   ]
-  },
-  {
-   "id": "c_616c1fc20f",
-   "entity_ids": [
-    "tesla"
-   ],
-   "first_seen": "2026-10-21T07:30:00Z",
-   "last_seen": "2026-10-21T14:00:00Z",
-   "headlines": [
-    {
-     "title": "Musk says SpaceX - Tesla merger is  a good idea  as companies form deal committees",
-     "url": "https://www.rappler.com/technology/elon-musk-spacex-tesla-merger-good-idea-companies-form-deal-committees/",
-     "domain": "rappler.com",
-     "seen": "2026-10-21T07:30:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Musk says SpaceX - Tesla merger is  a good idea  as companies form deal committees",
-     "url": "https://bdnews24.com/business/fj1hrq6m2e",
-     "domain": "bdnews24.com",
-     "seen": "2026-10-21T08:30:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Musk says SpaceX - Tesla merger is  a good idea  as companies form deal committees",
-     "url": "https://dunyanews.tv/en/Technology/978811-musk-says-spacextesla-merger-is-a-good-idea-as-companies-form-deal-",
-     "domain": "dunyanews.tv",
-     "seen": "2026-10-21T08:45:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Musk Says Tesla and SpaceX Have Merger Committees , but a Deal Is Far From Certain",
-     "url": "https://www.ibtimes.co.uk/tesla-spacex-potential-merger-independent-committees-1826902",
-     "domain": "ibtimes.co.uk",
-     "seen": "2026-10-21T08:45:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "SpaceX and Tesla Form Merger Exploration Committee That Excludes Elon Musk",
-     "url": "https://www.fool.com/investing/2026/10/21/spacex-and-tesla-form-merger-exploration-committee-that-excludes-elon-musk/?source=iedfolrf0000001",
-     "domain": "fool.com",
-     "seen": "2026-10-21T14:00:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "SpaceX and Tesla Form Merger Exploration Committee That Excludes Elon Musk",
-     "url": "https://www.aol.com/articles/spacex-tesla-form-merger-exploration-132054000.html",
-     "domain": "aol.com",
-     "seen": "2026-10-21T14:00:00Z",
      "source": "gdelt"
     }
    ]
