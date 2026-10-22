@@ -351,45 +351,6 @@
     ]
   },
   {
-    "adapter": "fred",
-    "started_at": "2026-10-14T07:46:39.921Z",
-    "finished_at": "2026-10-14T07:46:41.154Z",
-    "status": "ok",
-    "rows": 1,
-    "errors": [],
-    "notes": [
-      "macro_dgs10 = 5.24 (2026-10-09)"
-    ]
-  },
-  {
-    "adapter": "treasury",
-    "started_at": "2026-10-14T07:46:41.156Z",
-    "finished_at": "2026-10-14T07:46:42.045Z",
-    "status": "ok",
-    "rows": 3,
-    "errors": [],
-    "notes": [
-      "macro_federal_debt = 40301.48 (2026-10-09)",
-      "macro_interest_public = 1068.46 (2026-09-30)",
-      "macro_interest_total = 1360.4 (2026-09-30)"
-    ]
-  },
-  {
-    "adapter": "quotes",
-    "started_at": "2026-10-14T07:46:42.047Z",
-    "finished_at": "2026-10-14T07:46:47.119Z",
-    "status": "ok",
-    "rows": 468,
-    "errors": [],
-    "notes": [
-      "softbank: 9984.T not covered by Financial Modeling Prep",
-      "oracle: ORCL not covered on the current Financial Modeling Prep plan",
-      "broadcom: AVGO not covered on the current Financial Modeling Prep plan",
-      "samsung: 005930.KS not covered by Financial Modeling Prep",
-      "asml: ASML not covered on the current Financial Modeling Prep plan"
-    ]
-  },
-  {
     "adapter": "sec",
     "started_at": "2026-10-14T11:50:28.200Z",
     "finished_at": "2026-10-14T11:50:32.158Z",
@@ -3048,6 +3009,47 @@
     "adapter": "quotes",
     "started_at": "2026-10-21T22:27:59.595Z",
     "finished_at": "2026-10-21T22:28:09.809Z",
+    "status": "ok",
+    "rows": 468,
+    "errors": [],
+    "notes": [
+      "softbank: 9984.T not covered by Financial Modeling Prep",
+      "oracle: ORCL not covered on the current Financial Modeling Prep plan",
+      "broadcom: AVGO not covered on the current Financial Modeling Prep plan",
+      "samsung: 005930.KS not covered by Financial Modeling Prep",
+      "asml: ASML not covered on the current Financial Modeling Prep plan"
+    ]
+  },
+  {
+    "adapter": "fred",
+    "started_at": "2026-10-22T01:36:45.774Z",
+    "finished_at": "2026-10-22T01:36:46.095Z",
+    "status": "failed",
+    "rows": 0,
+    "errors": [
+      "FRED CSV: unexpected header \"<!doctype html>\""
+    ],
+    "notes": [
+      "kept 1 stored item(s)"
+    ]
+  },
+  {
+    "adapter": "treasury",
+    "started_at": "2026-10-22T01:36:46.098Z",
+    "finished_at": "2026-10-22T01:36:46.725Z",
+    "status": "ok",
+    "rows": 3,
+    "errors": [],
+    "notes": [
+      "macro_federal_debt = 40439.55 (2026-10-20)",
+      "macro_interest_public = 1068.46 (2026-09-30)",
+      "macro_interest_total = 1360.4 (2026-09-30)"
+    ]
+  },
+  {
+    "adapter": "quotes",
+    "started_at": "2026-10-22T01:36:46.728Z",
+    "finished_at": "2026-10-22T01:36:51.837Z",
     "status": "ok",
     "rows": 468,
     "errors": [],
