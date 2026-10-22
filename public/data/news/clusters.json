@@ -1,14 +1,199 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-22T17:38:56.609Z",
+ "updated_at": "2026-10-22T21:56:38.443Z",
  "clusters": [
+  {
+   "id": "c_8ed7aeb6aa",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-22T03:15:00Z",
+   "last_seen": "2026-10-22T21:30:00Z",
+   "headlines": [
+    {
+     "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
+     "url": "https://www.dailymaverick.co.za/article/2026-10-22-meta-strikes-deal-to-keep-zuckerberg-in-california-after-wealth-tax-concerns/",
+     "domain": "dailymaverick.co.za",
+     "seen": "2026-10-22T03:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
+     "url": "https://bdnews24.com/technology/fqtgw270wp",
+     "domain": "bdnews24.com",
+     "seen": "2026-10-22T03:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "California wealth tax : Meta strikes deal to retain Zuckerberg as CEO",
+     "url": "https://www.moneycontrol.com/world/california-wealth-tax-meta-strikes-deal-to-retain-zuckerberg-as-ceo-article-14057217.html",
+     "domain": "moneycontrol.com",
+     "seen": "2026-10-22T04:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Zuckerberg strikes deal with Meta to stay in CA as billionaire tax vote looms",
+     "url": "https://www.wxyz.com/business/company-news/zuckerberg-strikes-deal-with-metas-board-to-stay-in-california-as-billionaire-tax-vote-looms",
+     "domain": "wxyz.com",
+     "seen": "2026-10-22T20:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Zuckerberg strikes deal with Meta to stay in CA as billionaire tax vote looms",
+     "url": "https://www.kbzk.com/business/company-news/zuckerberg-strikes-deal-with-metas-board-to-stay-in-california-as-billionaire-tax-vote-looms",
+     "domain": "kbzk.com",
+     "seen": "2026-10-22T20:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Zuckerberg strikes deal with Meta to stay in CA as billionaire tax vote looms",
+     "url": "https://www.kxlf.com/business/company-news/zuckerberg-strikes-deal-with-metas-board-to-stay-in-california-as-billionaire-tax-vote-looms",
+     "domain": "kxlf.com",
+     "seen": "2026-10-22T21:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Zuckerberg strikes deal with Meta to stay in CA as billionaire tax vote looms",
+     "url": "https://www.wtxl.com/business/company-news/zuckerberg-strikes-deal-with-metas-board-to-stay-in-california-as-billionaire-tax-vote-looms",
+     "domain": "wtxl.com",
+     "seen": "2026-10-22T21:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_5b1eb89ab5",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-22T21:15:00Z",
+   "last_seen": "2026-10-22T21:15:00Z",
+   "headlines": [
+    {
+     "title": "Meta Earnings Per Share Were $3 . 83 but the Real Figure Tells a Surprising Story",
+     "url": "https://www.aol.com/articles/meta-earnings-per-share-were-193821000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-22T21:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_c5a1a31d6d",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-10-22T21:00:00Z",
+   "last_seen": "2026-10-22T21:00:00Z",
+   "headlines": [
+    {
+     "title": "Ex - OpenAI science head Kevin Weil launches Warp Sciences with $215M",
+     "url": "https://thenextweb.com/news/warp-sciences-kevin-weil-215m-ai-drug-lab",
+     "domain": "thenextweb.com",
+     "seen": "2026-10-22T21:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_cc3a2f7904",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-22T19:15:00Z",
+   "last_seen": "2026-10-22T19:15:00Z",
+   "headlines": [
+    {
+     "title": "Mark Zuckerberg considered selling $110 million Palo Alto home over 5 % billionaire tax ; strikes 8 - year Meta deal to stay in California as $12 billion tax bill threatens voting control",
+     "url": "https://timesofindia.indiatimes.com/world/us/mark-zuckerberg-considered-selling-110-million-palo-alto-home-over-5-billionaire-tax-strikes-8-year-meta-deal-to-stay-in-california-as-12-billion-tax-bill-threatens-voting-control/articleshow/135125981.cms",
+     "domain": "timesofindia.indiatimes.com",
+     "seen": "2026-10-22T19:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_fa2ca1c8cf",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-22T19:15:00Z",
+   "last_seen": "2026-10-22T19:15:00Z",
+   "headlines": [
+    {
+     "title": "GE Vernova Slumps 11 % as Meta Spending Outlook Stokes AI Financing Worries ; Vertiv Holdings Drops 7 %, Eaton Slides 6 % ",
+     "url": "https://www.aol.com/articles/ge-vernova-slumps-11-meta-183940000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-22T19:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_3d877016d8",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-22T17:15:00Z",
+   "last_seen": "2026-10-22T17:15:00Z",
+   "headlines": [
+    {
+     "title": "Redington Gulf Signs Strategic Collaboration Agreement with AWS to Accelerate AI Adoption",
+     "url": "https://www.equitybulls.com/news/377499/redington-gulf-signs-strategic-collaboration-agreement-with-aws-to-accelerate-ai",
+     "domain": "equitybulls.com",
+     "seen": "2026-10-22T17:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_f01c8064ce",
+   "entity_ids": [
+    "microsoft"
+   ],
+   "first_seen": "2026-10-22T16:00:00Z",
+   "last_seen": "2026-10-22T16:00:00Z",
+   "headlines": [
+    {
+     "title": "Microsoft Stock Could Be Closer to Its Next Big Breakout Than Investors Think",
+     "url": "https://247wallst.com/investing/2026/10/22/microsoft-stock-could-be-closer-to-its-next-big-breakout-than-investors-think/",
+     "domain": "247wallst.com",
+     "seen": "2026-10-22T16:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Microsoft Stock Could Be Closer to Its Next Big Breakout Than Investors Think",
+     "url": "https://www.aol.com/articles/microsoft-stock-could-closer-next-153056000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-22T16:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_61e0c420f8",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-22T16:00:00Z",
+   "last_seen": "2026-10-22T16:00:00Z",
+   "headlines": [
+    {
+     "title": "Tesla , SpaceX merger could create $3 . 5tn giant",
+     "url": "https://www.thenews.com.pk/latest/1420898-tesla-spacex-merger-could-create-35tn-giant",
+     "domain": "thenews.com.pk",
+     "seen": "2026-10-22T16:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_69bf243e6f",
    "entity_ids": [
     "meta"
    ],
    "first_seen": "2026-10-21T18:30:00Z",
-   "last_seen": "2026-10-22T05:00:00Z",
+   "last_seen": "2026-10-22T15:30:00Z",
    "headlines": [
     {
      "title": "Meta ordered to pay New Mexico $25 billion after Cambridge Analytica trial",
@@ -366,6 +551,64 @@
      "domain": "bostonglobe.com",
      "seen": "2026-10-22T05:00:00Z",
      "source": "gdelt"
+    },
+    {
+     "title": "Meta to Pay Historic $25 Billion in New Mexico Deception Case",
+     "url": "https://www.insurancejournal.com/news/west/2026/10/22/890016.htm",
+     "domain": "insurancejournal.com",
+     "seen": "2026-10-22T15:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_19288596c7",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-22T15:30:00Z",
+   "last_seen": "2026-10-22T15:30:00Z",
+   "headlines": [
+    {
+     "title": "SpaceX et Tesla étudient une fusion aux enjeux financiers et industriels majeurs",
+     "url": "https://www.begeek.fr/spacex-et-tesla-etudient-une-fusion-aux-enjeux-financiers-et-industriels-majeurs-441731",
+     "domain": "begeek.fr",
+     "seen": "2026-10-22T15:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_a0aa7dd4a8",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-22T15:15:00Z",
+   "last_seen": "2026-10-22T15:15:00Z",
+   "headlines": [
+    {
+     "title": "Is Tesla a Buy After Its Latest Earnings Report ? ",
+     "url": "https://www.aol.com/articles/tesla-buy-latest-earnings-report-142806000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-22T15:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_4fb004222f",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-22T15:15:00Z",
+   "last_seen": "2026-10-22T15:15:00Z",
+   "headlines": [
+    {
+     "title": "FinancialContent - Why Meta ( META ) shares are getting obliterated today",
+     "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-22-why-meta-meta-shares-are-getting-obliterated-today",
+     "domain": "markets.financialcontent.com",
+     "seen": "2026-10-22T15:15:00Z",
+     "source": "gdelt"
     }
    ]
   },
@@ -389,37 +632,6 @@
      "url": "https://timesofoman.com/article/178257-meta-q3-revenue-rises-26-to-usd-646-billion-net-income-jumps-264",
      "domain": "timesofoman.com",
      "seen": "2026-10-22T05:00:00Z",
-     "source": "gdelt"
-    }
-   ]
-  },
-  {
-   "id": "c_8ed7aeb6aa",
-   "entity_ids": [
-    "meta"
-   ],
-   "first_seen": "2026-10-22T03:15:00Z",
-   "last_seen": "2026-10-22T04:45:00Z",
-   "headlines": [
-    {
-     "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
-     "url": "https://www.dailymaverick.co.za/article/2026-10-22-meta-strikes-deal-to-keep-zuckerberg-in-california-after-wealth-tax-concerns/",
-     "domain": "dailymaverick.co.za",
-     "seen": "2026-10-22T03:15:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
-     "url": "https://bdnews24.com/technology/fqtgw270wp",
-     "domain": "bdnews24.com",
-     "seen": "2026-10-22T03:30:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "California wealth tax : Meta strikes deal to retain Zuckerberg as CEO",
-     "url": "https://www.moneycontrol.com/world/california-wealth-tax-meta-strikes-deal-to-retain-zuckerberg-as-ceo-article-14057217.html",
-     "domain": "moneycontrol.com",
-     "seen": "2026-10-22T04:45:00Z",
      "source": "gdelt"
     }
    ]
