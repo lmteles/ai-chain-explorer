@@ -1,14 +1,162 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-23T05:23:34.625Z",
+ "updated_at": "2026-10-23T12:07:56.596Z",
  "clusters": [
+  {
+   "id": "c_21cd40fa41",
+   "entity_ids": [
+    "samsung"
+   ],
+   "first_seen": "2026-10-23T11:30:00Z",
+   "last_seen": "2026-10-23T11:30:00Z",
+   "headlines": [
+    {
+     "title": "Samsung reportedly orders final tools for first Taylor fab as Texas site nears 2nm output cap",
+     "url": "https://www.digitimes.com/news/a20261023VL219/samsung-texas-2nm-fab.html",
+     "domain": "digitimes.com",
+     "seen": "2026-10-23T11:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_be9fbd1ab4",
+   "entity_ids": [
+    "tsmc"
+   ],
+   "first_seen": "2026-10-20T21:15:00Z",
+   "last_seen": "2026-10-23T11:00:00Z",
+   "headlines": [
+    {
+     "title": "Hyperion Asset Management Ltd Acquires 183 , 081 Shares of Taiwan Semiconductor Manufacturing Company Ltd . $TSM",
+     "url": "https://www.dailypolitical.com/2026/10/20/hyperion-asset-management-ltd-acquires-183081-shares-of-taiwan-semiconductor-manufacturing-company-ltd-tsm.html",
+     "domain": "dailypolitical.com",
+     "seen": "2026-10-20T21:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Robbins Farley Makes New Investment in Taiwan Semiconductor Manufacturing Company Ltd . $TSM",
+     "url": "https://www.themarketsdaily.com/2026/10/21/robbins-farley-makes-new-investment-in-taiwan-semiconductor-manufacturing-company-ltd-tsm.html",
+     "domain": "themarketsdaily.com",
+     "seen": "2026-10-21T12:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Taiwan Semiconductor Manufacturing Company Ltd . $TSM Stock Acquired by Sepio Capital LP",
+     "url": "https://www.themarketsdaily.com/2026/10/23/taiwan-semiconductor-manufacturing-company-ltd-tsm-stock-acquired-by-sepio-capital-lp.html",
+     "domain": "themarketsdaily.com",
+     "seen": "2026-10-23T11:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_e28a5df080",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-23T11:00:00Z",
+   "last_seen": "2026-10-23T11:00:00Z",
+   "headlines": [
+    {
+     "title": "Amazon . com , Inc . $AMZN Stock Holdings Lifted by Meridian Investment Counsel Inc . ",
+     "url": "https://www.themarketsdaily.com/2026/10/23/amazon-com-inc-amzn-stock-holdings-lifted-by-meridian-investment-counsel-inc.html",
+     "domain": "themarketsdaily.com",
+     "seen": "2026-10-23T11:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_15c1f8ef7a",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-10-23T00:00:00.000Z",
+   "last_seen": "2026-10-23T10:00:00Z",
+   "headlines": [
+    {
+     "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+     "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+     "domain": "openai.com",
+     "seen": "2026-10-23T00:00:00.000Z",
+     "source": "rss"
+    },
+    {
+     "title": "OpenAI partners with Poland NASK to strengthen AI safety",
+     "url": "https://www.thenews.com.pk/latest/1420994-openai-partners-with-polands-nask-to-strengthen-ai-safety",
+     "domain": "thenews.com.pk",
+     "seen": "2026-10-23T10:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_147bd6eff1",
+   "entity_ids": [
+    "openai",
+    "alphabet"
+   ],
+   "first_seen": "2026-10-23T10:00:00Z",
+   "last_seen": "2026-10-23T10:00:00Z",
+   "headlines": [
+    {
+     "title": "OpenAI partners with Google Cloud to sell flagship AI models to enterprises",
+     "url": "https://www.thenews.com.pk/latest/1420790-openai-partners-with-google-cloud-to-sell-flagship-ai-models-to-enterprises",
+     "domain": "thenews.com.pk",
+     "seen": "2026-10-23T10:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_eba1b9361a",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-23T07:15:00Z",
+   "last_seen": "2026-10-23T09:15:00Z",
+   "headlines": [
+    {
+     "title": "Tesla Automotive Revenue Fell 3 %, and Energy Generation and Storage Tumbled 16 %. Should Investors Still View Tesla as a Car Company ? ",
+     "url": "https://www.fool.com/investing/2026/10/23/teslas-automotive-revenue-fell-3-and-energy-genera/?source=iedfolrf0000001",
+     "domain": "fool.com",
+     "seen": "2026-10-23T07:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Tesla Automotive Revenue Fell 3 %, and Energy Generation and Storage Tumbled 16 %. Should Investors Still View Tesla as a Car Company ? ",
+     "url": "https://www.aol.com/articles/teslas-automotive-revenue-fell-3-070500000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-23T09:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_89f6e8f235",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-23T08:45:00Z",
+   "last_seen": "2026-10-23T08:45:00Z",
+   "headlines": [
+    {
+     "title": "Tesla enfrenta nueva investigación por  frenada fantasma  y afecta a 416 , 000 autos – Telemundo Miami ( 51 ) ",
+     "url": "https://www.telemundo51.com/noticias/eeuu/tesla-enfrenta-nueva-investigacion-por-frenada-fantasma/2271549/",
+     "domain": "telemundo51.com",
+     "seen": "2026-10-23T08:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_8ed7aeb6aa",
    "entity_ids": [
     "meta"
    ],
    "first_seen": "2026-10-22T03:15:00Z",
-   "last_seen": "2026-10-22T21:30:00Z",
+   "last_seen": "2026-10-23T08:30:00Z",
    "headlines": [
     {
      "title": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
@@ -57,6 +205,37 @@
      "url": "https://www.wtxl.com/business/company-news/zuckerberg-strikes-deal-with-metas-board-to-stay-in-california-as-billionaire-tax-vote-looms",
      "domain": "wtxl.com",
      "seen": "2026-10-22T21:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Zuckerberg strikes Meta deal to cover potential California billionaire tax",
+     "url": "https://www.business-standard.com/world-news/zuckerberg-strikes-meta-deal-to-cover-potential-california-billionaire-tax-126102300044_1.html",
+     "domain": "business-standard.com",
+     "seen": "2026-10-23T05:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Zuckerberg makes deal with Meta to help him pay billionaire tax if it passes",
+     "url": "https://abcnews.com/Technology/wireStory/zuckerberg-makes-deal-meta-pay-billionaire-tax-passes-137488685",
+     "domain": "abcnews.com",
+     "seen": "2026-10-23T08:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_1e70e33a00",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-23T05:00:00Z",
+   "last_seen": "2026-10-23T05:00:00Z",
+   "headlines": [
+    {
+     "title": "Mark Zuckerberg makes deal with Meta to help him pay billionaire tax if it passes",
+     "url": "https://www.thehindu.com/sci-tech/technology/mark-zuckerberg-makes-deal-with-meta-to-help-him-pay-billionaire-tax-if-it-passes/article71614441.ece",
+     "domain": "thehindu.com",
+     "seen": "2026-10-23T05:00:00Z",
      "source": "gdelt"
     }
    ]
@@ -1095,30 +1274,6 @@
      "url": "https://www.aol.com/articles/td-cowen-thinks-nvidia-helping-124554000.html",
      "domain": "aol.com",
      "seen": "2026-10-21T13:45:00Z",
-     "source": "gdelt"
-    }
-   ]
-  },
-  {
-   "id": "c_be9fbd1ab4",
-   "entity_ids": [
-    "tsmc"
-   ],
-   "first_seen": "2026-10-20T21:15:00Z",
-   "last_seen": "2026-10-21T12:00:00Z",
-   "headlines": [
-    {
-     "title": "Hyperion Asset Management Ltd Acquires 183 , 081 Shares of Taiwan Semiconductor Manufacturing Company Ltd . $TSM",
-     "url": "https://www.dailypolitical.com/2026/10/20/hyperion-asset-management-ltd-acquires-183081-shares-of-taiwan-semiconductor-manufacturing-company-ltd-tsm.html",
-     "domain": "dailypolitical.com",
-     "seen": "2026-10-20T21:15:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Robbins Farley Makes New Investment in Taiwan Semiconductor Manufacturing Company Ltd . $TSM",
-     "url": "https://www.themarketsdaily.com/2026/10/21/robbins-farley-makes-new-investment-in-taiwan-semiconductor-manufacturing-company-ltd-tsm.html",
-     "domain": "themarketsdaily.com",
-     "seen": "2026-10-21T12:00:00Z",
      "source": "gdelt"
     }
    ]
