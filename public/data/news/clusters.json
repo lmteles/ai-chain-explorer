@@ -1,7 +1,75 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-23T21:41:48.617Z",
+ "updated_at": "2026-10-24T05:02:47.664Z",
  "clusters": [
+  {
+   "id": "c_b60ab716d6",
+   "entity_ids": [
+    "apple"
+   ],
+   "first_seen": "2026-10-24T00:30:00Z",
+   "last_seen": "2026-10-24T00:30:00Z",
+   "headlines": [
+    {
+     "title": "Other Barks & Bites for Friday , October 23 : EUIPO Announces Record Number of Counterfeits Seized in 2025 ; EPO Study Shows Growing Importance of Tech Transfer Offices ; and Taction Seeks to Add Damages to $5 . 7 Billion Apple Infringement Verdict",
+     "url": "https://ipwatchdog.com/2026/10/23/other-barks-epo-study-shows-growing-importance-of-tech-transfer-offices-and-taction-seeks-to-add-damages/",
+     "domain": "ipwatchdog.com",
+     "seen": "2026-10-24T00:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_1d9157deca",
+   "entity_ids": [
+    "oracle"
+   ],
+   "first_seen": "2026-10-23T23:00:00Z",
+   "last_seen": "2026-10-23T23:00:00Z",
+   "headlines": [
+    {
+     "title": "Oracle Commits $1 Billion Over Four Years to Expand Partner Support",
+     "url": "https://econotimes.com/Oracle-Commits-1-Billion-Over-Four-Years-to-Expand-Partner-Support-1761714",
+     "domain": "econotimes.com",
+     "seen": "2026-10-23T23:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_d5ce79b99c",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-10-23T12:30:00Z",
+   "last_seen": "2026-10-23T12:30:00Z",
+   "headlines": [
+    {
+     "title": "Amazon Stock Is Up 8 % This Year . Is It Still a Buy Ahead of Earnings ? ",
+     "url": "https://www.morningstar.com/stocks/amazon-stock-is-up-8-this-year-is-it-still-buy-ahead-earnings",
+     "domain": "morningstar.com",
+     "seen": "2026-10-23T12:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_ecdf5afc89",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-10-23T12:00:00Z",
+   "last_seen": "2026-10-23T12:00:00Z",
+   "headlines": [
+    {
+     "title": "OpenAI Nears $30 Billion Funding Round as UAE Investors Back $1 . 25 Trillion Valuation",
+     "url": "https://www.ibtimes.com/openai-nears-30-billion-funding-round-uae-investors-back-125-trillion-valuation-3808907",
+     "domain": "ibtimes.com",
+     "seen": "2026-10-23T12:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_21cd40fa41",
    "entity_ids": [
