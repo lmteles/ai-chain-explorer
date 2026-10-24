@@ -1,7 +1,166 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-24T05:02:47.664Z",
+ "updated_at": "2026-10-24T11:39:35.717Z",
  "clusters": [
+  {
+   "id": "c_6535439bb5",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-21T07:30:00Z",
+   "last_seen": "2026-10-24T10:30:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic Reports $80 . 7 Billion Loss for First Half of the Year ; Major Financial Challenge Emerges Ahead of IPO",
+     "url": "https://www.khaskhabar.com/picture-news/gadget-news-anthropic-reports-$807-billion-loss-for-first-half-of-the-year-major-financial-challenge-emerges-ahead-of-ipo-news-hindi-1-854876-KKN.html",
+     "domain": "khaskhabar.com",
+     "seen": "2026-10-21T07:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic Reports Massive $80 . 7 Billion Net Loss In First Half Of 2026 As AI Firm Prepares For Reported November IPO",
+     "url": "https://www.freepressjournal.in/tech/anthropic-reports-massive-807-billion-net-loss-in-first-half-of-2026-as-ai-firm-prepares-for-reported-november-ipo",
+     "domain": "freepressjournal.in",
+     "seen": "2026-10-21T08:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic posts $80 . 7 billion loss in first half of 2026 as AI infrastructure costs surge",
+     "url": "https://americanbazaaronline.com/2026/10/21/anthropic-posts-80-7-billion-loss-in-first-half-of-2026-as-ai-infrastructure-costs-surge-490467/",
+     "domain": "americanbazaaronline.com",
+     "seen": "2026-10-21T20:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic first - half loss balloons to more than $80 billion",
+     "url": "http://www.baltimorestar.com/news/279390449/anthropic-s-first-half-loss-balloons-to-more-than-usd80-billion",
+     "domain": "baltimorestar.com",
+     "seen": "2026-10-24T09:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic logs $80 . 7 billion loss as AI computing costs surge",
+     "url": "http://www.myanmarnews.net/news/279390449/anthropic-logs-usd80-7-billion-loss-as-ai-computing-costs-surge",
+     "domain": "myanmarnews.net",
+     "seen": "2026-10-24T09:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic logs $80 . 7 billion loss as AI computing costs surge",
+     "url": "http://www.australiannews.net/news/279390449/anthropic-logs-usd80-7-billion-loss-as-ai-computing-costs-surge",
+     "domain": "australiannews.net",
+     "seen": "2026-10-24T10:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic logs $80 . 7 billion loss as AI computing costs surge",
+     "url": "http://www.azerbaijannews.net/news/279390449/anthropic-logs-usd80-7-billion-loss-as-ai-computing-costs-surge",
+     "domain": "azerbaijannews.net",
+     "seen": "2026-10-24T10:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic first - half loss balloons to more than $80 billion",
+     "url": "http://www.nigeriasun.com/news/279390449/anthropic-s-first-half-loss-balloons-to-more-than-usd80-billion",
+     "domain": "nigeriasun.com",
+     "seen": "2026-10-24T10:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic first - half loss balloons to more than $80 billion",
+     "url": "http://www.brazilsun.com/news/279390449/anthropic-s-first-half-loss-balloons-to-more-than-usd80-billion",
+     "domain": "brazilsun.com",
+     "seen": "2026-10-24T10:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic first - half loss balloons to more than $80 billion",
+     "url": "http://www.ohiostandard.com/news/279390449/anthropic-s-first-half-loss-balloons-to-more-than-usd80-billion",
+     "domain": "ohiostandard.com",
+     "seen": "2026-10-24T10:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic logs $80 . 7 billion loss as AI computing costs surge",
+     "url": "http://www.calcuttanews.net/news/279390449/anthropic-logs-usd80-7-billion-loss-as-ai-computing-costs-surge",
+     "domain": "calcuttanews.net",
+     "seen": "2026-10-24T10:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic first - half loss balloons to more than $80 billion",
+     "url": "http://www.texasguardian.com/news/279390449/anthropic-s-first-half-loss-balloons-to-more-than-usd80-billion",
+     "domain": "texasguardian.com",
+     "seen": "2026-10-24T10:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic first - half loss balloons to more than $80 billion",
+     "url": "http://www.argentinastar.com/news/279390449/anthropic-s-first-half-loss-balloons-to-more-than-usd80-billion",
+     "domain": "argentinastar.com",
+     "seen": "2026-10-24T10:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_1ad3d49b0d",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-10-24T06:45:00Z",
+   "last_seen": "2026-10-24T06:45:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic Revenue Surged to $16 . 3 Billion in the First Half of 2026 , Up From $1 . 1 Billion a Year Ago",
+     "url": "https://www.fool.com/investing/2026/10/24/anthropics-revenue-surged-to-163-billion-in-the-fi/",
+     "domain": "fool.com",
+     "seen": "2026-10-24T06:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_1d9157deca",
+   "entity_ids": [
+    "oracle"
+   ],
+   "first_seen": "2026-10-23T23:00:00Z",
+   "last_seen": "2026-10-24T05:15:00Z",
+   "headlines": [
+    {
+     "title": "Oracle Commits $1 Billion Over Four Years to Expand Partner Support",
+     "url": "https://econotimes.com/Oracle-Commits-1-Billion-Over-Four-Years-to-Expand-Partner-Support-1761714",
+     "domain": "econotimes.com",
+     "seen": "2026-10-23T23:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Oracle commits $1 billion to partner growth",
+     "url": "https://finchannel.com/oracle-commits-1-billion-to-partners-and-expands-marketplace-access/139248/american-business-trends/2026/10/",
+     "domain": "finchannel.com",
+     "seen": "2026-10-24T05:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_7be6a50658",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-24T05:15:00Z",
+   "last_seen": "2026-10-24T05:15:00Z",
+   "headlines": [
+    {
+     "title": "US Midterms : Where is Elon Musk spending $366 million ? What could a Republican win mean for SpaceX and Tesla ? Deep Dive",
+     "url": "https://www.livemint.com/companies/people/us-midterms-where-is-elon-musk-spending-366-million-what-could-a-republican-win-mean-for-spacex-and-tesla-deep-dive-11792807979289.html",
+     "domain": "livemint.com",
+     "seen": "2026-10-24T05:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_b60ab716d6",
    "entity_ids": [
@@ -15,23 +174,6 @@
      "url": "https://ipwatchdog.com/2026/10/23/other-barks-epo-study-shows-growing-importance-of-tech-transfer-offices-and-taction-seeks-to-add-damages/",
      "domain": "ipwatchdog.com",
      "seen": "2026-10-24T00:30:00Z",
-     "source": "gdelt"
-    }
-   ]
-  },
-  {
-   "id": "c_1d9157deca",
-   "entity_ids": [
-    "oracle"
-   ],
-   "first_seen": "2026-10-23T23:00:00Z",
-   "last_seen": "2026-10-23T23:00:00Z",
-   "headlines": [
-    {
-     "title": "Oracle Commits $1 Billion Over Four Years to Expand Partner Support",
-     "url": "https://econotimes.com/Oracle-Commits-1-Billion-Over-Four-Years-to-Expand-Partner-Support-1761714",
-     "domain": "econotimes.com",
-     "seen": "2026-10-23T23:00:00Z",
      "source": "gdelt"
     }
    ]
@@ -1062,37 +1204,6 @@
     {
      "title": "Elon Musk plans to merge SpaceX and Tesla in a $3 . 6 trillion deal",
      "url": "https://americanbazaaronline.com/2026/10/21/elon-musk-plans-to-merge-spacex-and-tesla-in-a-3-6-trillion-deal-490457/",
-     "domain": "americanbazaaronline.com",
-     "seen": "2026-10-21T20:15:00Z",
-     "source": "gdelt"
-    }
-   ]
-  },
-  {
-   "id": "c_6535439bb5",
-   "entity_ids": [
-    "anthropic"
-   ],
-   "first_seen": "2026-10-21T07:30:00Z",
-   "last_seen": "2026-10-21T20:15:00Z",
-   "headlines": [
-    {
-     "title": "Anthropic Reports $80 . 7 Billion Loss for First Half of the Year ; Major Financial Challenge Emerges Ahead of IPO",
-     "url": "https://www.khaskhabar.com/picture-news/gadget-news-anthropic-reports-$807-billion-loss-for-first-half-of-the-year-major-financial-challenge-emerges-ahead-of-ipo-news-hindi-1-854876-KKN.html",
-     "domain": "khaskhabar.com",
-     "seen": "2026-10-21T07:30:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Anthropic Reports Massive $80 . 7 Billion Net Loss In First Half Of 2026 As AI Firm Prepares For Reported November IPO",
-     "url": "https://www.freepressjournal.in/tech/anthropic-reports-massive-807-billion-net-loss-in-first-half-of-2026-as-ai-firm-prepares-for-reported-november-ipo",
-     "domain": "freepressjournal.in",
-     "seen": "2026-10-21T08:30:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Anthropic posts $80 . 7 billion loss in first half of 2026 as AI infrastructure costs surge",
-     "url": "https://americanbazaaronline.com/2026/10/21/anthropic-posts-80-7-billion-loss-in-first-half-of-2026-as-ai-infrastructure-costs-surge-490467/",
      "domain": "americanbazaaronline.com",
      "seen": "2026-10-21T20:15:00Z",
      "source": "gdelt"
