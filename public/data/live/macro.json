@@ -1,6 +1,6 @@
 {
  "adapter": "macro",
- "fetched_at": "2026-10-23T22:20:21.672Z",
+ "fetched_at": "2026-10-24T00:49:22.907Z",
  "items": [
   {
    "id": "macro_dgs10",
@@ -13,10 +13,6 @@
     "fred_dgs10"
    ],
    "history": [
-    {
-     "date": "2025-10-22",
-     "value": 3.97
-    },
     {
      "date": "2025-10-29",
      "value": 4.08
