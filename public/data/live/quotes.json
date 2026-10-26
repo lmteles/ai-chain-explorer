@@ -1,12 +1,12 @@
 {
  "adapter": "quotes",
- "fetched_at": "2026-10-24T00:49:22.908Z",
+ "fetched_at": "2026-10-26T04:58:31.402Z",
  "metrics": [
   {
    "id": "mkt_microsoft_market_cap",
    "entity_id": "microsoft",
    "key": "market_cap",
-   "value": 3894.78,
+   "value": 3894.77,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -40,7 +40,7 @@
    "id": "mkt_alphabet_market_cap",
    "entity_id": "alphabet",
    "key": "market_cap",
-   "value": 3896.03,
+   "value": 3899.97,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -168,19 +168,6 @@
   }
  ],
  "history": [
-  {
-   "id": "mkt_microsoft_price_2025-10-24",
-   "entity_id": "microsoft",
-   "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 523.61,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
   {
    "id": "mkt_microsoft_price_2025-10-31",
    "entity_id": "microsoft",
@@ -825,19 +812,6 @@
    "period": "2026-10-23",
    "end": "2026-10-23",
    "value": 524.51,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_amazon_price_2025-10-24",
-   "entity_id": "amazon",
-   "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 224.21,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1495,19 +1469,6 @@
    "derived": false
   },
   {
-   "id": "mkt_alphabet_price_2025-10-24",
-   "entity_id": "alphabet",
-   "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 259.92,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
    "id": "mkt_alphabet_price_2025-10-31",
    "entity_id": "alphabet",
    "key": "price",
@@ -2151,19 +2112,6 @@
    "period": "2026-10-23",
    "end": "2026-10-23",
    "value": 320.21,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_meta_price_2025-10-24",
-   "entity_id": "meta",
-   "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 738.36,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2821,19 +2769,6 @@
    "derived": false
   },
   {
-   "id": "mkt_nvidia_price_2025-10-24",
-   "entity_id": "nvidia",
-   "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 186.26,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
    "id": "mkt_nvidia_price_2025-10-31",
    "entity_id": "nvidia",
    "key": "price",
@@ -3477,19 +3412,6 @@
    "period": "2026-10-23",
    "end": "2026-10-23",
    "value": 210.96,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_amd_price_2025-10-24",
-   "entity_id": "amd",
-   "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 252.92,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4147,19 +4069,6 @@
    "derived": false
   },
   {
-   "id": "mkt_apple_price_2025-10-24",
-   "entity_id": "apple",
-   "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 262.82,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
    "id": "mkt_apple_price_2025-10-31",
    "entity_id": "apple",
    "key": "price",
@@ -4810,19 +4719,6 @@
    "derived": false
   },
   {
-   "id": "mkt_tesla_price_2025-10-24",
-   "entity_id": "tesla",
-   "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 433.72,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
    "id": "mkt_tesla_price_2025-10-31",
    "entity_id": "tesla",
    "key": "price",
@@ -5466,19 +5362,6 @@
    "period": "2026-10-23",
    "end": "2026-10-23",
    "value": 372.22,
-   "unit": "USD",
-   "source_ids": [
-    "fmp_quotes"
-   ],
-   "derived": false
-  },
-  {
-   "id": "mkt_tsmc_price_2025-10-24",
-   "entity_id": "tsmc",
-   "key": "price",
-   "period": "2025-10-24",
-   "end": "2025-10-24",
-   "value": 294.96,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
