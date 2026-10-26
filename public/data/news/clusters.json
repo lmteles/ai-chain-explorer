@@ -1,7 +1,24 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-26T13:35:31.034Z",
+ "updated_at": "2026-10-26T22:52:43.261Z",
  "clusters": [
+  {
+   "id": "c_8f2f08b6e1",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-10-26T07:00:00.000Z",
+   "last_seen": "2026-10-26T07:00:00.000Z",
+   "headlines": [
+    {
+     "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+     "url": "https://openai.com/index/openai-cut-incident-investigation",
+     "domain": "openai.com",
+     "seen": "2026-10-26T07:00:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
   {
    "id": "c_6535439bb5",
    "entity_ids": [
