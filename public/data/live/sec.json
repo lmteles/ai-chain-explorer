@@ -1,6 +1,6 @@
 {
  "adapter": "sec",
- "fetched_at": "2026-10-27T12:09:09.729Z",
+ "fetched_at": "2026-10-28T12:52:48.721Z",
  "metrics": [
   {
    "id": "sec_oracle_capex_quarter_q32026",
@@ -5992,10 +5992,10 @@
   {
    "entity_id": "broadcom",
    "form": "8-K",
-   "filed": "2026-09-02",
-   "report_date": "2026-09-02",
-   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000076/avgo-20260902.htm",
-   "accession": "0001730168-26-000076"
+   "filed": "2026-10-27",
+   "report_date": "2026-10-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526434271/d148323d8k.htm",
+   "accession": "0001193125-26-434271"
   },
   {
    "entity_id": "amd",
