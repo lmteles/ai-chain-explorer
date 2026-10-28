@@ -1,7 +1,75 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-28T13:32:58.447Z",
+ "updated_at": "2026-10-28T22:52:05.488Z",
  "clusters": [
+  {
+   "id": "c_efb7fea1c4",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-10-28T21:00:00.000Z",
+   "last_seen": "2026-10-28T21:00:00.000Z",
+   "headlines": [
+    {
+     "title": "NVIDIA Sets Conference Call for Third-Quarter Financial Results",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873",
+     "domain": "nvidianews.nvidia.com",
+     "seen": "2026-10-28T21:00:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
+  {
+   "id": "c_3fda0cab04",
+   "entity_ids": [
+    "microsoft"
+   ],
+   "first_seen": "2026-10-28T20:08:01.000Z",
+   "last_seen": "2026-10-28T20:08:01.000Z",
+   "headlines": [
+    {
+     "title": "Microsoft earnings press release available on Investor Relations website",
+     "url": "https://news.microsoft.com/source/2026/10/28/microsoft-earnings-press-release-available-on-investor-relations-website-31/",
+     "domain": "news.microsoft.com",
+     "seen": "2026-10-28T20:08:01.000Z",
+     "source": "rss"
+    }
+   ]
+  },
+  {
+   "id": "c_a04b7e8be3",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-28T17:00:49.000Z",
+   "last_seen": "2026-10-28T17:00:49.000Z",
+   "headlines": [
+    {
+     "title": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
+     "url": "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
+     "domain": "about.fb.com",
+     "seen": "2026-10-28T17:00:49.000Z",
+     "source": "rss"
+    }
+   ]
+  },
+  {
+   "id": "c_75e2017ed4",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-10-28T13:15:00.000Z",
+   "last_seen": "2026-10-28T13:15:00.000Z",
+   "headlines": [
+    {
+     "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+     "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+     "domain": "openai.com",
+     "seen": "2026-10-28T13:15:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
   {
    "id": "c_6cf6ca1928",
    "entity_ids": [
