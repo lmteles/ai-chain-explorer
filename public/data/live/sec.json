@@ -1,6 +1,6 @@
 {
  "adapter": "sec",
- "fetched_at": "2026-10-28T12:52:48.721Z",
+ "fetched_at": "2026-10-29T12:58:34.428Z",
  "metrics": [
   {
    "id": "sec_oracle_capex_quarter_q32026",
@@ -108,95 +108,91 @@
    "note": "Remaining performance obligations at 2026-08-31 (RevenueRemainingPerformanceObligation)."
   },
   {
-   "id": "sec_microsoft_capex_quarter_q22026",
+   "id": "sec_microsoft_capex_quarter_q32026",
    "entity_id": "microsoft",
    "key": "capex_quarter",
-   "value": 35.802,
+   "value": 39.367,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "Q2 2026",
+   "period": "Q3 2026",
    "status": "filed",
    "source_ids": [
-    "sec_0001193125-26-323660",
-    "sec_0001193125-26-191507"
+    "sec_0001193125-26-436133"
    ],
    "confidence": "high",
-   "as_of": "2026-07-29",
-   "note": "Cash capex (PaymentsToAcquirePropertyPlantAndEquipment), 3 months 2026-04-01 to 2026-06-30; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative). Excludes finance-lease additions."
+   "as_of": "2026-10-28",
+   "note": "Cash capex (PaymentsToAcquirePropertyPlantAndEquipment), 3 months 2026-07-01 to 2026-09-30; as reported. Excludes finance-lease additions."
   },
   {
-   "id": "sec_microsoft_operating_cash_flow_quarter_q22026",
+   "id": "sec_microsoft_operating_cash_flow_quarter_q32026",
    "entity_id": "microsoft",
    "key": "operating_cash_flow_quarter",
-   "value": 55.441,
+   "value": 58,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "Q2 2026",
+   "period": "Q3 2026",
    "status": "filed",
    "source_ids": [
-    "sec_0001193125-26-323660",
-    "sec_0001193125-26-191507"
+    "sec_0001193125-26-436133"
    ],
    "confidence": "high",
-   "as_of": "2026-07-29",
-   "note": "3 months 2026-04-01 to 2026-06-30; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
+   "as_of": "2026-10-28",
+   "note": "3 months 2026-07-01 to 2026-09-30; as reported."
   },
   {
-   "id": "sec_microsoft_free_cash_flow_quarter_q22026",
+   "id": "sec_microsoft_free_cash_flow_quarter_q32026",
    "entity_id": "microsoft",
    "key": "free_cash_flow_quarter",
-   "value": 19.639,
+   "value": 18.633,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "Q2 2026",
+   "period": "Q3 2026",
    "status": "filed",
    "source_ids": [
-    "sec_0001193125-26-323660",
-    "sec_0001193125-26-191507"
+    "sec_0001193125-26-436133"
    ],
    "confidence": "high",
-   "as_of": "2026-07-29",
-   "note": "Operating cash flow minus cash capex, 3 months 2026-04-01 to 2026-06-30."
+   "as_of": "2026-10-28",
+   "note": "Operating cash flow minus cash capex, 3 months 2026-07-01 to 2026-09-30."
   },
   {
-   "id": "sec_microsoft_revenue_quarter_q22026",
+   "id": "sec_microsoft_revenue_quarter_q32026",
    "entity_id": "microsoft",
    "key": "revenue_quarter",
-   "value": 90.007,
+   "value": 92.279,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "Q2 2026",
+   "period": "Q3 2026",
    "status": "filed",
    "source_ids": [
-    "sec_0001193125-26-323660",
-    "sec_0001193125-26-191507"
+    "sec_0001193125-26-436133"
    ],
    "confidence": "high",
-   "as_of": "2026-07-29",
-   "note": "RevenueFromContractWithCustomerExcludingAssessedTax, 3 months 2026-04-01 to 2026-06-30; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
+   "as_of": "2026-10-28",
+   "note": "RevenueFromContractWithCustomerExcludingAssessedTax, 3 months 2026-07-01 to 2026-09-30; as reported."
   },
   {
-   "id": "sec_microsoft_revenue_ttm_q22026",
+   "id": "sec_microsoft_revenue_ttm_q32026",
    "entity_id": "microsoft",
    "key": "revenue_ttm",
-   "value": 331.839,
+   "value": 346.445,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "TTM to 2026-06-30",
+   "period": "TTM to 2026-09-30",
    "status": "filed",
    "source_ids": [
+    "sec_0001193125-26-436133",
     "sec_0001193125-26-323660",
     "sec_0001193125-26-191507",
-    "sec_0001193125-26-027207",
-    "sec_0001193125-25-256321"
+    "sec_0001193125-26-027207"
    ],
    "confidence": "high",
-   "as_of": "2026-07-29",
+   "as_of": "2026-10-28",
    "note": "Sum of the last four discrete quarters (same basis, same currency)."
   },
   {
@@ -288,94 +284,94 @@
    "note": "Sum of the last four discrete quarters (same basis, same currency)."
   },
   {
-   "id": "sec_alphabet_capex_quarter_q22026",
+   "id": "sec_alphabet_capex_quarter_q32026",
    "entity_id": "alphabet",
    "key": "capex_quarter",
-   "value": 44.924,
+   "value": 51.355,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "Q2 2026",
+   "period": "Q3 2026",
    "status": "filed",
    "source_ids": [
-    "sec_0001652044-26-000071",
-    "sec_0001652044-26-000048"
-   ],
-   "confidence": "high",
-   "as_of": "2026-07-23",
-   "note": "Cash capex (PaymentsToAcquirePropertyPlantAndEquipment), 3 months 2026-04-01 to 2026-06-30; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative). Excludes finance-lease additions."
-  },
-  {
-   "id": "sec_alphabet_operating_cash_flow_quarter_q22026",
-   "entity_id": "alphabet",
-   "key": "operating_cash_flow_quarter",
-   "value": 39.069,
-   "low": null,
-   "high": null,
-   "unit": "USD_bn",
-   "period": "Q2 2026",
-   "status": "filed",
-   "source_ids": [
-    "sec_0001652044-26-000071",
-    "sec_0001652044-26-000048"
-   ],
-   "confidence": "high",
-   "as_of": "2026-07-23",
-   "note": "3 months 2026-04-01 to 2026-06-30; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
-  },
-  {
-   "id": "sec_alphabet_free_cash_flow_quarter_q22026",
-   "entity_id": "alphabet",
-   "key": "free_cash_flow_quarter",
-   "value": -5.855,
-   "low": null,
-   "high": null,
-   "unit": "USD_bn",
-   "period": "Q2 2026",
-   "status": "filed",
-   "source_ids": [
-    "sec_0001652044-26-000071",
-    "sec_0001652044-26-000048"
-   ],
-   "confidence": "high",
-   "as_of": "2026-07-23",
-   "note": "Operating cash flow minus cash capex, 3 months 2026-04-01 to 2026-06-30."
-  },
-  {
-   "id": "sec_alphabet_revenue_quarter_q22026",
-   "entity_id": "alphabet",
-   "key": "revenue_quarter",
-   "value": 119.796,
-   "low": null,
-   "high": null,
-   "unit": "USD_bn",
-   "period": "Q2 2026",
-   "status": "filed",
-   "source_ids": [
+    "sec_0001652044-26-000084",
     "sec_0001652044-26-000071"
    ],
    "confidence": "high",
-   "as_of": "2026-07-23",
-   "note": "Revenues, 3 months 2026-04-01 to 2026-06-30; as reported."
+   "as_of": "2026-10-29",
+   "note": "Cash capex (PaymentsToAcquirePropertyPlantAndEquipment), 3 months 2026-07-01 to 2026-09-30; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative). Excludes finance-lease additions."
   },
   {
-   "id": "sec_alphabet_revenue_ttm_q22026",
+   "id": "sec_alphabet_operating_cash_flow_quarter_q32026",
    "entity_id": "alphabet",
-   "key": "revenue_ttm",
-   "value": 445.867,
+   "key": "operating_cash_flow_quarter",
+   "value": 42.29,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "TTM to 2026-06-30",
+   "period": "Q3 2026",
    "status": "filed",
    "source_ids": [
-    "sec_0001652044-26-000071",
-    "sec_0001652044-26-000048",
-    "sec_0001652044-26-000018",
-    "sec_0001652044-25-000091"
+    "sec_0001652044-26-000084",
+    "sec_0001652044-26-000071"
    ],
    "confidence": "high",
-   "as_of": "2026-07-23",
+   "as_of": "2026-10-29",
+   "note": "3 months 2026-07-01 to 2026-09-30; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
+  },
+  {
+   "id": "sec_alphabet_free_cash_flow_quarter_q32026",
+   "entity_id": "alphabet",
+   "key": "free_cash_flow_quarter",
+   "value": -9.065,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q3 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001652044-26-000084",
+    "sec_0001652044-26-000071"
+   ],
+   "confidence": "high",
+   "as_of": "2026-10-29",
+   "note": "Operating cash flow minus cash capex, 3 months 2026-07-01 to 2026-09-30."
+  },
+  {
+   "id": "sec_alphabet_revenue_quarter_q32026",
+   "entity_id": "alphabet",
+   "key": "revenue_quarter",
+   "value": 127.577,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q3 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001652044-26-000084"
+   ],
+   "confidence": "high",
+   "as_of": "2026-10-29",
+   "note": "Revenues, 3 months 2026-07-01 to 2026-09-30; as reported."
+  },
+  {
+   "id": "sec_alphabet_revenue_ttm_q32026",
+   "entity_id": "alphabet",
+   "key": "revenue_ttm",
+   "value": 471.098,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "TTM to 2026-09-30",
+   "status": "filed",
+   "source_ids": [
+    "sec_0001652044-26-000084",
+    "sec_0001652044-26-000071",
+    "sec_0001652044-26-000048",
+    "sec_0001652044-26-000018"
+   ],
+   "confidence": "high",
+   "as_of": "2026-10-29",
    "note": "Sum of the last four discrete quarters (same basis, same currency)."
   },
   {
@@ -999,6 +995,15 @@
    "reliability": "primary"
   },
   {
+   "id": "sec_0001193125-26-436133",
+   "publisher": "SEC 10-Q 2026-10-28",
+   "title": "Microsoft 10-Q, SEC EDGAR accession 0001193125-26-436133",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/0001193125-26-436133-index.htm",
+   "published": "2026-10-28",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
    "id": "sec_0001193125-26-323660",
    "publisher": "SEC 10-K 2026-07-29",
    "title": "Microsoft 10-K, SEC EDGAR accession 0001193125-26-323660",
@@ -1022,15 +1027,6 @@
    "title": "Microsoft 10-Q, SEC EDGAR accession 0001193125-26-027207",
    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/0001193125-26-027207-index.htm",
    "published": "2026-01-28",
-   "kind": "filing",
-   "reliability": "primary"
-  },
-  {
-   "id": "sec_0001193125-25-256321",
-   "publisher": "SEC 10-Q 2025-10-29",
-   "title": "Microsoft 10-Q, SEC EDGAR accession 0001193125-25-256321",
-   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/0001193125-25-256321-index.htm",
-   "published": "2025-10-29",
    "kind": "filing",
    "reliability": "primary"
   },
@@ -1071,6 +1067,15 @@
    "reliability": "primary"
   },
   {
+   "id": "sec_0001652044-26-000084",
+   "publisher": "SEC 10-Q 2026-10-29",
+   "title": "Alphabet 10-Q, SEC EDGAR accession 0001652044-26-000084",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/0001652044-26-000084-index.htm",
+   "published": "2026-10-29",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
    "id": "sec_0001652044-26-000071",
    "publisher": "SEC 10-Q 2026-07-23",
    "title": "Alphabet 10-Q, SEC EDGAR accession 0001652044-26-000071",
@@ -1103,15 +1108,6 @@
    "title": "Alphabet 10-Q, SEC EDGAR accession 0001652044-25-000091",
    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000091/0001652044-25-000091-index.htm",
    "published": "2025-10-30",
-   "kind": "filing",
-   "reliability": "primary"
-  },
-  {
-   "id": "sec_0001652044-25-000062",
-   "publisher": "SEC 10-Q 2025-07-24",
-   "title": "Alphabet 10-Q, SEC EDGAR accession 0001652044-25-000062",
-   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000062/0001652044-25-000062-index.htm",
-   "published": "2025-07-24",
    "kind": "filing",
    "reliability": "primary"
   },
@@ -1928,6 +1924,19 @@
    "derived": false
   },
   {
+   "id": "sec_microsoft_capex_quarter_q32026",
+   "entity_id": "microsoft",
+   "key": "capex_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-30",
+   "value": 39.367,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001193125-26-436133"
+   ],
+   "derived": false
+  },
+  {
    "id": "sec_microsoft_capex_quarter_q22026",
    "entity_id": "microsoft",
    "key": "capex_quarter",
@@ -1976,7 +1985,7 @@
    "value": 19.394,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001193125-25-256321"
+    "sec_0001193125-26-436133"
    ],
    "derived": false
   },
@@ -2021,15 +2030,15 @@
    "derived": false
   },
   {
-   "id": "sec_microsoft_capex_quarter_q32024",
+   "id": "sec_microsoft_operating_cash_flow_quarter_q32026",
    "entity_id": "microsoft",
-   "key": "capex_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-30",
-   "value": 14.923,
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-30",
+   "value": 58,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001193125-25-256321"
+    "sec_0001193125-26-436133"
    ],
    "derived": false
   },
@@ -2082,7 +2091,7 @@
    "value": 45.057,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001193125-25-256321"
+    "sec_0001193125-26-436133"
    ],
    "derived": false
   },
@@ -2127,17 +2136,17 @@
    "derived": false
   },
   {
-   "id": "sec_microsoft_operating_cash_flow_quarter_q32024",
+   "id": "sec_microsoft_free_cash_flow_quarter_q32026",
    "entity_id": "microsoft",
-   "key": "operating_cash_flow_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-30",
-   "value": 34.18,
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-30",
+   "value": 18.633,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001193125-25-256321"
+    "sec_0001193125-26-436133"
    ],
-   "derived": false
+   "derived": true
   },
   {
    "id": "sec_microsoft_free_cash_flow_quarter_q22026",
@@ -2188,7 +2197,7 @@
    "value": 25.663,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001193125-25-256321"
+    "sec_0001193125-26-436133"
    ],
    "derived": true
   },
@@ -2233,17 +2242,17 @@
    "derived": true
   },
   {
-   "id": "sec_microsoft_free_cash_flow_quarter_q32024",
+   "id": "sec_microsoft_revenue_quarter_q32026",
    "entity_id": "microsoft",
-   "key": "free_cash_flow_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-30",
-   "value": 19.257,
+   "key": "revenue_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-30",
+   "value": 92.279,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001193125-25-256321"
+    "sec_0001193125-26-436133"
    ],
-   "derived": true
+   "derived": false
   },
   {
    "id": "sec_microsoft_revenue_quarter_q22026",
@@ -2294,7 +2303,7 @@
    "value": 77.673,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001193125-25-256321"
+    "sec_0001193125-26-436133"
    ],
    "derived": false
   },
@@ -2335,19 +2344,6 @@
    "unit": "USD_bn",
    "source_ids": [
     "sec_0001193125-26-027207"
-   ],
-   "derived": false
-  },
-  {
-   "id": "sec_microsoft_revenue_quarter_q32024",
-   "entity_id": "microsoft",
-   "key": "revenue_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-30",
-   "value": 65.585,
-   "unit": "USD_bn",
-   "source_ids": [
-    "sec_0001193125-25-256321"
    ],
    "derived": false
   },
@@ -2776,6 +2772,20 @@
    "derived": false
   },
   {
+   "id": "sec_alphabet_capex_quarter_q32026",
+   "entity_id": "alphabet",
+   "key": "capex_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-30",
+   "value": 51.355,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001652044-26-000084",
+    "sec_0001652044-26-000071"
+   ],
+   "derived": true
+  },
+  {
    "id": "sec_alphabet_capex_quarter_q22026",
    "entity_id": "alphabet",
    "key": "capex_quarter",
@@ -2812,7 +2822,7 @@
    "unit": "USD_bn",
    "source_ids": [
     "sec_0001652044-26-000018",
-    "sec_0001652044-25-000091"
+    "sec_0001652044-26-000084"
    ],
    "derived": true
   },
@@ -2825,7 +2835,7 @@
    "value": 23.953,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001652044-25-000091",
+    "sec_0001652044-26-000084",
     "sec_0001652044-26-000071"
    ],
    "derived": true
@@ -2872,16 +2882,16 @@
    "derived": true
   },
   {
-   "id": "sec_alphabet_capex_quarter_q32024",
+   "id": "sec_alphabet_operating_cash_flow_quarter_q32026",
    "entity_id": "alphabet",
-   "key": "capex_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-30",
-   "value": 13.061,
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-30",
+   "value": 42.29,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001652044-25-000091",
-    "sec_0001652044-25-000062"
+    "sec_0001652044-26-000084",
+    "sec_0001652044-26-000071"
    ],
    "derived": true
   },
@@ -2922,7 +2932,7 @@
    "unit": "USD_bn",
    "source_ids": [
     "sec_0001652044-26-000018",
-    "sec_0001652044-25-000091"
+    "sec_0001652044-26-000084"
    ],
    "derived": true
   },
@@ -2935,7 +2945,7 @@
    "value": 48.414,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001652044-25-000091",
+    "sec_0001652044-26-000084",
     "sec_0001652044-26-000071"
    ],
    "derived": true
@@ -2982,16 +2992,16 @@
    "derived": true
   },
   {
-   "id": "sec_alphabet_operating_cash_flow_quarter_q32024",
+   "id": "sec_alphabet_free_cash_flow_quarter_q32026",
    "entity_id": "alphabet",
-   "key": "operating_cash_flow_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-30",
-   "value": 30.698,
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-30",
+   "value": -9.065,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001652044-25-000091",
-    "sec_0001652044-25-000062"
+    "sec_0001652044-26-000084",
+    "sec_0001652044-26-000071"
    ],
    "derived": true
   },
@@ -3032,7 +3042,7 @@
    "unit": "USD_bn",
    "source_ids": [
     "sec_0001652044-26-000018",
-    "sec_0001652044-25-000091"
+    "sec_0001652044-26-000084"
    ],
    "derived": true
   },
@@ -3045,7 +3055,7 @@
    "value": 24.461,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001652044-25-000091",
+    "sec_0001652044-26-000084",
     "sec_0001652044-26-000071"
    ],
    "derived": true
@@ -3092,18 +3102,17 @@
    "derived": true
   },
   {
-   "id": "sec_alphabet_free_cash_flow_quarter_q32024",
+   "id": "sec_alphabet_revenue_quarter_q32026",
    "entity_id": "alphabet",
-   "key": "free_cash_flow_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-30",
-   "value": 17.637,
+   "key": "revenue_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-30",
+   "value": 127.577,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001652044-25-000091",
-    "sec_0001652044-25-000062"
+    "sec_0001652044-26-000084"
    ],
-   "derived": true
+   "derived": false
   },
   {
    "id": "sec_alphabet_revenue_quarter_q22026",
@@ -3141,7 +3150,7 @@
    "unit": "USD_bn",
    "source_ids": [
     "sec_0001652044-26-000018",
-    "sec_0001652044-25-000091"
+    "sec_0001652044-26-000084"
    ],
    "derived": true
   },
@@ -3154,7 +3163,7 @@
    "value": 102.346,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001652044-25-000091"
+    "sec_0001652044-26-000084"
    ],
    "derived": false
   },
@@ -3197,19 +3206,6 @@
     "sec_0001652044-25-000091"
    ],
    "derived": true
-  },
-  {
-   "id": "sec_alphabet_revenue_quarter_q32024",
-   "entity_id": "alphabet",
-   "key": "revenue_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-30",
-   "value": 88.268,
-   "unit": "USD_bn",
-   "source_ids": [
-    "sec_0001652044-25-000091"
-   ],
-   "derived": false
   },
   {
    "id": "sec_meta_capex_quarter_q32026",
@@ -5848,10 +5844,10 @@
   {
    "entity_id": "oracle",
    "form": "8-K",
-   "filed": "2026-09-14",
-   "report_date": "2026-09-12",
-   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389753/d20034d8k.htm",
-   "accession": "0001193125-26-389753"
+   "filed": "2026-10-28",
+   "report_date": "2026-10-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526435853/d75538d8k.htm",
+   "accession": "0001193125-26-435853"
   },
   {
    "entity_id": "microsoft",
@@ -5864,18 +5860,18 @@
   {
    "entity_id": "microsoft",
    "form": "10-Q",
-   "filed": "2026-04-29",
-   "report_date": "2026-03-31",
-   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/msft-20260331.htm",
-   "accession": "0001193125-26-191507"
+   "filed": "2026-10-28",
+   "report_date": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/msft-20260930.htm",
+   "accession": "0001193125-26-436133"
   },
   {
    "entity_id": "microsoft",
    "form": "8-K",
-   "filed": "2026-09-02",
-   "report_date": "2026-09-02",
-   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526380280/d291965d8k.htm",
-   "accession": "0001193125-26-380280"
+   "filed": "2026-10-28",
+   "report_date": "2026-10-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436149/msft-20261028.htm",
+   "accession": "0001193125-26-436149"
   },
   {
    "entity_id": "amazon",
@@ -5912,18 +5908,18 @@
   {
    "entity_id": "alphabet",
    "form": "10-Q",
-   "filed": "2026-07-23",
-   "report_date": "2026-06-30",
-   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm",
-   "accession": "0001652044-26-000071"
+   "filed": "2026-10-29",
+   "report_date": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm",
+   "accession": "0001652044-26-000084"
   },
   {
    "entity_id": "alphabet",
    "form": "8-K",
-   "filed": "2026-08-10",
-   "report_date": "2026-08-10",
-   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526342390/d171253d8k.htm",
-   "accession": "0001193125-26-342390"
+   "filed": "2026-10-28",
+   "report_date": "2026-10-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/goog-20261028.htm",
+   "accession": "0001652044-26-000080"
   },
   {
    "entity_id": "meta",
