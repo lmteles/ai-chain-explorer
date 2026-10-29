@@ -1,7 +1,41 @@
 {
  "adapter": "news",
- "updated_at": "2026-10-29T13:45:08.004Z",
+ "updated_at": "2026-10-29T22:58:48.166Z",
  "clusters": [
+  {
+   "id": "c_589b6ae4a1",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-10-29T17:00:36.000Z",
+   "last_seen": "2026-10-29T17:00:36.000Z",
+   "headlines": [
+    {
+     "title": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision",
+     "url": "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/",
+     "domain": "about.fb.com",
+     "seen": "2026-10-29T17:00:36.000Z",
+     "source": "rss"
+    }
+   ]
+  },
+  {
+   "id": "c_cdfba1037a",
+   "entity_ids": [
+    "microsoft"
+   ],
+   "first_seen": "2026-10-28T23:15:00.000Z",
+   "last_seen": "2026-10-28T23:15:00.000Z",
+   "headlines": [
+    {
+     "title": "Just wrapped our earnings call. It was a fast start to our fiscal year. Microsoft Cloud revenue surpassed $63B, with growth accelerating to 30% YoY. Lots of innovation as we build the new tech stack for the agentic wave. [Read more]",
+     "url": "https://www.linkedin.com/feed/update/urn:li:activity:7521344259774660609/",
+     "domain": "www.linkedin.com",
+     "seen": "2026-10-28T23:15:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
   {
    "id": "c_efb7fea1c4",
    "entity_ids": [
