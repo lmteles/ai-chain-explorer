@@ -1,6 +1,6 @@
 {
  "adapter": "sec",
- "fetched_at": "2026-10-29T12:58:34.428Z",
+ "fetched_at": "2026-10-30T12:53:08.288Z",
  "metrics": [
   {
    "id": "sec_oracle_capex_quarter_q32026",
@@ -196,91 +196,91 @@
    "note": "Sum of the last four discrete quarters (same basis, same currency)."
   },
   {
-   "id": "sec_amazon_capex_quarter_q22026",
+   "id": "sec_amazon_capex_quarter_q32026",
    "entity_id": "amazon",
    "key": "capex_quarter",
-   "value": 54.208,
+   "value": 77.259,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "Q2 2026",
+   "period": "Q3 2026",
    "status": "filed",
    "source_ids": [
-    "sec_0001018724-26-000026"
+    "sec_0001018724-26-000040"
    ],
    "confidence": "high",
-   "as_of": "2026-07-31",
-   "note": "Cash capex (PaymentsToAcquireProductiveAssets), 3 months 2026-04-01 to 2026-06-30; as reported. Excludes finance-lease additions."
+   "as_of": "2026-10-30",
+   "note": "Cash capex (PaymentsToAcquireProductiveAssets), 3 months 2026-07-01 to 2026-09-30; as reported. Excludes finance-lease additions."
   },
   {
-   "id": "sec_amazon_operating_cash_flow_quarter_q22026",
+   "id": "sec_amazon_operating_cash_flow_quarter_q32026",
    "entity_id": "amazon",
    "key": "operating_cash_flow_quarter",
-   "value": 45.387,
+   "value": 42.422,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "Q2 2026",
+   "period": "Q3 2026",
    "status": "filed",
    "source_ids": [
-    "sec_0001018724-26-000026"
+    "sec_0001018724-26-000040"
    ],
    "confidence": "high",
-   "as_of": "2026-07-31",
-   "note": "3 months 2026-04-01 to 2026-06-30; as reported."
+   "as_of": "2026-10-30",
+   "note": "3 months 2026-07-01 to 2026-09-30; as reported."
   },
   {
-   "id": "sec_amazon_free_cash_flow_quarter_q22026",
+   "id": "sec_amazon_free_cash_flow_quarter_q32026",
    "entity_id": "amazon",
    "key": "free_cash_flow_quarter",
-   "value": -8.821,
+   "value": -34.837,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "Q2 2026",
+   "period": "Q3 2026",
    "status": "filed",
    "source_ids": [
-    "sec_0001018724-26-000026"
+    "sec_0001018724-26-000040"
    ],
    "confidence": "high",
-   "as_of": "2026-07-31",
-   "note": "Operating cash flow minus cash capex, 3 months 2026-04-01 to 2026-06-30."
+   "as_of": "2026-10-30",
+   "note": "Operating cash flow minus cash capex, 3 months 2026-07-01 to 2026-09-30."
   },
   {
-   "id": "sec_amazon_revenue_quarter_q22026",
+   "id": "sec_amazon_revenue_quarter_q32026",
    "entity_id": "amazon",
    "key": "revenue_quarter",
-   "value": 200.606,
+   "value": 201.944,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "Q2 2026",
+   "period": "Q3 2026",
    "status": "filed",
    "source_ids": [
-    "sec_0001018724-26-000026"
+    "sec_0001018724-26-000040"
    ],
    "confidence": "high",
-   "as_of": "2026-07-31",
-   "note": "RevenueFromContractWithCustomerExcludingAssessedTax, 3 months 2026-04-01 to 2026-06-30; as reported."
+   "as_of": "2026-10-30",
+   "note": "RevenueFromContractWithCustomerExcludingAssessedTax, 3 months 2026-07-01 to 2026-09-30; as reported."
   },
   {
-   "id": "sec_amazon_revenue_ttm_q22026",
+   "id": "sec_amazon_revenue_ttm_q32026",
    "entity_id": "amazon",
    "key": "revenue_ttm",
-   "value": 775.68,
+   "value": 797.455,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "TTM to 2026-06-30",
+   "period": "TTM to 2026-09-30",
    "status": "filed",
    "source_ids": [
+    "sec_0001018724-26-000040",
     "sec_0001018724-26-000026",
     "sec_0001018724-26-000014",
-    "sec_0001018724-26-000004",
-    "sec_0001018724-25-000123"
+    "sec_0001018724-26-000004"
    ],
    "confidence": "high",
-   "as_of": "2026-07-31",
+   "as_of": "2026-10-30",
    "note": "Sum of the last four discrete quarters (same basis, same currency)."
   },
   {
@@ -1027,6 +1027,15 @@
    "title": "Microsoft 10-Q, SEC EDGAR accession 0001193125-26-027207",
    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/0001193125-26-027207-index.htm",
    "published": "2026-01-28",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
+   "id": "sec_0001018724-26-000040",
+   "publisher": "SEC 10-Q 2026-10-30",
+   "title": "Amazon 10-Q, SEC EDGAR accession 0001018724-26-000040",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/0001018724-26-000040-index.htm",
+   "published": "2026-10-30",
    "kind": "filing",
    "reliability": "primary"
   },
@@ -2348,6 +2357,19 @@
    "derived": false
   },
   {
+   "id": "sec_amazon_capex_quarter_q32026",
+   "entity_id": "amazon",
+   "key": "capex_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-30",
+   "value": 77.259,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0001018724-26-000040"
+   ],
+   "derived": false
+  },
+  {
    "id": "sec_amazon_capex_quarter_q22026",
    "entity_id": "amazon",
    "key": "capex_quarter",
@@ -2383,7 +2405,7 @@
    "unit": "USD_bn",
    "source_ids": [
     "sec_0001018724-26-000004",
-    "sec_0001018724-25-000123"
+    "sec_0001018724-26-000040"
    ],
    "derived": true
   },
@@ -2396,7 +2418,7 @@
    "value": 35.095,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001018724-25-000123"
+    "sec_0001018724-26-000040"
    ],
    "derived": false
   },
@@ -2441,15 +2463,15 @@
    "derived": true
   },
   {
-   "id": "sec_amazon_capex_quarter_q32024",
+   "id": "sec_amazon_operating_cash_flow_quarter_q32026",
    "entity_id": "amazon",
-   "key": "capex_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-30",
-   "value": 22.62,
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-30",
+   "value": 42.422,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001018724-25-000123"
+    "sec_0001018724-26-000040"
    ],
    "derived": false
   },
@@ -2489,7 +2511,7 @@
    "unit": "USD_bn",
    "source_ids": [
     "sec_0001018724-26-000004",
-    "sec_0001018724-25-000123"
+    "sec_0001018724-26-000040"
    ],
    "derived": true
   },
@@ -2502,7 +2524,7 @@
    "value": 35.525,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001018724-25-000123"
+    "sec_0001018724-26-000040"
    ],
    "derived": false
   },
@@ -2547,17 +2569,17 @@
    "derived": true
   },
   {
-   "id": "sec_amazon_operating_cash_flow_quarter_q32024",
+   "id": "sec_amazon_free_cash_flow_quarter_q32026",
    "entity_id": "amazon",
-   "key": "operating_cash_flow_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-30",
-   "value": 25.971,
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-30",
+   "value": -34.837,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001018724-25-000123"
+    "sec_0001018724-26-000040"
    ],
-   "derived": false
+   "derived": true
   },
   {
    "id": "sec_amazon_free_cash_flow_quarter_q22026",
@@ -2595,7 +2617,7 @@
    "unit": "USD_bn",
    "source_ids": [
     "sec_0001018724-26-000004",
-    "sec_0001018724-25-000123"
+    "sec_0001018724-26-000040"
    ],
    "derived": true
   },
@@ -2608,7 +2630,7 @@
    "value": 0.43,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001018724-25-000123"
+    "sec_0001018724-26-000040"
    ],
    "derived": true
   },
@@ -2653,17 +2675,17 @@
    "derived": true
   },
   {
-   "id": "sec_amazon_free_cash_flow_quarter_q32024",
+   "id": "sec_amazon_revenue_quarter_q32026",
    "entity_id": "amazon",
-   "key": "free_cash_flow_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-30",
-   "value": 3.351,
+   "key": "revenue_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-30",
+   "value": 201.944,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001018724-25-000123"
+    "sec_0001018724-26-000040"
    ],
-   "derived": true
+   "derived": false
   },
   {
    "id": "sec_amazon_revenue_quarter_q22026",
@@ -2701,7 +2723,7 @@
    "unit": "USD_bn",
    "source_ids": [
     "sec_0001018724-26-000004",
-    "sec_0001018724-25-000123"
+    "sec_0001018724-26-000040"
    ],
    "derived": true
   },
@@ -2714,7 +2736,7 @@
    "value": 180.169,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0001018724-25-000123"
+    "sec_0001018724-26-000040"
    ],
    "derived": false
   },
@@ -2757,19 +2779,6 @@
     "sec_0001018724-25-000123"
    ],
    "derived": true
-  },
-  {
-   "id": "sec_amazon_revenue_quarter_q32024",
-   "entity_id": "amazon",
-   "key": "revenue_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-30",
-   "value": 158.877,
-   "unit": "USD_bn",
-   "source_ids": [
-    "sec_0001018724-25-000123"
-   ],
-   "derived": false
   },
   {
    "id": "sec_alphabet_capex_quarter_q32026",
@@ -5884,18 +5893,18 @@
   {
    "entity_id": "amazon",
    "form": "10-Q",
-   "filed": "2026-07-31",
-   "report_date": "2026-06-30",
-   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
-   "accession": "0001018724-26-000026"
+   "filed": "2026-10-30",
+   "report_date": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm",
+   "accession": "0001018724-26-000040"
   },
   {
    "entity_id": "amazon",
    "form": "8-K",
-   "filed": "2026-09-14",
-   "report_date": "2026-09-14",
-   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926107526/tm2624614d5_8k.htm",
-   "accession": "0001104659-26-107526"
+   "filed": "2026-10-29",
+   "report_date": "2026-10-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20261029.htm",
+   "accession": "0001018724-26-000038"
   },
   {
    "entity_id": "alphabet",
@@ -5940,10 +5949,10 @@
   {
    "entity_id": "meta",
    "form": "8-K",
-   "filed": "2026-10-21",
-   "report_date": "2026-10-19",
-   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-20261019.htm",
-   "accession": "0001628280-26-066700"
+   "filed": "2026-10-29",
+   "report_date": "2026-10-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526438017/d183592d8k.htm",
+   "accession": "0001193125-26-438017"
   },
   {
    "entity_id": "nvidia",
