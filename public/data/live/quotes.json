@@ -1,6 +1,6 @@
 {
  "adapter": "quotes",
- "fetched_at": "2026-10-30T02:00:34.496Z",
+ "fetched_at": "2026-10-30T08:45:25.275Z",
  "metrics": [
   {
    "id": "mkt_microsoft_market_cap",
@@ -40,7 +40,7 @@
    "id": "mkt_alphabet_market_cap",
    "entity_id": "alphabet",
    "key": "market_cap",
-   "value": 3456.63,
+   "value": 3454.65,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -57,7 +57,7 @@
    "id": "mkt_meta_market_cap",
    "entity_id": "meta",
    "key": "market_cap",
-   "value": 1596.42,
+   "value": 1411.7,
    "low": null,
    "high": null,
    "unit": "USD_bn",
