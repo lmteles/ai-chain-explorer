@@ -657,52 +657,6 @@
     ]
   },
   {
-    "adapter": "gdelt",
-    "started_at": "2026-10-23T05:22:44.102Z",
-    "finished_at": "2026-10-23T05:23:33.748Z",
-    "status": "failed",
-    "rows": 0,
-    "errors": [
-      "…0ASML)%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=250&sort=DateDesc&timespan=1d: HTTP 429"
-    ],
-    "notes": [
-      "0 headline(s) over 1 day(s)"
-    ]
-  },
-  {
-    "adapter": "rss",
-    "started_at": "2026-10-23T05:23:33.751Z",
-    "finished_at": "2026-10-23T05:23:34.466Z",
-    "status": "ok",
-    "rows": 10,
-    "errors": [],
-    "notes": [
-      "10 headline(s) over 1 day(s)"
-    ]
-  },
-  {
-    "adapter": "bloomberg",
-    "started_at": "2026-10-23T05:23:34.468Z",
-    "finished_at": "2026-10-23T05:23:34.468Z",
-    "status": "skipped",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "not licensed: disabled stub, no scraping"
-    ]
-  },
-  {
-    "adapter": "ft",
-    "started_at": "2026-10-23T05:23:34.470Z",
-    "finished_at": "2026-10-23T05:23:34.470Z",
-    "status": "skipped",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "not licensed: disabled stub, no scraping"
-    ]
-  },
-  {
     "adapter": "fred",
     "started_at": "2026-10-23T07:41:13.951Z",
     "finished_at": "2026-10-23T07:41:14.501Z",
@@ -3277,6 +3231,52 @@
     "adapter": "ft",
     "started_at": "2026-10-31T13:05:04.906Z",
     "finished_at": "2026-10-31T13:05:04.906Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-10-31T21:51:28.510Z",
+    "finished_at": "2026-10-31T21:52:21.050Z",
+    "status": "failed",
+    "rows": 0,
+    "errors": [
+      "…0ASML)%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=250&sort=DateDesc&timespan=1d: HTTP 429"
+    ],
+    "notes": [
+      "0 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-10-31T21:52:21.053Z",
+    "finished_at": "2026-10-31T21:52:21.951Z",
+    "status": "ok",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "0 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-10-31T21:52:21.954Z",
+    "finished_at": "2026-10-31T21:52:21.954Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-10-31T21:52:21.956Z",
+    "finished_at": "2026-10-31T21:52:21.957Z",
     "status": "skipped",
     "rows": 0,
     "errors": [],
