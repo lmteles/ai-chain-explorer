@@ -579,50 +579,6 @@
     ]
   },
   {
-    "adapter": "gdelt",
-    "started_at": "2026-10-22T21:55:44.269Z",
-    "finished_at": "2026-10-22T21:56:37.664Z",
-    "status": "ok",
-    "rows": 250,
-    "errors": [],
-    "notes": [
-      "250 headline(s) over 1 day(s)"
-    ]
-  },
-  {
-    "adapter": "rss",
-    "started_at": "2026-10-22T21:56:37.668Z",
-    "finished_at": "2026-10-22T21:56:38.405Z",
-    "status": "ok",
-    "rows": 16,
-    "errors": [],
-    "notes": [
-      "16 headline(s) over 1 day(s)"
-    ]
-  },
-  {
-    "adapter": "bloomberg",
-    "started_at": "2026-10-22T21:56:38.407Z",
-    "finished_at": "2026-10-22T21:56:38.407Z",
-    "status": "skipped",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "not licensed: disabled stub, no scraping"
-    ]
-  },
-  {
-    "adapter": "ft",
-    "started_at": "2026-10-22T21:56:38.409Z",
-    "finished_at": "2026-10-22T21:56:38.409Z",
-    "status": "skipped",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "not licensed: disabled stub, no scraping"
-    ]
-  },
-  {
     "adapter": "fred",
     "started_at": "2026-10-22T22:27:23.078Z",
     "finished_at": "2026-10-22T22:27:23.547Z",
@@ -3280,6 +3236,52 @@
       "tesla: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
       "tsmc: no us-gaap facts (IFRS filer); figures come from investor materials in M5",
       "asml: capex=none ocf=none revenue=none"
+    ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-10-31T13:04:10.499Z",
+    "finished_at": "2026-10-31T13:05:03.714Z",
+    "status": "failed",
+    "rows": 0,
+    "errors": [
+      "…L)%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=250&sort=DateDesc&timespan=1d: fetch failed"
+    ],
+    "notes": [
+      "0 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-10-31T13:05:03.717Z",
+    "finished_at": "2026-10-31T13:05:04.901Z",
+    "status": "ok",
+    "rows": 4,
+    "errors": [],
+    "notes": [
+      "4 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-10-31T13:05:04.904Z",
+    "finished_at": "2026-10-31T13:05:04.904Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-10-31T13:05:04.906Z",
+    "finished_at": "2026-10-31T13:05:04.906Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
     ]
   }
 ]
