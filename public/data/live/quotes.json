@@ -1,12 +1,12 @@
 {
  "adapter": "quotes",
- "fetched_at": "2026-10-30T20:53:50.674Z",
+ "fetched_at": "2026-10-31T00:52:23.116Z",
  "metrics": [
   {
    "id": "mkt_microsoft_market_cap",
    "entity_id": "microsoft",
    "key": "market_cap",
-   "value": 3875.47,
+   "value": 3875.8,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -40,7 +40,7 @@
    "id": "mkt_alphabet_market_cap",
    "entity_id": "alphabet",
    "key": "market_cap",
-   "value": 3412.31,
+   "value": 3416.42,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -57,7 +57,7 @@
    "id": "mkt_meta_market_cap",
    "entity_id": "meta",
    "key": "market_cap",
-   "value": 1390.16,
+   "value": 1361.88,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -125,7 +125,7 @@
    "id": "mkt_tesla_market_cap",
    "entity_id": "tesla",
    "key": "market_cap",
-   "value": 1580.1,
+   "value": 1580.34,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -136,7 +136,7 @@
    ],
    "confidence": "high",
    "as_of": "2026-10-30",
-   "note": "TSLA at $399.75. For ADRs, the market cap of the underlying company in USD."
+   "note": "TSLA at $399.81. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_tsmc_market_cap",
