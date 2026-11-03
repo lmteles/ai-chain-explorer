@@ -1,6 +1,6 @@
 {
  "adapter": "sec",
- "fetched_at": "2026-11-02T15:47:46.626Z",
+ "fetched_at": "2026-11-03T14:11:10.663Z",
  "metrics": [
   {
    "id": "sec_oracle_capex_quarter_q32026",
@@ -739,94 +739,95 @@
    "note": "Sum of the last four discrete quarters (same basis, same currency)."
   },
   {
-   "id": "sec_apple_capex_quarter_q22026",
+   "id": "sec_apple_capex_quarter_q32026",
    "entity_id": "apple",
    "key": "capex_quarter",
-   "value": 2.455,
+   "value": 2.242,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "Q2 2026",
+   "period": "Q3 2026",
    "status": "filed",
    "source_ids": [
-    "sec_0000320193-26-000020",
-    "sec_0000320193-26-000013"
-   ],
-   "confidence": "high",
-   "as_of": "2026-07-31",
-   "note": "Cash capex (PaymentsToAcquirePropertyPlantAndEquipment), 3 months 2026-03-29 to 2026-06-27; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative). Excludes finance-lease additions."
-  },
-  {
-   "id": "sec_apple_operating_cash_flow_quarter_q22026",
-   "entity_id": "apple",
-   "key": "operating_cash_flow_quarter",
-   "value": 34.369,
-   "low": null,
-   "high": null,
-   "unit": "USD_bn",
-   "period": "Q2 2026",
-   "status": "filed",
-   "source_ids": [
-    "sec_0000320193-26-000020",
-    "sec_0000320193-26-000013"
-   ],
-   "confidence": "high",
-   "as_of": "2026-07-31",
-   "note": "3 months 2026-03-29 to 2026-06-27; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
-  },
-  {
-   "id": "sec_apple_free_cash_flow_quarter_q22026",
-   "entity_id": "apple",
-   "key": "free_cash_flow_quarter",
-   "value": 31.914,
-   "low": null,
-   "high": null,
-   "unit": "USD_bn",
-   "period": "Q2 2026",
-   "status": "filed",
-   "source_ids": [
-    "sec_0000320193-26-000020",
-    "sec_0000320193-26-000013"
-   ],
-   "confidence": "high",
-   "as_of": "2026-07-31",
-   "note": "Operating cash flow minus cash capex, 3 months 2026-03-29 to 2026-06-27."
-  },
-  {
-   "id": "sec_apple_revenue_quarter_q22026",
-   "entity_id": "apple",
-   "key": "revenue_quarter",
-   "value": 109.417,
-   "low": null,
-   "high": null,
-   "unit": "USD_bn",
-   "period": "Q2 2026",
-   "status": "filed",
-   "source_ids": [
+    "sec_0000320193-26-000026",
     "sec_0000320193-26-000020"
    ],
    "confidence": "high",
-   "as_of": "2026-07-31",
-   "note": "RevenueFromContractWithCustomerExcludingAssessedTax, 3 months 2026-03-29 to 2026-06-27; as reported."
+   "as_of": "2026-11-03",
+   "note": "Cash capex (PaymentsToAcquirePropertyPlantAndEquipment), 3 months 2026-06-28 to 2026-09-26; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative). Excludes finance-lease additions."
   },
   {
-   "id": "sec_apple_revenue_ttm_q22026",
+   "id": "sec_apple_operating_cash_flow_quarter_q32026",
    "entity_id": "apple",
-   "key": "revenue_ttm",
-   "value": 466.823,
+   "key": "operating_cash_flow_quarter",
+   "value": 28.101,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "TTM to 2026-06-27",
+   "period": "Q3 2026",
    "status": "filed",
    "source_ids": [
-    "sec_0000320193-26-000020",
-    "sec_0000320193-26-000013",
-    "sec_0000320193-26-000006",
-    "sec_0000320193-25-000079"
+    "sec_0000320193-26-000026",
+    "sec_0000320193-26-000020"
    ],
    "confidence": "high",
-   "as_of": "2026-07-31",
+   "as_of": "2026-11-03",
+   "note": "3 months 2026-06-28 to 2026-09-26; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
+  },
+  {
+   "id": "sec_apple_free_cash_flow_quarter_q32026",
+   "entity_id": "apple",
+   "key": "free_cash_flow_quarter",
+   "value": 25.859,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q3 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0000320193-26-000026",
+    "sec_0000320193-26-000020"
+   ],
+   "confidence": "high",
+   "as_of": "2026-11-03",
+   "note": "Operating cash flow minus cash capex, 3 months 2026-06-28 to 2026-09-26."
+  },
+  {
+   "id": "sec_apple_revenue_quarter_q32026",
+   "entity_id": "apple",
+   "key": "revenue_quarter",
+   "value": 114.477,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q3 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0000320193-26-000026",
+    "sec_0000320193-26-000020"
+   ],
+   "confidence": "high",
+   "as_of": "2026-11-03",
+   "note": "RevenueFromContractWithCustomerExcludingAssessedTax, 3 months 2026-06-28 to 2026-09-26; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
+  },
+  {
+   "id": "sec_apple_revenue_ttm_q32026",
+   "entity_id": "apple",
+   "key": "revenue_ttm",
+   "value": 478.834,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "TTM to 2026-09-26",
+   "status": "filed",
+   "source_ids": [
+    "sec_0000320193-26-000026",
+    "sec_0000320193-26-000020",
+    "sec_0000320193-26-000013",
+    "sec_0000320193-26-000006"
+   ],
+   "confidence": "high",
+   "as_of": "2026-11-03",
    "note": "Sum of the last four discrete quarters (same basis, same currency)."
   },
   {
@@ -1301,6 +1302,15 @@
    "reliability": "primary"
   },
   {
+   "id": "sec_0000320193-26-000026",
+   "publisher": "SEC 10-K 2026-11-03",
+   "title": "Apple 10-K, SEC EDGAR accession 0000320193-26-000026",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/0000320193-26-000026-index.htm",
+   "published": "2026-11-03",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
    "id": "sec_0000320193-26-000020",
    "publisher": "SEC 10-Q 2026-07-31",
    "title": "Apple 10-Q, SEC EDGAR accession 0000320193-26-000020",
@@ -1324,24 +1334,6 @@
    "title": "Apple 10-Q, SEC EDGAR accession 0000320193-26-000006",
    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000006/0000320193-26-000006-index.htm",
    "published": "2026-01-30",
-   "kind": "filing",
-   "reliability": "primary"
-  },
-  {
-   "id": "sec_0000320193-25-000079",
-   "publisher": "SEC 10-K 2025-10-31",
-   "title": "Apple 10-K, SEC EDGAR accession 0000320193-25-000079",
-   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/0000320193-25-000079-index.htm",
-   "published": "2025-10-31",
-   "kind": "filing",
-   "reliability": "primary"
-  },
-  {
-   "id": "sec_0000320193-25-000073",
-   "publisher": "SEC 10-Q 2025-08-01",
-   "title": "Apple 10-Q, SEC EDGAR accession 0000320193-25-000073",
-   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000073/0000320193-25-000073-index.htm",
-   "published": "2025-08-01",
    "kind": "filing",
    "reliability": "primary"
   },
@@ -4961,6 +4953,20 @@
    "derived": false
   },
   {
+   "id": "sec_apple_capex_quarter_q32026",
+   "entity_id": "apple",
+   "key": "capex_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-26",
+   "value": 2.242,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000320193-26-000026",
+    "sec_0000320193-26-000020"
+   ],
+   "derived": true
+  },
+  {
    "id": "sec_apple_capex_quarter_q22026",
    "entity_id": "apple",
    "key": "capex_quarter",
@@ -5010,7 +5016,7 @@
    "value": 3.242,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0000320193-25-000079",
+    "sec_0000320193-26-000026",
     "sec_0000320193-26-000020"
    ],
    "derived": true
@@ -5057,16 +5063,16 @@
    "derived": false
   },
   {
-   "id": "sec_apple_capex_quarter_q32024",
+   "id": "sec_apple_operating_cash_flow_quarter_q32026",
    "entity_id": "apple",
-   "key": "capex_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-28",
-   "value": 2.908,
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-26",
+   "value": 28.101,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0000320193-25-000079",
-    "sec_0000320193-25-000073"
+    "sec_0000320193-26-000026",
+    "sec_0000320193-26-000020"
    ],
    "derived": true
   },
@@ -5120,7 +5126,7 @@
    "value": 29.728,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0000320193-25-000079",
+    "sec_0000320193-26-000026",
     "sec_0000320193-26-000020"
    ],
    "derived": true
@@ -5167,16 +5173,16 @@
    "derived": false
   },
   {
-   "id": "sec_apple_operating_cash_flow_quarter_q32024",
+   "id": "sec_apple_free_cash_flow_quarter_q32026",
    "entity_id": "apple",
-   "key": "operating_cash_flow_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-28",
-   "value": 26.811,
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-26",
+   "value": 25.859,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0000320193-25-000079",
-    "sec_0000320193-25-000073"
+    "sec_0000320193-26-000026",
+    "sec_0000320193-26-000020"
    ],
    "derived": true
   },
@@ -5230,7 +5236,7 @@
    "value": 26.486,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0000320193-25-000079",
+    "sec_0000320193-26-000026",
     "sec_0000320193-26-000020"
    ],
    "derived": true
@@ -5277,16 +5283,16 @@
    "derived": true
   },
   {
-   "id": "sec_apple_free_cash_flow_quarter_q32024",
+   "id": "sec_apple_revenue_quarter_q32026",
    "entity_id": "apple",
-   "key": "free_cash_flow_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-28",
-   "value": 23.903,
+   "key": "revenue_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-26",
+   "value": 114.477,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0000320193-25-000079",
-    "sec_0000320193-25-000073"
+    "sec_0000320193-26-000026",
+    "sec_0000320193-26-000020"
    ],
    "derived": true
   },
@@ -5338,7 +5344,7 @@
    "value": 102.466,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0000320193-25-000079",
+    "sec_0000320193-26-000026",
     "sec_0000320193-26-000020"
    ],
    "derived": true
@@ -5381,20 +5387,6 @@
     "sec_0000320193-26-000006"
    ],
    "derived": false
-  },
-  {
-   "id": "sec_apple_revenue_quarter_q32024",
-   "entity_id": "apple",
-   "key": "revenue_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-28",
-   "value": 94.93,
-   "unit": "USD_bn",
-   "source_ids": [
-    "sec_0000320193-25-000079",
-    "sec_0000320193-25-000073"
-   ],
-   "derived": true
   },
   {
    "id": "sec_tesla_capex_quarter_q32026",
@@ -6029,10 +6021,10 @@
   {
    "entity_id": "apple",
    "form": "10-K",
-   "filed": "2025-10-31",
-   "report_date": "2025-09-27",
-   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
-   "accession": "0000320193-25-000079"
+   "filed": "2026-11-03",
+   "report_date": "2026-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/aapl-20260926.htm",
+   "accession": "0000320193-26-000026"
   },
   {
    "entity_id": "apple",
@@ -6045,10 +6037,10 @@
   {
    "entity_id": "apple",
    "form": "8-K",
-   "filed": "2026-07-30",
-   "report_date": "2026-07-30",
-   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000018/aapl-20260730.htm",
-   "accession": "0000320193-26-000018"
+   "filed": "2026-11-02",
+   "report_date": "2026-11-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000024/aapl-20261102.htm",
+   "accession": "0000320193-26-000024"
   },
   {
    "entity_id": "tesla",
