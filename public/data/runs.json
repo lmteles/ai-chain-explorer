@@ -496,45 +496,6 @@
     ]
   },
   {
-    "adapter": "fred",
-    "started_at": "2026-10-23T07:41:13.951Z",
-    "finished_at": "2026-10-23T07:41:14.501Z",
-    "status": "ok",
-    "rows": 1,
-    "errors": [],
-    "notes": [
-      "macro_dgs10 = 5.13 (2026-10-21)"
-    ]
-  },
-  {
-    "adapter": "treasury",
-    "started_at": "2026-10-23T07:41:14.503Z",
-    "finished_at": "2026-10-23T07:41:16.173Z",
-    "status": "ok",
-    "rows": 3,
-    "errors": [],
-    "notes": [
-      "macro_federal_debt = 40413.64 (2026-10-21)",
-      "macro_interest_public = 1068.46 (2026-09-30)",
-      "macro_interest_total = 1360.4 (2026-09-30)"
-    ]
-  },
-  {
-    "adapter": "quotes",
-    "started_at": "2026-10-23T07:41:16.175Z",
-    "finished_at": "2026-10-23T07:41:21.245Z",
-    "status": "ok",
-    "rows": 468,
-    "errors": [],
-    "notes": [
-      "softbank: 9984.T not covered by Financial Modeling Prep",
-      "oracle: ORCL not covered on the current Financial Modeling Prep plan",
-      "broadcom: AVGO not covered on the current Financial Modeling Prep plan",
-      "samsung: 005930.KS not covered by Financial Modeling Prep",
-      "asml: ASML not covered on the current Financial Modeling Prep plan"
-    ]
-  },
-  {
     "adapter": "sec",
     "started_at": "2026-10-23T11:36:52.066Z",
     "finished_at": "2026-10-23T11:36:55.926Z",
@@ -3290,6 +3251,45 @@
     "adapter": "quotes",
     "started_at": "2026-11-02T23:55:31.334Z",
     "finished_at": "2026-11-02T23:55:36.397Z",
+    "status": "ok",
+    "rows": 468,
+    "errors": [],
+    "notes": [
+      "softbank: 9984.T not covered by Financial Modeling Prep",
+      "oracle: ORCL not covered on the current Financial Modeling Prep plan",
+      "broadcom: AVGO not covered on the current Financial Modeling Prep plan",
+      "samsung: 005930.KS not covered by Financial Modeling Prep",
+      "asml: ASML not covered on the current Financial Modeling Prep plan"
+    ]
+  },
+  {
+    "adapter": "fred",
+    "started_at": "2026-11-03T06:58:25.783Z",
+    "finished_at": "2026-11-03T06:58:26.151Z",
+    "status": "ok",
+    "rows": 1,
+    "errors": [],
+    "notes": [
+      "macro_dgs10 = 4.94 (2026-10-30)"
+    ]
+  },
+  {
+    "adapter": "treasury",
+    "started_at": "2026-11-03T06:58:26.153Z",
+    "finished_at": "2026-11-03T06:58:26.889Z",
+    "status": "ok",
+    "rows": 3,
+    "errors": [],
+    "notes": [
+      "macro_federal_debt = 40524.51 (2026-10-30)",
+      "macro_interest_public = 1068.46 (2026-09-30)",
+      "macro_interest_total = 1360.4 (2026-09-30)"
+    ]
+  },
+  {
+    "adapter": "quotes",
+    "started_at": "2026-11-03T06:58:26.892Z",
+    "finished_at": "2026-11-03T06:58:31.948Z",
     "status": "ok",
     "rows": 468,
     "errors": [],
