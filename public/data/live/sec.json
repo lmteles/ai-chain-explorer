@@ -1,6 +1,6 @@
 {
  "adapter": "sec",
- "fetched_at": "2026-11-03T14:11:10.663Z",
+ "fetched_at": "2026-11-04T14:29:44.853Z",
  "metrics": [
   {
    "id": "sec_oracle_capex_quarter_q32026",
@@ -648,94 +648,94 @@
    "note": "Sum of the last four discrete quarters (same basis, same currency)."
   },
   {
-   "id": "sec_amd_capex_quarter_q22026",
+   "id": "sec_amd_capex_quarter_q32026",
    "entity_id": "amd",
    "key": "capex_quarter",
-   "value": 0.808,
+   "value": 0.648,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "Q2 2026",
+   "period": "Q3 2026",
    "status": "filed",
    "source_ids": [
-    "sec_0000002488-26-000123",
-    "sec_0000002488-26-000076"
-   ],
-   "confidence": "high",
-   "as_of": "2026-08-05",
-   "note": "Cash capex (PaymentsToAcquirePropertyPlantAndEquipment), 3 months 2026-03-29 to 2026-06-27; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative). Excludes finance-lease additions."
-  },
-  {
-   "id": "sec_amd_operating_cash_flow_quarter_q22026",
-   "entity_id": "amd",
-   "key": "operating_cash_flow_quarter",
-   "value": 2.366,
-   "low": null,
-   "high": null,
-   "unit": "USD_bn",
-   "period": "Q2 2026",
-   "status": "filed",
-   "source_ids": [
-    "sec_0000002488-26-000123",
-    "sec_0000002488-26-000076"
-   ],
-   "confidence": "high",
-   "as_of": "2026-08-05",
-   "note": "3 months 2026-03-29 to 2026-06-27; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
-  },
-  {
-   "id": "sec_amd_free_cash_flow_quarter_q22026",
-   "entity_id": "amd",
-   "key": "free_cash_flow_quarter",
-   "value": 1.558,
-   "low": null,
-   "high": null,
-   "unit": "USD_bn",
-   "period": "Q2 2026",
-   "status": "filed",
-   "source_ids": [
-    "sec_0000002488-26-000123",
-    "sec_0000002488-26-000076"
-   ],
-   "confidence": "high",
-   "as_of": "2026-08-05",
-   "note": "Operating cash flow minus cash capex, 3 months 2026-03-29 to 2026-06-27."
-  },
-  {
-   "id": "sec_amd_revenue_quarter_q22026",
-   "entity_id": "amd",
-   "key": "revenue_quarter",
-   "value": 11.536,
-   "low": null,
-   "high": null,
-   "unit": "USD_bn",
-   "period": "Q2 2026",
-   "status": "filed",
-   "source_ids": [
+    "sec_0000002488-26-000191",
     "sec_0000002488-26-000123"
    ],
    "confidence": "high",
-   "as_of": "2026-08-05",
-   "note": "RevenueFromContractWithCustomerExcludingAssessedTax, 3 months 2026-03-29 to 2026-06-27; as reported."
+   "as_of": "2026-11-04",
+   "note": "Cash capex (PaymentsToAcquirePropertyPlantAndEquipment), 3 months 2026-06-28 to 2026-09-26; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative). Excludes finance-lease additions."
   },
   {
-   "id": "sec_amd_revenue_ttm_q22026",
+   "id": "sec_amd_operating_cash_flow_quarter_q32026",
    "entity_id": "amd",
-   "key": "revenue_ttm",
-   "value": 41.305,
+   "key": "operating_cash_flow_quarter",
+   "value": 1.202,
    "low": null,
    "high": null,
    "unit": "USD_bn",
-   "period": "TTM to 2026-06-27",
+   "period": "Q3 2026",
    "status": "filed",
    "source_ids": [
-    "sec_0000002488-26-000123",
-    "sec_0000002488-26-000076",
-    "sec_0000002488-26-000018",
-    "sec_0000002488-25-000166"
+    "sec_0000002488-26-000191",
+    "sec_0000002488-26-000123"
    ],
    "confidence": "high",
-   "as_of": "2026-08-05",
+   "as_of": "2026-11-04",
+   "note": "3 months 2026-06-28 to 2026-09-26; derived: year-to-date minus prior year-to-date (cash-flow facts are cumulative)."
+  },
+  {
+   "id": "sec_amd_free_cash_flow_quarter_q32026",
+   "entity_id": "amd",
+   "key": "free_cash_flow_quarter",
+   "value": 0.554,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q3 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0000002488-26-000191",
+    "sec_0000002488-26-000123"
+   ],
+   "confidence": "high",
+   "as_of": "2026-11-04",
+   "note": "Operating cash flow minus cash capex, 3 months 2026-06-28 to 2026-09-26."
+  },
+  {
+   "id": "sec_amd_revenue_quarter_q32026",
+   "entity_id": "amd",
+   "key": "revenue_quarter",
+   "value": 13.377,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "Q3 2026",
+   "status": "filed",
+   "source_ids": [
+    "sec_0000002488-26-000191"
+   ],
+   "confidence": "high",
+   "as_of": "2026-11-04",
+   "note": "RevenueFromContractWithCustomerExcludingAssessedTax, 3 months 2026-06-28 to 2026-09-26; as reported."
+  },
+  {
+   "id": "sec_amd_revenue_ttm_q32026",
+   "entity_id": "amd",
+   "key": "revenue_ttm",
+   "value": 45.436,
+   "low": null,
+   "high": null,
+   "unit": "USD_bn",
+   "period": "TTM to 2026-09-26",
+   "status": "filed",
+   "source_ids": [
+    "sec_0000002488-26-000191",
+    "sec_0000002488-26-000123",
+    "sec_0000002488-26-000076",
+    "sec_0000002488-26-000018"
+   ],
+   "confidence": "high",
+   "as_of": "2026-11-04",
    "note": "Sum of the last four discrete quarters (same basis, same currency)."
   },
   {
@@ -1257,6 +1257,15 @@
    "reliability": "primary"
   },
   {
+   "id": "sec_0000002488-26-000191",
+   "publisher": "SEC 10-Q 2026-11-04",
+   "title": "AMD 10-Q, SEC EDGAR accession 0000002488-26-000191",
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000191/0000002488-26-000191-index.htm",
+   "published": "2026-11-04",
+   "kind": "filing",
+   "reliability": "primary"
+  },
+  {
    "id": "sec_0000002488-26-000123",
    "publisher": "SEC 10-Q 2026-08-05",
    "title": "AMD 10-Q, SEC EDGAR accession 0000002488-26-000123",
@@ -1289,15 +1298,6 @@
    "title": "AMD 10-Q, SEC EDGAR accession 0000002488-25-000166",
    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000166/0000002488-25-000166-index.htm",
    "published": "2025-11-05",
-   "kind": "filing",
-   "reliability": "primary"
-  },
-  {
-   "id": "sec_0000002488-25-000108",
-   "publisher": "SEC 10-Q 2025-08-06",
-   "title": "AMD 10-Q, SEC EDGAR accession 0000002488-25-000108",
-   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000108/0000002488-25-000108-index.htm",
-   "published": "2025-08-06",
    "kind": "filing",
    "reliability": "primary"
   },
@@ -4517,6 +4517,20 @@
    "derived": true
   },
   {
+   "id": "sec_amd_capex_quarter_q32026",
+   "entity_id": "amd",
+   "key": "capex_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-26",
+   "value": 0.648,
+   "unit": "USD_bn",
+   "source_ids": [
+    "sec_0000002488-26-000191",
+    "sec_0000002488-26-000123"
+   ],
+   "derived": true
+  },
+  {
    "id": "sec_amd_capex_quarter_q22026",
    "entity_id": "amd",
    "key": "capex_quarter",
@@ -4553,7 +4567,7 @@
    "unit": "USD_bn",
    "source_ids": [
     "sec_0000002488-26-000018",
-    "sec_0000002488-25-000166"
+    "sec_0000002488-26-000191"
    ],
    "derived": true
   },
@@ -4566,7 +4580,7 @@
    "value": 0.258,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0000002488-25-000166",
+    "sec_0000002488-26-000191",
     "sec_0000002488-26-000123"
    ],
    "derived": true
@@ -4613,16 +4627,16 @@
    "derived": true
   },
   {
-   "id": "sec_amd_capex_quarter_q32024",
+   "id": "sec_amd_operating_cash_flow_quarter_q32026",
    "entity_id": "amd",
-   "key": "capex_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-28",
-   "value": 0.132,
+   "key": "operating_cash_flow_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-26",
+   "value": 1.202,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0000002488-25-000166",
-    "sec_0000002488-25-000108"
+    "sec_0000002488-26-000191",
+    "sec_0000002488-26-000123"
    ],
    "derived": true
   },
@@ -4663,7 +4677,7 @@
    "unit": "USD_bn",
    "source_ids": [
     "sec_0000002488-26-000018",
-    "sec_0000002488-25-000166"
+    "sec_0000002488-26-000191"
    ],
    "derived": true
   },
@@ -4676,7 +4690,7 @@
    "value": 2.159,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0000002488-25-000166",
+    "sec_0000002488-26-000191",
     "sec_0000002488-26-000123"
    ],
    "derived": true
@@ -4723,16 +4737,16 @@
    "derived": true
   },
   {
-   "id": "sec_amd_operating_cash_flow_quarter_q32024",
+   "id": "sec_amd_free_cash_flow_quarter_q32026",
    "entity_id": "amd",
-   "key": "operating_cash_flow_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-28",
-   "value": 0.628,
+   "key": "free_cash_flow_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-26",
+   "value": 0.554,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0000002488-25-000166",
-    "sec_0000002488-25-000108"
+    "sec_0000002488-26-000191",
+    "sec_0000002488-26-000123"
    ],
    "derived": true
   },
@@ -4773,7 +4787,7 @@
    "unit": "USD_bn",
    "source_ids": [
     "sec_0000002488-26-000018",
-    "sec_0000002488-25-000166"
+    "sec_0000002488-26-000191"
    ],
    "derived": true
   },
@@ -4786,7 +4800,7 @@
    "value": 1.901,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0000002488-25-000166",
+    "sec_0000002488-26-000191",
     "sec_0000002488-26-000123"
    ],
    "derived": true
@@ -4833,18 +4847,17 @@
    "derived": true
   },
   {
-   "id": "sec_amd_free_cash_flow_quarter_q32024",
+   "id": "sec_amd_revenue_quarter_q32026",
    "entity_id": "amd",
-   "key": "free_cash_flow_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-28",
-   "value": 0.496,
+   "key": "revenue_quarter",
+   "period": "Q3 2026",
+   "end": "2026-09-26",
+   "value": 13.377,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0000002488-25-000166",
-    "sec_0000002488-25-000108"
+    "sec_0000002488-26-000191"
    ],
-   "derived": true
+   "derived": false
   },
   {
    "id": "sec_amd_revenue_quarter_q22026",
@@ -4882,7 +4895,7 @@
    "unit": "USD_bn",
    "source_ids": [
     "sec_0000002488-26-000018",
-    "sec_0000002488-25-000166"
+    "sec_0000002488-26-000191"
    ],
    "derived": true
   },
@@ -4895,7 +4908,7 @@
    "value": 9.246,
    "unit": "USD_bn",
    "source_ids": [
-    "sec_0000002488-25-000166"
+    "sec_0000002488-26-000191"
    ],
    "derived": false
   },
@@ -4938,19 +4951,6 @@
     "sec_0000002488-25-000166"
    ],
    "derived": true
-  },
-  {
-   "id": "sec_amd_revenue_quarter_q32024",
-   "entity_id": "amd",
-   "key": "revenue_quarter",
-   "period": "Q3 2024",
-   "end": "2024-09-28",
-   "value": 6.819,
-   "unit": "USD_bn",
-   "source_ids": [
-    "sec_0000002488-25-000166"
-   ],
-   "derived": false
   },
   {
    "id": "sec_apple_capex_quarter_q32026",
@@ -6005,18 +6005,18 @@
   {
    "entity_id": "amd",
    "form": "10-Q",
-   "filed": "2026-08-05",
-   "report_date": "2026-06-27",
-   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/amd-20260627.htm",
-   "accession": "0000002488-26-000123"
+   "filed": "2026-11-04",
+   "report_date": "2026-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000191/amd-20260926.htm",
+   "accession": "0000002488-26-000191"
   },
   {
    "entity_id": "amd",
    "form": "8-K",
-   "filed": "2026-09-28",
-   "report_date": "2026-09-26",
-   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000182/amd-20260926.htm",
-   "accession": "0000002488-26-000182"
+   "filed": "2026-11-03",
+   "report_date": "2026-11-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/amd-20261103.htm",
+   "accession": "0000002488-26-000188"
   },
   {
    "entity_id": "apple",
