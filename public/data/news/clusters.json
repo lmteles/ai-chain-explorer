@@ -1,7 +1,24 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-04T06:59:21.737Z",
+ "updated_at": "2026-11-04T20:02:47.406Z",
  "clusters": [
+  {
+   "id": "c_3a06f84c0f",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-11-04T14:30:00.000Z",
+   "last_seen": "2026-11-04T14:30:00.000Z",
+   "headlines": [
+    {
+     "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+     "url": "https://openai.com/index/openai-to-acquire-pierre",
+     "domain": "openai.com",
+     "seen": "2026-11-04T14:30:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
   {
    "id": "c_589b6ae4a1",
    "entity_ids": [
