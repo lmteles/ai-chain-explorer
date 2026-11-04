@@ -1,6 +1,6 @@
 {
  "adapter": "quotes",
- "fetched_at": "2026-11-03T21:06:12.289Z",
+ "fetched_at": "2026-11-04T01:28:19.107Z",
  "metrics": [
   {
    "id": "mkt_microsoft_market_cap",
@@ -142,7 +142,7 @@
    "id": "mkt_tsmc_market_cap",
    "entity_id": "tsmc",
    "key": "market_cap",
-   "value": 2098.97,
+   "value": 2099.49,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -153,7 +153,7 @@
    ],
    "confidence": "high",
    "as_of": "2026-11-03",
-   "note": "TSM at $404.7. For ADRs, the market cap of the underlying company in USD."
+   "note": "TSM at $404.8. For ADRs, the market cap of the underlying company in USD."
   }
  ],
  "sources": [
@@ -824,7 +824,7 @@
    "key": "price",
    "period": "2026-11-03",
    "end": "2026-11-03",
-   "value": 520.8,
+   "value": 520.99,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1487,7 +1487,7 @@
    "key": "price",
    "period": "2026-11-03",
    "end": "2026-11-03",
-   "value": 250.79,
+   "value": 250.69,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2150,7 +2150,7 @@
    "key": "price",
    "period": "2026-11-03",
    "end": "2026-11-03",
-   "value": 280.32,
+   "value": 280.03,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2813,7 +2813,7 @@
    "key": "price",
    "period": "2026-11-03",
    "end": "2026-11-03",
-   "value": 620.91,
+   "value": 621.03,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3476,7 +3476,7 @@
    "key": "price",
    "period": "2026-11-03",
    "end": "2026-11-03",
-   "value": 206.6,
+   "value": 206.69,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4139,7 +4139,7 @@
    "key": "price",
    "period": "2026-11-03",
    "end": "2026-11-03",
-   "value": 484.41,
+   "value": 483.9,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4802,7 +4802,7 @@
    "key": "price",
    "period": "2026-11-03",
    "end": "2026-11-03",
-   "value": 331.77,
+   "value": 331.9,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5465,7 +5465,7 @@
    "key": "price",
    "period": "2026-11-03",
    "end": "2026-11-03",
-   "value": 397.6994,
+   "value": 398.5,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -6128,7 +6128,7 @@
    "key": "price",
    "period": "2026-11-03",
    "end": "2026-11-03",
-   "value": 404.7,
+   "value": 404.8,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
