@@ -1,6 +1,6 @@
 {
  "adapter": "quotes",
- "fetched_at": "2026-11-04T23:45:47.019Z",
+ "fetched_at": "2026-11-05T06:59:38.493Z",
  "metrics": [
   {
    "id": "mkt_microsoft_market_cap",
@@ -23,7 +23,7 @@
    "id": "mkt_amazon_market_cap",
    "entity_id": "amazon",
    "key": "market_cap",
-   "value": 2869.48,
+   "value": 2876.61,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -40,7 +40,7 @@
    "id": "mkt_alphabet_market_cap",
    "entity_id": "alphabet",
    "key": "market_cap",
-   "value": 3522.35,
+   "value": 3526.15,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -108,7 +108,7 @@
    "id": "mkt_apple_market_cap",
    "entity_id": "apple",
    "key": "market_cap",
-   "value": 5100.81,
+   "value": 5100.82,
    "low": null,
    "high": null,
    "unit": "USD_bn",
