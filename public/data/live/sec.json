@@ -1,6 +1,6 @@
 {
  "adapter": "sec",
- "fetched_at": "2026-11-04T14:29:44.853Z",
+ "fetched_at": "2026-11-05T14:37:54.552Z",
  "metrics": [
   {
    "id": "sec_oracle_capex_quarter_q32026",
@@ -5845,10 +5845,10 @@
   {
    "entity_id": "oracle",
    "form": "8-K",
-   "filed": "2026-10-28",
-   "report_date": "2026-10-28",
-   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526435853/d75538d8k.htm",
-   "accession": "0001193125-26-435853"
+   "filed": "2026-11-04",
+   "report_date": "2026-11-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526447507/d131790d8k.htm",
+   "accession": "0001193125-26-447507"
   },
   {
    "entity_id": "microsoft",
@@ -5869,10 +5869,10 @@
   {
    "entity_id": "microsoft",
    "form": "8-K",
-   "filed": "2026-10-28",
-   "report_date": "2026-10-28",
-   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436149/msft-20261028.htm",
-   "accession": "0001193125-26-436149"
+   "filed": "2026-11-05",
+   "report_date": "2026-11-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526448357/d177209d8k.htm",
+   "accession": "0001193125-26-448357"
   },
   {
    "entity_id": "amazon",
