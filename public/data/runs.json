@@ -519,52 +519,6 @@
   },
   {
     "adapter": "gdelt",
-    "started_at": "2026-10-25T16:49:18.317Z",
-    "finished_at": "2026-10-25T16:50:11.412Z",
-    "status": "failed",
-    "rows": 0,
-    "errors": [
-      "…L)%20(invest%20OR%20commitment%20OR%20gigawatt%20OR%20capacity%20OR%20agreement)&mode=ArtList&format=json&maxrecords=250&sort=DateDesc&timespan=1d: fetch failed"
-    ],
-    "notes": [
-      "0 headline(s) over 1 day(s)"
-    ]
-  },
-  {
-    "adapter": "rss",
-    "started_at": "2026-10-25T16:50:11.416Z",
-    "finished_at": "2026-10-25T16:50:12.275Z",
-    "status": "ok",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "0 headline(s) over 1 day(s)"
-    ]
-  },
-  {
-    "adapter": "bloomberg",
-    "started_at": "2026-10-25T16:50:12.278Z",
-    "finished_at": "2026-10-25T16:50:12.278Z",
-    "status": "skipped",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "not licensed: disabled stub, no scraping"
-    ]
-  },
-  {
-    "adapter": "ft",
-    "started_at": "2026-10-25T16:50:12.280Z",
-    "finished_at": "2026-10-25T16:50:12.280Z",
-    "status": "skipped",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "not licensed: disabled stub, no scraping"
-    ]
-  },
-  {
-    "adapter": "gdelt",
     "started_at": "2026-10-25T21:14:30.583Z",
     "finished_at": "2026-10-25T21:15:22.960Z",
     "status": "failed",
@@ -3297,6 +3251,50 @@
       "broadcom: AVGO not covered on the current Financial Modeling Prep plan",
       "samsung: 005930.KS not covered by Financial Modeling Prep",
       "asml: ASML not covered on the current Financial Modeling Prep plan"
+    ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-11-05T07:24:35.647Z",
+    "finished_at": "2026-11-05T07:24:49.136Z",
+    "status": "ok",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "0 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-11-05T07:24:49.139Z",
+    "finished_at": "2026-11-05T07:24:50.231Z",
+    "status": "ok",
+    "rows": 7,
+    "errors": [],
+    "notes": [
+      "7 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-11-05T07:24:50.233Z",
+    "finished_at": "2026-11-05T07:24:50.233Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-11-05T07:24:50.236Z",
+    "finished_at": "2026-11-05T07:24:50.236Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
     ]
   }
 ]
