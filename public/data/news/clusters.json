@@ -1,7 +1,109 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-05T20:17:05.694Z",
+ "updated_at": "2026-11-06T07:25:28.415Z",
  "clusters": [
+  {
+   "id": "c_13da7f0ddd",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-06T05:00:00Z",
+   "last_seen": "2026-11-06T05:00:00Z",
+   "headlines": [
+    {
+     "title": "As $2 . 5 trillion wiped off Nasdaq in one day , Nvidia and other technology companies that were the biggest losers",
+     "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-2-5-trillion-wiped-off-nasdaq-in-one-day-nvidia-and-other-technology-companies-that-were-the-biggest-losers/articleshow/135593046.cms",
+     "domain": "timesofindia.indiatimes.com",
+     "seen": "2026-11-06T05:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_db10481262",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-11-06T04:30:00Z",
+   "last_seen": "2026-11-06T04:30:00Z",
+   "headlines": [
+    {
+     "title": "OpenAI deal to cut Abu Dhabi government processing times from days to minutes",
+     "url": "https://www.thenationalnews.com/future/technology/2026/11/06/openai-deal-to-cut-abu-dhabi-government-processing-times-from-days-to-minutes/",
+     "domain": "thenationalnews.com",
+     "seen": "2026-11-06T04:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_4722343884",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-11-06T04:30:00Z",
+   "last_seen": "2026-11-06T04:30:00Z",
+   "headlines": [
+    {
+     "title": "Tech M & A deals : Shield , Echodyne , Agility Robotics , Meta , Conductor",
+     "url": "https://infotechlead.com/analytics/tech-ma-deals-shield-echodyne-agility-robotics-meta-conductor-99451",
+     "domain": "infotechlead.com",
+     "seen": "2026-11-06T04:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_8490d439c1",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-11-06T03:30:00Z",
+   "last_seen": "2026-11-06T03:30:00Z",
+   "headlines": [
+    {
+     "title": "OpenAI reportedly weighs revising 2027 data center capacity expectations · Digg",
+     "url": "https://digg.com/ai/kuslgcja",
+     "domain": "digg.com",
+     "seen": "2026-11-06T03:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_0eda53e706",
+   "entity_ids": [
+    "alphabet"
+   ],
+   "first_seen": "2026-11-06T02:30:00Z",
+   "last_seen": "2026-11-06T02:30:00Z",
+   "headlines": [
+    {
+     "title": "Cathie Wood Sells $12 . 8 Million Of Alphabet , Days After The Stock Suffered Its Worst Day Since Its 2004 IPO , Losing Nearly Half A Trillion Dollars In Market Value",
+     "url": "https://www.aol.com/articles/cathie-wood-sells-12-8-012015000.html",
+     "domain": "aol.com",
+     "seen": "2026-11-06T02:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_493bc68de3",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-06T01:00:00Z",
+   "last_seen": "2026-11-06T01:00:00Z",
+   "headlines": [
+    {
+     "title": "PYMNTS | Anthropic Invites Banks to Help Shape Personal Finance Offerings",
+     "url": "https://www.pymnts.com/consumer-finance/2026/anthropic-invites-banks-to-help-shape-new-personal-finance-offerings/",
+     "domain": "pymnts.com",
+     "seen": "2026-11-06T01:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_3a06f84c0f",
    "entity_ids": [
