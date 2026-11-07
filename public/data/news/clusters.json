@@ -1,7 +1,24 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-06T19:42:11.767Z",
+ "updated_at": "2026-11-07T06:36:51.944Z",
  "clusters": [
+  {
+   "id": "c_931be39086",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-11-07T06:00:00Z",
+   "last_seen": "2026-11-07T06:00:00Z",
+   "headlines": [
+    {
+     "title": "Better Stock Split to Buy : Meta Platforms vs . Sandisk",
+     "url": "https://www.fool.com/investing/2026/11/07/better-stock-split-to-buy-meta-platforms-vs-sandis/",
+     "domain": "fool.com",
+     "seen": "2026-11-07T06:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_bc8f9eac19",
    "entity_ids": [
