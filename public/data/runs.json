@@ -53,28 +53,6 @@
   },
   {
     "adapter": "sec",
-    "started_at": "2026-10-08T13:27:39.622Z",
-    "finished_at": "2026-10-08T13:27:43.773Z",
-    "status": "ok",
-    "rows": 413,
-    "errors": [],
-    "notes": [
-      "oracle: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
-      "microsoft: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
-      "amazon: capex=PaymentsToAcquireProductiveAssets ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
-      "alphabet: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=Revenues",
-      "meta: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
-      "nvidia: capex=PaymentsToAcquireProductiveAssets ocf=NetCashProvidedByUsedInOperatingActivities revenue=Revenues",
-      "broadcom: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
-      "amd: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
-      "apple: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
-      "tesla: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
-      "tsmc: no us-gaap facts (IFRS filer); figures come from investor materials in M5",
-      "asml: capex=none ocf=none revenue=none"
-    ]
-  },
-  {
-    "adapter": "sec",
     "started_at": "2026-10-09T13:15:21.783Z",
     "finished_at": "2026-10-09T13:15:25.380Z",
     "status": "ok",
@@ -3293,6 +3271,28 @@
     "errors": [],
     "notes": [
       "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "sec",
+    "started_at": "2026-11-07T12:58:12.907Z",
+    "finished_at": "2026-11-07T12:58:16.506Z",
+    "status": "ok",
+    "rows": 413,
+    "errors": [],
+    "notes": [
+      "oracle: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "microsoft: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "amazon: capex=PaymentsToAcquireProductiveAssets ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "alphabet: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=Revenues",
+      "meta: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "nvidia: capex=PaymentsToAcquireProductiveAssets ocf=NetCashProvidedByUsedInOperatingActivities revenue=Revenues",
+      "broadcom: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "amd: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "apple: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "tesla: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
+      "tsmc: no us-gaap facts (IFRS filer); figures come from investor materials in M5",
+      "asml: capex=none ocf=none revenue=none"
     ]
   }
 ]
