@@ -1,7 +1,203 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-07T13:33:56.192Z",
+ "updated_at": "2026-11-07T22:18:53.292Z",
  "clusters": [
+  {
+   "id": "c_3598942b53",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-07T19:00:00Z",
+   "last_seen": "2026-11-07T19:00:00Z",
+   "headlines": [
+    {
+     "title": "Nvidia Stock Has More Than 60 % Upside According to Analyst Average Price Target . Should You Buy While the AI Trade Wobbles ? ",
+     "url": "https://www.aol.com/articles/nvidia-stock-more-60-upside-182000000.html",
+     "domain": "aol.com",
+     "seen": "2026-11-07T19:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_251888ca63",
+   "entity_ids": [
+    "oracle",
+    "microsoft"
+   ],
+   "first_seen": "2026-11-07T17:30:00Z",
+   "last_seen": "2026-11-07T17:30:00Z",
+   "headlines": [
+    {
+     "title": "Microsoft is winding down deal with Oracle | The Manila Times",
+     "url": "https://www.manilatimes.net/2026/11/08/business/top-business/microsoft-is-winding-down-deal-with-oracle/2464470",
+     "domain": "manilatimes.net",
+     "seen": "2026-11-07T17:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_6e538fe2c0",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-11-07T17:30:00Z",
+   "last_seen": "2026-11-07T17:30:00Z",
+   "headlines": [
+    {
+     "title": "OpenAI seeks $20 billion after cutting funding target , FT says",
+     "url": "http://www.trinidadtimes.com/news/279406081/openai-seeks-usd20-billion-after-cutting-funding-target-ft-says",
+     "domain": "trinidadtimes.com",
+     "seen": "2026-11-07T17:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_52ee9c25a8",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-11-07T17:30:00Z",
+   "last_seen": "2026-11-07T17:30:00Z",
+   "headlines": [
+    {
+     "title": "OpenAI abandons secrecy agreements for future data centres",
+     "url": "https://thearabianpost.com/openai-abandons-secrecy-agreements-for-future-data-centres/",
+     "domain": "thearabianpost.com",
+     "seen": "2026-11-07T17:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_aa864396de",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-11-07T09:30:00Z",
+   "last_seen": "2026-11-07T11:30:00Z",
+   "headlines": [
+    {
+     "title": "Amazon AI Spending is Pressuring Free Cash Flow . Is the Stock Still a Buy ? ",
+     "url": "https://www.fool.com/investing/2026/11/07/amazon-s-ai-spending-is-pressuring-free-cash-flow-is-the-stock-still-a-buy/",
+     "domain": "fool.com",
+     "seen": "2026-11-07T09:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Amazon AI Spending is Pressuring Free Cash Flow . Is the Stock Still a Buy ? ",
+     "url": "https://www.aol.com/articles/amazon-ai-spending-pressuring-free-093002000.html",
+     "domain": "aol.com",
+     "seen": "2026-11-07T11:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_a1fe0f1209",
+   "entity_ids": [
+    "microsoft"
+   ],
+   "first_seen": "2026-11-07T11:30:00Z",
+   "last_seen": "2026-11-07T11:30:00Z",
+   "headlines": [
+    {
+     "title": "Microsoft $1 billion Amsterdam data centre project faces protests over AI infrastructure costs - details inside",
+     "url": "https://www.livemint.com/companies/news/microsofts-1-billion-amsterdam-data-centre-project-faces-protests-over-ai-infrastructure-costs-details-inside-11794048139305.html",
+     "domain": "livemint.com",
+     "seen": "2026-11-07T11:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_fb50e81ade",
+   "entity_ids": [
+    "amd"
+   ],
+   "first_seen": "2026-11-07T11:30:00Z",
+   "last_seen": "2026-11-07T11:30:00Z",
+   "headlines": [
+    {
+     "title": "Advanced Micro Devices ( AMD ) Recently Crashed Out of the $1 Trillion Club . Should You Buy the Dip ? ",
+     "url": "https://www.aol.com/articles/advanced-micro-devices-amd-recently-104800000.html",
+     "domain": "aol.com",
+     "seen": "2026-11-07T11:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_9c8ffcb849",
+   "entity_ids": [
+    "samsung"
+   ],
+   "first_seen": "2026-11-07T07:00:00Z",
+   "last_seen": "2026-11-07T07:00:00Z",
+   "headlines": [
+    {
+     "title": "4 Disadvantages Of Buying Cheap Samsung Tablets",
+     "url": "https://www.bgr.com/2303619/disadvantages-cheap-samsung-tablets/",
+     "domain": "bgr.com",
+     "seen": "2026-11-07T07:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_ae8cc1ee6f",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-11-07T07:00:00Z",
+   "last_seen": "2026-11-07T07:00:00Z",
+   "headlines": [
+    {
+     "title": "OpenAI Raises $11 Bn At $1 . 25 Tn Valuation In Fresh Round",
+     "url": "https://www.businessworld.in/article/openai-raises-11-bn-at-1-25-tn-valuation-in-fresh-round-632586",
+     "domain": "businessworld.in",
+     "seen": "2026-11-07T07:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_ef4fc76dc9",
+   "entity_ids": [
+    "alphabet"
+   ],
+   "first_seen": "2026-11-07T07:00:00Z",
+   "last_seen": "2026-11-07T07:00:00Z",
+   "headlines": [
+    {
+     "title": "Google Parent Alphabet Builds $548 Mn Stake In Qualcomm",
+     "url": "https://www.businessworld.in/article/google-parent-alphabet-builds-548-mn-stake-in-qualcomm-632564",
+     "domain": "businessworld.in",
+     "seen": "2026-11-07T07:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_1c73475672",
+   "entity_ids": [
+    "oracle",
+    "microsoft"
+   ],
+   "first_seen": "2026-11-07T07:00:00Z",
+   "last_seen": "2026-11-07T07:00:00Z",
+   "headlines": [
+    {
+     "title": "Microsoft Reviews Billions In Cloud Deals , Winds Down Oracle Arrangement : Report",
+     "url": "https://www.businessworld.in/article/microsoft-reviews-billions-in-cloud-deals-winds-down-oracle-arrangement-report-632546",
+     "domain": "businessworld.in",
+     "seen": "2026-11-07T07:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_931be39086",
    "entity_ids": [
