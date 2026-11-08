@@ -1,7 +1,99 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-08T18:05:58.328Z",
+ "updated_at": "2026-11-08T22:29:06.965Z",
  "clusters": [
+  {
+   "id": "c_818b0c3539",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-08T13:30:00Z",
+   "last_seen": "2026-11-08T17:00:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic strikes $3 . 4 billion deal for data centre generators",
+     "url": "https://www.thehindubusinessline.com/info-tech/anthropic-strikes-34-billion-deal-for-data-centre-generators/article71680927.ece",
+     "domain": "thehindubusinessline.com",
+     "seen": "2026-11-08T13:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic secures $3 . 4 billion generator deal for AI data centers : FT",
+     "url": "https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html",
+     "domain": "cnbc.com",
+     "seen": "2026-11-08T17:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_118fe64c59",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-08T15:30:00Z",
+   "last_seen": "2026-11-08T15:30:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic strikes $3 . 4B generator deal to secure data center power : FT ( ANT : Pending ) ",
+     "url": "https://seekingalpha.com/news/4668761-anthropic-strikes-3_4b-generator-deal-to-secure-data-center-power-ft",
+     "domain": "seekingalpha.com",
+     "seen": "2026-11-08T15:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_670335a07c",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-08T13:30:00Z",
+   "last_seen": "2026-11-08T13:30:00Z",
+   "headlines": [
+    {
+     "title": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses investigation reveals businesses have ties to sanctioned Chinese military suppliers",
+     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers",
+     "domain": "tomshardware.com",
+     "seen": "2026-11-08T13:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_0d0ae763a6",
+   "entity_ids": [
+    "microsoft"
+   ],
+   "first_seen": "2026-11-08T13:30:00Z",
+   "last_seen": "2026-11-08T13:30:00Z",
+   "headlines": [
+    {
+     "title": "Microsoft seeks wider AI adoption in PHL schools through partnerships",
+     "url": "https://bworldonline.com/corporate/2026/11/08/792183/microsoft-seeks-wider-ai-adoption-in-phl-schools-through-partnerships/",
+     "domain": "bworldonline.com",
+     "seen": "2026-11-08T13:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_3c2fd8e618",
+   "entity_ids": [
+    "apple"
+   ],
+   "first_seen": "2026-11-08T11:30:00Z",
+   "last_seen": "2026-11-08T11:30:00Z",
+   "headlines": [
+    {
+     "title": "Early Black Friday Apple deals have low prices and high stocks",
+     "url": "https://nypost.com/shopping/apple-early-black-friday-sale-deals-2026/",
+     "domain": "nypost.com",
+     "seen": "2026-11-08T11:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_3598942b53",
    "entity_ids": [
