@@ -1,7 +1,134 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-09T07:12:53.915Z",
+ "updated_at": "2026-11-09T22:43:13.187Z",
  "clusters": [
+  {
+   "id": "c_97be7dad62",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-09T14:00:01.000Z",
+   "last_seen": "2026-11-09T14:00:01.000Z",
+   "headlines": [
+    {
+     "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+     "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+     "domain": "blogs.nvidia.com",
+     "seen": "2026-11-09T14:00:01.000Z",
+     "source": "rss"
+    }
+   ]
+  },
+  {
+   "id": "c_57a8ba0d55",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-09T08:00:53.000Z",
+   "last_seen": "2026-11-09T08:00:53.000Z",
+   "headlines": [
+    {
+     "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+     "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+     "domain": "blogs.nvidia.com",
+     "seen": "2026-11-09T08:00:53.000Z",
+     "source": "rss"
+    }
+   ]
+  },
+  {
+   "id": "c_40c1499d4a",
+   "entity_ids": [
+    "samsung"
+   ],
+   "first_seen": "2026-11-09T07:00:00Z",
+   "last_seen": "2026-11-09T07:00:00Z",
+   "headlines": [
+    {
+     "title": "Rivals to partners ? Samsung and Hyundai hold major networking event for key managers",
+     "url": "http://english.hani.co.kr/arti/english_edition/e_business/1286431.html",
+     "domain": "english.hani.co.kr",
+     "seen": "2026-11-09T07:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_efeeadff92",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-09T06:00:00Z",
+   "last_seen": "2026-11-09T06:00:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic Steps Up AI Infrastructure Push With $3 . 4 Bn Power Deal",
+     "url": "https://www.businessworld.in/article/anthropic-steps-up-ai-infrastructure-push-with-3-4-bn-power-deal-632677",
+     "domain": "businessworld.in",
+     "seen": "2026-11-09T06:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_437216e148",
+   "entity_ids": [
+    "oracle",
+    "microsoft"
+   ],
+   "first_seen": "2026-11-09T01:00:00Z",
+   "last_seen": "2026-11-09T01:00:00Z",
+   "headlines": [
+    {
+     "title": "Microsoft Winds Down Oracle AI Capacity Used for Bing , Bloomberg Reports",
+     "url": "https://econotimes.com/Microsoft-Winds-Down-Oracle-AI-Capacity-Used-for-Bing-Bloomberg-Reports-1773400",
+     "domain": "econotimes.com",
+     "seen": "2026-11-09T01:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_ae8cc1ee6f",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-11-07T07:00:00Z",
+   "last_seen": "2026-11-09T00:30:00Z",
+   "headlines": [
+    {
+     "title": "OpenAI Raises $11 Bn At $1 . 25 Tn Valuation In Fresh Round",
+     "url": "https://www.businessworld.in/article/openai-raises-11-bn-at-1-25-tn-valuation-in-fresh-round-632586",
+     "domain": "businessworld.in",
+     "seen": "2026-11-07T07:00:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "PYMNTS | OpenAI Valuation Hits $1 . 25 Trillion in New Funding Round",
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-valuation-hits-1-25-trillion-in-new-funding-round/",
+     "domain": "pymnts.com",
+     "seen": "2026-11-09T00:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_161019100f",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-11-09T00:30:00Z",
+   "last_seen": "2026-11-09T00:30:00Z",
+   "headlines": [
+    {
+     "title": "PYMNTS | Amazon - Uber Eats Deal Leaves DoorDash Investors Queasy",
+     "url": "https://www.pymnts.com/news/delivery/2026/amazon-uber-eats-deal-leaves-doordash-investors-queasy/",
+     "domain": "pymnts.com",
+     "seen": "2026-11-09T00:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_818b0c3539",
    "entity_ids": [
@@ -233,23 +360,6 @@
      "title": "4 Disadvantages Of Buying Cheap Samsung Tablets",
      "url": "https://www.bgr.com/2303619/disadvantages-cheap-samsung-tablets/",
      "domain": "bgr.com",
-     "seen": "2026-11-07T07:00:00Z",
-     "source": "gdelt"
-    }
-   ]
-  },
-  {
-   "id": "c_ae8cc1ee6f",
-   "entity_ids": [
-    "openai"
-   ],
-   "first_seen": "2026-11-07T07:00:00Z",
-   "last_seen": "2026-11-07T07:00:00Z",
-   "headlines": [
-    {
-     "title": "OpenAI Raises $11 Bn At $1 . 25 Tn Valuation In Fresh Round",
-     "url": "https://www.businessworld.in/article/openai-raises-11-bn-at-1-25-tn-valuation-in-fresh-round-632586",
-     "domain": "businessworld.in",
      "seen": "2026-11-07T07:00:00Z",
      "source": "gdelt"
     }
