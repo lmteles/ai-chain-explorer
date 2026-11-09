@@ -11,12 +11,12 @@
    {
     "name": "a3q26e_withguidancexfinal.htm",
     "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm",
-    "sha256": "dde10578dcb45d913c6f76dd80248791b8ec5780ffd7579be261ce08614bc3c2"
+    "sha256": "e4e2e8980b7f4961fbf01f44be8522a640c953cc2983c5be31e52d1fa6680486"
    },
    {
     "name": "a3q26presentatione.htm",
     "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26presentatione.htm",
-    "sha256": "143056fa70b42273978b656c69137c069d1e6b4a0ab3a18e2febb88ff5e6fb6b"
+    "sha256": "5087aaf435989f34594d5135b17b3e7e65c2524449dbdff57075c0b3850f208d"
    }
   ],
   "pages": [
@@ -82,7 +82,7 @@
    {
     "name": "tsm-20251231.htm",
     "url": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
-    "sha256": "96325018e6150995aaf2b59e297cdfeed8cf2ee8d562fe00e48713ae06e35fb5"
+    "sha256": "66d33e493b6abfec86343a1d729d6f401bfda56a688d99fe1c6dc795211bef1e"
    }
   ],
   "pages": []
@@ -99,7 +99,7 @@
    {
     "name": "pressreleasefinancialresul.htm",
     "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026065813/pressreleasefinancialresul.htm",
-    "sha256": "5351154c56b6e33f4c2891fdbc614cf44bd9ec501ac81325f5e66e631279ec05"
+    "sha256": "7922464dce75440a93fa20d0ff9f5512b330cc797cbb49b5bdd19c51d1cfb872"
    }
   ],
   "pages": []
