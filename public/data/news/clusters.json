@@ -1,7 +1,41 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-10T07:45:26.876Z",
+ "updated_at": "2026-11-10T20:01:21.242Z",
  "clusters": [
+  {
+   "id": "c_e4ee0ae8bb",
+   "entity_ids": [
+    "microsoft"
+   ],
+   "first_seen": "2026-11-10T18:00:05.000Z",
+   "last_seen": "2026-11-10T18:00:05.000Z",
+   "headlines": [
+    {
+     "title": "The Ohio State University and Microsoft announce five-year strategic partnership to accelerate innovation across clinical care, education and research",
+     "url": "https://news.microsoft.com/source/2026/11/10/the-ohio-state-university-and-microsoft-announce-five-year-strategic-partnership-to-accelerate-innovation-across-clinical-care-education-and-research/",
+     "domain": "news.microsoft.com",
+     "seen": "2026-11-10T18:00:05.000Z",
+     "source": "rss"
+    }
+   ]
+  },
+  {
+   "id": "c_b4eac762a1",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-10T16:00:03.000Z",
+   "last_seen": "2026-11-10T16:00:03.000Z",
+   "headlines": [
+    {
+     "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+     "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+     "domain": "blogs.nvidia.com",
+     "seen": "2026-11-10T16:00:03.000Z",
+     "source": "rss"
+    }
+   ]
+  },
   {
    "id": "c_97be7dad62",
    "entity_ids": [
