@@ -465,45 +465,6 @@
     ]
   },
   {
-    "adapter": "fred",
-    "started_at": "2026-10-29T10:10:45.618Z",
-    "finished_at": "2026-10-29T10:10:46.067Z",
-    "status": "ok",
-    "rows": 1,
-    "errors": [],
-    "notes": [
-      "macro_dgs10 = 4.99 (2026-10-27)"
-    ]
-  },
-  {
-    "adapter": "treasury",
-    "started_at": "2026-10-29T10:10:46.070Z",
-    "finished_at": "2026-10-29T10:10:46.841Z",
-    "status": "ok",
-    "rows": 3,
-    "errors": [],
-    "notes": [
-      "macro_federal_debt = 40582.27 (2026-10-27)",
-      "macro_interest_public = 1068.46 (2026-09-30)",
-      "macro_interest_total = 1360.4 (2026-09-30)"
-    ]
-  },
-  {
-    "adapter": "quotes",
-    "started_at": "2026-10-29T10:10:46.843Z",
-    "finished_at": "2026-10-29T10:10:51.905Z",
-    "status": "ok",
-    "rows": 468,
-    "errors": [],
-    "notes": [
-      "softbank: 9984.T not covered by Financial Modeling Prep",
-      "oracle: ORCL not covered on the current Financial Modeling Prep plan",
-      "broadcom: AVGO not covered on the current Financial Modeling Prep plan",
-      "samsung: 005930.KS not covered by Financial Modeling Prep",
-      "asml: ASML not covered on the current Financial Modeling Prep plan"
-    ]
-  },
-  {
     "adapter": "sec",
     "started_at": "2026-10-29T12:58:34.428Z",
     "finished_at": "2026-10-29T12:58:38.423Z",
@@ -3300,6 +3261,45 @@
       "tesla: capex=PaymentsToAcquirePropertyPlantAndEquipment ocf=NetCashProvidedByUsedInOperatingActivities revenue=RevenueFromContractWithCustomerExcludingAssessedTax",
       "tsmc: no us-gaap facts (IFRS filer); figures come from investor materials in M5",
       "asml: capex=none ocf=none revenue=none"
+    ]
+  },
+  {
+    "adapter": "fred",
+    "started_at": "2026-11-10T17:57:11.173Z",
+    "finished_at": "2026-11-10T17:57:11.872Z",
+    "status": "ok",
+    "rows": 1,
+    "errors": [],
+    "notes": [
+      "macro_dgs10 = 4.86 (2026-11-06)"
+    ]
+  },
+  {
+    "adapter": "treasury",
+    "started_at": "2026-11-10T17:57:11.874Z",
+    "finished_at": "2026-11-10T17:57:12.639Z",
+    "status": "ok",
+    "rows": 3,
+    "errors": [],
+    "notes": [
+      "macro_federal_debt = 40552.75 (2026-11-06)",
+      "macro_interest_public = 98.62 (2026-10-31)",
+      "macro_interest_total = 115.46 (2026-10-31)"
+    ]
+  },
+  {
+    "adapter": "quotes",
+    "started_at": "2026-11-10T17:57:12.642Z",
+    "finished_at": "2026-11-10T17:57:17.674Z",
+    "status": "ok",
+    "rows": 468,
+    "errors": [],
+    "notes": [
+      "softbank: 9984.T not covered by Financial Modeling Prep",
+      "oracle: ORCL not covered on the current Financial Modeling Prep plan",
+      "broadcom: AVGO not covered on the current Financial Modeling Prep plan",
+      "samsung: 005930.KS not covered by Financial Modeling Prep",
+      "asml: ASML not covered on the current Financial Modeling Prep plan"
     ]
   }
 ]
