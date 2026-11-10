@@ -1,6 +1,6 @@
 {
  "adapter": "sec",
- "fetched_at": "2026-11-09T16:15:19.831Z",
+ "fetched_at": "2026-11-10T14:51:18.957Z",
  "metrics": [
   {
    "id": "sec_oracle_capex_quarter_q32026",
@@ -6037,10 +6037,10 @@
   {
    "entity_id": "apple",
    "form": "8-K",
-   "filed": "2026-11-02",
-   "report_date": "2026-11-02",
-   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000024/aapl-20261102.htm",
-   "accession": "0000320193-26-000024"
+   "filed": "2026-11-09",
+   "report_date": "2026-11-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000114036126042798/ef20085077_8k.htm",
+   "accession": "0001140361-26-042798"
   },
   {
    "entity_id": "tesla",
@@ -6077,10 +6077,10 @@
   {
    "entity_id": "tsmc",
    "form": "6-K",
-   "filed": "2026-10-22",
-   "report_date": "2026-09-30",
-   "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000728/tsm-monthend6kx20261022.htm",
-   "accession": "0001046179-26-000728"
+   "filed": "2026-11-10",
+   "report_date": "2026-11-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000797/tsm-boardx202611xx.htm",
+   "accession": "0001046179-26-000797"
   },
   {
    "entity_id": "asml",
