@@ -1,7 +1,24 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-11T07:08:42.362Z",
+ "updated_at": "2026-11-11T19:53:07.411Z",
  "clusters": [
+  {
+   "id": "c_289766ede4",
+   "entity_ids": [
+    "alphabet"
+   ],
+   "first_seen": "2026-11-11T17:00:00.000Z",
+   "last_seen": "2026-11-11T17:00:00.000Z",
+   "headlines": [
+    {
+     "title": "Google’s ongoing commitment to the veteran community",
+     "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/",
+     "domain": "blog.google",
+     "seen": "2026-11-11T17:00:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
   {
    "id": "c_70e165f7b9",
    "entity_ids": [
