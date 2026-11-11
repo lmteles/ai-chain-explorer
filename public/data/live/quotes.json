@@ -1,6 +1,6 @@
 {
  "adapter": "quotes",
- "fetched_at": "2026-11-10T23:30:41.505Z",
+ "fetched_at": "2026-11-11T06:43:58.695Z",
  "metrics": [
   {
    "id": "mkt_microsoft_market_cap",
@@ -91,7 +91,7 @@
    "id": "mkt_amd_market_cap",
    "entity_id": "amd",
    "key": "market_cap",
-   "value": 841.07,
+   "value": 844.99,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -108,7 +108,7 @@
    "id": "mkt_apple_market_cap",
    "entity_id": "apple",
    "key": "market_cap",
-   "value": 5086.22,
+   "value": 5064.62,
    "low": null,
    "high": null,
    "unit": "USD_bn",
