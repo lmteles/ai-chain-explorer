@@ -1,6 +1,6 @@
 {
  "adapter": "quotes",
- "fetched_at": "2026-11-11T22:47:27.032Z",
+ "fetched_at": "2026-11-12T03:53:57.083Z",
  "metrics": [
   {
    "id": "mkt_microsoft_market_cap",
@@ -125,7 +125,7 @@
    "id": "mkt_tesla_market_cap",
    "entity_id": "tesla",
    "key": "market_cap",
-   "value": 1544.8,
+   "value": 1544.9,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -136,7 +136,7 @@
    ],
    "confidence": "high",
    "as_of": "2026-11-11",
-   "note": "TSLA at $390.8163. For ADRs, the market cap of the underlying company in USD."
+   "note": "TSLA at $390.84. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_tsmc_market_cap",
@@ -5465,7 +5465,7 @@
    "key": "price",
    "period": "2026-11-11",
    "end": "2026-11-11",
-   "value": 390.82,
+   "value": 390.84,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
