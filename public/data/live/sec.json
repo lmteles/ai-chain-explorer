@@ -1,6 +1,6 @@
 {
  "adapter": "sec",
- "fetched_at": "2026-11-11T14:20:00.667Z",
+ "fetched_at": "2026-11-12T15:12:24.214Z",
  "metrics": [
   {
    "id": "sec_oracle_capex_quarter_q32026",
@@ -5965,10 +5965,10 @@
   {
    "entity_id": "nvidia",
    "form": "8-K",
-   "filed": "2026-09-03",
-   "report_date": "2026-09-02",
-   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm",
-   "accession": "0001045810-26-000078"
+   "filed": "2026-11-12",
+   "report_date": "2026-11-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm",
+   "accession": "0001045810-26-000082"
   },
   {
    "entity_id": "broadcom",
@@ -6077,10 +6077,10 @@
   {
    "entity_id": "tsmc",
    "form": "6-K",
-   "filed": "2026-11-10",
-   "report_date": "2026-11-10",
-   "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000797/tsm-boardx202611xx.htm",
-   "accession": "0001046179-26-000797"
+   "filed": "2026-11-12",
+   "report_date": "2026-11-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm",
+   "accession": "0001046179-26-000800"
   },
   {
    "entity_id": "asml",
