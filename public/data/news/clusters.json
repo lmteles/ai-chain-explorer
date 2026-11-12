@@ -1,6 +1,6 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-11T19:53:07.411Z",
+ "updated_at": "2026-11-12T07:44:12.569Z",
  "clusters": [
   {
    "id": "c_289766ede4",
@@ -5241,28 +5241,6 @@
    "triage": {
     "result": "no_change",
     "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_3a49bc194f",
-   "entity_ids": [
-    "oracle"
-   ],
-   "first_seen": "2026-09-28T05:30:00Z",
-   "last_seen": "2026-09-28T05:30:00Z",
-   "headlines": [
-    {
-     "title": "Oracle has $664 billion of AI contracts . Its data center debt is already trading below par",
-     "url": "https://www.investmentwatchblog.com/oracle-has-664-billion-of-ai-contracts-its-data-center-debt-is-already-trading-below-par/",
-     "domain": "investmentwatchblog.com",
-     "seen": "2026-09-28T05:30:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Oracle RPO of $664bn is already a filed figure from the 10-Q.",
     "at": "2026-10-04T19:30:00Z"
    }
   }
