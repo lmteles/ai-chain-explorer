@@ -1,7 +1,82 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-12T07:44:12.569Z",
+ "updated_at": "2026-11-12T20:27:40.371Z",
  "clusters": [
+  {
+   "id": "c_a9eb981000",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-11-12T12:00:07.000Z",
+   "last_seen": "2026-11-12T12:00:07.000Z",
+   "headlines": [
+    {
+     "title": "Meta’s New Agreements Bring Clean Manufacturing to Data Center Supply Chains",
+     "url": "https://about.fb.com/news/2026/11/meta-new-agreements-clean-manufacturing-data-center-supply-chains/",
+     "domain": "about.fb.com",
+     "seen": "2026-11-12T12:00:07.000Z",
+     "source": "rss"
+    }
+   ]
+  },
+  {
+   "id": "c_cbd249a599",
+   "entity_ids": [
+    "microsoft"
+   ],
+   "first_seen": "2026-11-12T04:00:00Z",
+   "last_seen": "2026-11-12T04:00:00Z",
+   "headlines": [
+    {
+     "title": "Noventiq Philippines recognized as 2026 Microsoft Country Partner of the Year for the Philippines",
+     "url": "https://bworldonline.com/spotlight/2026/11/12/793360/noventiq-philippines-recognized-as-2026-microsoft-country-partner-of-the-year-for-the-philippines/",
+     "domain": "bworldonline.com",
+     "seen": "2026-11-12T04:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_f13f972154",
+   "entity_ids": [
+    "broadcom"
+   ],
+   "first_seen": "2026-11-12T04:00:00Z",
+   "last_seen": "2026-11-12T04:00:00Z",
+   "headlines": [
+    {
+     "title": "Here My Biggest Worry About Broadcom Stock . It Isnt Enough to Stop Me From Buying . ",
+     "url": "https://www.aol.com/articles/heres-biggest-worry-broadcom-stock-021302000.html",
+     "domain": "aol.com",
+     "seen": "2026-11-12T04:00:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_d849e29d16",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-10-21T18:30:00Z",
+   "last_seen": "2026-11-12T03:45:00Z",
+   "headlines": [
+    {
+     "title": "Here What $10 , 000 Invested in SpaceX and Tesla Could Be Worth in 2030",
+     "url": "https://www.aol.com/articles/heres-10-000-invested-spacex-180600000.html",
+     "domain": "aol.com",
+     "seen": "2026-10-21T18:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "If SpaceX and Tesla Merge , Here What a $10 , 000 Investment in the Combined Company Could Be Worth by 2030",
+     "url": "https://www.fool.com/investing/2026/11/11/if-spacex-and-tesla-merge-heres-what-a-10000-inves/?source=iedfolrf0000001",
+     "domain": "fool.com",
+     "seen": "2026-11-12T03:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_289766ede4",
    "entity_ids": [
@@ -2171,23 +2246,6 @@
      "url": "https://www.insidermonkey.com/news/salesforce-crm-vs-oracle-orcl-which-is-a-better-stock-to-buy-1856912/",
      "domain": "insidermonkey.com",
      "seen": "2026-10-21T19:00:00Z",
-     "source": "gdelt"
-    }
-   ]
-  },
-  {
-   "id": "c_d849e29d16",
-   "entity_ids": [
-    "tesla"
-   ],
-   "first_seen": "2026-10-21T18:30:00Z",
-   "last_seen": "2026-10-21T18:30:00Z",
-   "headlines": [
-    {
-     "title": "Here What $10 , 000 Invested in SpaceX and Tesla Could Be Worth in 2030",
-     "url": "https://www.aol.com/articles/heres-10-000-invested-spacex-180600000.html",
-     "domain": "aol.com",
-     "seen": "2026-10-21T18:30:00Z",
      "source": "gdelt"
     }
    ]
@@ -5190,57 +5248,6 @@
    "triage": {
     "result": "no_change",
     "note": "\"Talks\" only; the up-to-$10bn Nvidia equity edge already exists.",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_468beaac69",
-   "entity_ids": [
-    "tesla"
-   ],
-   "first_seen": "2026-09-28T15:45:00Z",
-   "last_seen": "2026-09-28T17:30:00Z",
-   "headlines": [
-    {
-     "title": "SpaceX vs . Tesla : Which Elon Musk Stock Is the Better Buy for the Next 5 Years ? ",
-     "url": "https://www.fool.com/investing/2026/09/28/spacex-vs-tesla-which-elon-musk-stock-is-the-bette/",
-     "domain": "fool.com",
-     "seen": "2026-09-28T15:45:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "SpaceX vs . Tesla : Which Elon Musk Stock Is the Better Buy for the Next 5 Years ? ",
-     "url": "https://www.fool.com/investing/2026/09/28/spacex-vs-tesla-which-elon-musk-stock-is-the-bette/?source=iedfolrf0000001",
-     "domain": "fool.com",
-     "seen": "2026-09-28T17:30:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_e09b43228c",
-   "entity_ids": [
-    "nvidia"
-   ],
-   "first_seen": "2026-09-28T11:00:00.000Z",
-   "last_seen": "2026-09-28T11:00:00.000Z",
-   "headlines": [
-    {
-     "title": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
-     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase",
-     "domain": "nvidianews.nvidia.com",
-     "seen": "2026-09-28T11:00:00.000Z",
-     "source": "rss"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
     "at": "2026-10-04T19:30:00Z"
    }
   }
