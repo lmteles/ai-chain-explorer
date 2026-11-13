@@ -1,7 +1,24 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-13T07:18:47.050Z",
+ "updated_at": "2026-11-13T20:03:05.965Z",
  "clusters": [
+  {
+   "id": "c_12b9210cca",
+   "entity_ids": [
+    "alphabet"
+   ],
+   "first_seen": "2026-11-13T17:00:00.000Z",
+   "last_seen": "2026-11-13T17:00:00.000Z",
+   "headlines": [
+    {
+     "title": "Connect Google Wallet to Gemini for personal finance insights",
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+     "domain": "blog.google",
+     "seen": "2026-11-13T17:00:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
   {
    "id": "c_a9eb981000",
    "entity_ids": [
@@ -5065,189 +5082,6 @@
    "triage": {
     "result": "no_change",
     "note": "Anthropic aggregate ($518bn of commitments) or IPO coverage: not a single edge. The prospectus itself is the source to extract once it is on EDGAR.",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_e2c7570aa7",
-   "entity_ids": [
-    "openai",
-    "alphabet"
-   ],
-   "first_seen": "2026-09-29T17:45:00Z",
-   "last_seen": "2026-09-29T17:45:00Z",
-   "headlines": [
-    {
-     "title": "OpenAI Hires Another Google Cloud Global Partner Executive",
-     "url": "https://www.crn.com/news/ai/2026/openai-hires-another-google-cloud-global-partner-executive",
-     "domain": "crn.com",
-     "seen": "2026-09-29T17:45:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_95832edf8a",
-   "entity_ids": [
-    "anthropic"
-   ],
-   "first_seen": "2026-09-29T12:45:00Z",
-   "last_seen": "2026-09-29T16:15:00Z",
-   "headlines": [
-    {
-     "title": "Anthropic eyes USD 518 billion AI buildout ; backed by ~80 % non - cancellable deals",
-     "url": "http://www.indiagazette.com/news/279340150/anthropic-eyes-usd-518-billion-ai-buildout-backed-by-80-non-cancellable-deals",
-     "domain": "indiagazette.com",
-     "seen": "2026-09-29T12:45:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Anthropic eyes USD 518 billion AI buildout ; backed by ~80 % non - cancellable deals",
-     "url": "http://www.caribbeanherald.com/news/279340150/anthropic-eyes-usd-518-billion-ai-buildout-backed-by-80-non-cancellable-deals",
-     "domain": "caribbeanherald.com",
-     "seen": "2026-09-29T13:15:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Anthropic eyes USD 518 billion AI buildout ; backed by ~80 % non - cancellable deals",
-     "url": "http://www.shanghainews.net/news/279340150/anthropic-eyes-usd-518-billion-ai-buildout-backed-by-80-non-cancellable-deals",
-     "domain": "shanghainews.net",
-     "seen": "2026-09-29T13:30:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Anthropic eyes USD 518 billion AI buildout ; backed by ~80 % non - cancellable deals",
-     "url": "http://www.jamaicantimes.com/news/279340150/anthropic-eyes-usd-518-billion-ai-buildout-backed-by-80-non-cancellable-deals",
-     "domain": "jamaicantimes.com",
-     "seen": "2026-09-29T13:45:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Anthropic eyes USD 518 billion AI buildout ; backed by ~80 % non - cancellable deals",
-     "url": "http://www.texasguardian.com/news/279340150/anthropic-eyes-usd-518-billion-ai-buildout-backed-by-80-non-cancellable-deals",
-     "domain": "texasguardian.com",
-     "seen": "2026-09-29T14:30:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Anthropic eyes USD 518 billion AI buildout ; backed by ~80 % non - cancellable deals",
-     "url": "http://www.cincinnatisun.com/news/279340150/anthropic-eyes-usd-518-billion-ai-buildout-backed-by-80-non-cancellable-deals",
-     "domain": "cincinnatisun.com",
-     "seen": "2026-09-29T14:45:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Anthropic eyes USD 518 billion AI buildout ; backed by ~80 % non - cancellable deals",
-     "url": "http://www.birminghamstar.com/news/279340150/anthropic-eyes-usd-518-billion-ai-buildout-backed-by-80-non-cancellable-deals",
-     "domain": "birminghamstar.com",
-     "seen": "2026-09-29T14:45:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Anthropic eyes USD 518 billion AI buildout ; backed by ~80 % non - cancellable deals",
-     "url": "http://www.middleeaststar.com/news/279340150/anthropic-eyes-usd-518-billion-ai-buildout-backed-by-80-non-cancellable-deals",
-     "domain": "middleeaststar.com",
-     "seen": "2026-09-29T16:15:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Anthropic aggregate ($518bn of commitments) or IPO coverage: not a single edge. The prospectus itself is the source to extract once it is on EDGAR.",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_2b69c88930",
-   "entity_ids": [
-    "alphabet"
-   ],
-   "first_seen": "2026-09-29T14:15:00.000Z",
-   "last_seen": "2026-09-29T14:15:00.000Z",
-   "headlines": [
-    {
-     "title": "Google is a technology partner for the launch of America.gov.",
-     "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/america-gov-google-public-sector/",
-     "domain": "blog.google",
-     "seen": "2026-09-29T14:15:00.000Z",
-     "source": "rss"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_4a221169bb",
-   "entity_ids": [
-    "anthropic"
-   ],
-   "first_seen": "2026-09-29T12:30:00Z",
-   "last_seen": "2026-09-29T12:30:00Z",
-   "headlines": [
-    {
-     "title": "Anthropic IPO : Can its $2 trillion valuation survive a $42 billion loss and massive AI spending ? ",
-     "url": "https://www.hindustantimes.com/world-news/us-news/anthropic-ipo-can-its-2-trillion-valuation-survive-a-42-billion-loss-and-massive-ai-spending-101790681707917.html",
-     "domain": "hindustantimes.com",
-     "seen": "2026-09-29T12:30:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Anthropic aggregate ($518bn of commitments) or IPO coverage: not a single edge. The prospectus itself is the source to extract once it is on EDGAR.",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_adbc328cd6",
-   "entity_ids": [
-    "meta"
-   ],
-   "first_seen": "2026-09-29T09:18:58.000Z",
-   "last_seen": "2026-09-29T09:18:58.000Z",
-   "headlines": [
-    {
-     "title": "Meta Partners With Government Agencies, Law Enforcement, and Safety Organizations to Launch Regional Anti-Scam Education Campaign",
-     "url": "https://about.fb.com/news/2026/09/meta-one-step-ahead-campaign/",
-     "domain": "about.fb.com",
-     "seen": "2026-09-29T09:18:58.000Z",
-     "source": "rss"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_c8f33aa772",
-   "entity_ids": [
-    "anthropic",
-    "nvidia"
-   ],
-   "first_seen": "2026-09-29T08:00:00Z",
-   "last_seen": "2026-09-29T08:00:00Z",
-   "headlines": [
-    {
-     "title": "Nvidia Anthropic IPO Investment Talks : A $10 Billion Bet on Its Own Best Customer",
-     "url": "https://www.financial-news.co.uk/nvidia-anthropic-ipo-investment-talks-a-10-billion-bet-on-its-own-best-customer/",
-     "domain": "financial-news.co.uk",
-     "seen": "2026-09-29T08:00:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "\"Talks\" only; the up-to-$10bn Nvidia equity edge already exists.",
     "at": "2026-10-04T19:30:00Z"
    }
   }
