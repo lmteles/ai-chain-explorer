@@ -1,6 +1,6 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-14T07:02:24.940Z",
+ "updated_at": "2026-11-14T18:29:31.783Z",
  "clusters": [
   {
    "id": "c_12b9210cca",
@@ -4949,103 +4949,6 @@
    "triage": {
     "result": "no_change",
     "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_f9faccd416",
-   "entity_ids": [
-    "nvidia"
-   ],
-   "first_seen": "2026-09-30T17:00:21.000Z",
-   "last_seen": "2026-09-30T17:00:21.000Z",
-   "headlines": [
-    {
-     "title": "NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000",
-     "url": "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/",
-     "domain": "blogs.nvidia.com",
-     "seen": "2026-09-30T17:00:21.000Z",
-     "source": "rss"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_a5f12830dc",
-   "entity_ids": [
-    "openai",
-    "softbank"
-   ],
-   "first_seen": "2026-09-30T14:30:00Z",
-   "last_seen": "2026-09-30T14:30:00Z",
-   "headlines": [
-    {
-     "title": "OpenAI , SoftBank putting $6M toward local childcare ; Trump touts data centers at AI summit",
-     "url": "https://www.vintonjacksoncourier.com/news/openai-softbank-putting-6m-toward-local-childcare-trump-touts-data-centers-at-ai-summit/article_a7348471-0705-554c-9f3d-3b88e233ad33.html",
-     "domain": "vintonjacksoncourier.com",
-     "seen": "2026-09-30T14:30:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_214bbfabe8",
-   "entity_ids": [
-    "nvidia",
-    "broadcom"
-   ],
-   "first_seen": "2026-09-30T14:00:00Z",
-   "last_seen": "2026-09-30T14:00:00Z",
-   "headlines": [
-    {
-     "title": "Broadcom vs . NVIDIA : Which Technology Stock Is a Better Buy in 2026 ? ",
-     "url": "https://www.fool.com/coverage/better-buy/2026/09/30/broadcom-vs-nvidia-which-technology-stock-is-a-better-buy-in-2026/",
-     "domain": "fool.com",
-     "seen": "2026-09-30T14:00:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_b561d8145f",
-   "entity_ids": [
-    "anthropic"
-   ],
-   "first_seen": "2026-09-30T00:45:00Z",
-   "last_seen": "2026-09-30T07:15:00Z",
-   "headlines": [
-    {
-     "title": "Exclusive - Anthropic IPO prospectus lays bare deep dependence on Big Tech partners",
-     "url": "https://www.thestar.com.my/tech/tech-news/2026/09/30/exclusive-anthropic-ipo-prospectus-lays-bare-deep-dependence-on-big-tech-partners",
-     "domain": "thestar.com.my",
-     "seen": "2026-09-30T00:45:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Anthropic IPO prospectus lays bare deep dependence on Big Tech partners",
-     "url": "https://www.business-standard.com/world-news/anthropic-ipo-prospectus-lays-bare-deep-dependence-on-big-tech-partners-126093000297_1.html",
-     "domain": "business-standard.com",
-     "seen": "2026-09-30T07:15:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Anthropic aggregate ($518bn of commitments) or IPO coverage: not a single edge. The prospectus itself is the source to extract once it is on EDGAR.",
     "at": "2026-10-04T19:30:00Z"
    }
   }
