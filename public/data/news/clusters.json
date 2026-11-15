@@ -1,6 +1,6 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-15T07:12:48.852Z",
+ "updated_at": "2026-11-15T19:07:48.603Z",
  "clusters": [
   {
    "id": "c_12b9210cca",
@@ -4732,95 +4732,6 @@
    "triage": {
     "result": "no_change",
     "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_317eefafc5",
-   "entity_ids": [
-    "openai"
-   ],
-   "first_seen": "2026-10-01T16:00:00Z",
-   "last_seen": "2026-10-01T16:00:00Z",
-   "headlines": [
-    {
-     "title": "OpenAI seeks $30bn at a $1 . 4tn valuation as revenue nears $70bn",
-     "url": "https://thenextweb.com/news/openai-valuation-1-4tn-30bn-round-revenue-70bn",
-     "domain": "thenextweb.com",
-     "seen": "2026-10-01T16:00:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "OpenAI fundraising and valuation: no counterparty named.",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_a662fdb1eb",
-   "entity_ids": [
-    "amazon"
-   ],
-   "first_seen": "2026-10-01T15:00:00Z",
-   "last_seen": "2026-10-01T15:00:00Z",
-   "headlines": [
-    {
-     "title": "Price Prediction : Amazon Stock Will Hit $400 on This Date",
-     "url": "https://247wallst.com/investing/2026/10/01/price-prediction-amazon-stock-will-hit-400-on-this-date/",
-     "domain": "247wallst.com",
-     "seen": "2026-10-01T15:00:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_2d4cb7a285",
-   "entity_ids": [
-    "nvidia"
-   ],
-   "first_seen": "2026-10-01T13:00:49.000Z",
-   "last_seen": "2026-10-01T13:00:49.000Z",
-   "headlines": [
-    {
-     "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-     "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
-     "domain": "blogs.nvidia.com",
-     "seen": "2026-10-01T13:00:49.000Z",
-     "source": "rss"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_a219e2a94e",
-   "entity_ids": [
-    "anthropic",
-    "broadcom"
-   ],
-   "first_seen": "2026-10-01T13:00:00Z",
-   "last_seen": "2026-10-01T13:00:00Z",
-   "headlines": [
-    {
-     "title": "Broadcom $42 billion deal with Anthropic : Key details to know",
-     "url": "https://www.thenews.com.pk/latest/1418340-broadcoms-42-billion-deal-with-anthropic-key-details-to-know",
-     "domain": "thenews.com.pk",
-     "seen": "2026-10-01T13:00:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Same story as c_5b0867e0fa (Broadcom loan).",
     "at": "2026-10-04T19:30:00Z"
    }
   }
