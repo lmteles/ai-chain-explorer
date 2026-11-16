@@ -1,6 +1,6 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-15T19:07:48.603Z",
+ "updated_at": "2026-11-16T07:18:13.893Z",
  "clusters": [
   {
    "id": "c_12b9210cca",
@@ -4616,116 +4616,6 @@
      "url": "https://slguardian.org/softbank-shares-rebound-as-investors-focus-on-ai-bets-despite-rising-debt-costs/",
      "domain": "slguardian.org",
      "seen": "2026-10-02T08:00:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_5b0867e0fa",
-   "entity_ids": [
-    "anthropic",
-    "broadcom"
-   ],
-   "first_seen": "2026-10-01T23:15:00Z",
-   "last_seen": "2026-10-02T05:45:00Z",
-   "headlines": [
-    {
-     "title": "Exclusive - Broadcom to lend Anthropic up to $42 billion to lease its chips , filing says",
-     "url": "https://www.ksl.com:443/article/51630976/exclusive-broadcom-to-lendanthropic-up-to-42-billion-to-lease-its-chips-filing-says",
-     "domain": "ksl.com",
-     "seen": "2026-10-01T23:15:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Broadcom to lend Anthropic $42 billion to lease its chips AI circular financing scam . ",
-     "url": "https://www.investmentwatchblog.com/broadcom-to-lend-anthropic-42-billion-to-lease-its-chips-ai-circular-financing-scam/",
-     "domain": "investmentwatchblog.com",
-     "seen": "2026-10-02T00:15:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Broadcom to lend Anthropic up to $42 billion to lease its chips , filing says",
-     "url": "https://dunyanews.tv/en/Technology/975740-broadcom-to-lend-anthropic-up-to-42-billion-to-lease-its-chips-filin",
-     "domain": "dunyanews.tv",
-     "seen": "2026-10-02T05:45:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "proposed",
-    "note": "New debt edge Broadcom → Anthropic (news_20261004_broadcom_anthropic_loan).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_90d489f4d0",
-   "entity_ids": [
-    "softbank"
-   ],
-   "first_seen": "2026-10-02T03:15:00Z",
-   "last_seen": "2026-10-02T03:15:00Z",
-   "headlines": [
-    {
-     "title": "SoftBank stock investors see past credit risks to AI returns",
-     "url": "https://www.moneycontrol.com/news/business/softbank-stock-investors-see-past-credit-risks-to-ai-returns-14043238.html",
-     "domain": "moneycontrol.com",
-     "seen": "2026-10-02T03:15:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_0f857a011c",
-   "entity_ids": [
-    "anthropic"
-   ],
-   "first_seen": "2026-10-01T22:00:00Z",
-   "last_seen": "2026-10-01T22:00:00Z",
-   "headlines": [
-    {
-     "title": "Dario Amodei $518 Billion Anthropic Infrastructure Bet",
-     "url": "https://observer.com/2026/10/dario-amodeis-518-billion-anthropic-infrastructure-bet/",
-     "domain": "observer.com",
-     "seen": "2026-10-01T22:00:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Anthropic aggregate ($518bn of commitments) or IPO coverage: not a single edge. The prospectus itself is the source to extract once it is on EDGAR.",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_393e758085",
-   "entity_ids": [
-    "amd"
-   ],
-   "first_seen": "2026-10-01T19:45:00Z",
-   "last_seen": "2026-10-01T20:15:00Z",
-   "headlines": [
-    {
-     "title": "Applied Materials vs . AMD : Which AI Semiconductor Stock Is a Better Buy in 2026 ? ",
-     "url": "https://www.fool.com/coverage/better-buy/2026/10/01/applied-materials-vs-advanced-micro-devices-ai-semiconductor-stock-better-buy-2026/",
-     "domain": "fool.com",
-     "seen": "2026-10-01T19:45:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "Applied Materials vs . AMD : Which AI Semiconductor Stock Is a Better Buy in 2026 ? ",
-     "url": "https://www.fool.com/coverage/better-buy/2026/10/01/applied-materials-vs-advanced-micro-devices-ai-semiconductor-stock-better-buy-2026/?source=iedfolrf0000001",
-     "domain": "fool.com",
-     "seen": "2026-10-01T20:15:00Z",
      "source": "gdelt"
     }
    ],
