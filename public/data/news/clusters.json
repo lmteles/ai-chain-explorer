@@ -1,7 +1,41 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-16T07:18:13.893Z",
+ "updated_at": "2026-11-16T22:31:30.354Z",
  "clusters": [
+  {
+   "id": "c_91e58e2ea9",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-11-16T09:00:00.000Z",
+   "last_seen": "2026-11-16T09:00:00.000Z",
+   "headlines": [
+    {
+     "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+     "url": "https://openai.com/index/lvmh-media-division-partnership",
+     "domain": "openai.com",
+     "seen": "2026-11-16T09:00:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
+  {
+   "id": "c_e3915f7e4c",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-11-16T00:00:00.000Z",
+   "last_seen": "2026-11-16T00:00:00.000Z",
+   "headlines": [
+    {
+     "title": "The King’s Trust and OpenAI launch £1m partnership",
+     "url": "https://openai.com/index/the-kings-trust-and-openai",
+     "domain": "openai.com",
+     "seen": "2026-11-16T00:00:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
   {
    "id": "c_12b9210cca",
    "entity_ids": [
@@ -4542,88 +4576,6 @@
      "source": "rss"
     }
    ]
-  },
-  {
-   "id": "c_e293d55974",
-   "entity_ids": [
-    "openai",
-    "softbank"
-   ],
-   "first_seen": "2026-10-02T09:15:00Z",
-   "last_seen": "2026-10-02T09:15:00Z",
-   "headlines": [
-    {
-     "title": "SoftBank closes $30b investment in OpenAI",
-     "url": "https://www.dealstreetasia.com/stories/softbank-closes-30b-investment-in-openai-496964",
-     "domain": "dealstreetasia.com",
-     "seen": "2026-10-02T09:15:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Same story as c_97bccf7aca (SoftBank closes $30bn).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_97bccf7aca",
-   "entity_ids": [
-    "openai",
-    "softbank"
-   ],
-   "first_seen": "2026-10-01T15:00:00Z",
-   "last_seen": "2026-10-02T08:45:00Z",
-   "headlines": [
-    {
-     "title": "SoftBank completes OpenAI $10 billion third tranche",
-     "url": "https://jp.ibtimes.com/softbank-completes-openai-10-billion-third-tranche-104611",
-     "domain": "jp.ibtimes.com",
-     "seen": "2026-10-01T15:00:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "SoftBank completes final phase of $30 billion investment in OpenAI",
-     "url": "https://www.aol.com/articles/softbank-completes-final-phase-30-190326000.html",
-     "domain": "aol.com",
-     "seen": "2026-10-01T19:45:00Z",
-     "source": "gdelt"
-    },
-    {
-     "title": "SoftBank Shares Fall After $10 Billion OpenAI Investment",
-     "url": "http://www.econotimes.com/SoftBank-Shares-Fall-After-10-Billion-OpenAI-Investment-1753761",
-     "domain": "econotimes.com",
-     "seen": "2026-10-02T08:45:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "proposed",
-    "note": "Event: SoftBank closed its $30bn OpenAI investment (news_20261004_softbank_openai_closed).",
-    "at": "2026-10-04T19:30:00Z"
-   }
-  },
-  {
-   "id": "c_239f6aadea",
-   "entity_ids": [
-    "softbank"
-   ],
-   "first_seen": "2026-10-02T08:00:00Z",
-   "last_seen": "2026-10-02T08:00:00Z",
-   "headlines": [
-    {
-     "title": "SoftBank Shares Rebound as Investors Focus on AI Bets Despite Rising Debt Costs",
-     "url": "https://slguardian.org/softbank-shares-rebound-as-investors-focus-on-ai-bets-despite-rising-debt-costs/",
-     "domain": "slguardian.org",
-     "seen": "2026-10-02T08:00:00Z",
-     "source": "gdelt"
-    }
-   ],
-   "triage": {
-    "result": "no_change",
-    "note": "Not a money relationship between tracked companies (market commentary, stock picks or unrelated).",
-    "at": "2026-10-04T19:30:00Z"
-   }
   }
  ]
 }
