@@ -1,7 +1,24 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-17T08:29:33.786Z",
+ "updated_at": "2026-11-17T21:21:01.512Z",
  "clusters": [
+  {
+   "id": "c_350fb3acef",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-17T10:00:00.000Z",
+   "last_seen": "2026-11-17T10:00:00.000Z",
+   "headlines": [
+    {
+     "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee",
+     "domain": "nvidianews.nvidia.com",
+     "seen": "2026-11-17T10:00:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
   {
    "id": "c_91e58e2ea9",
    "entity_ids": [
