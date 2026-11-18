@@ -456,50 +456,6 @@
     ]
   },
   {
-    "adapter": "gdelt",
-    "started_at": "2026-11-05T07:24:35.647Z",
-    "finished_at": "2026-11-05T07:24:49.136Z",
-    "status": "ok",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "0 headline(s) over 1 day(s)"
-    ]
-  },
-  {
-    "adapter": "rss",
-    "started_at": "2026-11-05T07:24:49.139Z",
-    "finished_at": "2026-11-05T07:24:50.231Z",
-    "status": "ok",
-    "rows": 7,
-    "errors": [],
-    "notes": [
-      "7 headline(s) over 1 day(s)"
-    ]
-  },
-  {
-    "adapter": "bloomberg",
-    "started_at": "2026-11-05T07:24:50.233Z",
-    "finished_at": "2026-11-05T07:24:50.233Z",
-    "status": "skipped",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "not licensed: disabled stub, no scraping"
-    ]
-  },
-  {
-    "adapter": "ft",
-    "started_at": "2026-11-05T07:24:50.236Z",
-    "finished_at": "2026-11-05T07:24:50.236Z",
-    "status": "skipped",
-    "rows": 0,
-    "errors": [],
-    "notes": [
-      "not licensed: disabled stub, no scraping"
-    ]
-  },
-  {
     "adapter": "sec",
     "started_at": "2026-11-05T14:37:54.552Z",
     "finished_at": "2026-11-05T14:37:58.360Z",
@@ -3315,6 +3271,50 @@
       "broadcom: AVGO not covered on the current Financial Modeling Prep plan",
       "samsung: 005930.KS not covered by Financial Modeling Prep",
       "asml: ASML not covered on the current Financial Modeling Prep plan"
+    ]
+  },
+  {
+    "adapter": "gdelt",
+    "started_at": "2026-11-18T20:53:42.295Z",
+    "finished_at": "2026-11-18T20:54:33.357Z",
+    "status": "ok",
+    "rows": 48,
+    "errors": [],
+    "notes": [
+      "48 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "rss",
+    "started_at": "2026-11-18T20:54:33.360Z",
+    "finished_at": "2026-11-18T20:54:34.084Z",
+    "status": "ok",
+    "rows": 25,
+    "errors": [],
+    "notes": [
+      "25 headline(s) over 1 day(s)"
+    ]
+  },
+  {
+    "adapter": "bloomberg",
+    "started_at": "2026-11-18T20:54:34.086Z",
+    "finished_at": "2026-11-18T20:54:34.086Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "ft",
+    "started_at": "2026-11-18T20:54:34.088Z",
+    "finished_at": "2026-11-18T20:54:34.088Z",
+    "status": "skipped",
+    "rows": 0,
+    "errors": [],
+    "notes": [
+      "not licensed: disabled stub, no scraping"
     ]
   }
 ]

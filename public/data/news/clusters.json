@@ -1,7 +1,24 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-18T07:56:47.037Z",
+ "updated_at": "2026-11-18T20:54:34.115Z",
  "clusters": [
+  {
+   "id": "c_9f1f119389",
+   "entity_ids": [
+    "meta"
+   ],
+   "first_seen": "2026-11-18T14:07:00.000Z",
+   "last_seen": "2026-11-18T14:07:00.000Z",
+   "headlines": [
+    {
+     "title": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+     "url": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
+     "domain": "about.fb.com",
+     "seen": "2026-11-18T14:07:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
   {
    "id": "c_7f4037bce9",
    "entity_ids": [
@@ -33,6 +50,23 @@
      "domain": "fool.com",
      "seen": "2026-11-18T01:15:00Z",
      "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_6cab9c8cd3",
+   "entity_ids": [
+    "openai"
+   ],
+   "first_seen": "2026-11-18T00:00:00.000Z",
+   "last_seen": "2026-11-18T00:00:00.000Z",
+   "headlines": [
+    {
+     "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+     "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+     "domain": "openai.com",
+     "seen": "2026-11-18T00:00:00.000Z",
+     "source": "rss"
     }
    ]
   },
