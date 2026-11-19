@@ -1,7 +1,154 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-19T07:57:01.096Z",
+ "updated_at": "2026-11-19T20:58:47.104Z",
  "clusters": [
+  {
+   "id": "c_d6eeadd108",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-19T17:15:00Z",
+   "last_seen": "2026-11-19T19:30:00Z",
+   "headlines": [
+    {
+     "title": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
+     "url": "https://www.wkyufm.org/news/2026-11-19/investors-scramble-for-a-piece-of-ai-giant-anthropic-in-blockbuster-ipo",
+     "domain": "wkyufm.org",
+     "seen": "2026-11-19T17:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
+     "url": "https://www.kazu.org/npr-news/2026-11-19/investors-scramble-for-a-piece-of-ai-giant-anthropic-in-blockbuster-ipo",
+     "domain": "kazu.org",
+     "seen": "2026-11-19T19:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
+     "url": "https://www.kwit.org/2026-11-19/investors-scramble-for-a-piece-of-ai-giant-anthropic-in-blockbuster-ipo",
+     "domain": "kwit.org",
+     "seen": "2026-11-19T19:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
+     "url": "https://www.wkms.org/npr-news/2026-11-19/investors-scramble-for-a-piece-of-ai-giant-anthropic-in-blockbuster-ipo",
+     "domain": "wkms.org",
+     "seen": "2026-11-19T19:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_0ae77b4c94",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-19T19:30:00Z",
+   "last_seen": "2026-11-19T19:30:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic estreia em bolsa avaliada em US$ 1 , 5 trilhão",
+     "url": "https://www.meioemensagem.com.br/midia/anthropic-estreia-em-bolsa-avaliada-em-us-15-trilhao",
+     "domain": "meioemensagem.com.br",
+     "seen": "2026-11-19T19:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_90fb9e194b",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-19T19:30:00Z",
+   "last_seen": "2026-11-19T19:30:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic IPO : Claude Maker Makes Nasdaq Debut at $111 . 50 , Shares Jump 34 % After Record $81 . 3 Billion IPO",
+     "url": "https://www.indiainfoline.com/news/ipo/anthropic-ipo-claude-maker-makes-nasdaq-debut-at-111-50-shares-jump-34-after-record-81-3-billion-ipo",
+     "domain": "indiainfoline.com",
+     "seen": "2026-11-19T19:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_23656c33a6",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-19T19:30:00Z",
+   "last_seen": "2026-11-19T19:30:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic raises $81 bn , set to secure $1 . 8 trn valuation in Nasdaq debut",
+     "url": "https://www.business-standard.com/world-news/anthropic-raises-81-bn-set-to-secure-1-8-trn-valuation-in-nasdaq-debut-126111901473_1.html",
+     "domain": "business-standard.com",
+     "seen": "2026-11-19T19:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic set to secure $1 . 8 trillion valuation in strong Nasdaq debut",
+     "url": "https://tribune.com.pk/story/2641219/anthropic-set-to-secure-18-trillion-valuation-in-strong-nasdaq-debut",
+     "domain": "tribune.com.pk",
+     "seen": "2026-11-19T19:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_fec0a38c02",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-19T19:30:00Z",
+   "last_seen": "2026-11-19T19:30:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic estreia na Nasdaq com IPO de US$ 81 , 3 bilhões",
+     "url": "https://telesintese.com.br/anthropic-estreia-na-nasdaq-com-ipo-de-us-813-bilhoes/",
+     "domain": "telesintese.com.br",
+     "seen": "2026-11-19T19:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_5f86824e26",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-19T17:15:00Z",
+   "last_seen": "2026-11-19T17:15:00Z",
+   "headlines": [
+    {
+     "title": "$107B isnt enough ? Anthropic CEO eyes debt binge just hours after blockbuster IPO",
+     "url": "https://www.aol.com/articles/107b-isn-t-enough-anthropic-161809000.html",
+     "domain": "aol.com",
+     "seen": "2026-11-19T17:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_3c5f2a53bb",
+   "entity_ids": [
+    "alphabet"
+   ],
+   "first_seen": "2026-11-19T10:00:00.000Z",
+   "last_seen": "2026-11-19T10:00:00.000Z",
+   "headlines": [
+    {
+     "title": "Google’s water stewardship commitments for local communities",
+     "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/new-water-stewardship-commitments/",
+     "domain": "blog.google",
+     "seen": "2026-11-19T10:00:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
   {
    "id": "c_04ec353132",
    "entity_ids": [
