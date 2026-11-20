@@ -1,7 +1,229 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-20T07:46:13.897Z",
+ "updated_at": "2026-11-20T20:44:20.727Z",
  "clusters": [
+  {
+   "id": "c_6f33850e4f",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-20T06:45:00Z",
+   "last_seen": "2026-11-20T06:45:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic makes a $1 . 8 trillion debut : What investors should watch next",
+     "url": "https://www.business-standard.com/world-news/anthropic-ipo-stock-market-debut-valuation-investors-what-to-watch-next-126112000351_1.html",
+     "domain": "business-standard.com",
+     "seen": "2026-11-20T06:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_a5de0b19bd",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-20T06:45:00Z",
+   "last_seen": "2026-11-20T06:45:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic Record - Breaking IPO Values AI Developer at $1 . 8 Trillion in Landmark Nasdaq Debut – Sri Lanka Guardian",
+     "url": "https://slguardian.org/anthropics-record-breaking-ipo-values-ai-developer-at-1-8-trillion-in-landmark-nasdaq-debut/",
+     "domain": "slguardian.org",
+     "seen": "2026-11-20T06:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_288b7d11e2",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-20T06:15:00Z",
+   "last_seen": "2026-11-20T06:15:00Z",
+   "headlines": [
+    {
+     "title": "No invite for China at Anthropic IPO : After SpaceX , Claude parent too shuts Chinese investors out",
+     "url": "https://timesofindia.indiatimes.com/business/international-business/no-invite-for-china-at-anthropic-ipo-after-spacex-claude-parent-too-shuts-chinese-investors-out/articleshow/136014511.cms",
+     "domain": "timesofindia.indiatimes.com",
+     "seen": "2026-11-20T06:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_6456632dce",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-20T06:15:00Z",
+   "last_seen": "2026-11-20T06:15:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic $1 . 7 Trillion IPO Draws Protest Over  Terrifying  Prospect of AI Beyond Human Control",
+     "url": "https://www.ibtimes.co.uk/anthropic-ipo-protests-ai-recursive-self-improvement-ban-1833526",
+     "domain": "ibtimes.co.uk",
+     "seen": "2026-11-20T06:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_494e1a208d",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-20T04:30:00Z",
+   "last_seen": "2026-11-20T04:30:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic $1 . 5 trillion debut rewrites venture capital playbook",
+     "url": "https://www.thehindubusinessline.com/info-tech/anthropics-15-trillion-debut-rewrites-venture-capitals-playbook/article71722476.ece",
+     "domain": "thehindubusinessline.com",
+     "seen": "2026-11-20T04:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_1dbe65cb16",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-20T04:30:00Z",
+   "last_seen": "2026-11-20T04:30:00Z",
+   "headlines": [
+    {
+     "title": "From anti - war physicist to $1 . 5 trillion AI boss : The rise of Anthropic CEO Dario Amodei",
+     "url": "https://www.moneycontrol.com/world/from-anti-war-physicist-to-1-5-trillion-ai-boss-the-rise-of-anthropic-ceo-dario-amodei-article-14085238.html",
+     "domain": "moneycontrol.com",
+     "seen": "2026-11-20T04:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_c0abbf97a7",
+   "entity_ids": [
+    "anthropic",
+    "apple"
+   ],
+   "first_seen": "2026-11-20T04:30:00Z",
+   "last_seen": "2026-11-20T04:30:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic $1 . 8 trillion IPO debut takes a turn as Apple plans rival AI agent",
+     "url": "https://www.moneycontrol.com/news/business/ipo/anthropic-s-1-8-trillion-ipo-debut-takes-a-turn-as-apple-plans-rival-ai-agent-14085246.html",
+     "domain": "moneycontrol.com",
+     "seen": "2026-11-20T04:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_e524df3fcb",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-11-20T03:45:00Z",
+   "last_seen": "2026-11-20T03:45:00Z",
+   "headlines": [
+    {
+     "title": "Amazon Black Friday Beauty Deals to Shop Now",
+     "url": "https://www.thedailybeast.com/amazon-black-friday-beauty-deals-to-shop-now",
+     "domain": "thedailybeast.com",
+     "seen": "2026-11-20T03:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_558a6f8fab",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-20T03:30:00Z",
+   "last_seen": "2026-11-20T03:30:00Z",
+   "headlines": [
+    {
+     "title": "Nvidia Earnings : $115 . 8B Quarter , China Exit and SEC Probe",
+     "url": "https://memeburn.com/nvidia-earnings-without-jensen-huang/",
+     "domain": "memeburn.com",
+     "seen": "2026-11-20T03:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_641ece8559",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-20T02:45:00Z",
+   "last_seen": "2026-11-20T02:45:00Z",
+   "headlines": [
+    {
+     "title": "Should You Buy Anthropic , SpaceX or Both – NextBigFuture . com",
+     "url": "https://www.nextbigfuture.com/2026/11/should-you-buy-anthropic-spacex-or-both.html",
+     "domain": "nextbigfuture.com",
+     "seen": "2026-11-20T02:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_b4fe60b920",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-11-20T02:45:00Z",
+   "last_seen": "2026-11-20T02:45:00Z",
+   "headlines": [
+    {
+     "title": "SpaceX , Tesla Eye December Merger Deal , And More Rumors",
+     "url": "https://www.law360.com:443/articles/2552189",
+     "domain": "law360.com",
+     "seen": "2026-11-20T02:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_57d3b8b4e2",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-20T02:30:00Z",
+   "last_seen": "2026-11-20T02:30:00Z",
+   "headlines": [
+    {
+     "title": "Michael Burry Says He Tried to Warn You About Nvidia , CoreWeave and Nebius . Here What the  Big Short  Investor Saw",
+     "url": "https://www.fool.com/investing/2026/11/19/michael-burry-says-he-tried-to-warn-you-about-nvidia-coreweave-and-nebius-stocks-here-s-what-the-big-short-investor-saw/?source=iedfolrf0000001",
+     "domain": "fool.com",
+     "seen": "2026-11-20T02:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_91f626b662",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-20T01:15:00Z",
+   "last_seen": "2026-11-20T01:15:00Z",
+   "headlines": [
+    {
+     "title": "AI WINDFALL : Anthropic Reportedly Raises $81 . 3 Billion In Record IPO , With Thousands Of Employees Set To Become Millionaires",
+     "url": "https://www.theyeshivaworld.com/news/general/2625582/ai-windfall-anthropic-reportedly-raises-81-3-billion-in-record-ipo-with-thousands-of-employees-set-to-become-millionaires.html",
+     "domain": "theyeshivaworld.com",
+     "seen": "2026-11-20T01:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_0e0fed824d",
    "entity_ids": [
@@ -4836,23 +5058,6 @@
      "url": "https://openai.com/index/sophos",
      "domain": "openai.com",
      "seen": "2026-10-09T07:00:00.000Z",
-     "source": "rss"
-    }
-   ]
-  },
-  {
-   "id": "c_60ef2af305",
-   "entity_ids": [
-    "openai"
-   ],
-   "first_seen": "2026-10-06T16:00:00.000Z",
-   "last_seen": "2026-10-06T16:00:00.000Z",
-   "headlines": [
-    {
-     "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-     "url": "https://openai.com/index/atlassian-partnership",
-     "domain": "openai.com",
-     "seen": "2026-10-06T16:00:00.000Z",
      "source": "rss"
     }
    ]
