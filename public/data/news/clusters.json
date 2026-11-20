@@ -1,7 +1,24 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-19T20:58:47.104Z",
+ "updated_at": "2026-11-20T07:46:13.897Z",
  "clusters": [
+  {
+   "id": "c_0e0fed824d",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-19T22:00:00.000Z",
+   "last_seen": "2026-11-19T22:00:00.000Z",
+   "headlines": [
+    {
+     "title": "NVIDIA Announces Upcoming Event for Financial Community",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
+     "domain": "nvidianews.nvidia.com",
+     "seen": "2026-11-19T22:00:00.000Z",
+     "source": "rss"
+    }
+   ]
+  },
   {
    "id": "c_d6eeadd108",
    "entity_ids": [
