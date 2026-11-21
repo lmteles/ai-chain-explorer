@@ -1,6 +1,6 @@
 {
  "adapter": "sec",
- "fetched_at": "2026-11-20T15:25:27.407Z",
+ "fetched_at": "2026-11-21T14:37:47.319Z",
  "metrics": [
   {
    "id": "sec_oracle_capex_quarter_q32026",
@@ -5845,10 +5845,10 @@
   {
    "entity_id": "oracle",
    "form": "8-K",
-   "filed": "2026-11-04",
-   "report_date": "2026-11-02",
-   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526447507/d131790d8k.htm",
-   "accession": "0001193125-26-447507"
+   "filed": "2026-11-20",
+   "report_date": "2026-11-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526470351/orcl-20261118.htm",
+   "accession": "0001193125-26-470351"
   },
   {
    "entity_id": "microsoft",
@@ -6013,10 +6013,10 @@
   {
    "entity_id": "amd",
    "form": "8-K",
-   "filed": "2026-11-03",
-   "report_date": "2026-11-03",
-   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/amd-20261103.htm",
-   "accession": "0000002488-26-000188"
+   "filed": "2026-11-20",
+   "report_date": "2026-11-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000218/amd-20261118.htm",
+   "accession": "0000002488-26-000218"
   },
   {
    "entity_id": "apple",
