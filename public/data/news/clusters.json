@@ -1,7 +1,41 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-20T20:44:20.727Z",
+ "updated_at": "2026-11-21T07:42:25.957Z",
  "clusters": [
+  {
+   "id": "c_d9e975bfa6",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-21T00:30:00Z",
+   "last_seen": "2026-11-21T00:30:00Z",
+   "headlines": [
+    {
+     "title": "Texas Tech Wins Crucial $19 . 1M Grant Amid Shocking NVIDIA Scandal",
+     "url": "https://1063thebuzz.com/ixp/192/p/texas-tech-19-million-grant/",
+     "domain": "1063thebuzz.com",
+     "seen": "2026-11-21T00:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_319d279e92",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-11-20T21:45:00Z",
+   "last_seen": "2026-11-20T21:45:00Z",
+   "headlines": [
+    {
+     "title": "10 Black Friday 2026 Kitchen Appliance Deals To Score On Amazon",
+     "url": "https://www.thedailymeal.com/2322987/black-friday-2026-kitchen-appliance-deals-amazon/",
+     "domain": "thedailymeal.com",
+     "seen": "2026-11-20T21:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_6f33850e4f",
    "entity_ids": [
