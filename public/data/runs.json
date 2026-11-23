@@ -3318,5 +3318,18 @@
       "tsmc: no us-gaap facts (IFRS filer); figures come from investor materials in M5",
       "asml: capex=none ocf=none revenue=none"
     ]
+  },
+  {
+    "adapter": "ir",
+    "started_at": "2026-11-23T19:10:10.569Z",
+    "finished_at": "2026-11-23T19:10:12.828Z",
+    "status": "ok",
+    "rows": 3,
+    "errors": [],
+    "notes": [
+      "tsmc-results-2026-09-30: a3q26e_withguidancexfinal.htm sha256 33c1bd36ef4b…, a3q26presentatione.htm sha256 24ff77de2199…",
+      "tsmc-20f-2025-12-31: tsm-20251231.htm sha256 dcaa8b4c148b…",
+      "asml-results-2026-09-27: pressreleasefinancialresul.htm sha256 57bf7c9d9a1d…"
+    ]
   }
 ]
