@@ -537,45 +537,6 @@
     ]
   },
   {
-    "adapter": "fred",
-    "started_at": "2026-11-10T17:57:11.173Z",
-    "finished_at": "2026-11-10T17:57:11.872Z",
-    "status": "ok",
-    "rows": 1,
-    "errors": [],
-    "notes": [
-      "macro_dgs10 = 4.86 (2026-11-06)"
-    ]
-  },
-  {
-    "adapter": "treasury",
-    "started_at": "2026-11-10T17:57:11.874Z",
-    "finished_at": "2026-11-10T17:57:12.639Z",
-    "status": "ok",
-    "rows": 3,
-    "errors": [],
-    "notes": [
-      "macro_federal_debt = 40552.75 (2026-11-06)",
-      "macro_interest_public = 98.62 (2026-10-31)",
-      "macro_interest_total = 115.46 (2026-10-31)"
-    ]
-  },
-  {
-    "adapter": "quotes",
-    "started_at": "2026-11-10T17:57:12.642Z",
-    "finished_at": "2026-11-10T17:57:17.674Z",
-    "status": "ok",
-    "rows": 468,
-    "errors": [],
-    "notes": [
-      "softbank: 9984.T not covered by Financial Modeling Prep",
-      "oracle: ORCL not covered on the current Financial Modeling Prep plan",
-      "broadcom: AVGO not covered on the current Financial Modeling Prep plan",
-      "samsung: 005930.KS not covered by Financial Modeling Prep",
-      "asml: ASML not covered on the current Financial Modeling Prep plan"
-    ]
-  },
-  {
     "adapter": "gdelt",
     "started_at": "2026-11-10T20:00:28.944Z",
     "finished_at": "2026-11-10T20:01:20.044Z",
@@ -3330,6 +3291,45 @@
     "errors": [],
     "notes": [
       "not licensed: disabled stub, no scraping"
+    ]
+  },
+  {
+    "adapter": "fred",
+    "started_at": "2026-11-24T15:58:35.789Z",
+    "finished_at": "2026-11-24T15:58:36.352Z",
+    "status": "ok",
+    "rows": 1,
+    "errors": [],
+    "notes": [
+      "macro_dgs10 = 4.92 (2026-11-20)"
+    ]
+  },
+  {
+    "adapter": "treasury",
+    "started_at": "2026-11-24T15:58:36.355Z",
+    "finished_at": "2026-11-24T15:58:36.961Z",
+    "status": "ok",
+    "rows": 3,
+    "errors": [],
+    "notes": [
+      "macro_federal_debt = 40710.42 (2026-11-20)",
+      "macro_interest_public = 98.62 (2026-10-31)",
+      "macro_interest_total = 115.46 (2026-10-31)"
+    ]
+  },
+  {
+    "adapter": "quotes",
+    "started_at": "2026-11-24T15:58:36.964Z",
+    "finished_at": "2026-11-24T15:58:42.002Z",
+    "status": "ok",
+    "rows": 468,
+    "errors": [],
+    "notes": [
+      "softbank: 9984.T not covered by Financial Modeling Prep",
+      "oracle: ORCL not covered on the current Financial Modeling Prep plan",
+      "broadcom: AVGO not covered on the current Financial Modeling Prep plan",
+      "samsung: 005930.KS not covered by Financial Modeling Prep",
+      "asml: ASML not covered on the current Financial Modeling Prep plan"
     ]
   }
 ]
