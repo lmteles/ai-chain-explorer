@@ -1,7 +1,90 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-23T08:15:11.018Z",
+ "updated_at": "2026-11-24T00:21:50.130Z",
  "clusters": [
+  {
+   "id": "c_d59ea59916",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-23T22:30:00Z",
+   "last_seen": "2026-11-23T22:30:00Z",
+   "headlines": [
+    {
+     "title": "Nvidia vs . SpaceX : The AI Revolution Is Big Enough for Both . Here the Better Buy . ",
+     "url": "https://www.aol.com/articles/nvidia-vs-spacex-ai-revolution-215233000.html",
+     "domain": "aol.com",
+     "seen": "2026-11-23T22:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_4c49fa9e4f",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-23T21:30:00Z",
+   "last_seen": "2026-11-23T21:30:00Z",
+   "headlines": [
+    {
+     "title": "Trump says he  convinced  Nvidia to reinstate Jensen Huang :  I made the deal  ",
+     "url": "https://wtov9.com/news/nation-world/trump-says-he-convinced-nvidia-to-reinstate-jensen-huang-i-made-the-deal-chinese-spy-megaspeed-rrt",
+     "domain": "wtov9.com",
+     "seen": "2026-11-23T21:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Trump says he  convinced  Nvidia to reinstate Jensen Huang :  I made the deal  ",
+     "url": "https://nebraska.tv/news/nation-world/trump-says-he-convinced-nvidia-to-reinstate-jensen-huang-i-made-the-deal-chinese-spy-megaspeed-rrt",
+     "domain": "nebraska.tv",
+     "seen": "2026-11-23T21:30:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Trump says he  convinced  Nvidia to reinstate Jensen Huang :  I made the deal  ",
+     "url": "https://wgxa.tv/news/nation-world/trump-says-he-convinced-nvidia-to-reinstate-jensen-huang-i-made-the-deal-chinese-spy-megaspeed-rrt",
+     "domain": "wgxa.tv",
+     "seen": "2026-11-23T21:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_2d15331325",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-23T21:30:00Z",
+   "last_seen": "2026-11-23T21:30:00Z",
+   "headlines": [
+    {
+     "title": "Nvidia Soared 35 % on Jensen Huang Return . Is It Too Late to Buy ? ",
+     "url": "https://www.fool.com/investing/2026/11/23/nvidia-soared-35-on-jensen-huang-return-is-it-too-late-to-buy/",
+     "domain": "fool.com",
+     "seen": "2026-11-23T21:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_da2c0be025",
+   "entity_ids": [
+    "microsoft",
+    "tsmc"
+   ],
+   "first_seen": "2026-11-23T21:30:00Z",
+   "last_seen": "2026-11-23T21:30:00Z",
+   "headlines": [
+    {
+     "title": "Billionaire Andreas Halvorsen Exited Microsoft and Made TSMC His Top Holding at $1 . 8 Billion",
+     "url": "https://247wallst.com/investing/2026/11/23/billionaire-andreas-halvorsen-exited-microsoft-and-made-tsmc-his-top-holding-at-1-8-billion/",
+     "domain": "247wallst.com",
+     "seen": "2026-11-23T21:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_d9e975bfa6",
    "entity_ids": [
