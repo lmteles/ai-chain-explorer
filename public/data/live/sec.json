@@ -1,6 +1,6 @@
 {
  "adapter": "sec",
- "fetched_at": "2026-11-23T18:04:12.648Z",
+ "fetched_at": "2026-11-24T17:41:19.069Z",
  "metrics": [
   {
    "id": "sec_oracle_capex_quarter_q32026",
@@ -5941,10 +5941,10 @@
   {
    "entity_id": "meta",
    "form": "8-K",
-   "filed": "2026-11-12",
-   "report_date": "2026-11-12",
-   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526458525/d177728d8k.htm",
-   "accession": "0001193125-26-458525"
+   "filed": "2026-11-23",
+   "report_date": "2026-11-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026075541/meta-20261118.htm",
+   "accession": "0001628280-26-075541"
   },
   {
    "entity_id": "nvidia",
