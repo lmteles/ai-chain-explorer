@@ -1,7 +1,214 @@
 {
  "adapter": "news",
- "updated_at": "2026-11-25T09:10:22.370Z",
+ "updated_at": "2026-11-25T21:58:56.658Z",
  "clusters": [
+  {
+   "id": "c_28518f8c2b",
+   "entity_ids": [
+    "amazon"
+   ],
+   "first_seen": "2026-11-25T10:30:00Z",
+   "last_seen": "2026-11-25T10:30:00Z",
+   "headlines": [
+    {
+     "title": "Amazon India exports hit $27 billion . Indian textiles , beauty healthcare steal global spotlight",
+     "url": "https://www.businesstoday.in/latest/corporate/story/amazons-india-exports-hit-27-billion-indian-textiles-beauty-healthcare-steal-global-spotlight-569421-2026-11-25",
+     "domain": "businesstoday.in",
+     "seen": "2026-11-25T10:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_dcc7edf241",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-25T04:15:00Z",
+   "last_seen": "2026-11-25T05:45:00Z",
+   "headlines": [
+    {
+     "title": "Nvidia AI financing commitments may face tighter US scrutiny amid stability concerns : Report",
+     "url": "http://www.malaysiasun.com/news/279453073/nvidia-ai-financing-commitments-may-face-tighter-us-scrutiny-amid-stability-concerns-report",
+     "domain": "malaysiasun.com",
+     "seen": "2026-11-25T04:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Nvidia AI financing commitments may face tighter US scrutiny amid stability concerns : Report",
+     "url": "http://www.chinanationalnews.com/news/279453073/nvidia-ai-financing-commitments-may-face-tighter-us-scrutiny-amid-stability-concerns-report",
+     "domain": "chinanationalnews.com",
+     "seen": "2026-11-25T04:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Nvidia AI financing commitments may face tighter US scrutiny amid stability concerns : Report",
+     "url": "http://www.japanherald.com/news/279453073/nvidia-ai-financing-commitments-may-face-tighter-us-scrutiny-amid-stability-concerns-report",
+     "domain": "japanherald.com",
+     "seen": "2026-11-25T04:45:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Nvidia AI financing commitments may face tighter US scrutiny amid stability concerns : Report",
+     "url": "https://www.thehindubusinessline.com/info-tech/nvidias-ai-financing-commitments-may-face-tighter-us-scrutiny-amid-stability-concerns-report/article71741001.ece",
+     "domain": "thehindubusinessline.com",
+     "seen": "2026-11-25T05:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Nvidia AI financing commitments may face tighter US scrutiny amid stability concerns : Report",
+     "url": "https://aninews.in/news/business/nvidias-ai-financing-commitments-may-face-tighter-us-scrutiny-amid-stability-concerns-report20261125084913/",
+     "domain": "aninews.in",
+     "seen": "2026-11-25T05:45:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_a289d1136b",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-25T05:15:00Z",
+   "last_seen": "2026-11-25T05:15:00Z",
+   "headlines": [
+    {
+     "title": "The Semiconductor ETF Kept Falling After Nvidia Raised Its Forecast . Time to Buy ? ",
+     "url": "https://www.fool.com/investing/2026/11/24/the-semiconductor-etf-kept-falling-after-nvidia-raised-its-forecast-time-to-buy/?source=iedfolrf0000001",
+     "domain": "fool.com",
+     "seen": "2026-11-25T05:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_054b75a2f2",
+   "entity_ids": [
+    "samsung"
+   ],
+   "first_seen": "2026-11-25T05:15:00Z",
+   "last_seen": "2026-11-25T05:15:00Z",
+   "headlines": [
+    {
+     "title": "City of Taylor receives $1 . 1M from Samsung for park upgrades , to improve public safety",
+     "url": "https://www.fox7austin.com/news/city-taylor-receives-1-1m-from-samsung-park-upgrades-improve-public-safety",
+     "domain": "fox7austin.com",
+     "seen": "2026-11-25T05:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_aeb8860cc6",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-25T05:15:00Z",
+   "last_seen": "2026-11-25T05:15:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic vs . SpaceX : Here the Better IPO Stock to Buy With $1 , 000 Right Now",
+     "url": "https://www.aol.com/articles/anthropic-vs-spacex-heres-better-043501000.html",
+     "domain": "aol.com",
+     "seen": "2026-11-25T05:15:00Z",
+     "source": "gdelt"
+    },
+    {
+     "title": "Anthropic vs . SpaceX : Here the Better IPO Stock to Buy With $1 , 000 Right Now",
+     "url": "https://www.fool.com/investing/2026/11/24/anthropic-vs-spacex-here-s-the-better-ipo-stock-to-buy-with-usd1-000-right-now/?source=iedfolrf0000001",
+     "domain": "fool.com",
+     "seen": "2026-11-25T05:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_954826c5af",
+   "entity_ids": [
+    "tesla"
+   ],
+   "first_seen": "2026-11-25T05:15:00Z",
+   "last_seen": "2026-11-25T05:15:00Z",
+   "headlines": [
+    {
+     "title": "Tesla $3 . 5 trillion merger talks have a surprising catch",
+     "url": "https://www.aol.com/articles/teslas-3-5-trillion-merger-003300000.html",
+     "domain": "aol.com",
+     "seen": "2026-11-25T05:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_2c9fa57267",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-25T04:15:00Z",
+   "last_seen": "2026-11-25T04:15:00Z",
+   "headlines": [
+    {
+     "title": "NVIDIA , Trump and Black America Stake in AI",
+     "url": "https://eurweb.com/ai-economy-and-black-americans/",
+     "domain": "eurweb.com",
+     "seen": "2026-11-25T04:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_0ba127d6f8",
+   "entity_ids": [
+    "anthropic"
+   ],
+   "first_seen": "2026-11-25T03:30:00Z",
+   "last_seen": "2026-11-25T03:30:00Z",
+   "headlines": [
+    {
+     "title": "Anthropic Has Plunged 30 % From Its Peak . Here the Price at Which Id Buy . ",
+     "url": "https://www.fool.com/investing/2026/11/24/anthropic-has-plunged-30-from-its-peak-here-s-the-price-at-which-i-d-buy/",
+     "domain": "fool.com",
+     "seen": "2026-11-25T03:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_3e0903b44a",
+   "entity_ids": [
+    "nvidia"
+   ],
+   "first_seen": "2026-11-25T03:30:00Z",
+   "last_seen": "2026-11-25T03:30:00Z",
+   "headlines": [
+    {
+     "title": "Prediction : A $10 , 000 Investment in Nvidia Stock Will Be Worth This Much by Year - End 2027",
+     "url": "https://www.fool.com/investing/2026/11/24/prediction-a-usd10-000-investment-in-nvidia-stock-will-be-worth-this-much-by-year-end-2027/",
+     "domain": "fool.com",
+     "seen": "2026-11-25T03:30:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
+  {
+   "id": "c_7002aa1e1e",
+   "entity_ids": [
+    "microsoft",
+    "meta",
+    "apple"
+   ],
+   "first_seen": "2026-11-25T03:15:00Z",
+   "last_seen": "2026-11-25T03:15:00Z",
+   "headlines": [
+    {
+     "title": "Meta , Microsoft or Apple ? Buy all of them , fund manager says",
+     "url": "https://www.cantechletter.com/2026/11/meta-microsoft-or-apple-buy-all-of-them-fund-manager-says/",
+     "domain": "cantechletter.com",
+     "seen": "2026-11-25T03:15:00Z",
+     "source": "gdelt"
+    }
+   ]
+  },
   {
    "id": "c_d59ea59916",
    "entity_ids": [
