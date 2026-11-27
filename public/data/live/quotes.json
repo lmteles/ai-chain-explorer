@@ -1,12 +1,12 @@
 {
  "adapter": "quotes",
- "fetched_at": "2026-11-27T15:16:47.691Z",
+ "fetched_at": "2026-11-27T23:32:07.988Z",
  "metrics": [
   {
    "id": "mkt_microsoft_market_cap",
    "entity_id": "microsoft",
    "key": "market_cap",
-   "value": 3646.14,
+   "value": 3660,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -17,13 +17,13 @@
    ],
    "confidence": "high",
    "as_of": "2026-11-27",
-   "note": "MSFT at $490.9841. For ADRs, the market cap of the underlying company in USD."
+   "note": "MSFT at $492.85. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_amazon_market_cap",
    "entity_id": "amazon",
    "key": "market_cap",
-   "value": 2718.74,
+   "value": 2747.82,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -34,13 +34,13 @@
    ],
    "confidence": "high",
    "as_of": "2026-11-27",
-   "note": "AMZN at $251.43. For ADRs, the market cap of the underlying company in USD."
+   "note": "AMZN at $254.12. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_alphabet_market_cap",
    "entity_id": "alphabet",
    "key": "market_cap",
-   "value": 3305.02,
+   "value": 3347.38,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -51,13 +51,13 @@
    ],
    "confidence": "high",
    "as_of": "2026-11-27",
-   "note": "GOOGL at $271.48. For ADRs, the market cap of the underlying company in USD."
+   "note": "GOOGL at $274.96. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_meta_market_cap",
    "entity_id": "meta",
    "key": "market_cap",
-   "value": 1605.39,
+   "value": 1607.77,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -68,13 +68,13 @@
    ],
    "confidence": "high",
    "as_of": "2026-11-27",
-   "note": "META at $628.028. For ADRs, the market cap of the underlying company in USD."
+   "note": "META at $628.96. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_nvidia_market_cap",
    "entity_id": "nvidia",
    "key": "market_cap",
-   "value": 3537.55,
+   "value": 3626.81,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -85,13 +85,13 @@
    ],
    "confidence": "high",
    "as_of": "2026-11-27",
-   "note": "NVDA at $146.7865. For ADRs, the market cap of the underlying company in USD."
+   "note": "NVDA at $150.49. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_amd_market_cap",
    "entity_id": "amd",
    "key": "market_cap",
-   "value": 662.6,
+   "value": 696.28,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -102,13 +102,13 @@
    ],
    "confidence": "high",
    "as_of": "2026-11-27",
-   "note": "AMD at $404. For ADRs, the market cap of the underlying company in USD."
+   "note": "AMD at $424.54. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_apple_market_cap",
    "entity_id": "apple",
    "key": "market_cap",
-   "value": 5200.93,
+   "value": 5210.37,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -119,13 +119,13 @@
    ],
    "confidence": "high",
    "as_of": "2026-11-27",
-   "note": "AAPL at $357.89. For ADRs, the market cap of the underlying company in USD."
+   "note": "AAPL at $358.54. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_tesla_market_cap",
    "entity_id": "tesla",
    "key": "market_cap",
-   "value": 1555.29,
+   "value": 1581.1,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -136,13 +136,13 @@
    ],
    "confidence": "high",
    "as_of": "2026-11-27",
-   "note": "TSLA at $393.47. For ADRs, the market cap of the underlying company in USD."
+   "note": "TSLA at $400. For ADRs, the market cap of the underlying company in USD."
   },
   {
    "id": "mkt_tsmc_market_cap",
    "entity_id": "tsmc",
    "key": "market_cap",
-   "value": 1804.84,
+   "value": 1832.59,
    "low": null,
    "high": null,
    "unit": "USD_bn",
@@ -153,7 +153,7 @@
    ],
    "confidence": "high",
    "as_of": "2026-11-27",
-   "note": "TSM at $347.99. For ADRs, the market cap of the underlying company in USD."
+   "note": "TSM at $353.34. For ADRs, the market cap of the underlying company in USD."
   }
  ],
  "sources": [
@@ -824,7 +824,7 @@
    "key": "price",
    "period": "2026-11-27",
    "end": "2026-11-27",
-   "value": 490.27,
+   "value": 492.85,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -1487,7 +1487,7 @@
    "key": "price",
    "period": "2026-11-27",
    "end": "2026-11-27",
-   "value": 250.95,
+   "value": 254.12,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2150,7 +2150,7 @@
    "key": "price",
    "period": "2026-11-27",
    "end": "2026-11-27",
-   "value": 270.99,
+   "value": 274.96,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -2813,7 +2813,7 @@
    "key": "price",
    "period": "2026-11-27",
    "end": "2026-11-27",
-   "value": 625.94,
+   "value": 628.96,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -3476,7 +3476,7 @@
    "key": "price",
    "period": "2026-11-27",
    "end": "2026-11-27",
-   "value": 146.36,
+   "value": 150.49,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4139,7 +4139,7 @@
    "key": "price",
    "period": "2026-11-27",
    "end": "2026-11-27",
-   "value": 401.025,
+   "value": 424.54,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -4802,7 +4802,7 @@
    "key": "price",
    "period": "2026-11-27",
    "end": "2026-11-27",
-   "value": 356.99,
+   "value": 358.54,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -5465,7 +5465,7 @@
    "key": "price",
    "period": "2026-11-27",
    "end": "2026-11-27",
-   "value": 392.9,
+   "value": 400,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
@@ -6128,7 +6128,7 @@
    "key": "price",
    "period": "2026-11-27",
    "end": "2026-11-27",
-   "value": 346.56,
+   "value": 353.34,
    "unit": "USD",
    "source_ids": [
     "fmp_quotes"
